@@ -2,7 +2,7 @@
 
 title: Telegram（电报）：新手指南、使用教程及频道推荐
 date: 2019-11-09  
-updated: 2020-05-22
+updated: 2020-05-30
 categories: 数字生活  
 tags: Telegram
 permalink: telegram
@@ -1106,7 +1106,7 @@ https://rsshub.app/douban/movie/playing/7.5
 
 如何在 iOS 原生客户端查看敏感内容，即使频道或群组被封禁：
 
-1. 下载 [Telegram Desktop](https://desktop.telegram.org/)，登录。
+1. 登录 [Telegram Web](https://web.telegram.org/)（网页版）或者下载并登录 [Telegram Desktop](https://desktop.telegram.org/)（客户端）。
 2. `Settings`（设置）> `Privacy and Security`（隐私和安全）。
 3. `Sensitive content`（敏感内容）：打开 `Disable filtering`（关闭过滤），即可 `Display sensitive media in public channels on all your Telegram devices`（允许在您所有登录 Telegram 的设备上显示公共频道内的内容）。
 
