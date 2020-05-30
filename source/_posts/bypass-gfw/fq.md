@@ -4,6 +4,7 @@ title: 番茄食用指南（科学上网教程）
 date: 2016-03-03  
 updated: 2020-04-14    
 categories: 科学上网     
+permalink: fq
 
 ---
 

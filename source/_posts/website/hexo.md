@@ -190,7 +190,7 @@ marked:
         margin: 0 auto;
       }
     ```
-4. 打开主题配置文件 `hexo-site\themes/next/_config.yml`，取消对 `styles.styl` 的注释。
+4. 打开主题配置文件 `hexo-site\themes/next/_config.yml`，取消对 `styles.styl` 的注释：
     ```yaml
     custom_file_path:
       #head: source/_data/head.njk
