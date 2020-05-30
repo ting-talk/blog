@@ -333,7 +333,7 @@ calendar:
 text_align:
   # Available values: start | end | left | right | center | justify | justify-all | match-parent
   desktop: justify
-  mobile: left
+  mobile: justify
 
 # Reduce padding / margin indents on devices with narrow width.
 mobile_layout_economy: false
