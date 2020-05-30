@@ -210,3 +210,119 @@ marked:
 
 [quicklink](https://github.com/GoogleChromeLabs/quicklink): Faster subsequent page-loads by prefetching in-viewport links during idle time
 
+在 Front-matter 中写法是：
+
+```yaml
+quicklink: enable
+```
+
+
+
+## 连接 GitHub
+
+`Win` + `S` 打开搜索，输入 `Git Bash`，或者在电脑任意位置右键打开 `Git Bash`，然后根据 GitHub 账号，修改下面的命令并复制到 `Git Bash`，Enter：
+
+```shell
+git config --global user.name "ting-talk"
+git config --global user.email "******@gmail.com"
+ssh-keygen -t rsa -C "******@gmail.com"
+```
+
+出现：
+
+```shell
+Generating public/private rsa key pair.
+Enter file in which to save the key (/c/Users/***/.ssh/id_rsa):
+```
+
+Enter：
+
+```shell
+Created directory '/c/Users/***/.ssh'.
+Enter passphrase (empty for no passphrase):
+```
+
+Enter：
+
+```shell
+Enter same passphrase again:
+```
+
+Enter:
+
+```shell
+Your identification has been saved in /c/Users/***/.ssh/id_rsa
+Your public key has been saved in /c/Users/***/.ssh/id_rsa.pub
+The key fingerprint is:
+SHA256:FehU/******gwvkE+kkm7******96CaYSoFo+****** ******@gmail.com
+The key's randomart image is:
++---[RSA 3072]----+
+|         +o..+   |
+|     . .o..o* + .|
+|.. o . ..+ *o.+ o|
+|E.o + . S ooo    |
+|.o o . . .o o    |
+|   .  o.o.o      |
+|    .. .oo       |
++----[SHA256]-----+
+```
+
+登录 [GitHub](https://github.com/)，依次点击右上角的头像 - `Settings` - `SSH and GPG keys` - `New SSH key`：
+
+`Title` 自定义即可。
+
+在 `Git Bash` 输入：
+
+```shell
+cat ~/.ssh/id_rsa.pub
+```
+
+左键复制结果，粘贴在 `Key` 里，最后点击 `Add SSH key`。
+
+在 `Git Bash` 输入：
+
+```shell
+ssh -T git@github.com
+```
+
+Enter：
+
+```
+The authenticity of host 'github.com (13.229.188.59)' can't be established.
+RSA key fingerprint is SHA256:nThbg6kXUpJWGl7E1IGOCspRomTxdCARLviKw6E5SY8.
+Are you sure you want to continue connecting (yes/no/[fingerprint])? 
+```
+
+输入 `yes`，Enter：
+
+```shell
+Warning: Permanently added 'github.com,13.229.188.59' (RSA) to the list of known hosts.
+Hi ting-talk! You've successfully authenticated, but GitHub does not provide shell access.
+```
+
+如果有你的 GitHub 用户名（`Hi ting-talk!`），则代表与 GitHub 连接成功。
+
+## 推送到 GitHub
+
+在博客文件夹，右键打开 `Git Bash`，复制以下命令（可能要删除主题的 `.git`）：
+
+```shell
+git init
+git add .
+git commit -m "first commit" 
+```
+
+Enter。
+
+```
+git remote add origin git@github.com:ting-talk/blog.git
+```
+
+推送：
+
+```shell
+git add .
+git commit -m "first push"
+git push origin master
+```
+
