@@ -2,8 +2,9 @@
 
 title: 番茄食用指南（科学上网教程）  
 date: 2016-03-03  
-updated: 2020-04-14    
-categories: 科学上网     
+updated: 2020-05-28   
+categories: 翻墙方法   
+tags: 突破网络审查 
 permalink: fq
 
 ---
@@ -408,7 +409,7 @@ Shadowsocks(R) 简称为 SS(R)，俗称酸酸（乳）。因为图标是小飞�
 
 ##### 底部导航栏：`数据`
 
-- `iCloud` > `自动同步：开启`：如此一来，换了 iPhone，配置还在。
+- `iCloud` > `自动同步：开启`，如此一来，换了 iPhone，配置还在。
 
  
 
@@ -465,7 +466,7 @@ Shadowsocks(R) 简称为 SS(R)，俗称酸酸（乳）。因为图标是小飞�
 
 ## 🤙后记
 
-### 备选菜园
+### 💾 备选菜园
 
 - 如果以上推荐的番茄供应商不能满足你的要求，去这个 [菜市场](https://github.com/387099/SSR/issues/1) 找找。
 - 在 [菜市场](https://github.com/387099/SSR/issues/1) 买不到钟意的番茄，买 [一块地](https://www.vultr.com/?ref=7230883)，自己 [种番茄](https://tingtalk.me/fq-diy/)。
@@ -473,7 +474,7 @@ Shadowsocks(R) 简称为 SS(R)，俗称酸酸（乳）。因为图标是小飞�
 
 
 
-### 进阶技巧
+### 🚚进阶技巧
 
 ❗ 小白用户可以略过本章节。
 
@@ -481,7 +482,7 @@ Shadowsocks(R) 简称为 SS(R)，俗称酸酸（乳）。因为图标是小飞�
 
 
 
-### 清除 DNS 缓存
+### 🧹清除 DNS 缓存
 
 一切都设置好了，但还是无法访问 Google，可能是 DNS 受到污染了。怎么办：
 
@@ -501,13 +502,13 @@ Windows 设备，请刷新 DNS 缓存：
 
 
 
-### 善用 Google
+### 🔍善用 Google
 
 Search before you ask（遇事不明，搜索引擎）。这篇保姆级的教程写得那么详细，手再伸出来就砍了。如果暂时无法访问 [Google](https://www.google.com/ncr)，推荐使用 [必应搜索（国际版）](https://cn.bing.com/)。苦寻无果，与我联系，手把手教你越过互联网的藩篱（My mission is to give you freedom）。
 
 
 
-### 与我联系
+### 📞与我联系
 
 - 加入庭说的后花园： [Telegram 群组](https://t.me/tingtalkgroup)（`tingtalkgroup`），那里百花盛开，充满自由的气息。这是 [Telegram 新手教程](https://tingtalk.me/telegram/)。
 - 添加庭勃士的微信号（ID `804976336`）：接头暗号「番茄」。

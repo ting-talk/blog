@@ -3,7 +3,8 @@
 title: Google Cloud Platform 注册和使用指南
 date: 2019-04-27  
 updated: 2020-05-08  
-categories: 科学上网  
+categories: 翻墙方法   
+tags: 突破网络审查   
 permalink: gcp  
 ---
 

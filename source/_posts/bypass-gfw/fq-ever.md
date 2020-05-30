@@ -3,7 +3,8 @@
 title: 已弃的番茄  
 date: 2020-02-24  
 updated: 2020-02-24    
-categories: 科学上网   
+categories: 翻墙方法   
+tags: 突破网络审查   
 permalink: fq-ever  
 
 ---
@@ -14,7 +15,7 @@ permalink: fq-ever
 
 ## Just My Socks
 
-知名菜农 BandwagonHost（搬瓦工）出品，速度还可以，售后响应还算及时。但现在不卖月付 2.88 USD 的番茄，只能选择 5.88 USD 的番茄，推荐合买。
+知名菜农 BandwagonHost（搬瓦工）出品，速度不错，售后响应还算及时。但现在不卖月付 2.88 USD 的番茄，只能选择 5.88 USD 的番茄。土豪之选，推荐合买。
 
 
 

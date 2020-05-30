@@ -1,9 +1,10 @@
 ---
 
-title: 番茄种植指南  
+title: 番茄种植指南（梯子搭建教程）  
 date: 2017-10-11  
 updated: 2019-12-03  
-categories: 科学上网  
+categories: 翻墙方法   
+tags: 突破网络审查  
 permalink: fq-diy  
 
 ---

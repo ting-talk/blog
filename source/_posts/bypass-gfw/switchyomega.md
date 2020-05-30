@@ -3,8 +3,8 @@
 title: SwitchyOmega：在浏览器上轻松快捷地管理和切换多个代理
 date: 2019-09-18
 updated: 2019-10-15  
-categories: 科学上网
-tags: Chrome  
+categories: 翻墙方法   
+tags: [突破网络审查, Chrome] 
 permalink: switchyomega  
 
 ---
