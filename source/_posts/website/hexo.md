@@ -2,7 +2,7 @@
 
 title: Hexo 静态博客优化清单  
 date: 2017-07-17  
-updated: 2020-02-24
+updated: 2020-05-29
 categories: 网站搭建  
 tags: Hexo  
 permalink: hexo  
@@ -12,26 +12,18 @@ permalink: hexo
 
 <!-- more -->
 
-## 🍊[Gridea](https://gridea.dev/)
-
-一个静态博客写作客户端：适合喜欢安安静静写博客的人。
-
-
-
-## 👨‍💻[Easy Hexo](https://easyhexo.com/)
-
-轻松入门 Hexo：适合喜欢折腾博客的人。
-
 
 
 ## 🤖[YAML 教程](http://www.ruanyifeng.com/blog/2016/07/yaml.html)
 
 YAML 语言（/ˈjæməl/ ）的基本规则：
-- 大小写敏感
-- 使用缩进表示层级关系
-- 缩进时不允许使用 `Tab` 键，只允许使用空格
-- 缩进的空格数目不重要，只要相同层级的元素左侧对齐即可
-- `#` 表示注释，从这个字符一直到行尾，都会被解析器忽略
+- 大小写敏感。
+- 使用缩进表示层级关系。
+- 缩进时不允许使用 `Tab` 键，只允许使用空格。
+- 缩进的空格数目不重要，只要相同层级的元素左侧对齐即可。
+- `#` 表示注释，从这个字符一直到行尾，都会被解析器忽略。
+
+
 
 
 ## 🔧优化 URL
@@ -190,13 +182,28 @@ marked:
 
 ### 🖼️图片居中
 
-打开 `themes/next/source/css/_schemes/Mist/_posts-expand.styl` 文件，找到 `.posts-expand` 中的 `.post-body img { margin: 0; }`，将之修改为 `.post-body img { margin: 0 auto; }` 即可：
-
-```
- .post-body img {
-    margin: 0 auto;
-  }
-```
+1. 在 `hexo-site\source` 新建一个名为 `_data` 的文件夹。
+2. 把 `hexo-site\themes/next/source/css/_schemes/Mist` 的 `_posts-expand.styl` 复制到 `_data`，并把名字修改为 `styles.styl`。
+3. 打开 `_data` 的 `styles.styl`，修改以下代码：
+    ```
+     .post-body img {
+        margin: 0 auto;
+      }
+    ```
+4. 打开主题配置文件 `hexo-site\themes/next/_config.yml`，取消对 `styles.styl` 的注释。
+    ```yaml
+    custom_file_path:
+      #head: source/_data/head.njk
+      #header: source/_data/header.njk
+      #sidebar: source/_data/sidebar.njk
+      #postMeta: source/_data/post-meta.njk
+      #postBodyEnd: source/_data/post-body-end.njk
+      #footer: source/_data/footer.njk
+      #bodyEnd: source/_data/body-end.njk
+      #variable: source/_data/variables.styl
+      #mixin: source/_data/mixins.styl
+      style: source/_data/styles.styl
+    ```
 
 
 
@@ -218,7 +225,7 @@ quicklink: enable
 
 
 
-## 连接 GitHub
+## 📡连接 GitHub
 
 `Win` + `S` 打开搜索，输入 `Git Bash`，或者在电脑任意位置右键打开 `Git Bash`，然后根据 GitHub 账号，修改下面的命令并复制到 `Git Bash`，Enter：
 
@@ -302,7 +309,7 @@ Hi ting-talk! You've successfully authenticated, but GitHub does not provide she
 
 如果有你的 GitHub 用户名（`Hi ting-talk!`），则代表与 GitHub 连接成功。
 
-## 推送到 GitHub
+## 🚀推送到 GitHub
 
 在博客文件夹，右键打开 `Git Bash`，复制以下命令（可能要删除主题的 `.git`）：
 
@@ -326,3 +333,16 @@ git commit -m "first push"
 git push origin master
 ```
 
+
+
+## 🎸其他
+
+### 🍊[Gridea](https://gridea.dev/)
+
+一个静态博客写作客户端：适合喜欢安安静静写博客的人。
+
+
+
+### 👨‍💻[Easy Hexo](https://easyhexo.com/)
+
+轻松入门 Hexo：适合喜欢折腾博客的人。
