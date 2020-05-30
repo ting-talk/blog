@@ -1,0 +1,37 @@
+{
+  "name": "hexo-theme-next",
+  "version": "8.0.0-rc.2",
+  "description": "Elegant and powerful theme for Hexo.",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "gulp",
+    "eslint": "eslint source/js scripts/",
+    "stylint": "stylint source/css/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/next-theme/hexo-theme-next.git"
+  },
+  "keywords": [
+    "hexo",
+    "theme",
+    "next"
+  ],
+  "author": "NexT <support@theme-next.org> (https://theme-next.js.org)",
+  "license": "AGPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/next-theme/hexo-theme-next/issues"
+  },
+  "homepage": "https://theme-next.js.org",
+  "devDependencies": {
+    "eslint": "7.0.0",
+    "eslint-config-theme-next": "1.1.4",
+    "gulp": "4.0.2",
+    "gulp-shell": "0.8.0",
+    "js-yaml": "3.13.1",
+    "stylint": "2.0.0"
+  },
+  "engines": {
+    "node": ">=10.9.0"
+  }
+}
