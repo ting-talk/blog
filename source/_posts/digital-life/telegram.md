@@ -165,7 +165,7 @@ Telegram 的中文搜索是以「词」为单位的，以标点符号或空格�
 
 ### 💢解除私聊限制
 
-如果使用中国大陆的手机号码（+86）注册了 Telegram，但你在尝试向其他用户发送私聊信息时，可能会提示 `Sorry, you can only send messages to mutual contacts at the momet.`（对不起，你现在只能发送私信给双向联系人。），则代表你的账号被 Telegram 官方被判定为 Spam（即垃圾信息）账号了。
+使用中国大陆的手机号码（+86）注册 Telegram 后，私聊 Ta 人时，可能会提示 `Sorry, you can only send messages to mutual contacts at the momet.`（对不起，你现在只能发送私信给双向联系人。），则代表此账号被 Telegram 官方被判定为 Spam（即垃圾信息）账号了（虽然是无辜的）。
 
 你可以通过下列方法向官方请求解除限制：在 Telegram 搜索 [@SpamBot](https://t.me/SpamBot)，点击 `START`，然后依次回复以下话术（仅供参考）：
 

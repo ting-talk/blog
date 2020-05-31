@@ -52,7 +52,6 @@ permalink: tim
 
 把经验传授给大众。
 
-
 - 铁肩担道义，拙笔著文章：从小到大，我受到很多人的照顾，有认识的，有不认识的。现在我长大了，有反哺之义，带读者们跨越「数字鸿沟」，更全面的看世界。
 - I am a fun person and willing to rethink everything. 秉持唯物主义，[凡事要讲科学依据](https://www.bilibili.com/video/av47286543)（摆事实，看数据，讲道理）。不信鬼神（superstition），不信星座，不信红内裤，不信传统中医（traditional herbal remedies）和针灸。如果信这些，上学（受教育）还有什么意义？
 - [我们为什么要读书 - 罗翔](https://bilibili.com/video/BV1BK411L7DJ)：只有非功利性的阅读，才能对抗人生的虚无。
@@ -98,6 +97,8 @@ permalink: tim
 
 ![luffy-kid-56](https://i.loli.net/2019/12/19/pz37SZubxwaRPNo.jpg)
 
+By the way, I am single and available. （单身中）。
+
 ## 高光时刻
 
 - 2016 年 3 月 3 日：那时我刚学会 [科学上网](https://tingtalk.me/fq/)，一位叫「南极雪」的网友送给我一个生日礼物：[草榴社区](http://t66y.com/) 会员，按照约定，我手抄了一千六百字（6 页纸）的 [技术讨论区的版规](https://t66y.com/htm_data/1602/7/37458.html)。虽然我成了「上榴人士」，但等级至今还是「新手上路」。
@@ -139,7 +140,6 @@ permalink: tim
 还个人情债，加入亲人创立的公司，打杂中。
 
 
-
 ## 意向工作
 
 在唯利是图的商业社会可能没有对错，但是有善恶。目前为止，我还没有成为金钱的奴隶，大多数时候都是站在善的那一方。这种反商业的行为，感觉挺对不起雇主，我这人啊，就是矫情。
@@ -156,11 +156,9 @@ permalink: tim
 
 最后，如有合适的工作机会（科技互联网方向），欢迎向 [我](https://tingtalk.me/about/) 引荐（目前的现居地是深圳）。
 
-
+也关心告诉我 what do you think I should do? 
 
 ---
-
-
 
 关联阅读：[关于我 - Jesse Chan](https://jesor.me/aboutme/)
 
