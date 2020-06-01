@@ -37,7 +37,7 @@ quicklink: enable
 
 ## Contact
 
-- Email：hi(at)tingtalk.me
+- Email：tingtalk.me(at)gmail.com
 - [Twitter](https://twitter.com/tingtalkme)：tingtalkme
 - [Telegram](https://t.me/tingtalkme)：tingtalkme
 - [Telegram 频道](https://t.me/tingtalk)：tingtalk

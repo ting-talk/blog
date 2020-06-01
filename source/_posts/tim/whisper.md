@@ -10550,7 +10550,7 @@ by [方可成](https://matters.news/@disincurable/%E5%A6%82%E4%BD%95%E8%88%87%E4
 
 From the start（从一开始），我就欺骗亲人我会去备考公务员。`00:07`
 
-很多读者跟我说：Thank you for writing your blog. it's a great blog...
+很多读者跟我说：Thank you for writing your blog. It's a great blog...
 
 被社会毒打三年后，不管是同龄人，还是比我年长很多的人，都觉得我对很多事情看得很开，怕我我最终出家做和尚。
 
@@ -10574,7 +10574,7 @@ From the start（从一开始），我就欺骗亲人我会去备考公务员。
 
 失恋让我的精神变得健壮，变得更无所畏惧。`19:42`
 
-一遍在天台遛狗，一边背单词。`22:15`
+一边在天台遛狗，一边背单。`22:15`
 
 热风习习，还是回到空调房背单词吧。`22:26`
 
