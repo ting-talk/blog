@@ -1,6 +1,6 @@
 ---
 
-title: 🐱 狸花猫和串串狗 🐶
+title: 🐱 三花猫 & 串串狗 🐶
 date: 2020-03-08  
 categories: 萌宠相伴
 tags: [宠物, 随手记] 
@@ -16,7 +16,11 @@ permalink: dora-and-tinkle
 
 2020 年 5 月 14 日，一条叫叮当（Tinkle）的串串狗无人照顾（免费送给爱狗人士），而我白天都在上上班，不如接过来给小猫做做伴，解解闷。
 
+**关联阅读**
 
+- [三花猫（Calico Cat）花色形成的原因（上）](https://highscope.ch.ntu.edu.tw/wordpress/?p=1168)
+- [三花猫（Calico Cat）花色形成的原因（下）](https://highscope.ch.ntu.edu.tw/wordpress/?p=1170)
+- [你知道三花猫为什么是母猫咩？——猫咪毛色遗传规律 - 猫外婆MO桑](https://zhuanlan.zhihu.com/p/51757798)
 
 ## 2020-03
 

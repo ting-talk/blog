@@ -184,6 +184,7 @@ permalink: graphic-design
 - [设计资源合集 by 设计便利店](https://mp.weixin.qq.com/s/x4yyt5jJExZsQNErHNIuqg)
 - [OPPO Sans](https://static01.coloros.com/www/public/img/topic7/font-opposans.zip)
 - [阿里巴巴普惠体](https://alibabafont.taobao.com/wow/alibabafont/act/alifont)：只能用不能改
+- [优设标题黑](https://www.uisdc.com/uisdc-first-free-font)
 - [思源黑体](https://github.com/adobe-fonts/source-han-sans/blob/master/README-CN.md)
 - [站酷字体合集](http://www.zcool.com.cn/special/zcoolfonts/)：站酷庆科黄油体、站酷文艺体、站酷小薇 LOGO 体、站酷酷黑体、站酷意大利体（ZCOOL Addict Italic）、站酷快乐体、站酷高端黑体
 - [方正免费字体合集](https://www.foundertype.com/index.php/FindFont/index/hot/121/hot_name/%E5%85%8D%E8%B4%B9.html)：方正黑体、方正书宋、方正仿宋、方正楷体（仍需提前获得方正公司的书面授权）
