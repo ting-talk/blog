@@ -2,7 +2,7 @@
 
 title: 如何学英语  
 date: 2019-07-16  
-updated: 2020-04-14  
+updated: 2020-06-03  
 categories: 英语学习    
 permalink: tinglish  
 
@@ -12,7 +12,7 @@ permalink: tinglish
 
 <!-- more -->
 
-## 入群
+## 微信群
 
 添加庭勃士的微信 `804976336`，街头暗号是 `博客 + 英语群 `，邀你进群围观。Let's have fun and enjoy it.
 
@@ -35,13 +35,31 @@ permalink: tinglish
 
 
 
-## 方法
-
-### YJango
-
-[视频教程](https://www.bilibili.com/video/BV1Gt411S72A)
+## 方法论
 
 
+
+### [郝海龙](https://sspai.com/series/77/)
+
+- 我们已经通过**模仿与重复**学会了一种语言：我们的母语。既然你已经学会了母语，那么其实你本身就知道学习一门语言的方法。只是因为母语习得太过自然，我们大都没有认真想过自己究竟是怎样学会一门语言的：模仿与重复是学习语言的唯一有效的方法。所以很多时候，语言学习给聪明人带来的痛苦甚至更大一些，因为他失去了「聪明」所能带来的巨大优势。
+
+- 智商不够不是学不好英语的理由，学英语在大多数情况下和智商没有关系。如果你能够掌握自己的母语，那么你没有理由不能掌握另一门语言，因为这是刻在我们每个人基因里的能力。
+
+- 当我们在学习英语的时候，只是在学习一种另一个国家人人都掌握的知识或技能而已。这种技能一定是能学会的（即与智商无关），否则不会人人都掌握；这种技能一定是有用的，否则没必要人人都掌握。
+
+- 大部分人学不好英语的原因是：自己没有学习英语的需求。如果你做一件事情没有理由，那么你几乎不可能把它做好。外力的压迫永远战胜不了内心的追求。如果考试压力能够让你学得更好，那么不如你干脆报一个英语考试。
+
+- 中学英语学习的主要目的不是学好英语，而是在高考英语中获得一个好成绩。
+
+  - 为了考取高分，不得不对不同频率的英语用法给予了同等重视，甚至对不常见的英语用法给予了更多的重视，最后使用频率最高的日常英语用不出来。
+  - 花大量的时间在错误的英语用法上，以至于我们大脑记忆中的用法有一多半都是错误的，脱口而出的自然也是错误的英语。
+  - 我们的词汇量被锁定在一个远远不够用的水平。
+
+
+
+### [YJango](https://www.bilibili.com/video/BV1Gt411S72A)
+
+未亲测。
 
 **学习原则**
 
@@ -66,25 +84,113 @@ permalink: tinglish
 
 
 
-### [郝海龙](https://sspai.com/series/77/)
+### 李笑来
 
-- 我们已经通过模仿与重复学会了一种语言：我们的母语。既然你已经学会了母语，那么其实你本身就知道学习一门语言的方法。只是因为母语习得太过自然，我们大都没有认真想过自己究竟是怎样学会一门语言的：模仿与重复是学习语言的唯一有效的方法。所以很多时候，语言学习给聪明人带来的痛苦甚至更大一些，因为他失去了「聪明」所能带来的巨大优势。
+[人人都能用英语](http://lixiaolai.com/#/everyone-can-use-english/)：未亲测。
 
-- 智商不够不是学不好英语的理由，学英语在大多数情况下和智商没有关系。如果你能够掌握自己的母语，那么你没有理由不能掌握另一门语言，因为这是刻在我们每个人基因里的能力。
 
-- 当我们在学习英语的时候，只是在学习一种另一个国家人人都掌握的知识或技能而已。这种技能一定是能学会的（即与智商无关），否则不会人人都掌握；这种技能一定是有用的，否则没必要人人都掌握。
 
-- 大部分人学不好英语的原因是：自己没有学习英语的需求。如果你做一件事情没有理由，那么你几乎不可能把它做好。外力的压迫永远战胜不了内心的追求。如果考试压力能够让你学得更好，那么不如你干脆报一个英语考试。
+### 打造英语环境
 
-- 中学英语学习的主要目的不是学好英语，而是在高考英语中获得一个好成绩。
 
-  - 为了考取高分，不得不对不同频率的英语用法给予了同等重视，甚至对不常见的英语用法给予了更多的重视，最后使用频率最高的日常英语用不出来。
-  - 花大量的时间在错误的英语用法上，以至于我们大脑记忆中的用法有一多半都是错误的，脱口而出的自然也是错误的英语。
-  - 我们的词汇量被锁定在一个远远不够用的水平。
+- 把手机（微信）、电脑和浏览器的语言全部切换为 English。
+- 如果你喜欢某个事物或者人物，就去 Instagram、Facebook、Twitter、Reddit……找相关的频道和群组。兴趣和英语结合，将是最好的组合（或者去考雅思托福，逼着学）。例如我就会搜索 One Piece（海贼王）所有的兴趣社区。
 
-  
 
-**背单词**
+
+## 查单词
+
+### 查词工具
+
+**[Saladict](https://saladict.crimx.com/)**：沙拉查词。
+
+- Saladict 是一款聚合了大量权威词典的浏览器划词翻译插件，多个查词引擎可以交叉验证查词结果，助你全方位掌握外文词汇。涵盖中、英、日、韩、法、德、西等，支持网页翻译、剪贴板翻译、生词本、快捷键唤醒查词面板和生成当前页面二维码等功能，可以说完全满足了我对查词插件所有的期望。
+- 详情参见 [沙拉查词：浏览器上最强大的划词翻译插件](https://tingtalk.me/saladict/)
+
+
+
+**[词根词缀字典](http://dicts.cn/)**
+
+- 官网：dicts.cn
+- 支持 Android、iOS 和网页版
+
+
+
+**[欧陆词典](https://www.eudic.net/v4/en/app/eudic)**
+
+- **Macmillan English Dictionary 2nd Edition**  
+  由简单的英文单词构成的英文释义，同义词丰富。
+- **Merriam-Webster's Advanced Learner's Dictionary**  
+  例句较多。
+- **Merriam-Webster's Collegiate Dictionary**  
+  极其专业准确的英英词典，会使用生词解释生词，母语者专用。
+- **牛津英汉双解大词典（第二版）**  
+  以防看不懂英英词典的释义。
+- **Merriam-Webster's Collegiate Thesaurus**  
+  最为权威、讲究和全面的同、近、反义词书。
+- **听力原声例句（欧路词典自带）**  
+  宝贵的例句库，真人原声朗读。
+
+词典下载网址：freemdict.com
+
+
+
+### 传统词典
+
+先使用英汉双解词典作为垫脚石。当你上道后，使用地道的英英词典，绝对不会错。
+
+[Oxford Advanced Learner’s Dictionary (OALD)](https://www.oxfordlearnersdictionaries.com/)
+
+- 双语：《牛津高阶英汉双解词典》（OALD 英汉双解版）。
+- 特点：历史最悠久，收词最多，用法示例也最为丰富。
+
+[Collins COBUILD Advanced Dictionary (CCAD)](https://www.collinsdictionary.com/)
+
+- 双语：《柯林斯高阶英汉双解学习词典》（CCAD 英汉双解版）。
+- 特点：所有的单词都放到句子里去解释。
+
+[Longman Dictionary of Contemporary English (LDOCE)](https://www.ldoceonline.com/)
+
+- 译名：《朗文当代高级英语词典英英·英汉双解》（LDOCE 英汉双解版）
+- 特点：如果你查完 OALD 觉得释义不是你习惯的中文的话，可以考虑换 LDOCE 试试。
+
+[Macmillan English Dictionary for Advanced Learners (MEDAL)](https://www.macmillandictionary.com/)
+
+- 双语：《麦克米伦高阶英汉双解词典》。
+
+[Merriam-Webster’s Advanced Learner’s English Dictionary](https://learnersdictionary.com/)
+
+- 双语：《韦氏高阶英汉双解词典》。
+
+[Cambridge Advanced Learner’s Dictionary (CALD)](https://dictionary.cambridge.org/dictionary/learner-english/)
+
+- 双语：《剑桥高阶英汉双解词典》。
+
+其中，*Merriam-Webster’s Advanced Learner’s English Dictionary* 是美式英语词典，其他五本为英式英语词典。如果偏爱美式英语，推荐《柯林斯高级美式英语学习词典》。以上 6 本词典来自 [郝海龙](https://sspai.com/post/60782) 的推荐。
+
+
+
+### 网络词典
+
+万事不决问 [谷歌](https://www.google.com/ncr)：google.com
+
+- 查单词：[imitate](https://www.google.com/search?q=imitate)
+- 查定义：[define +imitate](https://www.google.com/search?q=define+imitate)
+- 查辨析：[imitate vs simulate](https://www.google.com.hk/search?q=imitate+vs+simulate)
+- 一图胜千言：输入单词，切换到 Google 图片。参见 [使用 Google 图片搜索学英语](https://imshuai.com/learn-english-by-google-image-search)。
+
+
+
+当你在 Google 上搜索单词时，以下词典（Urban Dictionary、VoiceTube）就可能已经出现在搜索结果中了：
+
+- **[市井词典](https://www.urbandictionary.com/)**：Urban Dictionary 的内容涵盖俚语、流行词汇、亚文化词汇或者某种现象的定义。
+- **[VoiceTube](https://tw.voicetube.com/definition)**：看影片学英语。上万部 YouTube 影片教材，搭配中英文翻译字幕与英汉字典，轻松掌握日常对话、了解单字的发音与用法。
+- **[Dim Sum factory](http://dimsumfactory.com/)**：琳琅满目的广式点心（早茶）对应的英文翻译。
+- **[Genius](https://genius.com)**：对歌曲歌词、新闻故事、诗歌和文件等提供注释和解释。
+
+
+
+## [背单词](https://sspai.com/post/60654)
 
 - COCA 20000 算是目前最好的词表选择（之一）。
 - 目前看来，最具吸引力的背单词方案即严格按照艾宾浩斯遗忘曲线设计的方案。
@@ -96,34 +202,27 @@ permalink: tinglish
 
 
 
-
-
-其他方法论：[人人都能用英语 by 李笑来](http://lixiaolai.com/#/everyone-can-use-english/)
-
-
-
-
-
-
-
-## 听力
+## 练听力
 
 - [Daily English Dictation](https://www.bilibili.com/video/av24173069)：日常听力训练，找 Coach Shane。
 - [喜马拉雅FM](https://www.ximalaya.com/) ：刷牙或洗澡的时候听
 
 
 
-## 发音
+## 纠发音
 
 [FanfaniShare](https://space.bilibili.com/346396741)：发音有问题，找 Fanfan 老师。
 
 
 
-## 语法
+## 学语法
 
 
 - [Liam Huang 的语法笔记](https://liam.page/categories/English/)：通俗易懂。
-- 百词斩 App 里的三分钟语法栏目
+- 百词斩 App 里的三分钟语法栏目。
+- 《英语阅读参考手册》为主，《柯林斯 COBUILD 英语语法大全》为辅。
+
+
 
 
 **时态**
@@ -133,7 +232,8 @@ permalink: tinglish
 - 现在完成时：I have had lunch. 我吃完午饭了。
 
 
-## 工具
+
+## 工具集
 
 ### [微软小英写作](https://app.mtutor.engkoo.com/englishwriting/)
 
@@ -156,81 +256,9 @@ permalink: tinglish
 - 冗长的句子
 - 复杂的单词
 
-### 查单词
-
-尽量使用英英词典
-- 用汉语解释英语，信息会在传递中失真
-- 用简单的英文解释不懂的英文，不仅地道，还可以培养英语思维
-
-> 欧陆词典+ 朗文英英词典。受知乎大神赛门喵的指点，认识到一本英英词典的重要性。再回头看，对比有道词典，完全不受一个层次啊。虽然初期使用英英词典很累，但这是值得的。我使用朗文词典的感受是，英英词典注重“解释”，而中英词典注重“映射”，比如“subtotal”，朗文的解释是“the total of a set of numbers, especially on a bill, that is added to other numbers, such as a tax, to form a complete total”，据此你一下子就明白了，它经常出现在帐单上，通常可能是未计税的价格。而中文的解释是“小计”，完全不在一个层次啊。“映射”的好处是“快”，尤其是简单含义的名词，比如apple映射为“苹果”，就比“a hard round fruit that has red, light green, or yellow skin and is white inside”来的简单直接。但这种快也是表面的快。
 
 
-万事不决问谷歌：google.com
-- 直接输入单词：talk
-- 查定义：define + talk
-- 查辨析：talk speak
-- 一图胜千言：输入单词，切换到 Google 图片。参见 [使用 Google 图片搜索学英语](https://imshuai.com/learn-english-by-google-image-search)
-
-
-释义类英英词典
-- 牛津学习者词典：oxfordlearnersdictionaries.com
-- 韦氏学习者词典：learnersdictionary.com
-- 韦氏词典：merriam-webster.com
-- 同义词和反义词：thesaurus.com
-
-
-市井词典：urbandictionary.com
-- 有些定义在标准词典中无法找到，此时就轮到 Urban Dictionary 出场了
-- 内容涵盖俚语、流行词汇、亚文化词汇或者某种现象的定义
-
-浏览器插件：Saladict（沙拉查词）
-- Saladict（沙拉查词）是一款聚合了大量权威词典的划词翻译插件，多个查词引擎可以交叉验证查词结果，助你全方位掌握外文词汇。涵盖中、英、日、韩、法、德、西等，支持网页翻译、剪贴板翻译、生词本、快捷键唤醒查词面板和生成当前页面二维码等功能，可以说完全满足了我对查词插件所有的期望。
-- 详情参见 [沙拉查词：浏览器上最强大的划词翻译插件](https://tingtalk.me/saladict/)
-
-
-欧陆词典
-- **Macmillan English Dictionary 2nd Edition**  
-  由简单的英文单词构成的英文释义，同义词丰富。
-- **Merriam-Webster's Advanced Learner's Dictionary**  
-  例句较多。
-- **Merriam-Webster's Collegiate Dictionary**  
-  极其专业准确的英英词典，会使用生词解释生词，母语者专用。
-- **牛津英汉双解大词典（第二版）**  
-  以防看不懂英英词典的释义。
-- **Merriam-Webster's Collegiate Thesaurus**  
-  最为权威、讲究和全面的同、近、反义词书。
-- **听力原声例句（欧路词典自带）**  
-  宝贵的例句库，真人原声朗读。
-- 词典下载网址：freemdict.com
-
-
-
-[词根词缀字典](http://dicts.cn/)
-
-- 官网：dicts.cn
-- 支持 Android、iOS 和网页版
-
-
-
-[VoiceTube](https://tw.voicetube.com/definition)
-
-看影片学英语。上万部 YouTube 影片教材，搭配中英文翻译字幕与英汉字典，轻松掌握日常对话、了解单字的发音与用法。
-
-
-
-[Dim Sum factory](http://dimsumfactory.com/)
-
-那些琳琅满目的广式点心（早茶）用英语怎么说。
-
-
-
-[Genius](https://genius.com) is the world's biggest collection of song lyrics and musical knowledge. 该网站允许使用者对歌曲歌词、新闻故事、诗歌和文件等提供注释和解释。
-
-
-
-## 其他
-
-
+## 小尾巴
 
 ### 少儿英文
 
@@ -246,13 +274,3 @@ permalink: tinglish
 
 
 其实很多小伙伴的单词量都很不少，但就是开不了口，这也许是因为不知道如何把这些单词组合成一句话。那就让我们回到童年，和孩子一起，用最初的方式掌握一门语言。
-
-
-
-### 打造英语环境
-
-
-- 把手机（微信）、电脑和浏览器的语言全部切换为 English
-- 如果你喜欢某个事物或者人物，就去 Instagram、Facebook、Twitter、Reddit……找相关的频道和群组。兴趣和英语结合，将是最好的组合（或者去考雅思托福，逼着学）。例如我就会搜索 One Piece（海贼王）所有的兴趣社区。
-
- 

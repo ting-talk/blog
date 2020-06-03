@@ -198,6 +198,11 @@ permalink: graphic-design
   - [OpenMoji](https://openmoji.org/)：License under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
   - [Twemoji](https://twemoji.twitter.com/)：License under [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
+**关联阅读**
+
+[常做海报封面宣传图？试试这 16 款风格强烈的优秀字体 - MakicLin](https://sspai.com/post/60768)
+
+
 
 ## 印刷
 
