@@ -137,7 +137,7 @@ permalink: tinglish
 
 ### 传统词典
 
-先使用英汉双解词典作为垫脚石。当你上道后，使用地道的英英词典，绝对不会错。
+先使用以下英汉双解词典（推荐前三本）作为垫脚石。当你上道后，使用地道的英英词典，绝对不会错。
 
 [Oxford Advanced Learner’s Dictionary (OALD)](https://www.oxfordlearnersdictionaries.com/)
 
@@ -190,6 +190,10 @@ permalink: tinglish
 
 
 
+**[DeepL](https://www.deepl.com/)**：自称刷新机器翻译的记录。
+
+
+
 ## [背单词](https://sspai.com/post/60654)
 
 - COCA 20000 算是目前最好的词表选择（之一）。
@@ -218,9 +222,9 @@ permalink: tinglish
 ## 学语法
 
 
-- [Liam Huang 的语法笔记](https://liam.page/categories/English/)：通俗易懂。
-- 百词斩 App 里的三分钟语法栏目。
-- 《英语阅读参考手册》为主，《柯林斯 COBUILD 英语语法大全》为辅。
+- 书籍：《英语阅读参考手册》为主，点此下载 [电子书](https://github.com/xiaolai/a-new-english-reading-handbook)；《柯林斯 COBUILD 英语语法大全》为辅。
+- 博客：[Liam Huang 的语法笔记](https://liam.page/categories/English/)：通俗易懂。
+- App：百词斩里的三分钟语法栏目。
 
 
 
