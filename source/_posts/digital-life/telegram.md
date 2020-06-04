@@ -35,7 +35,7 @@ permalink: telegram
 
 The devil's in the details，因此我熬夜无数，花了几个月，把 Telegram 官网的 [FAQ](https://telegram.org/faq) 和 [Blog](https://telegram.org/blog) 全部看完了（从 2013 年至今），结合 Google，整理出这篇~~可能是~~中文互联网内容最详细排版最精美的《电报使用指南》，目的是尽可能地为读者呈现 Telegram 的强大、私密以及友好的用户体验。
 
-> 2016 年国庆，我花了一周时间看完了「即刻 app」的所有主题（圈子），写了一篇三千多字文章：《即刻 App - 不再错过你感兴趣的资讯》([图文版](https://wemp.app/posts/6e4830bc-845d-4f2c-ad78-959c9a89e4eb) | [文字版](https://tingtalk.me/mp-archives/#%E5%8D%B3%E5%88%BB%20App%20-%20%E4%B8%8D%E5%86%8D%E9%94%99%E8%BF%87%E4%BD%A0%E6%84%9F%E5%85%B4%E8%B6%A3%E7%9A%84%E8%B5%84%E8%AE%AF)）。即刻已经没有复活的可能了，Telegram 顺势成了我新的资讯中心。
+> 2016 年国庆，我花了一周时间看完了「即刻 app」的所有主题（圈子），写了一篇三千多字文章：《即刻 App - 不再错过你感兴趣的资讯》([图文版](https://wemp.app/posts/6e4830bc-845d-4f2c-ad78-959c9a89e4eb) | [文字版](https://tingtalk.me/mp-archives/即刻-App-不再错过你感兴趣的资讯)）。即刻已经没有复活的可能了，Telegram 顺势成了我新的资讯中心。
 
 欢迎数字移民到 Telegram ，让我们一起在这片乐土上过上~~没羞没臊~~体面的数字生活。
 
