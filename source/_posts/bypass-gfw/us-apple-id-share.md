@@ -1,5 +1,5 @@
 ---
-title: 美（国）区 Apple ID 共享
+title: 美区 Apple ID 共享
 date: 2019-05-15  
 updated: 2020-04-15    
 categories: 翻墙方法   
@@ -37,7 +37,7 @@ permalink: us-apple-id-share
 
 ### Website
 
-- [苹果帝](https://appledi.com/)
+- [苹果帝](https://appledi.com/)：2020-06-05 亲测可用。
 - [网络跳跃](https://www.hijk.pw/external-apple-id-summary/)
 
 
