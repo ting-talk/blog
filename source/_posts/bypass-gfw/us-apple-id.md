@@ -85,7 +85,7 @@ permalink: us-apple-id
 ## 下载 App
 
 - 自己注册的 Apple ID 可以用于登录 `iCloud`，但我还是推荐你只在 `App Store` 登录。
-  - 依次选择 `设置` - `iTunes Store 与 App Store`，点击顶部的 `Apple ID: ****@***` - `退出登录`，切换到刚刚注册好的美区 Apple ID。
+  - 依次选择 `设置` - `iTunes Store 与 App Store`，点击顶部的 `Apple ID: ****@***` - `退出登录`，切换到刚刚注册好的美区 Apple ID（哪里退出，哪里登录）。
 - 现在，你可以尽情下载美区 App Store 里的 app。
 - 安装完成之后，你有 2 个选择
   - 切换回以前 Apple ID

@@ -54,9 +54,9 @@ permalink: us-apple-id-share
 
 iPhone / iPad 上可以使用不同的账户登录 iCloud 和 App Store（应用商店），而**共享的 Apple ID 只能用于 App Store**，所以请严格按照以下路径操作（全程未出现 iCloud 字样）：
 
-1. 打开 iPhone
-2. `设置` - `iTunes Store 与 App Store`，点击顶部的 `Apple ID: ****@***` - `退出登录`
-3. 切换到免费的共享 Apple ID
+1. 打开 iPhone。
+2. `设置` - `iTunes Store 与 App Store`，点击顶部的 `Apple ID: ****@***` - `退出登录`（哪里退出，哪里登录）。
+3. 切换到免费的共享 Apple ID。
 
 
 
