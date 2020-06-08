@@ -28,7 +28,7 @@ permalink: cook
 ### 🍴 工具
 
 - [菜单一键生成：输入你的食材，一键生成 3 日菜单 - 下厨房](https://www.xiachufang.com/page/market/2311/)
-- [懒饭 app](https://vcook.xiachufang.com/app) 或者 懒饭的微信小程序，
+- [懒饭 app](https://vcook.xiachufang.com/app) 或者 懒饭的微信小程序。
 
 
 
