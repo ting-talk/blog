@@ -555,7 +555,7 @@ https://rsshub.app/telegram/channel/tingtalk
 | [一方天地](https://t.me/world2us)                    | 心留一方天地，世界依旧美好。                                 |
 | [ZUOLUOTV](https://t.me/zuoluotvofficial)            | 科技 / 旅行 / 摄影 / 生活方式 / [博客](https://luolei.org/)  |
 | [湾区日报](https://t.me/wanqu_official)              | 关注创业与技术，不定期推送 5 篇优质英文文章。                |
-| [不求甚解](https://t.me/fakeye)                      | [设计本是艺术，何苦把自己活成软件操作员。](https://www.bilibili.com/video/BV1S741117d3) |
+| [不求甚解](https://t.me/fakeye)                      | 设计师 [oooooohmygosh](https://space.bilibili.com/38053181) 的代言人。[设计本是艺术，何苦把自己活成软件操作员。](https://www.bilibili.com/video/BV1S741117d3) |
 
 关联阅读：[中文独立博客列表](https://github.com/timqian/chinese-independent-blogs) by timqian
 
