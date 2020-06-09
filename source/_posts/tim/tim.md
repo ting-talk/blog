@@ -62,7 +62,7 @@ permalink: tim
 
 **局部**
 
-- 🦳 头发：刺猬头，一半白头发。
+- 👨‍🦳 头发：刺猬头，一半白头发。
 - 🤨 眉毛：浓密粗横。
 - 👀 眼睛：茶色。
 - 👂 耳朵：佩戴耳机 🎧 半小时以上，就会开始疼。
@@ -156,7 +156,7 @@ By the way, I am single and available. （单身中）。
 
 最后，如有合适的工作机会（科技互联网方向），欢迎向 [我](https://tingtalk.me/about/) 引荐（目前的现居地是深圳）。
 
-也关心告诉我 what do you think I should do? 
+或者告诉我 what do you think I should do? 
 
 ---
 
