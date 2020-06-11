@@ -81,6 +81,7 @@ tag_map:
   排版: typography
   人物: people
   搜索引擎优化: seo
+  网上冲浪指南: surf-the-web
   随手记: log
   突破网络审查: bypass-gfw
   外贸: foreign-trade
@@ -89,6 +90,7 @@ tag_map:
   Dropshipping: dropshipping
   Hexo: hexo
   Telegram: telegram
+
 
 # Metadata elements
 ## https://developer.mozilla.org/en-US/docs/Web/HTML/Element/meta

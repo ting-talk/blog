@@ -15,38 +15,6 @@ permalink: digital-life-tips
 
 
 
-## 注册 Google
-
-注册 Google 帐号时遇到「此电话号码无法用于进行验证」怎么办：
-
-**方法一（百试百灵）**
-
-1. 在 Android 手机上下载 [Go 谷歌安装器](https://www.coolapk.com/apk/com.goplaycn.googleinstall)。
-2. 借助「Go 谷歌安装器」安装 Google 三件套（Google 服务框架、Google Play 服务、Google Play 商店 ）。
-3. 注册 Google 帐号。 `2020-04-02`
-
-运气好的话，甚至不用验证手机号码。
-
-
-
-**方法二（偶尔成功）**
-
-用手机 / 电脑在 www.youtube.com 上注册 Google 帐号。`2020-03-23`
-
-
-
-**方法三（暂未测试）**
-
-通过 Chrome（谷歌浏览器）注册 Google 帐号。
-
-
-
-**方法四（暂未测试）**
-
-[小米 9 安装谷歌商店（Google Play Store）与相关配置 - jdhao](https://jdhao.github.io/2019/05/04/mi9_google_play_configure/)
-
-
-
 ## 将 Gmail 的所有未读邮件标记为已读
 
 1. 打开 [Gmail](https://mail.google.com)
