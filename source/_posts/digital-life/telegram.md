@@ -874,7 +874,7 @@ https://rsshub.app/douban/movie/playing/7.5
 - 有备无患：定期导出 OPML 文件至物理硬盘和云盘保存。
 - [RSSHub](https://docs.rsshub.app/) 是一个开源、简单易用、易于扩展的 RSS 生成器，可以给任何奇奇怪怪的内容（突然有点害羞）生成 RSS 订阅源。RSSHub 借助于开源社区的力量快速发展中，目前已适配数百家网站的上千项内容。得知 RSSHub 被墙后，对 GFW 无 Fuck 可说。
 - [己思](https://ohmyrss.com/) 是一个 [开源](https://github.com/richshaw2015/oh-my-rss) 的在线 RSS 阅读服务，旨在为 IT 从业者提供一个优质的学习圈子。
-- 其他的订阅机器人： [@TheFeedReaderBot](http://blog.shuziyimin.org/)、[@newlearner_rss_bot](http://blog.shuziyimin.org/)
+- 其他的订阅机器人： [@TheFeedReaderBot](https://t.me/TheFeedReaderBot)、[@newlearner_rss_bot](https://t.me/newlearner_rss_bot)
 
 
 
