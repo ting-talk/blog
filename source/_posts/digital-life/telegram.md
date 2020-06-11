@@ -2,9 +2,9 @@
 
 title: Telegram（电报）：新手指南、使用教程及频道推荐
 date: 2019-11-09  
-updated: 2020-05-30
+updated: 2020-06-11
 categories: 数字生活  
-tags: Telegram
+tags: [Telegram, 网上冲浪指南]
 permalink: telegram
 
 ---
@@ -13,7 +13,9 @@ permalink: telegram
 
 <!-- more -->
 
-缺点就是得「吃」了 [番茄](https://tingtalk.me/fq/) 才能正常使用。但也不算是缺点，学会科学上网，你才真正打开了数字世界的大门。这把钥匙 Google 上有一把，另一把在这本保姆级的《电报百科全书》里（夸张的修辞手法）。截止目前，本文接近一万八千字，善用右侧的目录栏和查找功能（`Ctrl` + `F`），将有助于快速定位想要看到的内容。
+缺点就是得「吃」了 [番茄](https://tingtalk.me/fq/) 才能正常使用。但也不算是缺点，学会科学上网，你才真正打开了数字世界的大门。这把钥匙 Google 上有一把，另一把在这本保姆级的《电报百科全书》里（夸张的修辞手法）。
+
+💡 善用右侧的目录栏和查找功能（`Ctrl` + `F`），将有助于快速定位想要看到的内容。
 
 
 
@@ -35,7 +37,7 @@ permalink: telegram
 
 The devil's in the details，因此我熬夜无数，花了几个月，把 Telegram 官网的 [FAQ](https://telegram.org/faq) 和 [Blog](https://telegram.org/blog) 全部看完了（从 2013 年至今），结合 Google，整理出这篇~~可能是~~中文互联网内容最详细排版最精美的《电报使用指南》，目的是尽可能地为读者呈现 Telegram 的强大、私密以及友好的用户体验。
 
-> 2016 年国庆，我花了一周时间看完了「即刻 app」的所有主题（圈子），写了一篇三千多字文章：《即刻 App - 不再错过你感兴趣的资讯》([图文版](https://wemp.app/posts/6e4830bc-845d-4f2c-ad78-959c9a89e4eb) | [文字版](https://tingtalk.me/mp-archives/)）。即刻已经没有复活的可能了，Telegram 顺势成了我新的资讯中心。
+> 2016 年国庆，我花了一周时间看完了「即刻 app」的所有主题（圈子），写了一篇三千多字文章：《即刻 App - 不再错过你感兴趣的资讯》([图文版](https://wemp.app/posts/6e4830bc-845d-4f2c-ad78-959c9a89e4eb) | [文字版](https://tingtalk.me/mp-archives/)）。~~即刻已经没有复活的可能了~~（[即刻 App](https://m.okjike.com/download) 居然在 2020 年 6 月 10 日回来了），在Telegram 顺势成了我新的资讯中心。
 
 欢迎数字移民到 Telegram ，让我们一起在这片乐土上过上~~没羞没臊~~体面的数字生活。
 
@@ -64,6 +66,14 @@ Telegram 是开源的（[Open Source](https://telegram.org/faq#q-why-not-open-so
 - **设计统一**：不管是桌面端、手机端、还是网页端，都能轻松上手。标配 [夜间模式](https://telegram.org/blog#switch-to-night-mode-faster)。
 - **表情贴纸**：高清而富有趣味；支持自制表情包（[Custom Sticker Sets](https://telegram.org/blog/stickers-revolution)）并用 Emoji 调用。
 - **超大群聊**：封顶 20 万人，配合各种管理工具（例如限制发言间隔），让交流井井有条。
+
+
+
+**反观微信**
+
+- 每次扫码登录，心中万马奔腾：也许微信掌门人上辈子是一个无马（码）不欢的 [骑兵](https://baike.baidu.com/item/%E9%AA%91%E5%85%B5%E7%89%87/972384)。
+- 只能发送小于 100 MB 的文件；一次只能发送 9 张图片，而且每次都要勾选原图。
+- 删除好友是单向的。开发者能不能坦荡些？一别两宽，各生欢喜。何必纠缠呢？！
 
 
 
@@ -556,6 +566,7 @@ https://rsshub.app/telegram/channel/tingtalk
 | [ZUOLUOTV](https://t.me/zuoluotvofficial)            | 科技 / 旅行 / 摄影 / 生活方式 / [博客](https://luolei.org/)  |
 | [湾区日报](https://t.me/wanqu_official)              | 关注创业与技术，不定期推送 5 篇优质英文文章。                |
 | [不求甚解](https://t.me/fakeye)                      | 设计师 [oooooohmygosh](https://space.bilibili.com/38053181) 的代言人。[设计本是艺术，何苦把自己活成软件操作员。](https://www.bilibili.com/video/BV1S741117d3) |
+| [每周一书](https://t.me/weekly_books)                | 人类的悲喜并不互通，但读书是走向共同理解的捷径。             |
 
 关联阅读：[中文独立博客列表](https://github.com/timqian/chinese-independent-blogs) by timqian
 

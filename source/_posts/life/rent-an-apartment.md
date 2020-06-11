@@ -35,4 +35,6 @@ permalink: rent-an-apartment
 
 ## 关键阅读
 
-[如何租到一套满意的房子？这些是我们的经验。by 少数派编辑部](https://sspai.com/post/55743)
+- [如何租到一套满意的房子？这些是我们的经验。by 少数派编辑部](https://sspai.com/post/55743)
+- [租房注意事项 - cfzhous](https://cfzhous.com/rent/)
+
