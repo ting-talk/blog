@@ -27,7 +27,7 @@ permalink: telegram
 
 若干年后，随着言论审查力度的加大，任何「风吹草动」都要「斩草除根」：
 
-- Cyberspace Administration of China 会因为我转发一句推特频道到微信群，请我到最近的派出所「喝茶」。
+- Cyberspace Administration of China 会因为我转发一个 Twitter 评论到微信群，请我到最近的派出所「喝茶」。
 - 微信上无法发送纽约时报的链接。
 - 微信删除我写的 [公众号文章](https://tingtalk.me/search-tips/)（秋后算账）。
 

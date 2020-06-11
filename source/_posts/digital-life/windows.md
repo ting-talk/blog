@@ -2,8 +2,9 @@
 
 title: Windows 电脑：使用技巧、佳软推荐、重装教程  
 date: 2017-12-18  
-updated: 2020-05-25    
+updated: 2020-06-11    
 categories: 数字生活   
+tags: 网上冲浪指南
 permalink: windows  
 
 ---
@@ -50,6 +51,7 @@ permalink: windows
 | `Win + S`                | 打开搜索（Search）。<br />触摸板：三指点击。                 |
 | `Win + V`                | 开启剪贴板历史记录功能。🔥                                    |
 | `Win + W`                | 打开白板（Whiteboard）或全屏截图。                           |
+| `Win + X`                | 打开「快速链接」菜单。按两下 `U` 即可关机。                  |
 | `Win + 数字`             | 启动固定到任务栏的应用。                                     |
 | `Win + Shift + S`        | 启动屏幕截图（Screenshot）。<br />可用 [Snipaste](https://zh.snipaste.com/) 代替。 |
 | `Shift` + `小写字母`     | 输入大写字母。                                               |
@@ -68,6 +70,8 @@ permalink: windows
 2. 依次点击左上角的 `查看` - `选项`。
 3. 在 `常规` 选项卡上选择 `打开文件资源管理器时打开：此电脑`。
 
+除此之外，切换 `查看` 选项卡 - `文件和文件夹` - 勾选 `登录时还原上一个文件夹窗口`。
+
 
 
 **[虚拟桌面](https://sspai.com/post/43187)**
@@ -82,9 +86,12 @@ permalink: windows
 | `Win` + `Ctrl` + `向左键` | 在你于左侧创建的虚拟桌面之间切换。<br />触摸板：四指向右轻扫。 |
 | `Win` + `Ctrl` + `F4`     | 关闭你正在使用的虚拟桌面。         |
 
-更多快捷键，请参阅： [Windows 中的键盘快捷方式 - Windows Help](https://support.microsoft.com/zh-cn/help/12445/windows-keyboard-shortcuts)
 
-[用动画的形式呈现常用 Windows 快捷键 by Gui Esp](https://guiesp.com/shortcuts)：[哔哩哔哩](https://www.bilibili.com/s/video/BV1oQ4y1P78A) | [YouTube](https://www.youtube.com/watch?v=hi6TH5Gz_ms)
+
+**关联阅读**
+
+- [Windows 中的键盘快捷方式 - Windows Help](https://support.microsoft.com/zh-cn/help/12445/windows-keyboard-shortcuts)
+- [用动画的形式呈现常用 Windows 快捷键 by Gui Esp](https://guiesp.com/shortcuts)：[哔哩哔哩](https://www.bilibili.com/s/video/BV1oQ4y1P78A) | [YouTube](https://www.youtube.com/watch?v=hi6TH5Gz_ms)
 
 
 
@@ -147,6 +154,17 @@ powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61
 ```
 
 3. 选择 `开始` 菜单 ，然后依次选择 `设置` > `系统` > `电源和睡眠` > `电源选项` > `其他电源设置` > `显示附加计划：卓越性能`
+
+##### 开启休眠模式
+
+1. 选择 `开始` 菜单 ，然后依次选择 `设置` > `系统` > `电源和睡眠` > `电源选项` > `其他电源设置`。
+2. 点击左上角的 `选择电源按钮的功能` - `更改当前不可用的设置` - 勾选 `休眠`
+3. 选择 `开始` 菜单，点击 `电源`，即可看到 `休眠` 选项。
+
+**关联阅读**
+
+- [关机、睡眠和休眠有啥区别 - MVP 刘晖](https://support.microsoft.com/zh-cn/help/971703)
+- [关闭电脑，或使其进入睡眠或休眠状态 - Windows Help](https://support.microsoft.com/zh-cn/help/13770/windows-shut-down-sleep-hibernate-your-pc)
 
 
 
@@ -474,6 +492,10 @@ Windows 的默认图片浏览器非常难用。而 qimgv 是一款开源的图�
 
 
 
+
+
+
+
 ### 文件同步
 
 #### [坚果云](https://www.jianguoyun.com/)
@@ -638,9 +660,11 @@ Internet Download Manager 是一个多线程下载管理器。虽然长得丑，
 
 
 
-#### [Bing Wallpaper](https://www.microsoft.com/en-us/bing/bing-wallpaper)
+#### [Dynamic Theme](https://www.microsoft.com/zh-cn/p/dynamic-theme/9nblggh1zbkw)
 
-更新 Windows 桌面壁纸为 bing.com 的每日一图。详细介绍请移步 [小众软件](https://www.appinn.com/bing-wallpaper-from-microsoft/)。
+每天更新桌面壁纸为 Bing 每日壁纸。
+
+
 
 
 

@@ -67,6 +67,7 @@ permalink: teeth
 ## 关联阅读
 
 - [面壁实验室：5 块钱的牙膏和 50 块的牙膏有什么不同？- 吴松磊](https://b23.tv/av2482416)
+- [别再花冤枉钱了，8 块钱和 78 块钱的牙膏到底有什么区别 - 柴知道](https://b23.tv/BZcAGt)
 - [如何护理好口腔健康？- 子不语Rex](https://sspai.com/post/53604)
 - [除了健康，都是小事 - 庭说](https://tingtalk.me/health/)
 

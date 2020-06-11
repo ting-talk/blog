@@ -43,8 +43,6 @@ permalink: health
 - 少糖
 - 每天一小把坚果
 
-
-
 **每天一瓶纯牛奶**（[为什么](https://www.bilibili.com/video/BV1WT4y157ZC)）
 
 - 钙吸收率最高的食品（之一）。如果年轻时不补钙，老了容易骨折，卧病在床将引发诸多疾病，因为生命在于运动。
@@ -58,9 +56,6 @@ permalink: health
 ## 口腔健康
 
 早上刷牙出门体面，晚上刷牙刺激性欲。详情请参阅：[好好牙刷，很有必要](https://tingtalk.me/electric-toothbrush/)。
-
-
-
 
 
 ## 头发健康

@@ -21,6 +21,7 @@ permalink: dora-and-tinkle
 - [三花猫（Calico Cat）花色形成的原因（上）](https://highscope.ch.ntu.edu.tw/wordpress/?p=1168)
 - [三花猫（Calico Cat）花色形成的原因（下）](https://highscope.ch.ntu.edu.tw/wordpress/?p=1170)
 - [你知道三花猫为什么是母猫咩？——猫咪毛色遗传规律 - 猫外婆MO桑](https://zhuanlan.zhihu.com/p/51757798)
+- [吸猫撸狗的人生赢家们，别忽视这些狂犬病风险 - NoCoder  无码科技](https://mp.weixin.qq.com/s/CgCdbzS-NG33yjr2RslOtg)
 
 ## 2020-03
 
