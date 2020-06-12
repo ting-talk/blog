@@ -619,7 +619,7 @@ Bots 就像运行在 Telegram 内部的小程序。借助 [Telegram 开放的 AP
 
 我目前的资讯消化方案是：
 
-- [@RSSFlowBot](https://t.me/RSSFlowBot) 订阅不想错过的源，在 Telegram 内阅读。
+- [@RSSFlowBot](https://t.me/RSSFlowBot) 订阅不想错过的源，在 Telegram 内阅读（从 2020 年 6 月 9 日开始，这个 Bot 出问题了）。
 - [Inoreader](https://www.inoreader.com/) 订阅可以错过的源，在网页版或 Android 手机内阅读。
 
 
@@ -680,7 +680,9 @@ https://cn.nytimes.com/rss.html
 
 
 
-**[Nei.st](https://nei.st/)**：一个很神奇的新闻聚合网站，文章抓取自：[The Wall Street Journal](https://nei.st/medium/wsj)、[Initium](https://nei.st/medium/initium)、[Caixin](https://nei.st/medium/caixin)、[The Economist](https://nei.st/medium/economist)、[Bloomberg](https://nei.st/medium/bloomberg-businessweek)、[National Geographic](https://nei.st/category/natgeo)、[NYTimes](https://nei.st/medium/nytimes)、[The Guardian](https://nei.st/category/medium/the-guardian)、[nfzm](https://nei.st/category/southern)、[YiMagazine](https://nei.st/category/yimag)、[The Atlantic](https://nei.st/category/the-atlantic)、[Lifeweek](https://nei.st/category/lifeweek)、[Nautilus](https://nei.st/category/nautilus)、[Financial Times](https://nei.st/medium/ft)、[Comparative Studies](https://nei.st/category/comparative)、[Caijing](https://nei.st/category/caijing)、[Movies](https://nei.st/category/arts/movies)、[City](https://nei.st/category/city)、[Travel](https://nei.st/travel/daoerdeng)、[Uncertainty](https://nei.st/category/uncertainty)……
+**[Nei.st](https://nei.st/)**：这个 [网站的名字](https://nei.st/medium/qy2ncnddhevecekyxk8f0g) 来自斯凯岛 (Isle of Skye) 上 Neist Point，它提供借以观察世界的可靠新闻，文章来自 [The Wall Street Journal](https://nei.st/medium/wsj)、[Initium](https://nei.st/medium/initium)、[Caixin](https://nei.st/medium/caixin)、[The Economist](https://nei.st/medium/economist)、[Bloomberg](https://nei.st/medium/bloomberg-businessweek)、[National Geographic](https://nei.st/category/natgeo)、[NYTimes](https://nei.st/medium/nytimes)、[The Guardian](https://nei.st/category/medium/the-guardian)、[nfzm](https://nei.st/category/southern)、[YiMagazine](https://nei.st/category/yimag)、[The Atlantic](https://nei.st/category/the-atlantic)、[Lifeweek](https://nei.st/category/lifeweek)、[Nautilus](https://nei.st/category/nautilus)、[Financial Times](https://nei.st/medium/ft)、[Comparative Studies](https://nei.st/category/comparative)、[Caijing](https://nei.st/category/caijing)、[Movies](https://nei.st/category/arts/movies)、[City](https://nei.st/category/city)、[Travel](https://nei.st/travel/daoerdeng)、[Uncertainty](https://nei.st/category/uncertainty)……
+
+Nei.st 不只在乎内容，样式也很看重。网站使用了漂亮的自定义字体和大尺寸图片，虽然会拖垮网页的加载速度，带来更高的宽带和服务器费用支出，但 Nei.st 希望读者获得最接近网站创建意图的体验。运营网站费时费力费钱（付费文章、网站支出），为了让灯塔持续发光，请打开这个 [不吐不快](https://nei.st/medium/qy2ncnddhevecekyxk8f0g) 的声明，并 **点击文末广告**。如果你喜欢我们，请让我们知道。如果你愿意支持我们，更要让我们知道。而如果你不喜欢我们，也请让我们知道。讨厌的人多了，也许就让我们熄火了。
 
 ```http
 https://nei.st/feed
@@ -692,13 +694,13 @@ https://nei.st/feed
 
 #### 📝博客
 
-**[庭说](https://tingtalk.me/)**：保持勃起的好奇心。
+**[庭说](https://tingtalk.me/)**：保持（勃起的）好奇心。
 
 ```http
 https://tingtalk.me/atom.xml
 ```
 
-以下排序按照博客名称的拼音首字母（为什么庭说排第一，因为这是他的博客）。
+以下排序按照博客名称的拼音首字母（为什么庭说排第一，因为这是他的自留地）。
 
 
 
@@ -731,8 +733,6 @@ http://weiwuhui.com/feed
 ```http
 https://diygod.me/atom.xml
 ```
-
-
 
 
 

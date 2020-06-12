@@ -260,9 +260,13 @@ CertUtil -hashfile D:\Downloads\Shadowsocks-4.1.9.3.zip SHA512
 
 
 
-### 必备佳软
+💡 点击软件标题，即可直达官网下载链接（可能需要番茄）。
 
-点击软件标题，即可直达官网下载链接（可能需要番茄）。
+
+
+### 系统工具
+
+
 
 #### [科学上网](https://tingtalk.me/fq/)
 
@@ -272,7 +276,7 @@ CertUtil -hashfile D:\Downloads\Shadowsocks-4.1.9.3.zip SHA512
 
 #### [Chrome](https://www.google.com/chrome/)
 
-[官方下载 for 中国大陆地区](https://www.google.cn/chrome/) | [离线包下载 for Windows](https://www.iplaysoft.com/tools/chrome/)
+[官方下载 for 中国大陆地区](https://www.google.cn/intl/zh-CN/chrome/) | [离线包下载 for Windows](https://www.iplaysoft.com/tools/chrome/)
 
 - Google Chrome（谷歌浏览器）作为全球 65.64% 用户的选择，你应该成为其中的一员（2019 年 4 月）。
 - 你可以从超过 15 万款 Chrome 扩展程序中随心选择，按照自己的喜好扩展浏览器功能（Chrome 最强大的地方）。
@@ -283,8 +287,6 @@ CertUtil -hashfile D:\Downloads\Shadowsocks-4.1.9.3.zip SHA512
 - 更多玩法，参阅 [Chrome 插件（扩展程序） 清单 - 庭说](https://tingtalk.me/chrome/)
 
 
-
-### 系统工具
 
 
 
