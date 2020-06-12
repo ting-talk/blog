@@ -745,9 +745,10 @@ Internet Download Manager 是一个多线程下载管理器。虽然长得丑，
 
 
 - 备选激活方式一：[Windows：从下载到激活盗版 - NoBige-JackCh3n](https://nobige.cn/post/20190729-WindowsOS_cong_xia_zai_dao_ji_huo_dao_ban/)  
-- 备选激活方式二：[Windows系统一句命令激活 - 零微零](https://v0v.bid/)  
+- 备选激活方式二：[Windows系统一句命令激活 - 零微零](https://v0v.bid/) 
 - 备选激活方式三：[KMS 激活 Windows 一键脚本 by Rat's Blog](https://www.moerats.com/kms/)
-- 备选激活方式四：[HWIDGen：Windows 10 数字权利激活工具 - Google 搜索](https://www.google.com/search?q=HWIDGen)
+- 备选激活方式四：[沧水的 KMS 激活服务](https://kms.cangshui.net/)
+- 备选激活方式五：[HWIDGen：Windows 10 数字权利激活工具 - Google 搜索](https://www.google.com/search?q=HWIDGen)
 
 
 
@@ -756,8 +757,6 @@ Internet Download Manager 是一个多线程下载管理器。虽然长得丑，
 选择 `开始` 菜单 ，然后依次选择 `设置` > `个性化` > `主题` > `桌面主题设置` > 勾选想要放在在桌面上的图标，例如 `计算机`。
 
 
-
----
 
 
 
