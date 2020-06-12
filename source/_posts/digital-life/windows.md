@@ -244,8 +244,6 @@ CertUtil -hashfile D:\Downloads\Shadowsocks-4.1.9.3.zip SHA512
 
 
 
-
-
 优选免安装的便携版（Portable）：
 
 1. 把下载好的 `Portable.exe` 剪切到 `D:\Program Files`（或者其他路径）。
@@ -268,7 +266,7 @@ CertUtil -hashfile D:\Downloads\Shadowsocks-4.1.9.3.zip SHA512
 
 #### [科学上网](https://tingtalk.me/fq/)
 
-- 提升互联网生活质量的第一步是打通全球网络，访问 `tingtalk.me/fq` 开启数字世界的另一扇大门。这个话题，言多必失，点到即止。
+提升互联网生活质量的第一步是打通全球网络，访问 `tingtalk.me/fq` 开启数字世界的另一扇大门。这个话题，言多必失，点到即止。
 
 
 
@@ -317,7 +315,7 @@ CertUtil -hashfile D:\Downloads\Shadowsocks-4.1.9.3.zip SHA512
 
 #### [360 驱动大师网卡版](http://weishi.360.cn/qudongdashi/index.html)
 
-- 虽然很不想用 360 的产品，但是，无奈其他驱动管理软件都太流氓。
+虽然很不想用 360 的产品，但是，无奈其他驱动管理软件都太流氓。
 
 
 
@@ -330,23 +328,21 @@ CertUtil -hashfile D:\Downloads\Shadowsocks-4.1.9.3.zip SHA512
 
 ### 即时通讯
 
+#### [Telegram](https://desktop.telegram.org/)
+
+目前最好用的即时通信软件。教程请参阅：[Telegram：电报新手指南、使用技巧及频道推荐](https://tingtalk.me/telegram/)
+
+
+
 #### [微信](https://pc.weixin.qq.com/) 
 
-- 超过十亿人使用的应用，难用也得用。
-- 有生之年，希望能看到微信向 [Telegram](https://telegram.org/) 靠拢。
+超过十亿人使用的应用，难用也得用。有生之年，希望能看到微信向 [Telegram](https://telegram.org/) 靠拢。
 
 
 
 #### [TIM](https://tim.qq.com/)
 
-- QQ 办公简洁版，界面清爽，支持在线编辑 Word 和 Excel，提供 10G 云盘。
-- 缺少群视频功能（有主持人控场的那种）。
-
-
-
-#### [Telegram](https://desktop.telegram.org/)
-
-目前最好用的即时通信软件。教程请参阅：[Telegram：电报新手指南、使用技巧及频道推荐](https://tingtalk.me/telegram/)
+QQ 办公简洁版，界面清爽，支持在线编辑 Word 和 Excel，提供 10G 云盘。不过，缺少群视频功能（有主持人控场的那种）。
 
 
 
@@ -388,17 +384,6 @@ CertUtil -hashfile D:\Downloads\Shadowsocks-4.1.9.3.zip SHA512
 
 - 如果不需要修改 PDF 的内容，[Acrobat Reader](https://acrobat.adobe.com/cn/zh-Hans/acrobat/pdf-reader.html)、[Sumatra](https://www.sumatrapdfreader.org/free-pdf-reader.html)、Google Chrome（谷歌浏览器）、Microsoft Edge（ Windows 10 自带浏览器）和 WPS Office 都可以满足你的要求。
 - 但当您需要编辑 PDF 的时候，Acrobat Pro（$359 / 年，但是你懂的）就是您最佳的 PDF 解决方案，毕竟，PDF 是由 Adobe 1991 年发明的。
-
-
-
-#### [有道云笔记](https://note.youdao.com/)
-
-- 学海无涯，书山有道。随时随地记录你的灵感，搭建属于你的知识体系。
-- 多端同步（PC 端、移动端和网页端）随时查看，无惧断电困扰。
-- 兼容 Office、PDF 等办公常用文档，无需下载即可查看编辑。
-- 支持微信、微博、链接收藏和网页剪报等多种形式，优秀内容一键保存永不丢失。
-- ❗ 但 Markdown 模式真的太丑太难用了。卡顿、没有大纲、不支持快捷键、非所见即所得，麻烦产品经理向 Typora 学习一下。
-- 弃用中，笔记正在迁往 Typora（Windows）+ 坚果云 Markdown（Android）
 
 
 
@@ -489,8 +474,6 @@ Windows 的默认图片浏览器非常难用。而 qimgv 是一款开源的图�
 1. 下载 [Adobe Creative Cloud](https://www.adobe.com/cn/creativecloud/catalog/desktop.html) 并安装。
 2. 打开 Adobe Creative Cloud，登录 Adobe 账号，下载 Photoshop 和 Illustrator 等。
 3. 使用 [GenP v2.5](https://jpsmile.com/genp-v2-5/) 破解。
-
-
 
 
 
@@ -597,7 +580,7 @@ Internet Download Manager 是一个多线程下载管理器。虽然长得丑，
 
 
 
-### 其他软件
+### 其它软件
 
 #### [TeamViewer](https://www.teamviewer.cn/cn/) 
 
@@ -613,6 +596,16 @@ Internet Download Manager 是一个多线程下载管理器。虽然长得丑，
 **Note**
 
 - [TeamViewer](https://www.teamviewer.cn/cn/) 有时会被检测为商用，[向日葵](https://sunlogin.oray.com/personal/) 可以作为你的备选远程桌面软件（向日葵跟着月亮转，好似月光下的你跟着老板转）
+
+
+
+
+
+#### [Dynamic Theme](https://www.microsoft.com/zh-cn/p/dynamic-theme/9nblggh1zbkw)
+
+每天更新桌面壁纸为 Bing 每日壁纸。
+
+
 
 
 
@@ -639,8 +632,6 @@ Internet Download Manager 是一个多线程下载管理器。虽然长得丑，
 
 
 
-
-
 #### [Microsoft Whiteboard](https://products.office.com/zh-cn/microsoft-whiteboard/)
 
 一块自由形态数字画布，使用快捷键 `Win + W` 打开微软白板（Microsoft Whiteboard）。
@@ -657,14 +648,6 @@ Internet Download Manager 是一个多线程下载管理器。虽然长得丑，
 
 - 目前仅支持 Windows 10 和 iOS。
 - 需登录 [Microsoft 帐户](https://account.microsoft.com)，登陆之后自动保存，顺畅继续。
-
-
-
-#### [Dynamic Theme](https://www.microsoft.com/zh-cn/p/dynamic-theme/9nblggh1zbkw)
-
-每天更新桌面壁纸为 Bing 每日壁纸。
-
-
 
 
 
