@@ -4,6 +4,7 @@ title: 互联网百宝箱
 date: 2019-03-20  
 updated: 2020-03-30
 categories: 数字生活   
+tags: 网上冲浪指南
 permalink: digital-life-tips  
 
 ---
@@ -26,7 +27,9 @@ permalink: digital-life-tips
 
 
 
-## 无法连接局域网打印机的其中一个原因
+## 无法连接局域网打印机
+
+### 原因一
 
 可能是因为没有启动 `Workstation` 服务：
 
@@ -38,6 +41,19 @@ permalink: digital-life-tips
     - `服务状态`：`正在运行`，否则点击 `启动`
 
 
+
+### 原因二
+
+当使用内网 IP（例如 `192.168.1.56`）无法连接打印机时，试试通过 `计算机名` 添加打印机：
+
+1. 右键单击 `我的电脑（计算机）` - `属性`
+2. `计算机名、域和工作组设置` - `更改设置`
+3. 复制 `计算机全名`
+
+或者：
+
+1. `Win` + `S` 打开搜索：`查看电脑名称`
+2. 复制 `设备名称`
 
 
 
@@ -139,7 +155,6 @@ permalink: digital-life-tips
 
 - [Witeboard](https://witeboard.com)：打开即用的免费在线白板工具
 - 心情烦躁，使用 [潮汐冥想](https://tide.fm/meditation/) 安抚焦虑的情绪
-- [利用 Chrome 原生工具进行网页长截](https://sspai.com/post/42193)
 - [奶牛快传](https://cowtransfer.com/)：文件传输服务
 - [让 Excel 表格自动更新日期](https://support.office.com/zh-cn/article/today-%E5%87%BD%E6%95%B0-5eb3078d-a82c-4736-8930-2f51a028fdd9)
   - 日期 + 星期：`=TEXT(TODAY,"YYYY 年 MM 月 DD 日 AAAA")`

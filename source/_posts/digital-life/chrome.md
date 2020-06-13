@@ -4,7 +4,7 @@ title: Google Chrome（谷歌浏览器）：扩展程序（插件）推荐及使
 date: 2019-10-13  
 updated: 2020-04-16
 categories: 数字生活   
-tags: Chrome 
+tags: [Chrome, 网上冲浪指南] 
 permalink: chrome
 
 ---
