@@ -2,7 +2,7 @@
 
 title: Telegram（电报）：新手指南、使用教程及频道推荐
 date: 2019-11-09  
-updated: 2020-06-11
+updated: 2020-06-14
 categories: 数字生活  
 tags: [Telegram, 网上冲浪指南]
 permalink: telegram
@@ -567,6 +567,7 @@ https://rsshub.app/telegram/channel/tingtalk
 | [湾区日报](https://t.me/wanqu_official)              | 关注创业与技术，不定期推送 5 篇优质英文文章。                |
 | [不求甚解](https://t.me/fakeye)                      | 设计师 [oooooohmygosh](https://space.bilibili.com/38053181) 的代言人。[设计本是艺术，何苦把自己活成软件操作员。](https://www.bilibili.com/video/BV1S741117d3) |
 | [每周一书](https://t.me/weekly_books)                | 人类的悲喜并不互通，但读书是走向共同理解的捷径。             |
+| [海龙说](https://t.me/haotalk)                       | 牢记梦想，自然生长。by [郝海龙的博客](https://haohailong.net/) |
 
 关联阅读：[中文独立博客列表](https://github.com/timqian/chinese-independent-blogs) by timqian
 
@@ -597,6 +598,7 @@ https://rsshub.app/telegram/channel/tingtalk
 | 频道                                          | 详情                                                   |
 | --------------------------------------------- | ------------------------------------------------------ |
 | [Word Power Made Easy](https://t.me/pieroots) | 利用词根（原始印欧语、拉丁语、古希腊语）学习英语单词。 |
+| [EnglishSlice](https://t.me/englishslice)     | 你可以在这获取英语零食。                               |
 
 
 
