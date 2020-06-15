@@ -1,6 +1,6 @@
 ---
 
-title: Hexo 静态博客优化清单  
+title: 如何优化 Hexo（静态博客）
 date: 2017-07-17  
 updated: 2020-05-29
 categories: 网站搭建  
@@ -31,7 +31,7 @@ YAML 语言（/ˈjæməl/ ）的基本规则：
 默认的 URL 是 `https://tingtalk.me/2019/08/17/Hexo使用技巧`
 
 - **层级太深**：斜杠太多不利于搜索引擎的抓取。
-- **包含中文**：URL 只能使用英文、数字和一些标点符号。如果包含中文，分享出现的链接可能是 `https://tingtalk.me/2019/08/17/Hexo%E4%BD%BF%E7%94%A8%E6%8A%80%E5%B7%A7`，中文强制被转码成十六进制编码，又臭又长。
+- **包含中文**：URL 只能使用英文、数字和连字符（hyphen）。如果包含中文，分享出现的链接可能是 `https://tingtalk.me/2019/08/17/Hexo%E4%BD%BF%E7%94%A8%E6%8A%80%E5%B7%A7`，中文强制被转码成十六进制编码，又臭又长。
 
 优化步骤如下：
 
@@ -61,18 +61,19 @@ YAML 语言（/ˈjæməl/ ）的基本规则：
     ## Permalink 
     
     - 不要用中文
-    - 用小写代替大写
-    - 把 the、a、an 等去掉
-    - 用连字符代替标点和空格
-    
+    - 大写字母用小写字母代替
+    - 删除所有特殊字符，只用连字符；连字符代替空格
+    - 尽可能简短，删除 the、a、an、for、and、if 、or 等虚词
     ```
 
 3. 优化之后的 URL 是 `https://tingtalk.me/hexo-tips`，简短有力，清晰明了。
 4. 顺手把 Markdown 文档也命名为 `hexo-tips.md`。
 
+🔗关联阅读：[Clean URL - Wikipedia](https://en.wikipedia.org/wiki/Clean_URL)
 
 
-## 🔧 优化分类
+
+## 🔧优化分类
 
 
 1. 在 `站点 _config.yml` 的 `category_map` 增加一个 `博客: blog ` 的分类

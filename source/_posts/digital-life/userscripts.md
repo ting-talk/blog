@@ -4,7 +4,7 @@ title: 装上油猴脚本，你的浏览器才有了灵魂
 date: 2020-02-19 
 updated: 2020-04-01  
 categories: 数字生活   
-tags: Chrome
+tags: [Chrome, 网上冲浪指南]
 permalink: userscripts
 
 ---

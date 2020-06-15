@@ -134,7 +134,8 @@ Google Ads，原名 Google AdWords，是 Google 公司主要的广告服务产�
 
 - 网站语言切换成 [简体中文](https://ads.google.com/intl/zh-CN_cn/home/)
 - 预算：最低
-- 币种：人民币
+- 币种：人民币（[可开发票，含 6% 的增值税](https://support.google.com/google-ads/answer/2375370?hl=zh-Hans)）。
+  - [请注意，您帐号的币种是在创建帐号时设置的，之后无法更改。](https://support.google.com/google-ads/answer/1704358?hl=zh-Hans)
 - 结算国家/地区：中国
 - 账号类型：注意只有公司才能开发票（税点 ≈ 6%）
 - 付款选项：人工付款
