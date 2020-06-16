@@ -100,6 +100,8 @@ permalink: tinglish
 
 ## 查单词
 
+阅读时查词典的正确方法：只查该单词在该语境下的意思。
+
 ### 查词工具
 
 **[Saladict](https://saladict.crimx.com/)**：沙拉查词。
