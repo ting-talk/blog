@@ -2,7 +2,7 @@
 
 title: Windows 电脑：使用技巧、佳软推荐、重装教程  
 date: 2017-12-18  
-updated: 2020-06-11    
+updated: 2020-06-16    
 categories: 数字生活   
 tags: 网上冲浪指南
 permalink: windows  
@@ -302,7 +302,7 @@ CertUtil -hashfile D:\Downloads\Shadowsocks-4.1.9.3.zip SHA512
 
 - 轻巧、快速、免费、好看的解压缩软件。
 - 最喜欢它的「自动解压」功能：不用再担心解压出一堆散乱文件或双层文件夹。
-- 7.x 版本之后，需要 30 美元去广告，可前往 [蓝奏云](https://lanzous.com/b00tdinba) 下载 6.x 版本。
+- 7.x 版本之后，需要 30 美元去广告，可前往 [蓝奏云](https://wwa.lanzous.com/b00t9wiva) 下载 6.x 版本。
 - 关联阅读：[Bandizip | 也许是全球第二好用的压缩软件](https://www.xjcbt.com/bandizip.html)（为什么叫「第二好用」的压缩软件呢？因为每个人都有自己的的习惯，自己喜欢的才是最好用的。）
 
 
@@ -311,7 +311,7 @@ CertUtil -hashfile D:\Downloads\Shadowsocks-4.1.9.3.zip SHA512
 
 - 小巧（2 MB ）、绿色（无需安装）、易用（单文件）的卸载工具。
 - 卸载完成，Geek Uninstaller 会自动扫描残留的文件（夹）和注册表项目。
-- 官网下载速度较慢，所以我把安装文件上传到 [蓝奏云](https://www.lanzous.com/b00tdinba) 了。
+- 官网下载速度较慢，所以我把安装文件上传到 [蓝奏云](https://wwa.lanzous.com/b00t9wiva) 了。
 
 
 
@@ -740,8 +740,6 @@ Internet Download Manager 是一个多线程下载管理器。虽然长得丑，
 **找回隐藏的桌面图标**
 
 选择 `开始` 菜单 ，然后依次选择 `设置` > `个性化` > `主题` > `桌面主题设置` > 勾选想要放在在桌面上的图标，例如 `计算机`。
-
-
 
 
 

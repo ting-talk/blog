@@ -2,7 +2,7 @@
 
 title: 番茄食用指南（科学上网教程）  
 date: 2016-03-03  
-updated: 2020-05-28   
+updated: 2020-06-16   
 categories: 翻墙方法   
 tags: 突破网络审查 
 permalink: fq
@@ -73,6 +73,8 @@ Ting 我 Talk 一句：只要肉身在中国大陆，我们的一切行动听党
 
 
 
+
+
 ### 💁 售后服务
 
 有问题，加入 [Telegram](https://tingtalk.me/telegram/) 群组，呼叫机场主：
@@ -80,6 +82,16 @@ Ting 我 Talk 一句：只要肉身在中国大陆，我们的一切行动听党
 - Telegram 群组（主群）：https://t.me/ssrcloud
 - Telegram 群组（备用）：https://t.me/mikucloud
 - Telegram 通知频道：https://t.me/googlessrr
+
+
+
+未及时为旧套餐续费，购买新套餐后，无法通过订阅连接更新节点，怎么办：
+
+1. 登录 ssrcloud
+2. 点击左侧菜单栏的 `节点列表`
+3. 打开其中一个节点的 `配置二维码`
+4. 右键 ShadowsocksR 客户端 - `服务器` - `扫描二维码`
+5. 现在应该可以更新节点了
 
 
 

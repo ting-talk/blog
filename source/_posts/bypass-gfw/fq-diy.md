@@ -325,9 +325,21 @@ by [Dler Cloud](https://t.me/dlercloud_news/1446)
 
 非技术出身，不妥之处，敬请斧正。
 
-[VPN](https://zh.wikipedia.org/zh-hans/%E8%99%9B%E6%93%AC%E7%A7%81%E4%BA%BA%E7%B6%B2%E8%B7%AF) 是 Virtual Private Network（虚拟私人网络）的缩写。因为本来是用于企业内网传输，被用来翻墙后，效果并不理想，而且不能分流。不过 VPN 已经成为是翻墙的代名词。
+#### [VPN](https://zh.wikipedia.org/zh-hans/%E8%99%9B%E6%93%AC%E7%A7%81%E4%BA%BA%E7%B6%B2%E8%B7%AF)
 
-SS 是 Shadowsocks(R) 的缩写。但 SS 只是一口锅，你需要把番茄（翻墙）放进去，稍作炒制（设置），才能烹饪出可口的番茄。番茄可以自己种，也可以去菜市场（俗称机场，因为 SS 的图标是小飞机）买。因为 SS 诞生之初就是为了翻墙，所以此法至今健在。
+- 全称：Virtual Private Network（虚拟私人网络）。
+- 因为本来是用于企业内网传输，被用来翻墙后，效果并不理想，而且不能分流（系统（全局）层面）。
+- 但是以 VPN 已经成为是翻墙的代名词。
+
+
+
+#### SS
+
+- 全称：Shadowsocks(R)。
+- 但 SS 只是一口锅，你需要把番茄（翻墙）放进去，稍作炒制（设置），才能烹饪出可口的番茄。番茄可以自己种，也可以去菜市场（俗称机场，因为 SS 的图标是小飞机）买。
+- 在电脑上代理软件，只有浏览器才能上外网，其他软件，例如 [Telegram](https://tingtalk.me/telegram/)，需要额外配置。
+- 在手机上是 VPN 软件，连接之后在状态栏有 VPN 的标识，因此手机上的浏览器、YouTube、Instgram、Twitter 无需单独设置，即可访问海外网站。
+- 因为 SS 诞生之初就是为了翻墙，所以此法至今健在。
 
 
 
