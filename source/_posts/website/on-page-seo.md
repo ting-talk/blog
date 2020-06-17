@@ -6,6 +6,7 @@ updated: 2019-11-24
 categories: 网站搭建  
 tags: 搜索引擎优化  
 permalink: on-page-seo  
+
 ---
 
 牢牢记住：一切以用户体验为出发。
@@ -198,6 +199,7 @@ permalink: on-page-seo
 - 使用社交分享按钮
 
 
+关键阅读：[如何写一篇同时面向人和搜索引擎的文章 - Sukka](https://blog.skk.moe/post/how-to-write-for-seo/)
 
 #### 图片
 

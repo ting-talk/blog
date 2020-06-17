@@ -183,6 +183,7 @@ permalink: digital-life-tips
 - [QQ 空间导出助手](https://github.com/ShunCai/QZoneExport)：落叶随风，青春，稍纵即逝，QQ 空间，一个承载了很多人的青春的地方。万一腾讯倒闭，记录着我们的青春的数据怎么办？数据，还是掌握到自己手里的好，QQ 空间导出助手，可以导出备份 QQ 空间的日志、私密日志、说说、相册、留言板、QQ 好友、视频、收藏夹为文件，便于永久保存与迁移。
 - [方方格子](http://www.ffcell.com/index.aspx)：一个专注 Excel 学习交流、资源下载的网站。
 - [小恐龙公文排版助手 for Word/WPS](https://gw.xkonglong.com/#/)
+- [人事星球](https://www.rsxq.com)，为 HR 提供各类专业的人力资源文档模板，所有资料均可免费下载。
 
 
 
