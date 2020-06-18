@@ -3,14 +3,14 @@
 title: 英语口语：发音篇   
 date: 2019-10-29  
 updated: 2019-10-31  
-categories: 英语学习  
+categories: 英语学习 
+tags: [英语, 口语]  
 permalink: english-pronunciation  
 
 ---
 
 
 一般来说，同一个单词，名词形式在第一个音节重读，动词形式在第二个音节重读。
-
 
 <!-- more -->
 

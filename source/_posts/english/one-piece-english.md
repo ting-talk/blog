@@ -4,6 +4,7 @@ title: 看《海贼王》，学英文
 date: 2019-08-20   
 updated: 2019-10-25    
 categories: 英语学习    
+tags: [英语, 动画] 
 permalink: one-piece-english  
 
 ---

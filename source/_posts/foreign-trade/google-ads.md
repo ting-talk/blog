@@ -3,7 +3,8 @@
 title: Google Ads 教程  
 date: 2019-11-14  
 updated: 2019-11-27  
-categories: 外贸之路  
+categories: 外贸之路
+tags: 外贸   
 permalink: google-ads 
 ---
 
@@ -91,7 +92,7 @@ Google Ads，原名 Google AdWords，是 Google 公司主要的广告服务产�
 ### 基本页面
 
 - `Homepage` 首页 
-- `About US` 介绍
+- `About Us` 介绍
 - `Products` 产品
 - `Single Product` 产品详情（For Google Ads）
 - `Blog / News / Knowledge` 博客

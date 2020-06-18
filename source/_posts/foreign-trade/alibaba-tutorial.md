@@ -4,6 +4,7 @@ title: 阿里巴巴国际站：新手不完全入门指南
 date: 2019-09-06  
 updated: 2019-11-19 
 categories: 外贸之路  
+tags: 外贸
 permalink: alibaba-tutorial  
 
 ---

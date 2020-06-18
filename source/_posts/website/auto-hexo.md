@@ -1,10 +1,10 @@
-
+---
 
 title: Hexo 博客自动部署系统  
 date: 2017-11-25  
 updated: 2017-11-25
 categories: 网站搭建  
-tags: Hexo  
+tags: [网站, Hexo, 博客]  
 permalink: auto-hexo  
 
 ---

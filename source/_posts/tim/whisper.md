@@ -4,7 +4,7 @@ title: 日志
 date: 2017-07-17  
 updated: 2017-07-17
 categories: 庭勃士说
-tags: 随手记   
+tags: [Dr_Ting, 随手记]   
 permalink: whisper  
 
 ---

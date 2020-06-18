@@ -3,7 +3,8 @@
 title: Inkscape：位图矢量化的最佳工具    
 date: 2019-06-21   
 updated: 2019-12-2519  
-categories: 美的设计   
+categories: 美的设计  
+tags: 设计 
 permalink: raster-to-vector  
 
 ---

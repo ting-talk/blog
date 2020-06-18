@@ -4,6 +4,7 @@ title: 跟《瑞克和莫蒂》学英语
 date: 2020-01-10  
 updated: 2020-01-16   
 categories: 英语学习    
+tags: [英语, 动画]  
 permalink: rick-and-morty
 
 ---

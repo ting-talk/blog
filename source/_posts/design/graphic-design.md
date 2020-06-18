@@ -3,7 +3,8 @@
 title: 平面设计学习手记  
 date: 2019-06-16   
 updated: 2019-11-22  
-categories: 美的设计  
+categories: 美的设计 
+tags: 设计
 permalink: graphic-design    
 
 ---

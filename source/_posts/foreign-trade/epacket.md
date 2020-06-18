@@ -4,7 +4,7 @@ title: e 邮宝支持投递的国家
 date: 2019-06-02  
 updated: 2019-10-21
 categories: 外贸之路       
-tags: Dropshipping  
+tags: 外贸
 permalink: epacket  
 
 ---

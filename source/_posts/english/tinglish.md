@@ -3,7 +3,8 @@
 title: 如何学英语  
 date: 2019-07-16  
 updated: 2020-06-03  
-categories: 英语学习    
+categories: 英语学习   
+tags: 英语
 permalink: tinglish  
 
 ---
@@ -37,10 +38,6 @@ permalink: tinglish
 
 ## 方法论
 
-
-
-### [郝海龙](https://sspai.com/series/77/)
-
 - 我们已经通过**模仿与重复**学会了一种语言：我们的母语。既然你已经学会了母语，那么其实你本身就知道学习一门语言的方法。只是因为母语习得太过自然，我们大都没有认真想过自己究竟是怎样学会一门语言的：模仿与重复是学习语言的唯一有效的方法。所以很多时候，语言学习给聪明人带来的痛苦甚至更大一些，因为他失去了「聪明」所能带来的巨大优势。
 
 - 智商不够不是学不好英语的理由，学英语在大多数情况下和智商没有关系。如果你能够掌握自己的母语，那么你没有理由不能掌握另一门语言，因为这是刻在我们每个人基因里的能力。
@@ -55,38 +52,7 @@ permalink: tinglish
   - 花大量的时间在错误的英语用法上，以至于我们大脑记忆中的用法有一多半都是错误的，脱口而出的自然也是错误的英语。
   - 我们的词汇量被锁定在一个远远不够用的水平。
 
-
-
-### [YJango](https://www.bilibili.com/video/BV1Gt411S72A)
-
-未亲测。
-
-**学习原则**
-
-1. 用例子重塑大脑连接（不断改写例句）
-2. 明确任务的输入输出（输出始终一致）
-3. 不要依靠意识
-4. 以句子为单位
-
-
-
-**学习步骤**
-
-1. 看单词的英文解释
-2. 多看例句体会意思
-3. 选择常用的简单句
-4. `看` 句子，不读出来，在不思考中文的情况下，想象场景
-5. `写` 把句子写（打）出来
-6. `听` 句子，并想象场景
-
-7. `说` 出口
-8. 改句子，重复以上的练习
-
-
-
-### 李笑来
-
-[人人都能用英语](http://lixiaolai.com/#/everyone-can-use-english/)：未亲测。
+by [郝海龙](https://sspai.com/series/77/)
 
 
 
@@ -330,10 +296,9 @@ permalink: tinglish
 
 ## 学语法
 
+以《英语阅读参考手册》为主，点此下载 [电子书](https://github.com/xiaolai/a-new-english-reading-handbook)；《柯林斯 COBUILD 英语语法大全》为辅。
 
-- 书籍：《英语阅读参考手册》为主，点此下载 [电子书](https://github.com/xiaolai/a-new-english-reading-handbook)；《柯林斯 COBUILD 英语语法大全》为辅。
-- 博客：[Liam Huang 的语法笔记](https://liam.page/categories/English/)：通俗易懂。
-- App：百词斩里的三分钟语法栏目。
+访问 tingtalk.me/english-grammar 查阅我平时收集的 [英语语法知识](https://tingtalk.me/english-grammar/)。
 
 
 

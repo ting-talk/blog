@@ -1,7 +1,10 @@
-title: 批量裁剪 PDF 页面
+---
+
+title: 如何批量裁剪 PDF
 date: 2019-06-16   
 updated: 2019-07-25  
 categories: 美的设计    
+tags: [工作, 设计] 
 permalink: crop-pdf-pages  
 
 ---

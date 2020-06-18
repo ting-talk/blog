@@ -4,7 +4,7 @@ title: eBay Listing（刊登）指南
 date: 2019-03-28  
 updated: 2019-10-21
 categories: 外贸之路  
-tags: Dropshipping  
+tags: 外贸
 permalink: ebay-listing 
 
 ---

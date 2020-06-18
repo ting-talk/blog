@@ -4,6 +4,7 @@ title: 游泳入门与蛙泳教学
 date: 2019-07-07   
 updated: 2019-07-07  
 categories: 生活百科  
+tags: 技能
 permalink: swim    
 
 ---

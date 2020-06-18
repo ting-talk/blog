@@ -3,7 +3,8 @@
 title: 如何提升外贸业务技能？  
 date: 2019-10-19  
 updated: 2019-11-26
-categories: 外贸之路   
+categories: 外贸之路  
+tags: 外贸 
 permalink: business-skills  
 
 ---

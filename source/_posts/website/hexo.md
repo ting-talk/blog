@@ -4,7 +4,7 @@ title: 如何优化 Hexo（静态博客）
 date: 2017-07-17  
 updated: 2020-05-29
 categories: 网站搭建  
-tags: Hexo  
+tags: [网站, Hexo, 博客]   
 permalink: hexo  
 ---
 

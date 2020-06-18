@@ -4,7 +4,7 @@ title: 大客户下单后，如何用邮件有效跟进？
 date: 2019-07-04    
 updated: 2019-07-04   
 categories: 英语学习
-tags: 外贸  
+tags: [外贸, 英语, Email]   
 permalink: follow-up-email  
 
 ---
@@ -107,8 +107,6 @@ Best regards,
 `***`
 
 WhatsApp:  `***`
-
-
 
 
 

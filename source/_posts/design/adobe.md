@@ -3,7 +3,8 @@
 title: Illustrator, Photoshop and InDesign Tips    
 date: 2019-07-03   
 updated: 2019-11-05  
-categories: 美的设计    
+categories: 美的设计   
+tags: 设计 
 permalink: adobe  
 
 ---

@@ -4,6 +4,7 @@ title: Cold Email（开发信）撰写指南
 date: 2019-11-11  
 updated: 2019-12-31  
 categories: 外贸之路
+tags: [外贸, Email] 
 permalink: cold-email  
 
 ---

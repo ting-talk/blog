@@ -4,7 +4,7 @@ title: 英语口语：外贸业务与谈判
 date: 2019-07-16  
 updated: 2020-03-23    
 categories: 英语学习   
-tags: 外贸    
+tags: [外贸, 英语, 口语]    
 permalink: spoken-business-english  
 
 ---

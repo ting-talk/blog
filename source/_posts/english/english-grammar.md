@@ -3,20 +3,29 @@
 title: 英语语法  
 date: 2019-10-14  
 updated: 2020-01-17  
-categories: 英语学习    
+categories: 英语学习 
+tags: 英语   
 permalink: english-grammar  
 
 ---
 
-语法为表达服务。
+英语语法书推荐：
+- 《英语阅读参考手册》为主，点此下载 [电子书](https://github.com/xiaolai/a-new-english-reading-handbook)。
+- 《柯林斯 COBUILD 英语语法大全》为辅。
+
 
 
 <!-- more -->
 
+关联阅读：
+
+- 博客：[Liam Huang 的语法笔记](https://liam.page/categories/English/)：通俗易懂。
+- App：百词斩里的三分钟语法栏目。
+
+
+
 
 ## 现在完成式（Present Perfect Tense）
-
-
 
 |            |                        **Just**                         |                         **Yet**                          |                          **Still**                           |                         **Already**                          |
 | :--------: | :-----------------------------------------------------: | :------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
@@ -107,7 +116,7 @@ e.g.
 
 
 
-### Tips
+**Tips**
 
 - 倒装结构
   If I were a boy, I might be very handsome.   
@@ -122,8 +131,6 @@ e.g.
 
 - 混合语气
    I could have caught that bus, only that I forgot to get any money out.
-
-
 
 
 
