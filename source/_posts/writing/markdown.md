@@ -389,7 +389,7 @@ permalink: markdown
 | `换行`<br />下一行 | ![插入图片](https://tingtalk.me/images/avatar.png) | ￥10.4 |
 
 **注释**
-- Markdown 是轻量级的标记语言，所以不支持合并和拆分单元格。对于复杂表格，你可以在 Markdown 编辑器中使用 HTML <table> 标签标记。
+- Markdown 是轻量级的标记语言，所以不支持合并和拆分单元格。对于复杂表格，你可以在 Markdown 编辑器中使用 HTML 的 `<table>` 标签标记。
 - 输入 `<br />` 可以换行（但不建议使用）。
 - 把 Excel 表格复制粘贴到某些 Markdown 编辑器（例如 Typora）可以直接转换为 Markdown 形式的表格。 
 
