@@ -4,7 +4,7 @@ title: Windows 10 电脑：使用技巧、佳软推荐以及系统重装教程
 date: 2017-12-18  
 updated: 2020-06-18    
 categories: 数字生活   
-tags: 网上冲浪指南
+tags: [Windows, 网上冲浪指南]
 permalink: windows  
 
 ---
@@ -623,9 +623,7 @@ Internet Download Manager 是一个多线程下载管理器。虽然长得丑，
 
 #### [Dynamic Theme](https://www.microsoft.com/zh-cn/p/dynamic-theme/9nblggh1zbkw)
 
-每天更新桌面壁纸为 Bing 每日壁纸。
-
-
+免费的桌面壁纸软件，自动跟随 Bing 每日壁纸更新，无广告，无水印，支持自动保存壁纸到指定的文件夹。启动之后，也不会常驻在任务栏的通知区域，就像 Windows 10 系统自带的功能一样，可谓是「随风潜入夜，换图细无声」。
 
 
 

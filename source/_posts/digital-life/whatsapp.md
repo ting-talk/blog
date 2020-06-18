@@ -4,7 +4,7 @@ title: WhatsApp：解封 & 最小化
 date: 2019-11-14    
 updated: 2019-11-15  
 categories: 数字生活 
-tags: [外贸, 网上冲浪指南]  
+tags: [外贸, 网上冲浪指南, Windows]  
 permalink: whatsapp
 
 ---
