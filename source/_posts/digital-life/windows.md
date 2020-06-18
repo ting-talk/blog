@@ -1,8 +1,8 @@
 ---
 
-title: Windows 电脑：使用技巧、佳软推荐、重装教程  
+title: Windows 10 电脑：使用技巧、佳软推荐以及系统重装教程  
 date: 2017-12-18  
-updated: 2020-06-16    
+updated: 2020-06-18    
 categories: 数字生活   
 tags: 网上冲浪指南
 permalink: windows  
@@ -13,7 +13,7 @@ permalink: windows
 
 <!-- more -->
 
-## Windows 技巧
+## 使用技巧
 
 这些 Tips 可以帮你提高工作效率和电脑性能，快来试试吧。
 
@@ -46,6 +46,7 @@ permalink: windows
 | `Win + C`                | 召唤个人助理微软小娜（Cortana）。需在 `设置` 里开启。        |
 | `Win + D`                | 显示桌面（Desktop），再按一次即可返回原本工作视窗。🔥<br />触摸板：三指下滑。 |
 | `Win + E`                | 打开文件资源管理器（Explore）。🔥                             |
+| `Win + I`                | 打开设置。                                                   |
 | `Win + L`                | 锁定（Lock）你的电脑。                                       |
 | `Win + R`                | 打开运行（Run）对话框。                                      |
 | `Win + S`                | 打开搜索（Search）。<br />触摸板：三指点击。                 |
@@ -53,6 +54,7 @@ permalink: windows
 | `Win + W`                | 打开白板（Whiteboard）或全屏截图。                           |
 | `Win + X`                | 打开「快速链接」菜单。按两下 `U` 即可关机。                  |
 | `Win + 数字`             | 启动固定到任务栏的应用。                                     |
+| `Win` + `.`（句点）      | 打开表情符号面板。                                           |
 | `Win + Shift + S`        | 启动屏幕截图（Screenshot）。<br />可用 [Snipaste](https://zh.snipaste.com/) 代替。 |
 | `Shift` + `小写字母`     | 输入大写字母。                                               |
 | `Shift` + `鼠标左键单击` | 连续选择。                                                   |
@@ -199,7 +201,23 @@ powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61
 
 
 
-## Windows 软荐
+### [清除工作区](https://www.microsoft.com/zh-cn/tips/home/get-organized#shakeoutclutter)
+
+清除其他所有打开的应用，专心使用当前应用。选择并长按想要保留的窗口（的顶栏），然后来回轻微晃动鼠标（或手指）。所有其他打开的应用将自动最小化以清空你的工作区。
+
+
+
+### [多任务处理](https://www.microsoft.com/zh-cn/tips/home/get-organized#snapapps)
+
+选择任何打开的窗口，然后将它拖动并贴靠在屏幕的边缘或角落，它们会自动调整大小，然后并排贴靠在一起。
+
+
+
+> 访问 microsoft.com/zh-cn/tips/home 查阅更多 Windows 使用技巧。
+
+
+
+## 佳软推荐
 
 - [不想卸载重装，如何把 C 盘已安装的软件转移到其他盘：FreeMove](https://topbook.cc/overview?selectedArticle=1750)
 - 统一把安装包放在 `D:\Downloads`
@@ -653,7 +671,7 @@ Internet Download Manager 是一个多线程下载管理器。虽然长得丑，
 
 
 
-## Windows 重装
+## 系统重装
 
 下面介绍如何安装纯净的 Windows 10 系统。
 

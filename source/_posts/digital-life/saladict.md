@@ -4,7 +4,7 @@ title: 沙拉查词：浏览器上最强大的划词翻译插件
 date: 2020-02-17  
 updated: 2020-03-10  
 categories: 数字生活   
-tags: Chrome
+tags: [Chrome, 网上冲浪指南]
 permalink: saladict
 
 ---

@@ -4,6 +4,7 @@ title: 如何在小米 6 上安装 Google Camera（谷歌相机）
 date: 2020-03-19   
 updated: 2020-03-21 
 categories: 数字生活  
+tags: 网上冲浪指南
 permalink: gcam
 
 ---

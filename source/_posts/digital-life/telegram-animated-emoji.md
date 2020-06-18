@@ -4,7 +4,7 @@ title: Telegram Animated Emoji List（电报动态大表情合集）
 date: 2020-03-01  
 updated: 2020-05-03  
 categories: 数字生活  
-tags: Telegram
+tags: [Telegram, 网上冲浪指南]
 permalink: telegram-animated-emoji
 
 ---
