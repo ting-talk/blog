@@ -1,6 +1,6 @@
 ---
 
-title: 英语口语：外贸业务与谈判  
+title: 英语口语：外贸篇  
 date: 2019-07-16  
 updated: 2020-03-23    
 categories: 英语学习   
