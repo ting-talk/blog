@@ -3,7 +3,8 @@
 title: 租房手记
 date: 2019-05-26
 updated: 2019-11-02  
-categories: 生活百科  
+categories: 生活百科
+tags: 生活 
 permalink: rent-an-apartment 
 
 ---

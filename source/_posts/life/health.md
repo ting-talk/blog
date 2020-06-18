@@ -3,7 +3,8 @@
 title: 除了健康，都是小事  
 date: 2019-10-10
 updated: 2020-03-31  
-categories: 生活百科  
+categories: 生活百科
+tags: [健康, 生活]  
 permalink: health  
 
 ---
@@ -24,6 +25,8 @@ permalink: health
 - [MuscleWiki](https://musclewiki.org/)：点击身体的任何一个部位，通过动画和视频告诉你怎么锻炼这个部位的肌肉。
 
 关键阅读：[比起「资助」健身房，养成运动习惯还有这些成本更低的方法。by Vanilla](https://sspai.com/post/57402)
+
+
 
 ## 多多喝水
 

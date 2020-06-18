@@ -4,6 +4,7 @@ title: 驾考指南
 date: 2018-05-18  
 updated: 2019-02-23 
 categories: 生活百科   
+tags: 技能
 permalink: driving-test   
 
 ---

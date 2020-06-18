@@ -4,7 +4,7 @@ title: 微信公众号排版心得
 date: 2016-11-21     
 updated: 2020-06-04    
 categories: 写作技巧  
-tags: [微信公众号, 排版]
+tags: [微信公众号, 排版, 写作]
 permalink: mp 
 
 ---

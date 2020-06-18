@@ -4,6 +4,7 @@ title: 《作文七巧》
 date: 2019-05-13  
 updated: 2019-08-22  
 categories: 写作技巧  
+tags: 写作
 permalink: composition-seven-tips  
 
 ---

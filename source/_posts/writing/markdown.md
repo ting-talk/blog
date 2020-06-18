@@ -2,8 +2,9 @@
 
 title: Markdown 入门教程及书写风格指南    
 date: 2016-03-15    
-updated: 2019-12-14    
-categories: 写作技巧  
+updated: 2020-06-18    
+categories: 写作技巧
+tags: [排版, 写作]
 permalink: markdown   
 
 ---
@@ -438,14 +439,28 @@ Typora 支持插入本地图片，但是更改图片的路径和名称，图片�
 #### 行内代码
 
 **用 2 个重音符 `（backtick，在 Tab 键上方）包裹**
-
 ```markdown
 `Markdown` 是一种轻量级标记语言。
 ```
 
 **预览**
-
 `Markdown` 是一种轻量级标记语言。
+
+
+
+用 `` ` `` 包裹  `` ` ``
+
+```markdown
+A single backtick in a code span: `` ` ``
+
+A backtick-delimited string in a code span: `` `foo` ``
+```
+
+**预览**
+A single backtick in a code span: `` ` ``
+A backtick-delimited string in a code span: `` `foo` ``
+
+
 
 **重音符前后空一格**
 
@@ -455,7 +470,6 @@ Typora 支持插入本地图片，但是更改图片的路径和名称，图片�
 ```
 
 **预览**
-
 - 推荐：使用键盘快捷键 `Ctrl + D` 可以将当前网页保存为书签。
 - 反对：使用键盘快捷键`Ctrl+D`可以将当前网页保存为书签。
 
@@ -464,7 +478,6 @@ Typora 支持插入本地图片，但是更改图片的路径和名称，图片�
 #### 代码块
 
 **将 3 个重音符 ` 置于代码块的首行和末行**
-
 ```python
 print "Hello, Python!"
 ```
@@ -546,15 +559,18 @@ Markdown 的用途很广。Write once, export everywhere：写博客、写邮件
 
 
 
-## 参考
+**参考**
 
 - [Markdown 完全入门（上）](https://sspai.com/post/36610)
 - [Markdown 完全入门（下）](https://sspai.com/post/36682)
+- [Markdown Syntax - Daring Fireball](https://daringfireball.net/projects/markdown/syntax)
 - [为知笔记 Markdown 新手指南](https://www.wiz.cn/feature-markdown.html)
 - [Markdown 合集 - 少数派](https://sspai.com/tag/Markdown)
 - [Google Markdown 书写风格指南](https://www.jianshu.com/p/3beac9fd6496)
 - [Markdown Style Guide by Google](https://github.com/google/styleguide/blob/gh-pages/docguide/style.md)
 - [Typora 完全使用详解 - liquid617](https://sspai.com/post/54912) 
+
+
 
 **关联阅读**
 

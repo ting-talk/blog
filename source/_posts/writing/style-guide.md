@@ -3,7 +3,8 @@
 title: 文案风格及排版指南 
 date: 2017-12-05  
 updated: 2020-05-22  
-categories: 写作技巧  
+categories: 写作技巧 
+tags: [写作, 排版]   
 permalink: style-guide   
 
 ---

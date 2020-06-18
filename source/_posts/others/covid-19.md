@@ -3,7 +3,8 @@
 title: COVID-19 防疫手记 
 date: 2020-01-28   
 updated: 2020-03-05  
-categories: 生活百科  
+categories: 杂七杂八  
+tags: 健康
 permalink: covid-19
 
 ---

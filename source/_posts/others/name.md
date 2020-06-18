@@ -3,7 +3,8 @@
 title: 宝宝起名    
 date: 2019-07-03  
 updated: 2019-12-10  
-categories: 杂七杂八     
+categories: 杂七杂八 
+tags: 写作    
 permalink: name  
 ---
 
@@ -50,10 +51,6 @@ permalink: name
 
 - ✔️ 柳景选、丹凤
 - ❌ 柳敬民、玉凤
-
-
-
-
 
 
 
