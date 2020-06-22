@@ -2,7 +2,7 @@
 
 title: Telegram（电报）：新手指南、使用教程及频道推荐
 date: 2019-11-09  
-updated: 2020-06-14
+updated: 2020-06-19
 categories: 数字生活  
 tags: [Telegram, 网上冲浪指南]
 permalink: telegram
@@ -25,7 +25,7 @@ permalink: telegram
 
 2016 年，[我刚开始学会科学上网](https://t.me/tingtalk/223)，下载了 Telegram。虽然我在上面找不到朋友和我聊天，但是我并没有在 Android 手机上卸载 Telegram，因为相比输入法和微信，Telegram 提供了更为丰富的 [Emoji](https://emojipedia.org/)。如此一来，买不起 iPhone 的我，在发朋友圈的时候，也能自由地使用 Emoji。
 
-若干年后，随着言论审查力度的加大，任何「风吹草动」都要「斩草除根」：
+天下苦微信久矣，随着言论审查力度的加大，任何「风吹草动」都要「斩草除根」：
 
 - Cyberspace Administration of China 会因为我转发一个 Twitter 评论到微信群，请我到最近的派出所「喝茶」。
 - 微信上无法发送纽约时报的链接。
@@ -39,9 +39,7 @@ The devil's in the details，因此我熬夜无数，花了几个月，把 Teleg
 
 > 2016 年国庆，我花了一周时间看完了「即刻 app」的所有主题（圈子），写了一篇三千多字文章：《即刻 App - 不再错过你感兴趣的资讯》([图文版](https://wemp.app/posts/6e4830bc-845d-4f2c-ad78-959c9a89e4eb) | [文字版](https://tingtalk.me/mp-archives/)）。~~即刻已经没有复活的可能了~~（[即刻 App](https://m.okjike.com/download) 居然在 2020 年 6 月 10 日回来了），在Telegram 顺势成了我新的资讯中心。
 
-欢迎数字移民到 Telegram ，让我们一起在这片乐土上过上~~没羞没臊~~体面的数字生活。
-
-Hey DJ, drop the beat, 让我们开始弹奏这首「自由之歌」吧。
+欢迎各位读者逃离微信（[Escape from the WeChat](https://theinitium.com/article/20200619-technology-escape-from-wechat/)），数字移民到没有监控和审查的地方 ，一起在这片乐土上过上~~没羞没臊~~体面的数字生活。
 
 
 
