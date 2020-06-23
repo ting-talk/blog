@@ -2,7 +2,7 @@
 
 title: Google Chrome（谷歌浏览器）：扩展程序（插件）推荐及使用技巧
 date: 2019-10-13  
-updated: 2020-06-16
+updated: 2020-06-23
 categories: 数字生活   
 tags: [Chrome, 网上冲浪指南] 
 permalink: chrome
@@ -210,16 +210,20 @@ Enhance your written communication everywhere you type.
 RSSHub Radar 是 [RSSHub](https://github.com/DIYgod/RSSHub) 的衍生项目，它是一个可以帮助你快速发现和订阅当前网站 RSS 和 RSSHub 的浏览器扩展。
 
 
+### [OneTab](https://chrome.google.com/webstore/detail/onetab/chphlpgkkbolifaimnlloiipkdnihall)
 
-### [简 Tab](https://simptab.art/)
-
-只呈现美图，无任何干扰，望你每次打开 New Tab（新标签页）都有好心情。但这并不意味它仅代表简单，它的功能包含：多种背景源、丰富的定制化选项、常用网址、书签栏、快捷搜索栏、白噪音、禅模式等。
-
+当您发现自己有太多的标签页时，单击 OneTab 图标，将所有标签页转换成一个列表。当您需要再次访问这些标签页时，可以单独或全部恢复它们。
 
 
 ### 需要时才启用的插件
 
 在性能不足的电脑上，启动过多的扩展程序会拖慢系统的运行速度。因此，临时关闭一些不常用的扩展程序，需要时再启用，是一个折衷的方法。
+
+
+
+#### [简 Tab](https://simptab.art/)
+
+只呈现美图，无任何干扰，望你每次打开 New Tab（新标签页）都有好心情。但这并不意味它仅代表简单，它的功能包含：多种背景源、丰富的定制化选项、常用网址、书签栏、快捷搜索栏、白噪音、禅模式等。
 
 
 
