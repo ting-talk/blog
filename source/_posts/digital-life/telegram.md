@@ -2,7 +2,7 @@
 
 title: Telegram（电报）：新手指南、使用教程及频道推荐
 date: 2019-11-09  
-updated: 2020-06-19
+updated: 2020-06-24
 categories: 数字生活  
 tags: [Telegram, 网上冲浪指南]
 permalink: telegram
@@ -448,7 +448,7 @@ Telegram 有两种加密等级，都非常安全：
 - 频道的内容不用注册 Telegram 账号也看到，并可以被搜索引擎索引，例如 [t.me/s/tingtalk](https://t.me/s/tingtalk)。The contents of public channels can be seen on the Web without a Telegram account and are indexed by search engines.
 - 支持 [Instant View](https://instantview.telegram.org/) 的文章会缓存在 Telegram 的服务器上。
 - [Post Widget](https://core.telegram.org/widgets/posts)：将频道或公共群组的消息嵌入到任何地方。You can embed messages from public groups and channels anywhere. 
-- 频道分析（[Channel Stats](https://telegram.org/blog/folders#channel-stats)）📈：订阅人数超过 1,000 人的频道会有详细的统计数据分析报告（[Statistics](https://telegram.org/tour/channels#detailed-statistics)）。
+- 频道分析（[Channel Stats](https://telegram.org/blog/folders#channel-stats)）📈：订阅人数超过 500 人（之前是 1,000  人）的频道会有详细的统计数据分析报告（[Statistics](https://telegram.org/tour/channels#detailed-statistics)）。
 
 
 
@@ -520,7 +520,6 @@ https://rsshub.app/telegram/channel/tingtalk
 
 | 频道                                                 | 详情                                                         |
 | ---------------------------------------------------- | ------------------------------------------------------------ |
-| [Bloomberg](https://t.me/bloomberg)                  | 彭博新闻社。                                                 |
 | [看鉴中国 OutsightChina](https://t.me/OutsightChina) | 一个健康的社会，不该只有一种声音。看鉴中国，每天聚焦一则关于中国的新闻事件，带你对比来自中外不同媒体多元的、不一样的观点。 |
 
 
@@ -583,11 +582,12 @@ https://rsshub.app/telegram/channel/tingtalk
 
 ### 🎙听觉盛宴
 
-| 频道                                           | 详情                                    |
-| ---------------------------------------------- | --------------------------------------- |
-| [「利器x播客」计划](https://t.me/liqixpodcast) | [官网](https://liqixpodcast.typlog.io/) |
-| [交差点](https://t.me/jiaochadian)             | "Technology alone is not enough."       |
-| [独立播客](https://t.me/indiepod)              | 分享关于播客的一切。                    |
+| 频道                                              | 详情                                                |
+| ------------------------------------------------- | --------------------------------------------------- |
+| [「利器x播客」计划](https://t.me/liqixpodcast)    | [官网](https://liqixpodcast.typlog.io/)             |
+| [交差点](https://t.me/jiaochadian)                | "Technology alone is not enough."                   |
+| [独立播客](https://t.me/indiepod)                 | 分享关于播客的一切。                                |
+| [不客观 Not Objective](https://t.me/notobjective) | 一档搭建在 Telegram 的简易播客，纯主观感受。by 海龙 |
 
 
 
