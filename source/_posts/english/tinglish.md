@@ -27,7 +27,6 @@ permalink: tinglish
 
 - 把群聊设置为「消息免打扰」。
 - 把群昵称改成英文名：
-    - [扇贝起名](http://ename.shanbay.com.cn/)：根据中文名的发音和意义来为你匹配地道的英文名。如不满意，多生成几次
     - 拼音起名：俞莲舟 👉🏿 Lianzhou Yu
     - [英文名背后的含义](https://www.behindthename.com/)
     - [英文名大全](https://babynames.net/)

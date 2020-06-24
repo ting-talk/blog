@@ -734,7 +734,7 @@ Boys often like dogs very much. The animals can listen to their masters. But my 
 
 在外面吃个烧鸡烧鸭，都会想着把骨头带回家给狗子吃。`21:56`
 
-猫咪这几天吃得很少，会不会生病了。
+猫咪这几天吃得很少，会不会生病了？
 
 狗子学会憋尿了，一天下来，只在房间尿了一小泡。`22:01`
 
