@@ -959,6 +959,7 @@ https://rsshub.app/douban/movie/playing/7.5
 
 | Bot                                                | Info                                                         |
 | -------------------------------------------------- | ------------------------------------------------------------ |
+| [@CorsaBot](https://telegram.me/CorsaBot)          | Make Instant View from any article. 快速把文章把文章备份到 [Telegraph](https://telegra.ph/)。 |
 | [@ifttt](https://telegram.me/ifttt)                | [把 If This Then That 集成到 Telegram 上](https://telegram.org/blog/pin-and-ifttt#ifttt-if-this-then-that)，例如把频道动态同时发送到 Twitter。 |
 | [@githubbot](https://telegram.me/githubbot)        | 推送 GitHub 仓库的动态。                                     |
 | [@GmailBot](https://t.me/GmailBot)                 | 在 Telegram 上收发 📧 Gmail。                                 |
