@@ -522,7 +522,10 @@ Windows 的默认图片浏览器非常难用。而 qimgv 是一款开源的图�
 
 ### 下载工具
 
-[什么是 BitTorrent（BT 种子）、磁力链接（Magnet URI scheme）、电驴链接（eD2k）和迅雷链接（Thunder）by 奔跑中的奶酪](https://mp.weixin.qq.com/s/dvTvWIwg5HeSo0noftX38w)
+
+- [别再问我什么是 BT 种子 - 回形针PaperClip](https://www.bilibili.com/video/av57748098/)
+- [磁力下载是什么原理？跟用种子下载的区别大不大？- 万物30秒](https://www.bilibili.com/video/BV1Ht411R7Y8)
+- [什么是 BitTorrent（BT 种子）、磁力链接（Magnet URI scheme）、电驴链接（eD2k）和迅雷链接（Thunder）by 奔跑中的奶酪](https://mp.weixin.qq.com/s/dvTvWIwg5HeSo0noftX38w)
 
 
 
@@ -545,8 +548,6 @@ Internet Download Manager 是一个多线程下载管理器。虽然长得丑，
   - 暂停调用 IDM：按住 `Alt` 键则可以让 IDM 暂时停止接管浏览器的下载，让浏览器自行完成下载任务。
 - 针对包含有效期的动态临时下载地址，在主界面中右击未完成的任务，选择 `刷新下载地址`。
 - 可惜只支持超文本（安全）传输协议（HTTP / HTTPS）和文件传输协议（FTP），不支持 BitTorrent（BT）、磁力链接（Magnet URI scheme）、电驴链接（eD2k）和迅雷链接（Thunder）。这个时候就得迅雷出场了。
-
-[别再问我什么是 BT 种子 - 回形针PaperClip](https://www.bilibili.com/video/av57748098)
 
 
 
@@ -576,8 +577,6 @@ Internet Download Manager 是一个多线程下载管理器。虽然长得丑，
 
 - 建议安装 2.2.1 版本
 - 图文设置教程：[如何优雅的使用 BitTorrent网络下载文件? - NovaOPCJ's Blog](https://blog.novaopcj.top/?p=74)
-
-
 
 
 
