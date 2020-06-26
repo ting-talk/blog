@@ -231,6 +231,15 @@ permalink: resume-tips
 - 驾驶技能
 - ……
 
+
+
+将你的技能分成三个等级：
+- 熟悉（familiar with）
+- 有实战经验（experienced with）
+- 精通（proficient in）
+「精通」和「有实战经验」的技能，必须提供细节，要给出项目内容和你的个人成果。
+
+
 错误写法
 
 > 可熟练使用办公软件，掌握 Photoshop 的基础技能

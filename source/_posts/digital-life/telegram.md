@@ -244,7 +244,7 @@ Telegram 的中文搜索是以「词」为单位的，以标点符号或空格�
 ### 👍使用技巧
 
 - **记忆浏览进度**：打开对话界面会自动跳转到未读消息 `Unread Messages`（The app restores your previous scroll position when you switch back to a chat）。
-- **消息静音（[Mute Notifications](https://telegram.org/blog/shared-files#mute-notifications)）**：可屏蔽联系人 / 群组 / 频道的消息通知 1 个小时 / 4 个小时 / 18 个小时 / 3 天 / 永远静音。
+- **消息静音（[Mute Notifications](https://telegram.org/blog/shared-files#mute-notifications)）**：可屏蔽联系人 / 群组 / 频道的消息通知 1 个小时 / 4 个小时 / 18 个小时 / 3 天 / 永久静音。
 
 
 
@@ -390,9 +390,9 @@ YouTube：https://www.youtube.com/watch?v=SyM3jMFjess&t=05m06s
 
 在 Secret Chat 模式下可以：
 
-- 可设置阅后即焚（self-destruc）计时器，自动销毁消息或媒体文件（只适用于计时器设置后发送的消息，对早期的信息没有影响）。
+- 可设置阅后即焚（self-destruct）计时器，自动销毁消息或媒体文件（只适用于计时器设置后发送的消息，对早期的信息没有影响）。
 - 不能转发消息。
-- Android 设备不能截屏；iOS 设备可以截屏 ，但对方截屏时你会收到通知。不过，只建议只与你信任的人分享敏感信息。 毕竟，Ta 可以用另外一台设备给屏幕拍照。
+- Android 设备不能截屏；iOS 设备可以截屏 ，但对方截屏时你会收到通知。不过，只建议与你信任的人分享敏感信息。 毕竟，Ta 可以用另外一台设备给屏幕拍照。
 - 删除发送方的消息，接收方那边也会强制删除。
 - 如果退出并再次登录，将失去所有的秘密聊天记录。
 
@@ -682,9 +682,7 @@ https://cn.nytimes.com/rss.html
 
 **[Nei.st](https://nei.st/)**：这个 [网站的名字](https://nei.st/medium/qy2ncnddhevecekyxk8f0g) 来自斯凯岛 (Isle of Skye) 上 Neist Point，它提供借以观察世界的可靠新闻，文章来自 [The Wall Street Journal](https://nei.st/medium/wsj)、[Initium](https://nei.st/medium/initium)、[Caixin](https://nei.st/medium/caixin)、[The Economist](https://nei.st/medium/economist)、[Bloomberg](https://nei.st/medium/bloomberg-businessweek)、[National Geographic](https://nei.st/category/natgeo)、[NYTimes](https://nei.st/medium/nytimes)、[The Guardian](https://nei.st/category/medium/the-guardian)、[nfzm](https://nei.st/category/southern)、[YiMagazine](https://nei.st/category/yimag)、[The Atlantic](https://nei.st/category/the-atlantic)、[Lifeweek](https://nei.st/category/lifeweek)、[Nautilus](https://nei.st/category/nautilus)、[Financial Times](https://nei.st/medium/ft)、[Comparative Studies](https://nei.st/category/comparative)、[Caijing](https://nei.st/category/caijing)、[Movies](https://nei.st/category/arts/movies)、[City](https://nei.st/category/city)、[Travel](https://nei.st/travel/daoerdeng)、[Uncertainty](https://nei.st/category/uncertainty)……
 
-Nei.st 不只在乎内容，样式也很看重。网站使用了漂亮的自定义字体和大尺寸图片，虽然会拖垮网页的加载速度，带来更高的宽带和服务器费用支出，但 Nei.st 希望读者获得 [最接近网站创建意图的体验](https://nei.st/medium/natgeo/countdown-to-a-new-era-in-space)。运营网站费时费力费钱（付费文章、网站支出），为了让灯塔持续发光，请打开这个 [不吐不快](https://nei.st/medium/qy2ncnddhevecekyxk8f0g) 的声明，并 **点击文末广告**。如果你喜欢我们，请让我们知道。如果你愿意支持我们，更要让我们知道。而如果你不喜欢我们，也请让我们知道。讨厌的人多了，也许就让我们熄火了。
-
-
+Nei.st 不只在乎内容，样式也很看重。网站使用了漂亮的自定义字体和大尺寸图片，虽然会拖垮网页的加载速度，带来更高的宽带和服务器费用支出，但 Nei.st 希望读者获得 [最接近网站创建意图的体验](https://nei.st/medium/natgeo/countdown-to-a-new-era-in-space)。运营网站费时费力费钱（付费文章、网站支出），为了让灯塔持续发光，请在拦截广告插件中把 Nei.st 加入白名单。要是可以在浏览文章的过程中顺手点击个广告，那就是举手之劳滴水之恩了。如果你喜欢我们，请让我们知道。如果你愿意支持我们，更要让我们知道。而如果你不喜欢我们，也请让我们知道。讨厌的人多了，也许就让我们熄火了。
 
 ```http
 https://nei.st/feed
