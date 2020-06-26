@@ -214,6 +214,17 @@ RSSHub Radar 是 [RSSHub](https://github.com/DIYgod/RSSHub) 的衍生项目，�
 
 当您发现自己有太多的标签页时，单击 OneTab 图标，将所有标签页转换成一个列表。当您需要再次访问这些标签页时，可以单独或全部恢复它们。
 
+![OneTab-sspai](https://cdn.sspai.com/2018/04/26/5c0ad27f89d0b8b053bb7d135b7182e5.gif?imageView2/2/w/1120/q/40/interlace/1/ignore-error/1)
+
+关联阅读：[One Tab 不仅是浏览标签收容所，更是工作流 - tony4927](https://sspai.com/post/60285)
+
+
+
+### [The Great Suspender](https://chrome.google.com/webstore/detail/the-great-suspender/klbibkeccnjlkjkiokjodocebajanakg)
+
+自动冻结标签页，节省内存。
+
+
 
 ### 需要时才启用的插件
 

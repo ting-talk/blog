@@ -3,8 +3,8 @@
 title: Who Am I 
 date: 1994-01-25  
 updated: 1994-01-25  
-categories: 庭勃士说
-tags: Dr_Ting     
+categories: 小庭子说  
+tags: [小庭子]      
 permalink: tim    
 
 ---

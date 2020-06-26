@@ -3,8 +3,8 @@
 title: 为什么要写博客？
 date: 2017-07-17  
 updated: 2020-04-14
-categories: 庭勃士说
-tags: [Dr_Ting, 写作, 博客]   
+categories: 小庭子说  
+tags: [小庭子, 写作, 博客]   
 permalink: blog
 
 ---

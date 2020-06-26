@@ -660,6 +660,18 @@ https://rsshub.app/coronavirus/qq/fact
 
 #### 📰新闻
 
+**[Nei.st](https://nei.st/)**：这个 [网站的名字](https://nei.st/medium/qy2ncnddhevecekyxk8f0g) 来自斯凯岛 (Isle of Skye) 上 Neist Point，它提供借以观察世界的可靠新闻，文章来自 [The Wall Street Journal](https://nei.st/medium/wsj)、[Initium](https://nei.st/medium/initium)、[Caixin](https://nei.st/medium/caixin)、[The Economist](https://nei.st/medium/economist)、[Bloomberg](https://nei.st/medium/bloomberg-businessweek)、[National Geographic](https://nei.st/category/natgeo)、[NYTimes](https://nei.st/medium/nytimes)、[The Guardian](https://nei.st/category/medium/the-guardian)、[nfzm](https://nei.st/category/southern)、[YiMagazine](https://nei.st/category/yimag)、[The Atlantic](https://nei.st/category/the-atlantic)、[Lifeweek](https://nei.st/category/lifeweek)、[Nautilus](https://nei.st/category/nautilus)、[Financial Times](https://nei.st/medium/ft)、[Comparative Studies](https://nei.st/category/comparative)、[Caijing](https://nei.st/category/caijing)、[Movies](https://nei.st/category/arts/movies)、[City](https://nei.st/category/city)、[Travel](https://nei.st/travel/daoerdeng)、[Uncertainty](https://nei.st/category/uncertainty)……
+
+Nei.st 不只在乎内容，样式也很看重。网站使用了漂亮的自定义字体和大尺寸图片，虽然会拖垮网页的加载速度，带来更高的宽带和服务器费用支出，但 Nei.st 希望读者获得 [最接近网站创建意图的体验](https://nei.st/medium/natgeo/countdown-to-a-new-era-in-space)。运营网站费时费力费钱（付费文章、网站支出），为了让灯塔持续发光，请在拦截广告插件中把 Nei.st 加入白名单。要是可以在浏览文章的过程中顺手点击个广告，那就是举手之劳滴水之恩了。如果你喜欢我们，请让我们知道。如果你愿意支持我们，更要让我们知道。而如果你不喜欢我们，也请让我们知道。讨厌的人多了，也许就让我们熄火了。
+
+**关联阅读**：[不重要启事](https://nei.st/medium/j2c6srlbezlceyrdintsxq)
+
+```http
+https://nei.st/feed
+```
+
+> 庭说：如果只能订阅一个资讯源，那么订阅 Nei.st 就够了。
+
 
 
 **[端傳媒](https://theinitium.com/)**：立足香港，放眼世界，为全球华人而办的数字媒体。
@@ -677,18 +689,6 @@ https://theinitium.com/newsfeed/
 ```http
 https://cn.nytimes.com/rss.html
 ```
-
-
-
-**[Nei.st](https://nei.st/)**：这个 [网站的名字](https://nei.st/medium/qy2ncnddhevecekyxk8f0g) 来自斯凯岛 (Isle of Skye) 上 Neist Point，它提供借以观察世界的可靠新闻，文章来自 [The Wall Street Journal](https://nei.st/medium/wsj)、[Initium](https://nei.st/medium/initium)、[Caixin](https://nei.st/medium/caixin)、[The Economist](https://nei.st/medium/economist)、[Bloomberg](https://nei.st/medium/bloomberg-businessweek)、[National Geographic](https://nei.st/category/natgeo)、[NYTimes](https://nei.st/medium/nytimes)、[The Guardian](https://nei.st/category/medium/the-guardian)、[nfzm](https://nei.st/category/southern)、[YiMagazine](https://nei.st/category/yimag)、[The Atlantic](https://nei.st/category/the-atlantic)、[Lifeweek](https://nei.st/category/lifeweek)、[Nautilus](https://nei.st/category/nautilus)、[Financial Times](https://nei.st/medium/ft)、[Comparative Studies](https://nei.st/category/comparative)、[Caijing](https://nei.st/category/caijing)、[Movies](https://nei.st/category/arts/movies)、[City](https://nei.st/category/city)、[Travel](https://nei.st/travel/daoerdeng)、[Uncertainty](https://nei.st/category/uncertainty)……
-
-Nei.st 不只在乎内容，样式也很看重。网站使用了漂亮的自定义字体和大尺寸图片，虽然会拖垮网页的加载速度，带来更高的宽带和服务器费用支出，但 Nei.st 希望读者获得 [最接近网站创建意图的体验](https://nei.st/medium/natgeo/countdown-to-a-new-era-in-space)。运营网站费时费力费钱（付费文章、网站支出），为了让灯塔持续发光，请在拦截广告插件中把 Nei.st 加入白名单。要是可以在浏览文章的过程中顺手点击个广告，那就是举手之劳滴水之恩了。如果你喜欢我们，请让我们知道。如果你愿意支持我们，更要让我们知道。而如果你不喜欢我们，也请让我们知道。讨厌的人多了，也许就让我们熄火了。
-
-```http
-https://nei.st/feed
-```
-
-> 庭说：如果只能订阅一个资讯源，那么订阅 Nei.st 就够了。
 
 
 
