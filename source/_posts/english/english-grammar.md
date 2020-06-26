@@ -94,7 +94,7 @@ permalink: english-grammar
 
 #### 并列复合句
 
-并列复合句指若干个简单句用并列连词或表示并列的标点符号（通常是分号、冒号）连接所形成的句子。例如：
+并列复合句指若干个简单句用并列连词或表示并列的标点符号（通常是分号和冒号）连接所形成的句子。例如：
 
 > The girl looked at me intently, and she invited me to her wedding.
 
@@ -105,13 +105,79 @@ permalink: english-grammar
 
 形成了一个并列复合句。
 
+
+
+**并列连词**
+
+- for
+- and
+- nor (neither…nor…)
+- but
+- or (either … or…)
+- yet
+- so
+- not only … but also …
+
+首字母缩写为 fanboys（迷弟）。只有并列的对象是句子时，它才是并列复合句。
+
+
+
 #### 主从复合句
 
 主从复合句指若干个简单句用从属连词、关系代词、关系副词连接所形成的句子。例如：
 
 > She said that the President went to the hospital yesterday.
 
-这句话由两个简单句组成，其中一个是 she said …，另一个是 the President went to the hospital yesterday，其中 that 引导了第二个句子，整体作为前面这个句子的宾语，即宾语从句。
+这句话由两个简单句组成，其中一个是 `she said …`，另一个是 `the President went to the hospital yesterday`，其中 `that` 引导了第二个句子，整体作为前面这个句子的宾语，即宾语从句。
+
+
+
+##### 宾语 / 表语从句
+
+- 主语 + 及物动词 / 系动词 + that / whether / if / how … + 完整句
+- 主语 + 及物动词 / 系动词 + what / who / whom … + 非完整句
+
+
+
+##### 主语从句
+
+- That / Whether / How + 完整句 + 谓语动词 + …
+- What / Who + 非完整句 + 谓语动词 + …
+- It（形式主语）+ 谓语动词 + … + that + 完整句
+
+
+
+##### 同位语从句
+
+- 名词性成分 + that + 完整句
+
+##### 定语从句
+
+关系代词（其指代对象就是先行词）引导：
+
+- which / that / who / whom / as …+ 非完整句
+- whose …+ 完整句
+- 介词 + 关系代词（非 that / as）… + 完整句
+
+
+
+定语从句省略关系代词 who / whom / which / that 的情况：
+
+> The man (who) you like is going to school.
+
+
+
+由关系副词引导：
+
+- when / where / why … + 完整句
+
+
+
+##### 状语从句
+
+状语从句通常会出现在主句的前面或后面，有时插入主句中间也会被两个逗号隔开，因此相对来说比较好拆分。其形式也很简单：
+
+- 连词 + 完整句
 
 
 

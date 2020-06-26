@@ -2,7 +2,7 @@
 
 title: Windows 10 电脑：使用技巧、佳软推荐以及系统重装教程  
 date: 2017-12-18  
-updated: 2020-06-18    
+updated: 2020-06-27    
 categories: 数字生活   
 tags: [Windows, 网上冲浪指南]
 permalink: windows  
@@ -622,7 +622,7 @@ Internet Download Manager 是一个多线程下载管理器。虽然长得丑，
 
 #### [Dynamic Theme](https://www.microsoft.com/zh-cn/p/dynamic-theme/9nblggh1zbkw)
 
-免费的五星桌面壁纸软件，自动跟随 Bing 每日壁纸更新，无广告，无水印，支持自动保存壁纸到指定的文件夹。启动之后，也不会常驻在任务栏的通知区域，就像 Windows 10 系统自带的功能一样，可谓是「随风潜入夜，换图细无声」。
+免费的五星桌面壁纸软件，自动跟随 Bing 每日壁纸更新，无广告，无水印，支持自动保存壁纸到指定的文件夹。启动之后，也不会常驻在任务栏的通知区域，就像 Windows 10 系统自带的功能一样，可谓是「随风潜入夜，换图细无声」。每天通过一张漂亮的壁纸，去认识这个多姿多彩而又残酷的世界。
 
 
 
@@ -737,7 +737,7 @@ Internet Download Manager 是一个多线程下载管理器。虽然长得丑，
     slmgr /ato
     ```
     
-- 10 秒钟过后，自动激活成功。
+- 10 秒钟过后，自动激活成功。但是，经济允许的情况下，购买正版是更好的选择。
 
 
 
