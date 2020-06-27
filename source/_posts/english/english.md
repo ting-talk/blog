@@ -623,6 +623,14 @@ We found a pick-your-own apple orchard `'ɔrtʃərd`.
 - Don't open this until Christmas.   
   千万别在圣诞节前打开哦。
 
+### Precedence
+
+A take precedence over B：A 优先于 B
+
+- Have as much fun as possible at college, but don't let it take precedence over work.  
+  在大学里尽情地玩，但别让玩乐优先于学习。
+- Business people often think that fluency and communication take precedence over grammar when speaking.  
+  商界人士常认为说话时流利程度和表达能力比语法重要。
 
 
 ## R

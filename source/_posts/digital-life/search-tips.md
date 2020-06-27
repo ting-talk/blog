@@ -233,41 +233,17 @@ permalink: search-tips
 - [电影天堂](https://www.dy2018.com/)
 - 下载软件：[迅雷 5.8](https://tingtalk.me/windows/) 或 [荐片播放器](https://jianpian.com/)
 
-**看电影**
+**在线看电影**
 
+- [在线之家](https://www.zxzj.me/)
+- [低端影视](https://ddrk.me/)
 - [荐片播放器](https://jianpian.com/)
   - 号称专治迅雷被封链接
   - 免费高清视频：在线观看 & 可下载
   - [点击下载 Windows 电脑版](http://api.rinhome.com/api/bt/jp-pc.exe)
   - [点击下载 Android 手机版](http://api.rinhome.com/api/bt/jp.apk)
 - [茶杯狐 Cupfox](https://www.cupfox.com/)：搜索结果提供在线观看网址
-- [BTFILM]([http://www.btfilm.cn/hot.html?tag=%E8%B1%86%E7%93%A3%E9%AB%98%E5%88%86&sort=rank&playable=1](http://www.btfilm.cn/hot.html?tag=豆瓣高分&sort=rank&playable=1))：搜索结果提供国内视频网站的在线播放资源（但是任何国内的资源都可能有删减）
-
-
-
-受够了爱奇艺和腾讯视频？我推荐去 [低端影视](https://ddrk.me/) 瞧一瞧：
-
-- 在线观看
-- 超清画质
-- 没有广告
-- 界面清爽
-- 非删减版（导演剪辑版 / 数字修复版）
-
-**Tips**
-
-- 不要使用国产浏览器，使用 Edge、Chrome 或 Firefox。
-- 有些资源「死了」，站长在更新，先看「热门」和「推荐」栏目。
-- 如何记住（歪解）域名：如果人类一味地从大自然索取，纵使我们（me）是「高级智慧生物」，在病毒面前，也是低端人口（ddrk）。
-
-
-
-正在上映的资源一般不会出现高清版本，只有低画质版：
-
-- `CAM` 枪版
-- `TS` 准枪版
-- `TC` 胶片版
-
-高清资源会出现在影片在影院下线后，也就是大家在国内各大影视网站（爱奇艺，腾讯视频，优酷）看到有 VIP 资源出现的时候。
+- [BTFILM](http://www.btfilm.cn/hot.html?tag=豆瓣高分&sort=rank&playable=1)：搜索结果提供国内视频网站的在线播放资源（但是任何国内的资源都可能有删减）
 
 
 
