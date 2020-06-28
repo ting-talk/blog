@@ -140,13 +140,23 @@ Telegram 的中文搜索是以「词」为单位的，以标点符号或空格�
 
 
 
-### 🇨🇳汉化界面
+### 🐼汉化界面
 
 既然已经出来混了（突破网络墙），首选使用英文版的 Telegram（突破语言墙）。要是一点英文底子都没有：
 
-**方法一**：点此安装 👉 [简体中文语言包](https://t.me/setlanguage/classic-zh-cn)。
+#### 官方语言包
 
-**方法二**：在 Telegram 搜索 `zh_CN`，关注 [Telegram-zh_CN 简体中文语言包](https://t.me/zh_CN)，获取最新的中文本地化文件
+点此安装 [简体中文语言包](https://t.me/setlanguage/zh-hans-beta)。
+
+截止 2020 年 6 月 28 日，翻译已完成 87% 了。
+
+
+
+#### 第三方语言包
+
+点此安装 [简体中文语言包](https://t.me/setlanguage/classic-zh-cn)。
+
+或者，在 Telegram 搜索 `zh_CN`，关注 [Telegram-zh_CN 简体中文语言包](https://t.me/zh_CN)，获取最新的中文本地化文件
 
 2020 年 4 月 12 日，Telegram zh-CN Project 发布了 [停止更新公告](https://t.me/zh_CN/488)。英文加起来也没几个，半个钟就查完所有单词了。如果这点探索精神都没有，我们还翻出来干嘛？
 
@@ -606,7 +616,7 @@ Bots 就像运行在 Telegram 内部的小程序。借助 [Telegram 开放的 AP
 
 
 
-### 🧡[@RSSFlowBot](https://t.me/RSSFlowBot)
+### 🧡RSS 机器人
 
 > （如果）你不懂得 RSS，上网的效率和乐趣都要大打折扣。by [阮一峰](http://www.ruanyifeng.com/blog/2006/01/rss.html)
 
@@ -619,18 +629,21 @@ Bots 就像运行在 Telegram 内部的小程序。借助 [Telegram 开放的 AP
 
 我目前的资讯消化方案是：
 
-- [@RSSFlowBot](https://t.me/RSSFlowBot) 订阅不想错过的源，在 Telegram 内阅读（从 2020 年 6 月 9 日开始，这个 Bot 出问题了）。
+- 在这里 [All About RSS](https://github.com/AboutRSS/ALL-about-RSS#telegram-rss-bots) 找一个 RSS Bots，订阅不想错过的源，在 Telegram 内阅读，推荐以下 Bots：
+  - [@el_monitorro_bot](https://t.me/el_monitorro_bot)
+  - [@newlearner_rss_bot](https://t.me/newlearner_rss_bot)
+  - [@RSSFlowBot](https://t.me/RSSFlowBot)（从 2020 年 6 月 9 日开始停止运行，期待恢复运行）
 - [Inoreader](https://www.inoreader.com/) 订阅可以错过的源，在网页版或 Android 手机内阅读。
 
 
 
-如果内容创作者同时开通了 Telegram Channel 和 RSS，推荐读者优先订阅 Channel。对于那些没有创建 Channel 的内容创作者，请订阅 Ta 们的 RSS
-源。
+如果内容创作者同时开通了 Telegram Channel 和 RSS，推荐读者优先订阅 Channel。对于那些没有创建 Channel 的内容创作者，请订阅 Ta 们的 RSS源。作为 RSS 新人，目前订阅的内容比较乱，所以此部分的内容将会持续更新。
 
-作为 RSS 新人，目前订阅的内容比较乱，所以此部分的内容将会持续更新。
 
-Tips：点击 RSS
-地址最右侧的图标 📋，即可复制订阅链接，然后粘贴在 RSS 阅读器即可订阅成功。
+
+Tips：点击 RSS 地址最右侧的图标 📋，即可复制订阅链接，然后粘贴在 RSS 阅读器即可订阅成功。
+
+
 
 #### 🦠疫情
 
@@ -884,8 +897,9 @@ https://rsshub.app/douban/movie/playing/7.5
 
 - 有备无患：定期导出 OPML 文件至物理硬盘和云盘保存。
 - [RSSHub](https://docs.rsshub.app/) 是一个开源、简单易用、易于扩展的 RSS 生成器，可以给任何奇奇怪怪的内容（突然有点害羞）生成 RSS 订阅源。RSSHub 借助于开源社区的力量快速发展中，目前已适配数百家网站的上千项内容。得知 RSSHub 被墙后，对 GFW 无 Fuck 可说。
-- [己思](https://ohmyrss.com/) 是一个 [开源](https://github.com/richshaw2015/oh-my-rss) 的在线 RSS 阅读服务，旨在为 IT 从业者提供一个优质的学习圈子。
-- 其他的订阅机器人： [@TheFeedReaderBot](https://t.me/TheFeedReaderBot)、[@newlearner_rss_bot](https://t.me/newlearner_rss_bot)
+-  是一个 [开源](https://github.com/richshaw2015/oh-my-rss) 的在线 RSS 阅读服务，旨在为 IT 从业者提供一个优质的学习圈子。
+
+
 
 
 
