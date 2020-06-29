@@ -9,6 +9,8 @@ permalink: tinglish
 
 ---
 
+![letter-a-b-c](tinglish/letter-a-b-c.png)
+
 在学习英语过程中，我想把那些「怦然心动」的瞬间分享给读者们（seize the moment）。
 
 <!-- more -->

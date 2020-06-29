@@ -9,7 +9,8 @@ permalink: english-grammar
 
 ---
 
-英语语法书推荐：
+![grammar](english-grammar/grammar.png)
+
 - 《英语阅读参考手册》为主，点此下载 [电子书](https://github.com/xiaolai/a-new-english-reading-handbook)。
 - 《柯林斯 COBUILD 英语语法大全》为辅。
 
@@ -276,22 +277,17 @@ e.g.
   If I were to lie to her, I would lose her.
 
 
+倒装结构
+If I were a boy, I might be very handsome. = Were I a boy, I might be very handsome.  
+  
+be 动词因虚拟语气变为过去式时只会变为 were，而永远不会变成 was。
 
-**Tips**
+混合时态会有一个明显的时间标识，例如 now：
+If I had finished my work earlier, I could have dinner now.  
+If you'd listened to me, you wouldn't be in such trouble now. 
 
-- 倒装结构
-  If I were a boy, I might be very handsome.   
-  =   
-  Were I a boy, I might be very handsome.  
-
-- be 动词因虚拟语气变为过去式时只会变为 were，而永远不会变成 was。
-
-- 混合时态会有一个明显的时间标识，例如 now
-  If I had finished my work earlier, I could have dinner now.
-  If you'd listened to me, you wouldn't be in such trouble now. 
-
-- 混合语气
-   I could have caught that bus, only that I forgot to get any money out.
+混合语气
+I could have caught that bus, only that I forgot to get any money out.
 
 
 
