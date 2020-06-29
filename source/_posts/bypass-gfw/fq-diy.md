@@ -13,18 +13,37 @@ permalink: fq-diy
 
 <!-- more -->
 
-## 前言
+## 术语解释
 
-目前比较流行的番茄种植技术有：
+非技术出身，不妥之处，敬请斧正。
 
-- Shadowsocks
-  - 2012 年 4 月 20 日诞生
-  - 主流种植技术，但种出来番茄保质期越来越短了
-  - 变体有 ShadowsocksR 和 ShadowsocksRR
-- V2Ray
-  - 2015 年 11 月 30 日发布 1.0 正式版
-  - 新兴种植技术，可以救活被网管砸坏的番茄
-  - 种植技术较复杂
+
+
+### [VPN](https://zh.wikipedia.org/zh-hans/%E8%99%9B%E6%93%AC%E7%A7%81%E4%BA%BA%E7%B6%B2%E8%B7%AF)
+
+- 全称：Virtual Private Network（虚拟私人网络）。
+- 因为本来是用于企业内网传输，被用来翻墙后，效果并不理想，而且不能分流（系统（全局）层面）。
+- 但是以 VPN 已经成为是翻墙的代名词。
+
+
+
+### SS
+
+- 全称：Shadowsocks(R)。
+- 但 SS 只是一口锅，你需要把番茄（翻墙）放进去，稍作炒制（设置），才能烹饪出可口的番茄。番茄可以自己种，也可以去菜市场（俗称机场，因为 SS 的图标是小飞机）买。
+- 在电脑上代理软件，只有浏览器才能上外网，其他软件，例如 [Telegram](https://tingtalk.me/telegram/)，需要额外配置。
+- 在手机上是 VPN 软件，连接之后在状态栏有 VPN 的标识，因此手机上的浏览器、YouTube、Instgram、Twitter 无需单独设置，即可访问海外网站。
+- 因为 SS 诞生之初就是为了翻墙，所以此法至今健在。
+
+
+
+### 线路选择
+
+- 直连：翻墙客户端 --> 公网（GFW） --> 翻墙服务端
+- BGP：翻墙客户端 --> 国内中转服务器（BGP） --> 公网（GFW） --> 翻墙服务端
+- IPLC：翻墙客户端 --> 专线内网（IPLC） --> 翻墙服务端
+
+价格和稳定性依次递进。
 
 
 
@@ -72,49 +91,31 @@ VPS 是英文 Virtual Private Servers （虚拟专用服务器）的缩写，你
 
 ## 连接 VPS
 
-使用 SSH（Secure Shell）客户端可以远程控制你的刚刚购买的 VPS。macOS 用户可以使用苹果电脑自带的终端（Terminal）连接 VPS；Windows 用户可以使用 PuTTY（读 [ˈpʌti] ）连接 VPS。
+使用 SSH（Secure Shell）客户端可以远程控制你的刚刚购买的 VPS。
+
+- [Windows 用户可以使用 PuTTY（读 [ˈpʌti] ）连接 VPS](https://tingtalk.me/putty/)。
+- macOS 用户可以使用苹果电脑自带的终端（Terminal）连接 VPS.
 
 
 
-**下载 PuTTY（3.0 M 左右）**
-
-- 32 位系统：[putty-0.70-installer.msi](https://the.earth.li/~sgtatham/putty/latest/w32/putty-0.73-installer.msi)
-- 64 位系统：[putty-64bit-0.70-installer.msi](
+## 部署 VPS
 
 
 
-**使用 PuTTY**
+目前比较流行的番茄种植技术有：
 
-- Host Name (or IP address)：输入 VPS 的 IP Address（以 44.55.666.777 为例）
-- Port：22
-- Connection type：SSH
-- Save
-- Open：弹出 PuTTY Security Alert，选择 `是`
-- login as：root
-- root@44.55.666.777's Password：复制 VPS 的 Password，鼠标右键粘贴（界面上不会显示任何内容），回车。显示 `[root@vultr ~]#` 则代表连接成功（第一次登录的时候，会出现安全警告，单击 `是（Y）`）
-
-
-
-**如何快捷登录 PuTTY**
-
-右键 PuTTY 的快捷方式，依次选择「属性」 - 「快捷方式」 - 「目标」 - 在 `"*:\Program Files\PuTTY\putty.exe"` 后面 `空一格` 输入 `root@IP Address -pw "Password"`，完整展示如下：
-
-```
-"D:\Program Files\PuTTY\putty.exe" root@44.55.666.777 -pw "FuckGFW"
-```
+- Shadowsocks
+  - 2012 年 4 月 20 日诞生
+  - 主流种植技术，但种出来番茄保质期越来越短了
+  - 变体有 ShadowsocksR 和 ShadowsocksRR
+- V2Ray
+  - 2015 年 11 月 30 日发布 1.0 正式版
+  - 新兴种植技术，可以救活被网管砸坏的番茄
+  - 种植技术较复杂
 
 
 
-**PuTTY 中如何复制粘贴**
-
-- 要将复制的文本**粘贴**到终端（PuTTY 的 SSH 登录后的界面）里，只需要右键单击就行了
-- 要从终端中**复制**文本，只需要用鼠标左键拖拉选中即可
-
-
-
-
-
-## Shadowsocks
+### Shadowsocks
 
 **搭建流程**
 
@@ -124,7 +125,7 @@ VPS 是英文 Virtual Private Servers （虚拟专用服务器）的缩写，你
 
 
 
-### 安装 Shadowsocks 服务端
+#### 安装 Shadowsocks 服务端
 
 根据不同的系统，复制下面的 Shadowsocks 一键安装脚本（四合一），右键粘贴到 PuTTY 的 `[root@vultr ~]#` 后面：
 
@@ -294,66 +295,23 @@ by [Dler Cloud](https://t.me/dlercloud_news/1446)
 
 
 
-### 安装 Shadowsocks 客户端
+#### 安装 Shadowsocks 客户端
 
 参考 [番茄食用指南](https://tingtalk.me/fq/) 中的「吃番茄」章节。
 
 
 
-## V2Ray
+### V2Ray
 
-正在实践中。
-
-
-
-## 特别鸣谢
-
-营造清朗网络环境的第一步是让信息充分流动，但是在「泥泞的中文互联网」上，我们都是信息难民。感谢那些教我们 [种番茄](https://tingtalk.me/fq-diy/) 的先驱：特别是秋水逸冰，他的 Shadowsocks 四合一一键安装脚本和 [BBR 一键安装脚本](https://teddysun.com/489.html) 极大地改善了我们的 [数字生活](https://tingtalk.me/categories/digital-life/)。
-
-
-智者建桥，愚者建墙。脚著谢公屐，身登青云梯。愿大家永远坚强，永远懂得如何飞翔。
+未实践过。
 
 
 
-## 关联阅读
-
-- [科学上网 - 左耳朵](https://haoel.github.io/)
-- [记录一下 SS 的前世今生，以及一个简单的教程总结](https://github.com/JadaGates/ShadowsocksBio/blob/master/readme.md)
-- [个人使用 VPN「翻墙」是否违法？基于规范性法律文件、案例以及相关计算机技术的分析与讨论 - 王宇扬](https://mp.weixin.qq.com/s/cndzW_oXClkSdwOtam0qUw) | [存档](https://web.archive.org/web/20200521014852/https://mp.weixin.qq.com/s/cndzW_oXClkSdwOtam0qUw)
-
-### 术语解释
-
-非技术出身，不妥之处，敬请斧正。
-
-#### [VPN](https://zh.wikipedia.org/zh-hans/%E8%99%9B%E6%93%AC%E7%A7%81%E4%BA%BA%E7%B6%B2%E8%B7%AF)
-
-- 全称：Virtual Private Network（虚拟私人网络）。
-- 因为本来是用于企业内网传输，被用来翻墙后，效果并不理想，而且不能分流（系统（全局）层面）。
-- 但是以 VPN 已经成为是翻墙的代名词。
+---
 
 
 
-#### SS
-
-- 全称：Shadowsocks(R)。
-- 但 SS 只是一口锅，你需要把番茄（翻墙）放进去，稍作炒制（设置），才能烹饪出可口的番茄。番茄可以自己种，也可以去菜市场（俗称机场，因为 SS 的图标是小飞机）买。
-- 在电脑上代理软件，只有浏览器才能上外网，其他软件，例如 [Telegram](https://tingtalk.me/telegram/)，需要额外配置。
-- 在手机上是 VPN 软件，连接之后在状态栏有 VPN 的标识，因此手机上的浏览器、YouTube、Instgram、Twitter 无需单独设置，即可访问海外网站。
-- 因为 SS 诞生之初就是为了翻墙，所以此法至今健在。
-
-
-
-### 线路选择
-
-- 直连：翻墙客户端 --> 公网（GFW） --> 翻墙服务端
-- BGP：翻墙客户端 --> 国内中转服务器（BGP） --> 公网（GFW） --> 翻墙服务端
-- IPLC：翻墙客户端 --> 专线内网（IPLC） --> 翻墙服务端
-
-价格和稳定性依次递进。
-
-
-
-### 翻墙往事
+**翻墙往事**
 
 第一阶段：2016 年，我刚开始翻墙的时候，在搜索引擎输入关键词「翻墙」，循着蛛丝马迹，找到了 [赛风](https://psiphon.ca/zh/index.html)，接着用 [GoAgent](https://zh.wikipedia.org/zh-hans/GoAgent) ，但是速度都很慢。看到 [Fenng 的博客](https://dbanotes.net/siteinfo.html) 推荐 GreenVPN，买了一年，只用了半年，2017 年 6 月 22 日就被封了，也没有退款。
 
@@ -364,3 +322,20 @@ by [Dler Cloud](https://t.me/dlercloud_news/1446)
 
 
 若批评不自由，则赞美无意义。如果只允许一种声音存在，那么唯一存在的那个声音，基本上就是谎言。因为饭里有几粒沙子，从此以后就不吃饭，还不准全国人民吃，这就是中国特色。
+
+
+
+**特别鸣谢**
+
+营造清朗网络环境的第一步是让信息充分流动，但是在「泥泞的中文互联网」上，我们都是信息难民。感谢那些教我们 [种番茄](https://tingtalk.me/fq-diy/) 的先驱：特别是秋水逸冰，他的 Shadowsocks 四合一一键安装脚本和 [BBR 一键安装脚本](https://teddysun.com/489.html) 极大地改善了我们的 [数字生活](https://tingtalk.me/categories/digital-life/)。
+
+
+智者建桥，愚者建墙。脚著谢公屐，身登青云梯。愿大家永远坚强，永远懂得如何飞翔。
+
+
+
+**关联阅读**
+
+- [科学上网 - 左耳朵](https://haoel.github.io/)
+- [记录一下 SS 的前世今生，以及一个简单的教程总结](https://github.com/JadaGates/ShadowsocksBio/blob/master/readme.md)
+- [个人使用 VPN「翻墙」是否违法？基于规范性法律文件、案例以及相关计算机技术的分析与讨论 - 王宇扬](https://mp.weixin.qq.com/s/cndzW_oXClkSdwOtam0qUw) | [存档](https://web.archive.org/web/20200521014852/https://mp.weixin.qq.com/s/cndzW_oXClkSdwOtam0qUw)
