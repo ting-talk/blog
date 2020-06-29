@@ -9,8 +9,7 @@ permalink: english-pronunciation
 
 ---
 
-
-一般来说，同一个单词，名词形式在第一个音节重读，动词形式在第二个音节重读。
+![pronunciation](english-pronunciation/pronunciation.png "© icon-library.com")一般来说，同一个单词，名词形式在第一个音节重读，动词形式在第二个音节重读。
 
 <!-- more -->
 

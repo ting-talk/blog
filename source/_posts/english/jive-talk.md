@@ -9,7 +9,7 @@ permalink: jive-talk
 
 ---
 
-你可以在即刻 / 抖音 / [微博](https://weibo.com/u/7085662045) 搜索 `炸毛熊`，获取视频教程。
+![chain-ring](jive-talk/chain-ring.png)你可以在即刻 / 抖音 / [微博](https://weibo.com/u/7085662045) 搜索 `炸毛熊`，获取视频教程。
 
 <!-- more -->
 

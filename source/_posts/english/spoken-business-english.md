@@ -9,6 +9,8 @@ permalink: spoken-business-english
 
 ---
 
+![business](spoken-business-english/business.png)
+
 只要我们敢把英文说出口，外国朋友并不会嘲笑我们的中式口音，就像我们不会嘲笑外国朋友说中文一样。
 
 本文出自《毅冰私房英语书：7 天秀出外贸口语》，由庭勃士逐字逐句在键盘上敲击而成。

@@ -9,7 +9,7 @@ permalink: one-piece-english
 
 ---
 
-用 [美国 IP](https://tingtalk.me/fq/) 访问 [Funimation](https://www.funimation.com/shows/one-piece/)，即可观赏「英文字幕 + 日语配音」的《海贼王》（One Piece）。
+![thousand-sunny](one-piece-english/thousand-sunny.png)用 [美国 IP](https://tingtalk.me/fq/) 访问 [Funimation](https://www.funimation.com/shows/one-piece/)，即可观赏「英文字幕 + 日语配音」的《海贼王》（One Piece）。
 
 
 <!-- more -->

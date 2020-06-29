@@ -9,6 +9,8 @@ permalink: rick-and-morty
 
 ---
 
+![pickle-rick](rick-and-morty/pickle-rick.png "Pickle Rick by Mega-Shonen-One-64 on DeviantArt")
+
 Learn English with Rick and Morty.
 
 <!-- more -->

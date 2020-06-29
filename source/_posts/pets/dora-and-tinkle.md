@@ -8,7 +8,7 @@ permalink: dora-and-tinkle
 
 ---
 
-![dora-and-tinkle](dora-and-tinkle/dora-and-tinkle.jpeg)
+![dog-cat](dora-and-tinkle/dog-cat.png)
 
 喵喵叫哆啦（Dora），汪汪叫叮当（Tinkle）。
 
@@ -587,6 +587,8 @@ Dora 喜欢看我洗澡。
 自从叮当来了，宠物日志充满了狗子，微信猫咪省心，狗子闹心。`01:29`
 
 ### 2020-05-31
+
+![dora-and-tinkle](dora-and-tinkle/dora-and-tinkle.jpeg)
 
 Good dog，今晚没有吠。`00:36`
 
