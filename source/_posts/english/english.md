@@ -9,7 +9,7 @@ permalink: english
 
 ---
 
-一本属于庭勃士的英语百科全书。
+![letter-a](english/letter-a.png)一本属于庭勃士的英语百科全书。
 
 <!-- more -->
 
