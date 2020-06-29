@@ -9,7 +9,7 @@ permalink: windows
 
 ---
 
-[全球 Windows 10 活跃设备已经超过 10 亿台](https://news.microsoft.com/zh-cn/window-10-%E5%8A%A9%E5%8A%9B10-%E4%BA%BF%E6%9C%88%E6%B4%BB%E8%B7%83%E8%AE%BE%E5%A4%87%E4%B8%BA%E5%85%A8%E7%90%83%E8%B5%8B%E8%83%BD/)。不得不承认，它越好越好用了。下面跟着我的节奏，一起释放 Windows 10 的潜力。
+[![windows-10](windows/windows-10.png)全球 Windows 10 活跃设备已经超过 10 亿台](https://news.microsoft.com/zh-cn/window-10-%E5%8A%A9%E5%8A%9B10-%E4%BA%BF%E6%9C%88%E6%B4%BB%E8%B7%83%E8%AE%BE%E5%A4%87%E4%B8%BA%E5%85%A8%E7%90%83%E8%B5%8B%E8%83%BD/)。不得不承认，它越好越好用了。下面跟着我的节奏，一起释放 Windows 10 的潜力。
 
 <!-- more -->
 

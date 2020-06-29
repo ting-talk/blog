@@ -9,6 +9,8 @@ permalink: chrome
 
 ---
 
+![google-chrome](chrome/google-chrome.png)
+
 眼睛是心灵的窗户，浏览器是网络世界的入口。如何彻底打开这个入口（夸张的修辞手法）？这篇文章会一一告诉你。
 
 <!-- more -->

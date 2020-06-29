@@ -9,6 +9,8 @@ permalink: cook
 
 ---
 
+![recipe](cook/recipe.png)
+
 烹饪让我安宁。Since I learned how to cook, my life has become a smorgasbord of interesting tales. Homemade, peace. 
 
 > 人生不能像做菜，把所有的料都准备好了才下锅。by 1994 年上映的《饮食男女》。
