@@ -174,7 +174,7 @@ marked:
 
 [hexo-asset-link](https://github.com/liolok/hexo-asset-link): Convert base-relative asset links to root-relative ones, so that user can insert assets like images in markdown way. 
 
-教程：[如何为 Hexo 博文加入图片](https://liolok.github.io/zh-CN/How-to-Add-Image-to-Hexo-Blog-Post/#Hexo-文章资源文件夹)
+教程：[如何为 Hexo 博文加入图片](https://liolok.github.io/How-to-Add-Image-to-Hexo-Blog-Post/zh-Hans/)
 
 
 

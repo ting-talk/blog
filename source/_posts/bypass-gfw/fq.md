@@ -64,7 +64,9 @@ Ting 我 Talk 一句：只要肉身在中国大陆，我们的一切行动听党
 
 ### 💸 充值购买
 
-- 用手机或者电脑打开 [ssrcloud](https://www.clashcloud.net/auth/register?code=o4rW)，注册，登录（[备用注册链接](https://ntt-co-jp.club/#/auth/register?code=o4rW)）。
+- 用手机或者电脑打开 [ssrcloud](https://www.clashcloud.net/auth/register?code=o4rW)，注册，登录。
+  - 邀请码是 `o4rW`
+  - [备用注册链接](https://ntt-co-jp.club/#/auth/register?code=o4rW)
 - `商店` - `充值`：￥10 至 ￥20
 - `套餐购买`：多寡随意，丰俭由人。为了保险起见，不管是买哪一家的番茄，我都推荐先买一个月的量试用一下，觉得好用，再季付 / 年付。毕竟道高一次，魔高一丈，中国的网管可不是吃素的（可怕的食肉动物），对番茄这种水果极其厌恶。万一发飙，种植技术一般的番茄商可能就 Game Over 了。
 - `我的` - `用户中心` - `快速添加节点` - 复制 `普通节点订阅地址`，粘贴在对应的番茄客户端即可食用。
@@ -309,6 +311,7 @@ Shadowsocks(R) 简称为 SS(R)，俗称酸酸（乳）。因为图标是小飞�
   - `魔改` [ShadowsocksR](https://github.com/HMBSbige/ShadowsocksR-Android/releases) by Bruce Wayne
   - `魔改` shadowsocksRb.apk 下载途径：[GitHub](https://github.com/shadowsocksRb/shadowsocksRb-android/releases) | [Telegram Channel](https://t.me/ShadowsocksRb)
   - `魔改` [Maying](https://apkpure.com/maying/co.tgbot.peekfun)：内置了 [ACL4SSR](https://github.com/ACL4SSR/ACL4SSR) 路由规则。我目前的选择。
+  - `魔改` [喵帕斯修改版](https://xn--i2ru8q2qg.com/downloads/client/ssr-android.apk)：基于届时 SSRR [最新版](https://github.com/shadowsocksrr/shadowsocksr-android/releases/tag/3.5.4) 代码去掉了节点列表乱序功能，不能与之共存。
   - `备用` [下载链接](https://lanzous.com/b00t9wiva)
 - 轻触 App 图标打开，点击左上角的 `ShadowsocksR` ，进入配置文件管理页面，然后点击右下角的 `+`，在弹出的选项中选择 `添加/升级 SSR 订阅`
 - 在弹出的菜单中选择 `添加订阅地址`，在新窗口中粘贴之前从番茄商里获取的地址

@@ -93,3 +93,10 @@ permalink: gcp
 
 亲测时间 2020 年 5 月 9 日。
 
+
+
+---
+
+
+
+你也可以去薅 Amazon 的羊毛：[使用 AWS 免费搭建 SS + MTProto 服务端 - 李皓奇](https://liolok.github.io/Setup-Free-SS-and-MTProto-Server-Using-AWS/zh-Hans/)

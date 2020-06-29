@@ -9,6 +9,8 @@ permalink: putty
 
 ---
 
+![ssh](putty/ssh.png)
+
 - Windows 用户可以使用 PuTTY（读 [ˈpʌti] ）连接 VPS。
 - macOS 用户可以使用苹果电脑自带的终端（Terminal）连接 VPS.
 
