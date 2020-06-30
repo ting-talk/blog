@@ -462,6 +462,14 @@ Windows 的默认图片浏览器非常难用。而 qimgv 是一款开源的图�
 
 
 
+#### [FastStone Capture](https://www.faststone.org/index.htm)
+
+滚动（窗口）截图的好帮手。
+
+最后一个免费版本：[FastStone Capture 5.3](https://wwa.lanzous.com/b00t9wiva)，解压后直接运行 FSCapture.exe（汉化便携版）即可，所有配置保存到 fsc.db 文件中。
+
+
+
 #### [LICEcap](https://www.cockos.com/licecap/)
 
 - 免费开源的 GIF 录屏工具，支持 macOS 和 Windows 平台。
