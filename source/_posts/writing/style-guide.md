@@ -9,6 +9,8 @@ permalink: style-guide
 
 ---
 
+![essay](style-guide/essay.png)
+
 评价一个科技媒体或者设计师是否专业，我会看 Ta 中英文之间是否有空格，因为美好的文字值得用更优美的方式呈现。
 
 <!-- more -->

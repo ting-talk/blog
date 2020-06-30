@@ -8,6 +8,8 @@ tags: [网站, Hexo, 博客]
 permalink: hexo  
 ---
 
+![hexo](hexo/hexo.png)
+
 是 Hexo + NexT 让我重拾笔杆子，感谢开发者们和维护者们。
 
 <!-- more -->

@@ -9,6 +9,8 @@ permalink: telegram-animated-emoji
 
 ---
 
+![see-no-evil-monkey](telegram-animated-emoji/see-no-evil-monkey.png)
+
 静态的 Emoji，在被 Telegram Team 注入灵魂之后，一个个变得鲜活起来了。
 
 <!-- more -->

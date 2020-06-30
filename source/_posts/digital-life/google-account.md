@@ -8,6 +8,8 @@ tags: 网上冲浪指南
 permalink: google-account
 ---
 
+![google](google-account/google.png)
+
 解决「此电话号码无法用于进行验证」的问题。
 
 <!-- more -->

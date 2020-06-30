@@ -9,6 +9,8 @@ permalink: fq
 
 ---
 
+![pacilogo](fq/pacilogo.png)
+
 每一个做外贸，搞设计，写代码或者对数字生活有追求的人，开始「网上冲浪」之前，都会带上足量的 🍅 番茄（[翻墙](https://zh.wikipedia.org/wiki/%E7%AA%81%E7%A0%B4%E7%BD%91%E7%BB%9C%E5%AE%A1%E6%9F%A5) 的谐音），确保可以顺利出海。
 
 <!-- more -->

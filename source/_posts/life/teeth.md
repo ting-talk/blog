@@ -9,6 +9,8 @@ permalink: teeth
 
 ---
 
+![broken-tooth](teeth/broken-tooth.png)
+
 早上刷牙出门体面，晚上刷牙刺激性欲。
 
 <!-- more -->

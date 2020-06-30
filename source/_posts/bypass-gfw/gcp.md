@@ -8,6 +8,8 @@ tags: [突破网络审查, VPS]
 permalink: gcp  
 ---
 
+![google-cloud](gcp/google-cloud.png)
+
 感谢 Google Cloud Platform（GCP，谷歌云）赠予 $300 和 12 个月免费试用期。
 
 <!-- more -->

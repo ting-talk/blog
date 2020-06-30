@@ -9,6 +9,8 @@ permalink: blog
 
 ---
 
+![the-pencil-fist](blog/the-pencil-fist.png)
+
 我有时，会张开双臂拥抱世界，在精神上与我有相似思考和感触的读者隔空击掌。有时，我只想一个人。这个博客，就是我一个人的精神角落。
 
 <!-- more -->

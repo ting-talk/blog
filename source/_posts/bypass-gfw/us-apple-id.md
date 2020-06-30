@@ -9,6 +9,8 @@ permalink: us-apple-id
 
 ---
 
+![apple](us-apple-id/apple.png)
+
 当你在中国区的 App Store 找不到想要的 app 时，例如 Skype、‎Shadowrocket、Quantumult 和 Surge 等，才会知道美（国）区 Apple ID 的可贵。不想折腾的用户，我收集了一些 [免费的共享 Apple ID（非中国区 ）](https://tingtalk.me/us-apple-id-share/)供读者享用（但 Apple 正在大力封杀共享 Apple ID） 。
 
 <!-- more -->

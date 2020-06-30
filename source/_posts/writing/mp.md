@@ -9,6 +9,8 @@ permalink: mp
 
 ---
 
+![wechat](mp/wechat.png)
+
 清爽的排版，能让阅读成为一种享受。
 
 <!-- more -->
