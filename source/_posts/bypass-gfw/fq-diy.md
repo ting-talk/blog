@@ -9,6 +9,8 @@ permalink: fq-diy
 
 ---
 
+![tomato](fq-diy/tomato.png)
+
 在墙大的国家机器面前，我推荐 99% 的人直接去 [菜市场](https://github.com/387099/SSR/issues/1) 购买 [现成的番茄](https://tingtalk.me/fq/)。倘若动手能力不错，可以买一块地（VPS），自己种番茄。
 
 <!-- more -->

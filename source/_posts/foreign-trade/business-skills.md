@@ -9,6 +9,8 @@ permalink: business-skills
 
 ---
 
+![business](business-skills/business.png)
+
 从获客阶段、开发阶段、量产阶段到增长阶段。
 
 <!-- more -->

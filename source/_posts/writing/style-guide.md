@@ -2,26 +2,22 @@
 
 title: 文案风格及排版指南 
 date: 2017-12-05  
-updated: 2020-05-22  
+updated: 2020-06-30   
 categories: 写作技巧 
 tags: [写作, 排版]   
 permalink: style-guide   
 
 ---
 
-![essay](style-guide/essay.png)
+![essay](style-guide/essay.png/)
 
-评价一个科技媒体或者设计师是否专业，我会看 Ta 中英文之间是否有空格，因为美好的文字值得用更优美的方式呈现。
+评价一个科技媒体或者设计师是否专业，我会看中英文之间是否空一格，因为美好的文字值得用更优雅的方式呈现。
 
 <!-- more -->
 
 国外的一些科技公司（[Apple](https://www.apple.com/cn/)、[Google](https://www.google.com/ncr)、[Microsoft](https://www.microsoft.com/zh-cn/)……）和国内的一些科技媒体（[少数派](https://sspai.com/)、[好奇心日报](http://www.qdaily.com/)、[Readhub](https://readhub.cn/)……），在中英文混排时，会在全形字（中文）和半形字（英文、数字、符号等）之间添加一个半角空格，以增加视觉美感。
 
 大概在 2018 年 1 月份，微信也悄悄地跟进了这种排版美学。例如，你在微信聊天框输入 `庭说TingTalk` 并发送，会自动变成 `庭说 TingTalk`。
-
-每多一人采用这份《写作风格手册》，我就可以少加一些空格。
-
-
 
 
 ## 拼写正确
@@ -952,7 +948,10 @@ IOC（International Olympic Committee，国际奥林匹克委员会）。这样�
 
 
 **关联阅读**
-
 - [公众号排版指南](https://mp.weixin.qq.com/s/7TX2e_1_AmH9aP7z0Io-qQ)
 - [Markdown 入门教程及书写风格指南](https://tingtalk.me/markdown/)
 - [可能是深色模式下最好的公众号阅读体验 - eBooksPlan](https://mp.weixin.qq.com/s/ofcxNict6NG-9bolB5ORPw)
+
+
+
+最后有一个不情之请：希望看到这里的读者可以帮我扩散这篇文章。因为一看到中英文之间没有空一格，我就浑身难受。所以每多一人采用这份《写作风格手册》，我就可以少加一些空格。多出来的时间，我就可以浪费在美好的事物上面了。

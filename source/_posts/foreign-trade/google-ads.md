@@ -8,6 +8,8 @@ tags: 外贸
 permalink: google-ads 
 ---
 
+![google-ads](google-ads/google-ads.png)
+
 Google Ads，原名 Google AdWords，是 Google 公司主要的广告服务产品，也是 Google 的主要收入来源，发布于 2000 年 10 月 23 日。by [维基百科](https://zh.wikipedia.org/zh-cn/Google_Ads) 
 
 <!-- more -->

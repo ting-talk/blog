@@ -8,6 +8,8 @@ tags: 写作
 permalink: name  
 ---
 
+![name](name/name.png)
+
 名字取得好，长大烦恼少。
 
 <!-- more -->

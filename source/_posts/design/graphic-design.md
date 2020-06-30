@@ -9,6 +9,8 @@ permalink: graphic-design
 
 ---
 
+![drawing-tools](graphic-design/drawing-tools.png)
+
 设计让生活更美好。
 
 <!-- more -->

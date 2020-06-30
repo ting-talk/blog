@@ -9,6 +9,8 @@ permalink: ppt
 
 ---
 
+![ppt](ppt/ppt.png "Microsoft Office PowerPoint")
+
 先把 Point 理清楚，再考虑有没有 Power。
 
 <!-- more -->

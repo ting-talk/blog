@@ -9,6 +9,8 @@ permalink: on-page-seo
 
 ---
 
+![seo](on-page-seo/seo.png)
+
 牢牢记住：一切以用户体验为出发。
 
 <!-- more -->
