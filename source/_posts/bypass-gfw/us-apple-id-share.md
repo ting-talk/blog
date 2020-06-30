@@ -7,9 +7,9 @@ tags: 突破网络审查
 permalink: us-apple-id-share
 ---
 
+![apple-id](us-apple-id-share/apple-id.png) 
 
-
-在![apple-id](us-apple-id-share/apple-id.png) Apple 的严厉打击下，此法逐渐失效。[自行注册 Apple ID](https://tingtalk.me/us-apple-id)，才是终极且安全的解决办法。
+在 Apple 的严厉打击下，此法逐渐失效。[自行注册 Apple ID](https://tingtalk.me/us-apple-id)，才是终极且安全的解决办法。
 
 <!-- more -->
 

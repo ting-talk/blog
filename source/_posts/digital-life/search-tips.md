@@ -9,6 +9,7 @@ permalink: search-tips
 
 ---
 
+![search](search-tips/search.png)
 
 > 在大型局域网（互联网）的今天，你以为搜索是一门技术，其实搜索是一门忍术。你必须忍受不同平台各自为阵，内容信息就像孤岛，也必须忍受搜索结果被活埋在广告堆中……以至于，目前来说，好的搜索方式，不止是掌握了搜索方法，还要，找对平台。by  [Topbook](https://topbook.cc/overview) 
 

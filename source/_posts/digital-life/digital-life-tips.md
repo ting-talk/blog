@@ -9,6 +9,7 @@ permalink: digital-life-tips
 
 ---
 
+![surf-web](digital-life-tips/surf-web.png)
 
 这是一个信息爆炸的时代，如何在网络上体面地「冲浪」？我有我的方法。
 

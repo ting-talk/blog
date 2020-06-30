@@ -9,11 +9,11 @@ permalink: brand
 
 ---
 
+![ting-talk](brand/ting-talk.png)
+
 再小的个体，也有自己的品牌。by [微信公众平台](https://mp.weixin.qq.com/)。
 
 <!-- more -->
-
-
 
 ## Blog Name
 

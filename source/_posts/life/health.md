@@ -9,6 +9,8 @@ permalink: health
 
 ---
 
+![insurance](health/insurance.png)
+
 因为其它事情（名利和情爱）都可以克服或者放弃。还是那句老话：身体是革命的本钱，健康是生活的基础。
 
 
