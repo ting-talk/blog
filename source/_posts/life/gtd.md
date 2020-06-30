@@ -9,6 +9,8 @@ permalink: gtd
 
 ---
 
+![clock](gtd/clock.png)
+
 GTD （Getting Things Done ）直接翻译为「把事情做完」，本身就很可能让人误解成：你必须做完所有的事情。更贴切的翻译是：「把事情处理完」或者「把事情做好」，因为你不可能完成所有事情。by [Topbook](https://topbook.cc/course/detail/153)
 
 <!-- more -->

@@ -9,6 +9,8 @@ permalink: cold-email
 
 ---
 
+![email](cold-email/email.png)
+
 如何写一封能收到回复的开发信？
 
 <!-- more -->

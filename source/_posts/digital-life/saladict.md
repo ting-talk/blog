@@ -4,10 +4,12 @@ title: 沙拉查词：浏览器上最强大的划词翻译插件
 date: 2020-02-17  
 updated: 2020-03-10  
 categories: 数字生活   
-tags: [Chrome, 网上冲浪指南]
+tags: [Chrome, 网上冲浪指南, 英语]
 permalink: saladict
 
 ---
+
+![saladict](saladict/saladict.png)
 
 Saladict（沙拉查词）是一款聚合了大量权威词典的划词翻译插件（扩展程序），多个查词引擎可以交叉验证查词结果，助你全方位掌握外文词汇（涵盖中、英、日、韩、法、德、西语等），支持网页翻译、生词本、快捷键唤醒查词面板等功能，完全满足了我对查词插件所有的期望。
 

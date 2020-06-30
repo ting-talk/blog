@@ -9,6 +9,8 @@ permalink: personal-insurance
 
 ---
 
+![shelter-for-families](personal-insurance/shelter-for-families.png)
+
 虽然中国的保险行业已经被职业水平不够的代理人黑化了，但是保险转移风险的作用不可忽视。本文将教你如何科学地配置保险，给人生加多一道保障。
 
 <!-- more -->

@@ -9,6 +9,8 @@ permalink: wishes
 
 ---
 
+![wishes](wishes/wishes.png)
+
 原来我一直被厚爱着，感谢 Ta 们带给我的感动。
 
 <!-- more -->

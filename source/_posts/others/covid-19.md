@@ -9,6 +9,8 @@ permalink: covid-19
 
 ---
 
+![covid-19](covid-19/covid-19.png)
+
 人类在宇宙很渺小，但我们可以通过科学知识武装自己，变得强大无比。
 
 <!-- more -->
