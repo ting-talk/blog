@@ -9,6 +9,8 @@ permalink: alibaba-tutorial
 
 ---
 
+![alibaba](alibaba-tutorial/alibaba.png)
+
 阿里巴巴这个「生意人」从来不关心用户体验，只想着榨干你的广告费。
 
 <!-- more -->

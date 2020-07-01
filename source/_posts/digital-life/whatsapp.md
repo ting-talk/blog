@@ -9,6 +9,8 @@ permalink: whatsapp
 
 ---
 
+![whatsapp](whatsapp/whatsapp.png)
+
 WhatsApp 是 Facebook 公司的旗下一款用于智能手机的跨平台加密即时通信应用程序。
 
 <!-- more -->
