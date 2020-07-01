@@ -8,6 +8,8 @@ tags: 设计
 permalink: photography  
 ---
 
+![apertur](photography/apertur.png)
+
 不断按下快门，是摄影师的必修课。
 
 <!-- more -->

@@ -8,6 +8,8 @@ tags: 外贸
 permalink: linkedin  
 ---
 
+![linkedin](linkedin/linkedin.png)
+
 像蝗虫一样侵入职场社交，是否会让 LinkedIn 没落？
 
 <!-- more -->

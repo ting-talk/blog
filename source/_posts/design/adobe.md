@@ -9,6 +9,8 @@ permalink: adobe
 
 ---
 
+![adobe](adobe/adobe.png)
+
 一些平面设计软件的操作技巧。
 
 <!-- more -->
