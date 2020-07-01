@@ -9,6 +9,8 @@ permalink: rent-an-apartment
 
 ---
 
+![apartment](rent-an-apartment/apartment.png)
+
 噪音是最需要注意的问题。
 
 <!-- more -->

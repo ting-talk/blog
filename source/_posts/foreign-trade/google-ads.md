@@ -30,7 +30,6 @@ Google Ads，原名 Google AdWords，是 Google 公司主要的广告服务产�
 ### 关键词调研
 
 **哪里找**
-
 - Google 搜索下拉联想词
 - Google Ads 的关键字规划师
   - 用大词去搜
@@ -44,9 +43,7 @@ Google Ads，原名 Google AdWords，是 Google 公司主要的广告服务产�
 - 竞争对手的网站：Google 搜索 `关键词 -site:alibaba.com -site:made-in-china`
 
 
-
 **如何在 `关键字规划师` 确认搜索量的具体数值**
-
 - 获取搜索量和预测数据
 - 输入关键词
 - 搜索网络：Google
@@ -54,9 +51,7 @@ Google Ads，原名 Google AdWords，是 Google 公司主要的广告服务产�
 - 最高每次点击费用：最高
 
 
-
 **关键词定价**
-
 - 不同地区，不同出价
 - 按匹配类型出价
   - 词组匹配：建议价格的 50% ~ 60%
@@ -65,7 +60,6 @@ Google Ads，原名 Google AdWords，是 Google 公司主要的广告服务产�
 - 按设备类型出价
   - 单独投放：复制 PC 端的关键词到移动端
   - 建议价格：PC 端的 60%
-
 
 
 ## 搭建独立站
