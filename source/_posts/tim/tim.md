@@ -9,6 +9,8 @@ permalink: tim
 
 ---
 
+![hello](tim/hello.png)
+
 一个怀有自由主义的愤青，应该怎样去看待这个世界。
 
 <!-- more -->

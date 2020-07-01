@@ -9,6 +9,8 @@ permalink: zwp
 
 ---
 
+![male](zwp/male.png)
+
 以人为镜，可以明得失。
 
 <!-- more -->

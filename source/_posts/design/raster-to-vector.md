@@ -9,6 +9,8 @@ permalink: raster-to-vector
 
 ---
 
+![inkscape](raster-to-vector/inkscape.png)
+
 免费开源的矢量图像编辑器，小巧而强大，强烈推荐设计师人手一份。
 
 <!-- more -->

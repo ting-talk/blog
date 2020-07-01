@@ -9,6 +9,8 @@ permalink: swim
 
 ---
 
+![swim](swim/swim.png)
+
 换气不顺，游 50 米就没气了，气死我了。
 
 <!-- more -->

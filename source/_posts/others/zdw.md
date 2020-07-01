@@ -9,6 +9,8 @@ permalink: zdw
 
 ---
 
+![catholicism](zdw/catholicism.png)
+
 上帝会赐予他钢笔，让他成为一个作家。
 
 <!-- more -->
