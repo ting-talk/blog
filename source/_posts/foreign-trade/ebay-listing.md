@@ -9,6 +9,8 @@ permalink: ebay-listing
 
 ---
 
+![ebay](ebay-listing/ebay.png)
+
 本文请配合 eBay 大学的 [单属性 Listing 刊登](https://www.ebay.cn/newcms/Home/publish/8) 教程一起观看。请注意：有些刊登项目是收费的（详见 [费用总览](https://www.ebay.cn/newcms/Home/ebay_fees/2)）。
 
 <!-- more -->
