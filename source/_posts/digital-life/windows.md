@@ -464,9 +464,18 @@ Windows 的默认图片浏览器非常难用。而 qimgv 是一款开源的图�
 
 #### [FastStone Capture](https://www.faststone.org/index.htm)
 
-滚动（窗口）截图的好帮手。
+滚动截图（捕捉滚动窗口）的好帮手。
 
-最后一个免费版本：[FastStone Capture 5.3](https://wwa.lanzous.com/b00t9wiva)，解压后直接运行 FSCapture.exe（汉化便携版）即可，所有配置保存到 fsc.db 文件中。
+- 付款版：[FastStone Capture 9.3](https://portablesoft.lanzous.com/ibdhpja)
+  - name（用户名）：bluman
+  - serial（注册码）：VPISCJULXUFGDDXYAUYF
+- 免费版：[FastStone Capture 5.3](https://wwa.lanzous.com/b00t9wiva)，有时会拼接失败。
+
+解压后直接运行 FSCapture.exe（汉化便携版）即可，所有配置保存到 fsc.db 文件中。
+
+若经济允许，请付费支持。
+
+> 安装包来源：[FastStone Capture 9.3 汉化绿色便携版 - 极品屏幕截图工具 - PortableSoft](https://www.portablesoft.org/faststone-capture/) 
 
 
 
