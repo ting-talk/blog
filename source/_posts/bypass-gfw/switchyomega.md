@@ -9,6 +9,8 @@ permalink: switchyomega
 
 ---
 
+![switchyomega](switchyomega/switchyomega.png)
+
 tingtalk.me 因为不可抗力，在中国大陆被遭到屏蔽，此时在 [智能分流（PAC）模式](https://github.com/gfwlist/gfwlist) 下无法正常访问庭说的博客。于是不得不切换为 `全局模式`，但这样一来，其他可以正常访问的网站（例如 sspai.com）也走代理通道了（速度慢，费流量）。所以阅读完我的博客之后，不得不换回 PAC 模式。
 
 这个时候，借助 [SwitchyOmega](https://github.com/FelisCatus/SwitchyOmega/) 可以创建属于自己的规则列表（任意网站，走不走代理通道，你说了算）。

@@ -9,6 +9,8 @@ permalink: organising-training-events
 
 ---
 
+![participate](organising-training-events/participate.png)
+
 不仅课程内容要有料有趣，如何设计活动流程，也是一门大学问。
 
 

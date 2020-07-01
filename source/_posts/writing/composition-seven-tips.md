@@ -9,6 +9,7 @@ permalink: composition-seven-tips
 
 ---
 
+![inkwell](composition-seven-tips/inkwell.png)
 
 王鼎钧先生以极其幽默的笔法，将写作技巧解析得深入浅出、逻辑分明。不仅是中学生必备读物，对任何追求中文之美的人，也是一本难得的写作指南。
 
