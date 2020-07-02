@@ -145,21 +145,17 @@ Telegram 的中文搜索是以「词」为单位的，以标点符号或空格�
 
 既然已经出来混了（突破网络墙），首选使用英文版的 Telegram（突破语言墙）。要是一点英文底子都没有：
 
-#### 官方语言包
+#### [官方语言包](https://t.me/setlanguage/zh-hans-beta)
 
-点此安装 [简体中文语言包](https://t.me/setlanguage/zh-hans-beta)。
-
-截止 2020 年 6 月 28 日，翻译已完成 87% 了。
+点此安装 👆。截止 2020 年 6 月 28 日，翻译已完成 87% 了。
 
 
 
-#### 第三方语言包
+#### [第三方语言包](https://t.me/setlanguage/classic-zh-cn)
 
-点此安装 [简体中文语言包](https://t.me/setlanguage/classic-zh-cn)。
+点此安装 👆。或者，在 Telegram 搜索 `zh_CN`，关注 [Telegram-zh_CN 简体中文语言包](https://t.me/zh_CN)，获取最新的中文本地化文件
 
-或者，在 Telegram 搜索 `zh_CN`，关注 [Telegram-zh_CN 简体中文语言包](https://t.me/zh_CN)，获取最新的中文本地化文件
-
-2020 年 4 月 12 日，Telegram zh-CN Project 发布了 [停止更新公告](https://t.me/zh_CN/488)。英文加起来也没几个，半个钟就查完所有单词了。如果这点探索精神都没有，我们还翻出来干嘛？
+2020 年 4 月 12 日，Telegram zh-CN Project 发布了 [停止更新公告](https://t.me/zh_CN/488)。
 
 
 
@@ -294,6 +290,7 @@ Telegram 的中文搜索是以「词」为单位的，以标点符号或空格�
 
 - **快速多选**：在对话界面的空白位置，按着鼠标左键不放，即可多选信息，然后选择转发或者删除。
 - **链接直达**：按住 `Ctrl` 再点击 URL，直接打开链接，不必弹窗确认（Open this link? CANCEL / OPEN）。
+- **多用户切换**：不再是手机版的专属功能。
 
 
 
@@ -326,6 +323,10 @@ Telegram 的中文搜索是以「词」为单位的，以标点符号或空格�
 1. 在编辑区输入文本
 2. 长按选择想要格式化的文本，会弹出一些文字操作的选项
 3. 轻触 `BIU`（或许藏在 ▶️ 后面），即可看到文本格式化选项
+
+
+
+也可以在任意发送框输入 [@bold](https://telegram.me/bold)，使用 [Markdown](https://tingtalk.me/markdown/) 编辑消息。
 
 
 
@@ -630,10 +631,11 @@ Bots 就像运行在 Telegram 内部的小程序。借助 [Telegram 开放的 AP
 
 我目前的资讯消化方案是：
 
-- 在这里 [All About RSS](https://github.com/AboutRSS/ALL-about-RSS#telegram-rss-bots) 找一个 RSS Bots，订阅不想错过的源，在 Telegram 内阅读，推荐以下 Bots：
+- 在 [All About RSS](https://github.com/AboutRSS/ALL-about-RSS#telegram-rss-bots) 里找一个 RSS Bots，订阅不想错过的源，在 Telegram 内阅读，推荐以下 Bots：
   - [@el_monitorro_bot](https://t.me/el_monitorro_bot)
   - [@newlearner_rss_bot](https://t.me/newlearner_rss_bot)
-  - [@RSSFlowBot](https://t.me/RSSFlowBot)（从 2020 年 6 月 9 日开始停止运行，期待恢复运行）
+  - [@NodeRSS_bot](https://t.me/NodeRSS_bot)
+  - [@RSSFlowBot](https://t.me/RSSFlowBot) 从 2020 年 6 月 9 日开始停止运行，[@RssChinabot](https://t.me/RssChinabott) 是它的同款机器人。
 - [Inoreader](https://www.inoreader.com/) 订阅可以错过的源，在网页版或 Android 手机内阅读。
 
 
@@ -892,6 +894,20 @@ https://rsshub.app/douban/movie/playing/7.5
 
 
 
+**追踪 Telegram 的 Twitter 动态。**
+
+```http
+https://rsshub.app/twitter/user/telegram
+```
+
+
+
+**追踪《海贼王动漫》（One Piece）的 Twitter 动态。**
+
+```http
+https://rsshub.app/twitter/user/OnePieceAnime
+```
+
 
 
 **Tips**
@@ -973,7 +989,7 @@ https://rsshub.app/douban/movie/playing/7.5
 | Bot                                                | Info                                                         |
 | -------------------------------------------------- | ------------------------------------------------------------ |
 | [@CorsaBot](https://telegram.me/CorsaBot)          | Make Instant View from any article. 快速把文章把文章备份到 [Telegraph](https://telegra.ph/)。 |
-| [@ifttt](https://telegram.me/ifttt)                | [把 If This Then That 集成到 Telegram 上](https://telegram.org/blog/pin-and-ifttt#ifttt-if-this-then-that)，例如把频道动态同时发送到 Twitter。 |
+| [@IFTTT](https://t.me/IFTTT)                       | [With this bot you can use IFTTT to link your Telegram groups or channels to more than 360 other services like Twitter and Instagram, or connected devices like Hue lights and Nest.](https://ifttt.com/telegram) |
 | [@githubbot](https://telegram.me/githubbot)        | 推送 GitHub 仓库的动态。                                     |
 | [@GmailBot](https://t.me/GmailBot)                 | 在 Telegram 上收发 📧 Gmail。                                 |
 | [@LivegramBot](https://t.me/LivegramBot)           | [不加好友也能私聊](https://telegra.ph/What-is-Livegram-Bot-03-17)，可用于收集反馈及绕开 `+86` 手机号码的限制。 |
@@ -992,7 +1008,7 @@ https://rsshub.app/douban/movie/playing/7.5
 
 ## 👥群组设置
 
-[Groups](https://telegram.org/tour/groups) 一般超过 3 个人，有人就会开始沉默。因此，我很少在大群说话，但还是欢迎读者加入 [庭说的 Telegram 群组](https://t.me/joinchat/F2Oy0EXs2ZC2QNwJ4aaC7Q)：指出此文的疏漏，推荐优质内容，一起跨越数字鸿沟，共享信息自由。
+[Groups](https://telegram.org/tour/groups) 一般超过 3 个人，有人就会开始沉默。因此，我很少在大群说话，但还是欢迎读者加入 [庭说的 Telegram 群组](https://t.me/tingtalk)：指出此文的疏漏，推荐优质内容，一起跨越数字鸿沟，共享信息自由。
 
 - 群组人数最高 20 万。
 - 静音群组只有在 `@` 提到你、 `Reply` 回复你和 `Pin` 管理员发布群通知时才会收到通知。
@@ -1006,9 +1022,15 @@ https://rsshub.app/douban/movie/playing/7.5
 - [慢速模式（Slow Mode）](https://telegram.org/blog/silent-messages-slow-mode#slow-mode)：在 10 秒 / 30 秒 / 1 分钟 / 5 分钟 / 15 分钟 / 1 个小时内，成员只能发送一条消息，这样可以使小组中的对话更加有序，也可以提高每条信息的价值。
 - [群组权限](https://telegram.org/blog/permissions-groups-undo)：管理员可以限制所有成员或单个成员只能发送特定类型的内容（[Partial bans](https://telegram.org/tour/groups#partial-bans)），如此一来，你便可建立一个没有表情贴纸或者 gif 的高质量交流社区。或者甚至完全限制成员发送信息，让管理员彼此交谈，而群成员则默默地旁观。
 - 可对群主（creator）及管理员（administrators）设置 [自定义头衔（Custom title）](https://telegram.org/blog/silent-messages-slow-mode#admin-titles)。
-- 可使用 Bot（机器人）辅助处理群内事务（目前还在学习中）。
 - 支持（匿名）投票（Poll）和 [答题模式（Quiz Mode）](https://telegram.org/blog#quiz-mode)。
 - 管理日志（[Recent Admin Actions](https://telegram.org/blog/admin-revolution#recent-admin-actions)）：当多个管理员在一起工作时，很容易搞不清楚哪个管理员或管理机器人，在什么时候做了什么。所以 Telegram 的管理员页面增加了「最近动作」功能。用于存储过去 48 小时内在组中执行的所有服务操作的日志，仅对管理员可见。
+
+
+
+### 🔐管理机器人
+
+- [@policr_mini_bot](https://t.me/policr_mini_bot)：入群验证。
+- [@DeleteEventsBot](https://t.me/DeleteEventsBot)：删除无关系统信息，例如谁加入了群组、谁离开了群组等。
 
 
 
@@ -1212,6 +1234,7 @@ URL = `https://telegra.ph`/`首次输入的标题`-`首次发表的月`-`首次�
 - [关于 Telegram 的一些事 - 守望的麦子](https://jsntn.com/software/2017/08/12/telegram.html)：我更加相信一定会有越来越多的理想主义者，他们相信 [平等](https://jsntn.com/equity.html) 和自由，坚守信念和价值观，每天充实地生活着。
 - [我为什么选择 Telegram 来运营粉丝社群 | 规则、经验和思考 - 罗磊](https://luolei.org/why-i-choose-telegram/)
 - [Telegram 教程全指南](https://www.notion.so/Telegram-95a6c23f0bb1466892b55f9ec8c755fd) by [TG极客](https://t.me/TGgeek)
+- [Telegram 群组、频道、机器人 - 汇总分享 - 聪聪 Blog](https://congcong0806.github.io/2018/04/24/Telegram/)
 - [Telegram 频道：Newlearnerの自留地 导航页](https://www.newlearner.site/2019/12/15/newlearnerchannel.html/#Telegram)
 
 Stay home. Wash your hands. Be safe. And stay tuned for our next updates! It is already brewing in our dungeons! 呆在家，常洗手。敬请关注，更强大的 Telegram 已经在我们的地牢里酝酿中了！（为什么是地牢？因为没人知道 Telegram 的开发者们在哪）。
