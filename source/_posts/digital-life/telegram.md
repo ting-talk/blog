@@ -2,7 +2,7 @@
 
 title: Telegram（电报）：新手指南、使用教程及频道推荐
 date: 2019-11-09  
-updated: 2020-06-24
+updated: 2020-07-04
 categories: 数字生活  
 tags: [Telegram, 网上冲浪指南]
 permalink: telegram
@@ -632,6 +632,9 @@ Bots 就像运行在 Telegram 内部的小程序。借助 [Telegram 开放的 AP
 我目前的资讯消化方案是：
 
 - 在 [All About RSS](https://github.com/AboutRSS/ALL-about-RSS#telegram-rss-bots) 里找一个 RSS Bots，订阅不想错过的源，在 Telegram 内阅读，推荐以下 Bots：
+  - [@FeedManBot](https://t.me/FeedManBot)
+  - [@TheFeedReaderBot](https://t.me/TheFeedReaderBot)：不仅可以订阅 RSS 源，还可以在 Telegram 上浏览 Twitter。
+  - [@Feed2Telegram_bot](https://t.me/Feed2Telegram_bot)：免费用户只有 5 条 Feeds。
   - [@el_monitorro_bot](https://t.me/el_monitorro_bot)
   - [@newlearner_rss_bot](https://t.me/newlearner_rss_bot)
   - [@NodeRSS_bot](https://t.me/NodeRSS_bot)
