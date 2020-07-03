@@ -9,6 +9,8 @@ permalink: mp-archives
 
 ---
 
+![archives](mp-archives/archives.png)
+
 以下是「庭说」早期发表在微信公众号 Ting_Talk（已被永久封禁）的文章（[图文版传送门](https://wemp.app/accounts/f2439b8e-67ab-4fef-86e0-3cecc60eca0a)），现在看来，无病呻吟。
 
 <!-- more -->

@@ -9,6 +9,8 @@ permalink: auto-hexo
 
 ---
 
+![hexo](hexo/hexo.png)
+
 VPS + Dropbox + Nginx + Incrond 实现 Hexo 博客自动部署。
 
 <!-- more -->

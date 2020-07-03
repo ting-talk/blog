@@ -9,6 +9,8 @@ permalink: driving-test
 
 ---
 
+![car](driving-test/car.png)
+
 本文部分内容节选自《机动车驾驶人考试内容和方法（GA 1026—2017）》，但一切行动请以教练为准。
 
 <!-- more -->

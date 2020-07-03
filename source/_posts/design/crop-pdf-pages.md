@@ -9,6 +9,8 @@ permalink: crop-pdf-pages
 
 ---
 
+![pdf](crop-pdf-pages/pdf.png)
+
 使用 Adobe Acrobat Pro 中的 `裁剪页面` 工具和 `设置页面框` 对话框来调整可见页面区域。通过裁剪页面，可以使组成 PDF 的不同大小的页面保持一致。
 
 

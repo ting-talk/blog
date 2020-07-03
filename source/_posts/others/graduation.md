@@ -9,6 +9,8 @@ permalink: graduation
 
 ---
 
+![graduation](graduation/graduation.png)
+
 4 年大学时光，一晃而过。
 
 <!-- more -->

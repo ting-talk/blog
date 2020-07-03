@@ -37,7 +37,7 @@ permalink: search-tips
 
 假设 Baidu 和 Google 之间差了 1024 个 Bing，如果学会以下 Tips，少说得再加 1024 个 Bing（搜索效率翻番）。
 
-强迫症患者请访问 `google.com/ncr`（ncr = no country redirect，禁止谷歌按照当前 IP 跳转到对应的国家或地区）
+强迫症患者请访问 `google.com/ncr`（ncr = no country redirect，禁止谷歌按照当前 IP 跳转到对应的国家或地区）。
 
 > 以下的 Google 搜索技巧，某些也适用于国内的搜索引擎。
 
@@ -45,6 +45,7 @@ permalink: search-tips
 - **天气**：在「天气」后加上城市名，例如 `天气东京`
 - **定义**：在任意字词前加上 define（可用于查单词），例如 `define search`
 - **单位换算**：输入任何换算内容，例如 `1 usd to rmb` 或 `1 美元兑换人民币` 👍
+- 如果你想快速了解一个新事物是什么，一个简单的方法就是在这个词的后面加上 `vs`，谷歌会自动提示跟它最接近的事物。by [David Foster](https://medium.com/applied-data-science/the-google-vs-trick-618c8fd5359f)
 
 
 
@@ -74,8 +75,6 @@ permalink: search-tips
 - 为字词或短语加上英文引号 `" "`
 - 例如：`"tallest building"`
 - 字词的顺序也必须匹配，即 `"tallest building"` ≠ `"building tallest"` 
-
-
 
 
 
@@ -138,12 +137,17 @@ permalink: search-tips
 
 
 
+
+
+
+
 **关联阅读**
 - [公开数据集搜索引擎 by Google](https://datasetsearch.research.google.com/)
 - [Google 搜索帮助](https://support.google.com/websearch)
 - [Google 搜索的运作方式（How Google Search works）](https://www.google.com/intl/zh-CN/search/howsearchworks/)：你每次进行搜索时，都会在搜索结果中看到成千上万个含有实用信息的网页，有时甚至是数百万个。早在你输入搜索内容之前，Google 就已开始算计要显示哪些结果，并秉持向你提供最佳信息的承诺（反观百度）。
 - [最详细的 Google 搜索指令大全 - 黑科技娃娃](https://www.cooltechdoll.com/google-search-commands/)
 - [15 个提高 Google 搜索效率的小技巧 - 子不语Rex](https://sspai.com/post/34150)
+
 
 
 ### 备选搜索引擎
