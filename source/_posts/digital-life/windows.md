@@ -590,6 +590,10 @@ Internet Download Manager 是一个多线程下载管理器。虽然长得丑，
 
 
 
+小技巧：[把迅雷边下边看的默认播放器为 PotPlayer - AppSo](https://mp.weixin.qq.com/s/m-9XPn72p5sexlz7_GZ4fw)
+
+
+
 #### [uTorrent](https://www.utorrent.com/)
 
 - 建议安装 2.2.1 版本

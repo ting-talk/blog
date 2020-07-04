@@ -1,5 +1,5 @@
 ---
-
+[](https://topbook.cc/overview?selectedArticle=1813)
 title: 如何组织一场全员参与的培训活动  
 date: 2019-10-19   
 updated: 2019-10-19  
@@ -97,3 +97,12 @@ permalink: organising-training-events
 - 扫二维码，填写课堂调查问卷，并奖励有建设性的意见。
 - 颁奖
 - 合影
+
+
+
+---
+
+
+
+关联视频：[如何开一场高效的会议 - Topbook](https://topbook.cc/overview?selectedArticle=1813)
+
