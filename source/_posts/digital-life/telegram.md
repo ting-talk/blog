@@ -2,7 +2,7 @@
 
 title: Telegram（电报）：新手指南、使用教程及频道推荐
 date: 2019-11-09  
-updated: 2020-07-04
+updated: 2020-07-07
 categories: 数字生活  
 tags: [Telegram, 网上冲浪指南]
 permalink: telegram
@@ -618,6 +618,26 @@ Bots 就像运行在 Telegram 内部的小程序。借助 [Telegram 开放的 AP
 
 
 
+**去哪里找钟意的频道（Channel），群组（Group）和机器人（Bot）呢？**
+
+☝️ 在 Telegram 内直接搜索关键词，但中文搜索识别较差。例如，「庭说」的频道是 https://t.me/tingtalk
+
+- 搜索英文 `tingtalk`（`t.me/` 后面的字符就是 ID），可以准确识别
+- 搜索中文 `庭说`，可能无法识别
+
+✌️ 配合一些 [Google 搜索技巧](https://tingtalk.me/search-tips/)，在 [Google](https://www.google.com/search?q=site:tingtalk.me) 上搜索（添加或删减 `OR` 都会改变搜索结果，请多多尝试不同的关键词）：
+
+- 关键词 + site:t.me，例如：`海贼王 OR one piece site:t.me`
+- 关键词 + telegram，例如：`海贼王 OR one piece telegram OR 电报 OR TG`
+
+由此可得，Telegram 的内容是可以被 Google 等搜索引擎抓取的。反观国内的互联网江湖，各自割据，搞得网民苦不堪言。就拿微信来说，你不能在 Google 或者百度搜到公众号的文章。
+
+关联阅读：[逃离微信宣言（FreeFromWechat Manifesto）](https://matters.news/@freefromwechat/%E9%80%83%E7%A6%BB%E5%BE%AE%E4%BF%A1%E5%AE%A3%E8%A8%80-free-from-wechat-manifesto-bafyreib7535kdob62z6j7dlfjsl5or2doduvuqpgd7xdji2hzncfrvdws4)
+
+👌 Telegram 频道搜索引擎（非官方）：[sssoou.com](http://www.sssoou.com/)。帮助大家搜 Telegram 频道里的资源，不用因为 Telegram 对中文支持不好，而找不到想要的资源。
+
+
+
 ### 🧡RSS 机器人
 
 > （如果）你不懂得 RSS，上网的效率和乐趣都要大打折扣。by [阮一峰](http://www.ruanyifeng.com/blog/2006/01/rss.html)
@@ -1077,28 +1097,6 @@ https://rsshub.app/twitter/user/OnePieceAnime
 - 添加和删除联系人（Contacts）都是单向操作，双方的通讯录都是独立的（你中有我，我中可能没有你），也没有通知。
 - 点击左侧菜单栏 > `Contacts`（联系人）> `Find People Nearby`（寻找附近的人）。比微信的面对面建群更直接。
 - [转发消息时，长按联系人 / 群组 / 频道可多选。](https://telegram.org/blog#multi-sharing-from-other-apps)
-
-
-
-### 🔎善用搜索
-
-去哪里找钟意的频道（Channel），群组（Group）和机器人（Bot）呢？
-
-☝️ 在 Telegram 内直接搜索关键词，但中文搜索识别较差。例如，「庭说」的频道是 https://t.me/tingtalk
-
-- 搜索英文 `tingtalk`（`t.me/` 后面的字符就是 ID），可以准确识别
-- 搜索中文 `庭说`，可能无法识别
-
-✌️ 配合一些 [Google 搜索技巧](https://tingtalk.me/search-tips/)，在 [Google](https://www.google.com/search?q=site:tingtalk.me) 上搜索
-
-- 关键词 + site:t.me，例如：`庭说 site:t.me`
-- 关键词 + telegram，例如：`海贼王 OR one piece telegram`
-
-由此可得，Telegram 的内容是可以被 Google 等搜索引擎抓取的。反观国内的互联网江湖，各自割据，搞得网民苦不堪言。就拿微信来说，你不能在 Google 或者百度搜到公众号的文章。
-
-关联阅读：[逃离微信宣言（FreeFromWechat Manifesto）](https://matters.news/@freefromwechat/%E9%80%83%E7%A6%BB%E5%BE%AE%E4%BF%A1%E5%AE%A3%E8%A8%80-free-from-wechat-manifesto-bafyreib7535kdob62z6j7dlfjsl5or2doduvuqpgd7xdji2hzncfrvdws4)
-
-👌 Telegram 频道搜索引擎（非官方）：[sssoou.com](http://www.sssoou.com/)。帮助大家搜 Telegram 频道里的资源，不用因为 Telegram 对中文支持不好，而找不到想要的资源。
 
 
 
