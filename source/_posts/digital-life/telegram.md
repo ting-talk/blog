@@ -336,7 +336,7 @@ Telegram 的中文搜索是以「词」为单位的，以标点符号或空格�
 
 - `Send without sound` 静音发送消息（纵使对方在睡觉，你的 urgent idea 也不会搅人春梦）。简直就是为健忘的人而设计。
 - `Scheduled Message` [定时发送](https://telegram.org/blog/scheduled-reminders-themes)：在 [Saved Messages](https://telegram.org/blog/albums-saved-messages#saved-messages)（收藏夹）可以给自己发送定时消息作为提醒（Set a reminder）。
-  - `Send when * comes online` [当对方上线时发送](https://telegram.org/blog#send-when-online)（右上角）：你的 Ta 一醒来打开 Telegram，就能收到你的早安短信。
+  - `Send when * comes online` [当对方上线时发送](https://telegram.org/blog#send-when-online)（右上角）：这样就可以排在对方聊天列表的前面（Put you right at the top of their chat list.）。
 
 
 
