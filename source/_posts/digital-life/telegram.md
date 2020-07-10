@@ -2,7 +2,7 @@
 
 title: Telegram（电报）：新手指南、使用教程及频道推荐
 date: 2019-11-09  
-updated: 2020-07-07
+updated: 2020-07-10
 categories: 数字生活  
 tags: [Telegram, 网上冲浪指南]
 permalink: telegram
@@ -461,6 +461,7 @@ Telegram 有两种加密等级，都非常安全：
 - 支持 [Instant View](https://instantview.telegram.org/) 的文章会缓存在 Telegram 的服务器上。
 - [Post Widget](https://core.telegram.org/widgets/posts)：将频道或公共群组的消息嵌入到任何地方。You can embed messages from public groups and channels anywhere. 
 - 频道分析（[Channel Stats](https://telegram.org/blog/folders#channel-stats)）📈：订阅人数超过 500 人（之前是 1,000  人）的频道会有详细的统计数据分析报告（[Statistics](https://telegram.org/tour/channels#detailed-statistics)）。
+- 编辑已发送消息（[Edit your messages after posting](https://telegram.org/blog/edit)），包括文字、图片和视频（[Replace Media](https://telegram.org/blog/unread-replace-2x#replace-media-and-add-captions)）。在消息发送后的前几天可以在手机上编辑，此后只能在电脑端编辑。`2020-07-10`
 
 
 
@@ -1121,10 +1122,10 @@ https://rsshub.app/twitter/user/OnePieceAnime
 
 
 
-允许传送最大 1.5 GB 的文件，简直就是绝佳的「文件传输助手」，所以你可以：
+允许传送最大 1.95 GB 的文件，简直就是绝佳的「文件传输助手」，所以你可以：
 
 - 把 [Saved Messages](https://telegram.org/blog/albums-saved-messages#saved-messages)（收藏夹）当作是 [GTD](https://tingtalk.me/gtd) 中 Inbox。每条保存的消息都有一个 ▶️ 按钮，可以将你带到最初发布消息的位置。
-- 开很多私人频道（最多 10 个？如是，请告诉 [我](https://t.me/tingtalkme)），分类存放你的信息和资讯。你甚至可以在 Telegram 上传本地音乐到自己的频道，建立自己的云端音乐播放库（或者借助音乐 Bots）。
+- 开很多私人频道，分类存放你的信息和资讯。你甚至可以在 Telegram 上传本地音乐或者录音到自己的频道，建立自己的云端音乐播放库（或者借助音乐 Bots）和播客（Podcast）。
 
 
 
