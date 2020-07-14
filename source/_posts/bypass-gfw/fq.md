@@ -2,7 +2,7 @@
 
 title: 番茄食用指南（科学上网教程）  
 date: 2016-03-03  
-updated: 2020-06-16   
+updated: 2020-07-14   
 categories: 翻墙方法   
 tags: 突破网络审查 
 permalink: fq
@@ -56,7 +56,7 @@ Ting 我 Talk 一句：只要肉身在中国大陆，我们的一切行动听党
 
 ## 💰买番茄
 
-[点击这里](https://tingtalk.me/fq/) 查看曾经推荐过的番茄商（flycloud、Just My Socks），因为价格或稳定性，不推荐购买。
+[点击这里](https://tingtalk.me/fq-ever/) 查看曾经推荐过的番茄商（flycloud、Just My Socks），因为价格或稳定性，不推荐购买。
 
 [点击这里](https://tingtalk.me/fq-free/) 查看免费的番茄商（推荐使用迷雾通） ，如果本文中提供的番茄购买链接被封了，可以作为临时的备用访问途径，不推荐长期使用。因为时间宝贵，请对自己好一点。
 
@@ -149,6 +149,12 @@ Shadowsocks(R) 简称为 SS(R)，俗称酸酸（乳）。因为图标是小飞�
 - [番茄客户端备用下载链接 by TingTalk](https://lanzous.com/b00t9wiva)
 - [各平台客户端备用下载链接 by rixCloud](https://rixcloudkb.io/kb/client-application-download/)
 - iOS（iPhone & iPad）：因为只能通过 App Store 下载，教程请参考下文。
+
+
+
+**相关工具**
+
+- [订阅链接转换 API](https://bianyuan.xyz/)
 
 
 
@@ -251,31 +257,53 @@ Shadowsocks(R) 简称为 SS(R)，俗称酸酸（乳）。因为图标是小飞�
 
 #### Clash for Windows
 
-**下载** 
+##### 下载
+
 - 官方：[Clash for Windows.exe](https://github.com/Fndroid/clash_for_windows_pkg/releases)  by Fndroid
+  - 安装版：`Clash.for.Windows.Setup.exe`
+  - 便携版：`Clash.for.Windows-win.7z`
 - 备用：[Clash for Windows](https://cdn.rixcloud.io/download/Clash-Windows.exe) by rixCloud
 
-**安装**
+##### 安装
 - 双击安装
 - 授权运行：点击 `更多信息`，然后选择 `仍要运行`
 - 为 `所有用户` 安装
-- `C` 改为 `D`：D:\Program Files\Clash for Windows
+- `C` 改为 `D`：`D:\Program Files\Clash for Windows`
 
-**使用**
+##### 使用
 
-- 从番茄商复制 Clash 订阅 URL（托管配置链接）
-- 打开 Clash for Windows，在左侧的标签页中选择 `Profile`， 在顶部输入框粘贴之前复制的订阅 URL，然后点击 `Download` 按钮
-- Clash for Windows 会自动拉取配置文件进行更新，如果一切顺利，你应当可以看到绿色提示信息 `Success!`，并且可以看到一个新的配置文件（如果弹出 `Could not switch to this profile! `，不必理会，点击 `确定`）
-- 点击新的配置文件，切换到该配置，然后点击 `Proxies` 标签页来切换接入点（不同的节点），将顶部的出站模式选择为 `Rule`
-  - 点击 `Proxy` 智能分流策略组（各家称呼不一样，一般排在第一位）
-  - 点击右上角的 ⚡ 进行测速
-  - 选择最快的接入点（`ms` 毫秒数最小）
-- 点击左侧的标签页中选择 `General` ，将 `System Proxy` 的开关更改为 `On` 状态即可开始使用。此外，建议将 `Start with Windows` 也更改为 `On` 来让 Clash for Windows 在开机时自动启动
-- 在 `General` 界面点击 `GeoIP Database` 来更新 MaxMind 的 GeoIP2 Lite 数据库。此数据库用于 Geo 规则和 DNS 判断，建议每月至少更新一次
+从机场复制 Clash 订阅 URL（托管配置链接）。打开 Clash for Windows，在左侧的标签页中依次选择：
+
+**[Profile](https://docs.cfw.lbyczf.com/contents/ui/profiles.html)（配置）**  
+
+1. 在顶部输入框粘贴订阅配置链接，然后点击 `Download` 按钮。Clash for Windows 会自动下载远程配置文，如果一切顺利，你应当可以看到绿色提示信息。`Success!`，并且可以看到一个新的配置文件（如果弹出 `Could not switch to this profile! `，关闭软件，以 `管理员身份运行`。）。
+2. 点击新的配置文件，就能切换到该配置。
+3. 点击配置文件的 ℹ️（Change information），在 `Update Interval (hour)` 填入 `24`，即 24 小时自动更新一次配置文件。
+
+
+
+**[Proxies](https://docs.cfw.lbyczf.com/contents/ui/proxies.html)（代理）**  
+用于切换代理模式和接入点（节点）。
+
+1. 将顶部的代理模式选择为 `Rule`（规则）：所有请求根据配置文件规则进行分流。
+2. 点击 `Proxy` 智能分流 [策略组](https://github.com/Fndroid/jsbox_script/wiki/%E5%85%B3%E4%BA%8E%E7%AD%96%E7%95%A5%E7%BB%84%E7%9A%84%E7%90%86%E8%A7%A3)（各家称呼不一样，一般排在第一位）。
+3. 点击右侧的 ⚡ 进行测速。
+4. 选择一个较快的接入点（`ms` 毫秒数最小）。
+
+
+
+**[General](https://docs.cfw.lbyczf.com/contents/ui/general.html)（常规）**   
+
+- `System Proxy`（系统代理）：`On`
+- `Start with Windows`（开机自启）：`On`
+- `GeoIP Database`：点击更新 MaxMind 的 GeoIP2 Lite 数据库。此数据库用于 Geo 规则和 DNS 判断，建议每月至少更新一次。
+
+
 
 **参考资料**
-
-- [如何在 Clash for Windows 上进行配置 - rixCloud](https://rixcloudkb.io/kb/configured-by-clash-for-windows/)
+- 图文教程：[Clash for Windows 官方文档 - Fndroid](https://docs.cfw.lbyczf.com/)
+- 图文教程：[如何在 Clash for Windows 上进行配置 - rixCloud](https://rixcloudkb.io/kb/configured-by-clash-for-windows/)
+- 视频教程：[Clash(R) for Windows 教程 | 可能是Windows上最好用的代理工具 - Sabrina](https://merlinblog.xyz/wiki/cfw.html)
 
 
 
@@ -527,7 +555,7 @@ Search before you ask（遇事不明，搜索引擎）。这篇保姆级的教�
 
 ### 📞与我联系
 
-- 加入庭说的后花园： [Telegram 群组](https://t.me/tingtalkgroup)（`tingtalkgroup`），那里百花盛开，充满自由的气息。这是 [Telegram 新手教程](https://tingtalk.me/telegram/)。
+- 加入庭说的后花园： [Telegram 群组](https://t.me/tingtalk)（`@tingtalk`），那里百花盛开，充满自由的气息。这是 [Telegram 新手教程](https://tingtalk.me/telegram/)。
 - 添加庭勃士的微信号（ID `804976336`）：接头暗号「番茄」。
 
 虽然庭说的博客已被封了，我也可能因此再次被 invited for some tea。但我有一个小小梦想：信息可以像水和空气一样自由流动。只要我还能表达，青山不改，绿水长流。

@@ -252,6 +252,7 @@ Telegram 的中文搜索是以「词」为单位的，以标点符号或空格�
 
 - **记忆浏览进度**：打开对话界面会自动跳转到未读消息 `Unread Messages`（The app restores your previous scroll position when you switch back to a chat）。
 - **消息静音（[Mute Notifications](https://telegram.org/blog/shared-files#mute-notifications)）**：可屏蔽联系人 / 群组 / 频道的消息通知 1 个小时 / 4 个小时 / 18 个小时 / 3 天 / 永久静音。
+- 在 Telegram 上语音通话（打电话），需要手机在翻墙客户端上开启 UDP 转发。
 
 
 
@@ -1122,7 +1123,7 @@ https://rsshub.app/twitter/user/OnePieceAnime
 
 
 
-允许传送最大 1.95 GB 的文件，简直就是绝佳的「文件传输助手」，所以你可以：
+允许传送最大 2000 MB 的文件（version 2.1.18），简直就是绝佳的「文件传输助手」，所以你可以：
 
 - 把 [Saved Messages](https://telegram.org/blog/albums-saved-messages#saved-messages)（收藏夹）当作是 [GTD](https://tingtalk.me/gtd) 中 Inbox。每条保存的消息都有一个 ▶️ 按钮，可以将你带到最初发布消息的位置。
 - 开很多私人频道，分类存放你的信息和资讯。你甚至可以在 Telegram 上传本地音乐或者录音到自己的频道，建立自己的云端音乐播放库（或者借助音乐 Bots）和播客（Podcast）。
@@ -1246,5 +1247,6 @@ URL = `https://telegra.ph`/`首次输入的标题`-`首次发表的月`-`首次�
 - [Telegram 教程全指南](https://www.notion.so/Telegram-95a6c23f0bb1466892b55f9ec8c755fd) by [TG极客](https://t.me/TGgeek)
 - [Telegram 群组、频道、机器人 - 汇总分享 - 聪聪 Blog](https://congcong0806.github.io/2018/04/24/Telegram/)
 - [Telegram 频道：Newlearnerの自留地 导航页](https://www.newlearner.site/2019/12/15/newlearnerchannel.html/#Telegram)
+- [什么是数字移民及其基础教程 - TSBBLOG](https://tsb2blog.com/what-means-digital-immigrants-in-china.html)
 
 Stay home. Wash your hands. Be safe. And stay tuned for our next updates! It is already brewing in our dungeons! 呆在家，常洗手。敬请关注，更强大的 Telegram 已经在我们的地牢里酝酿中了！（为什么是地牢？因为没人知道 Telegram 的开发者们在哪）。

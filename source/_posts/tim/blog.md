@@ -64,6 +64,7 @@ permalink: blog
 - 用整体性的视角观察当代社会、技术文化以及商业风景，对抗消费主义导向的论述，强调对技术与艺术的敏锐感受力、以及精神与肉体上的强健。by [一天世界](https://blog.yitianshijie.net/)
 - 踏出校园走向社会后没多久，我们几个就意识到：无论工作本身多么有趣、多么符合你的性格和爱好，它也无法解决最基本的存在主义问题——如何活的有意义。更何况对很多人来说，工作本身离意义很遥远。资本主义中「职员」这个职能存在是为了填补市场创造的人力资源需求，而不是为了让个体时刻活得充满激情和意义；就算有时让你兴奋的东西恰好是工作需要的，保持这两条线重合也需要投入不少精力和管理。 于是我们每天晚上躺在床上脑子转个不停，每三天会出现一个新的 side gig 想法：不如去拍 Vlog？开一个美食专栏？去学 Python？去考几个 Certificates？去做瑜伽教练？开一个博客写行业报告？继续花时间做记者采编？ 然而想法归想法；按照牧歌的话说：万事只差 do it。小声喧哗的诞生大概就是一个 do it 的结果。by [小声喧哗 Loud Murmurs](https://loudmurmursfm.typlog.io/aboutus)
 - I have seen **the golden years** of Chinese Internet and really miss them. That is why i want to have this Blog to recall the memory. 我所盼望的是自由、开放、多样、将人类相互连结的网络。by [Mivansaka](http://mivansaka.xyz/about/)
+- 🌍 世界很小，可以汇聚天涯知己。世界很大，可以容纳不同声音。by [任听播客](https://getpodcast.xyz/)
 
 
 

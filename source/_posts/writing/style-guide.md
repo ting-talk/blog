@@ -1,8 +1,8 @@
 ---
 
-title: 文案风格及排版指南 
+title: 文案风格指南：中英混排和标点符号的用法
 date: 2017-12-05  
-updated: 2020-06-30   
+updated: 2020-07-14   
 categories: 写作技巧 
 tags: [写作, 排版]   
 permalink: style-guide   
@@ -266,8 +266,6 @@ permalink: style-guide
 
 ### 英文符号
 
-
-
 #### 使用英文（半角）标点符号
 
 - ❌ I’m Tim。（使用中文全角标点符号）
@@ -301,15 +299,6 @@ permalink: style-guide
 在某些 *Style Guide* 中（例如 Apple），纵使在中文语境下，也会将（中文）全角括号替换为 (英文) 半角括号，并在括号外添加半角空格（两个连续的标点之间不添加空格）：
 
 > iPhone SE 可防溅、抗水、防尘，在受控实验室条件下经测试，其效果在 IEC 60529 标准下达到 IP67 级别 (在最深 1 米的水下停留时间最长可达 30 分钟)。by [Apple](https://www.apple.com.cn/iphone-se/)
-
-
-
-#### 斜杠 `/` 前后加空格
-
-❗ 此法有争议，酌情采用。
-
-- ❌ HR/Vice President
-- ✔️ HR / Vice President
 
 
 
@@ -387,8 +376,6 @@ permalink: style-guide
 
 #### 不存在的标点符号
 
-
-
 ##### 顿号
 
 没有顿号 `、`，用逗号 `,` 表并列：She slowly, carefully, and deliberately moved the box. 
@@ -407,6 +394,13 @@ permalink: style-guide
 
 - 英文： He published an article entitled "The Future of the Aviation".
 - 中文：他发表了一篇名为《航空业的未来》的文章。
+
+
+
+#### 关联阅读
+
+- [The Punctuation Guide](https://www.thepunctuationguide.com/)（美式标点符号使用指南）
+- [英文标点要如何排版？- 壹坊AWORKZON](https://mp.weixin.qq.com/s/76-zx6gorTcQoPeJzVjd8A)
 
 
 

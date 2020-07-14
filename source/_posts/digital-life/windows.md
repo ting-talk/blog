@@ -213,7 +213,11 @@ powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61
 
 
 
-> 访问 microsoft.com/zh-cn/tips/home 查阅更多 Windows 使用技巧。
+### 其它技巧
+
+- 视频教程：[如何在局域网中共享电脑文件夹？- Topbook](https://topbook.cc/search/article?keywords=%E5%B1%80%E5%9F%9F%E7%BD%91&selectedArticle=1367)
+- 视频教程：[如何在局域网中共享打印机？- Topbook](https://topbook.cc/search/article?keywords=%E5%B1%80%E5%9F%9F%E7%BD%91&selectedArticle=1275)
+- 访问 microsoft.com/zh-cn/tips/home 查阅更多 Windows 使用技巧。
 
 
 
