@@ -384,12 +384,13 @@ Shadowsocks(R) 简称为 SS(R)，俗称酸酸（乳）。因为图标是小飞�
 
 ### 📱 iOS（iPhone & iPad）
 
-番茄客户端无法在中国区 App Store 下架，但可以 注册非中国区的 Apple ID 登录 App Store。获得国外的 Apple ID 后，你就可以下载番茄客户端了：
+番茄客户端无法在中国区 App Store 下架，但可以注册非中国区的 Apple ID 登录 App Store。获得国外的 Apple ID 后，你就可以下载番茄客户端了：
 
 - 免费：[Potatso Lite](https://apps.apple.com/us/app/potatso-lite/id1239860606)
 - 付费：[Shadowrocket](https://itunes.apple.com/us/app/shadowrocket/id932747118?mt=8) 和 [Quantumult](https://itunes.apple.com/us/app/quantumult/id1252015438?mt=8)
 
 **如何购买付费的 App：**
+
 - 慢且安全的方法：[自己注册一个非中国区的 Apple ID](https://tingtalk.me/us-apple-id/)，然后找万能的淘宝充值，接着付费下载番茄 App。
 - 快但危险的方法：[找一个已经购买过付费番茄客户端的 Apple ID](https://tingtalk.me/us-apple-id-share/)。操作不当，手机「变砖」。所以请严格教程里的步骤操作。
 
@@ -397,7 +398,7 @@ Shadowsocks(R) 简称为 SS(R)，俗称酸酸（乳）。因为图标是小飞�
 
 #### 🍥Potatso Lite
 
-使用非中国区的 Apple ID 安装免费的 [Potatso Lite](https://apps.apple.com/us/app/potatso-lite/id1239860606)（土豆丝入门版）
+使用非中国区的 Apple ID 可以安装免费的 [Potatso Lite](https://apps.apple.com/us/app/potatso-lite/id1239860606)（土豆丝入门版）
 
 - `立即使用` - `现在添加`：选择合适的添加方式
     - `自动导入`：`订阅`

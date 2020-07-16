@@ -2,7 +2,7 @@
 
 title: Telegram（电报）：新手指南、使用教程及频道推荐
 date: 2019-11-09  
-updated: 2020-07-10
+updated: 2020-07-16
 categories: 数字生活  
 tags: [Telegram, 网上冲浪指南]
 permalink: telegram
@@ -292,6 +292,7 @@ Telegram 的中文搜索是以「词」为单位的，以标点符号或空格�
 - **快速多选**：在对话界面的空白位置，按着鼠标左键不放，即可多选信息，然后选择转发或者删除。
 - **链接直达**：按住 `Ctrl` 再点击 URL，直接打开链接，不必弹窗确认（Open this link? CANCEL / OPEN）。
 - **多用户切换**：不再是手机版的专属功能。
+- **置顶消息（Pin）**：这个功能只有在 Telegram Desktop（电脑版）才支持。
 
 
 
@@ -426,6 +427,15 @@ Telegram 有两种加密等级，都非常安全：
 - 使用没有个人特征的头像（在 Telegram 设置里删除曾经使用过的头像）、昵称和用户名，确保不会和
 - 不使用 Touch ID 或 Face ID 解锁你的手机，只以密码锁屏（数字 + 字母），以免被「执法人员」控制身体后强行解锁。
 - 使用 [Tor](https://www.torproject.org/)（The Onion Router、洋葱路由器）隐藏用户真实 IP 地址、避免网络监控及流量分析。
+
+
+
+### 📊[投票功能](https://telegram.org/blog/polls-2-0-vmq)
+
+- 长按或右击投票（Poll）可以撤回投票（Retract vote）。
+- 支持匿名投票（Anonymous Voting）。
+- 支持多选（Multiple Answers）。
+- 支持答题模式（ [Quiz Mode](https://telegram.org/blog#quiz-mode)）。
 
 
 
@@ -1055,7 +1065,6 @@ https://rsshub.app/twitter/user/OnePieceAnime
 - [慢速模式（Slow Mode）](https://telegram.org/blog/silent-messages-slow-mode#slow-mode)：在 10 秒 / 30 秒 / 1 分钟 / 5 分钟 / 15 分钟 / 1 个小时内，成员只能发送一条消息，这样可以使小组中的对话更加有序，也可以提高每条信息的价值。
 - [群组权限](https://telegram.org/blog/permissions-groups-undo)：管理员可以限制所有成员或单个成员只能发送特定类型的内容（[Partial bans](https://telegram.org/tour/groups#partial-bans)），如此一来，你便可建立一个没有表情贴纸或者 gif 的高质量交流社区。或者甚至完全限制成员发送信息，让管理员彼此交谈，而群成员则默默地旁观。
 - 可对群主（creator）及管理员（administrators）设置 [自定义头衔（Custom title）](https://telegram.org/blog/silent-messages-slow-mode#admin-titles)。
-- 支持（匿名）投票（Poll）和 [答题模式（Quiz Mode）](https://telegram.org/blog#quiz-mode)。
 - 管理日志（[Recent Admin Actions](https://telegram.org/blog/admin-revolution#recent-admin-actions)）：当多个管理员在一起工作时，很容易搞不清楚哪个管理员或管理机器人，在什么时候做了什么。所以 Telegram 的管理员页面增加了「最近动作」功能。用于存储过去 48 小时内在组中执行的所有服务操作的日志，仅对管理员可见。
 
 
