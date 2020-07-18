@@ -262,12 +262,12 @@ permalink: search-tips
   - 不接受原生广告（软文），[CPS 返利](https://www.ymdie.com/archives/4194) 和横幅广告是主要收入来源。
 - [放心选](https://m.fangxin.com/#/)：万物测评，理性消费；推荐使用「放心选」的微信小程序。
 - [老爸评测](https://daddylab.com/)：发现生活中看不见的危害，让孩子远离有毒有害物质。
-- [消费明鉴](http://www.mingjian.cn/)：「货比三家」领域的百科全书。
 - [消费者报道](http://www.ccreports.com.cn/)：专注于消费品及服务比较测试的媒体。
+- [消费明鉴](http://www.mingjian.cn/)：「货比三家」领域的百科全书。
 - [盖得排行](https://www.guiderank.org/)：看品牌的美誉度；App 内置吃喝玩乐地图。
 - [哔哩哔哩](https://www.bilibili.com/)：包罗万象的 B 站。
 - [小米商城](https://www.mi.com/)：米家的产品，直男的选择。
-- 企鹅吃喝直男：公众号 ID `qiechihe`，客观独立，亲身实测，专业严选，找遍来自全世界的好东西，和你分享吃得到、喝得出的快乐。
+- 企鹅吃喝直男：微信公众号 ID `qiechihe`，客观独立，亲身实测，专业严选，找遍来自全世界的好东西，和你分享吃得到、喝得出的快乐。
 
 
 

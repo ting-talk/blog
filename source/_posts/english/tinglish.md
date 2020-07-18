@@ -219,8 +219,6 @@ by [郝海龙](https://sspai.com/series/77/)
 
 
 
-
-
 ### 辅助精读
 
 之所以称其为辅助精读法，是因为我们在阅读时，加入了查词典、做句子分析、查语法书等辅助手段。
@@ -296,6 +294,11 @@ by [郝海龙](https://sspai.com/series/77/)
 2. 将生单词全部记录到生词本上（背单词软件），纳入到自己背单词的任务中。
 3. 将第五遍阅读查阅语法书或询问朋友之后，记录下来的语法现象也添加到记忆软件中。在背单词时，一并复习。
 
+
+
+使用辅助精读法完成 100 篇文章后，可以通过词根词缀巩固词汇，推荐以下两本英英词汇书：
+- *Word Power Made Easy* by Norman Lewis
+- *Merriam-Webster’s Vocabulary Builder* by Mary Wood Cornog
 
 
 ## 练听力
