@@ -2,7 +2,7 @@
 
 title: Telegram（电报）：新手指南、使用教程及频道推荐
 date: 2019-11-09  
-updated: 2020-07-16
+updated: 2020-07-19
 categories: 数字生活  
 tags: [Telegram, 网上冲浪指南]
 permalink: telegram
@@ -29,7 +29,7 @@ permalink: telegram
 天下苦微信久矣，随着言论审查力度的加大，任何「风吹草动」都要「斩草除根」：
 
 - Cyberspace Administration of China 会因为我转发一个 Twitter 评论到微信群，请我到最近的派出所「喝茶」。
-- 微信上无法发送纽约时报的链接。
+- 微信上无法发送某些链接（只对你可见），例如纽约时报。
 - 微信删除我写的 [公众号文章](https://tingtalk.me/search-tips/)（秋后算账）。
 
 我意识到，中文互联网已经完全沦陷了，只好逃难到 Telegram。经过一段时间的使用之后，我彻底成为了 Telegram 的「[自来水](https://jikipedia.com/definition/13187)」，见人就夸。然而身边的亲友却不为所动，甘愿做「温室里的花朵」和「笼的传人」，享受岁月静好。我不会责怪 Ta 们，如果你看过[《肖申克的救赎》](https://www.cupfox.com/search?key=%E8%82%96%E7%94%B3%E5%85%8B%E7%9A%84%E6%95%91%E8%B5%8E)，就能理解这种「放弃抗争」的心态。
@@ -38,7 +38,7 @@ permalink: telegram
 
 The devil's in the details，因此我熬夜无数，花了几个月，把 Telegram 官网的 [FAQ](https://telegram.org/faq) 和 [Blog](https://telegram.org/blog) 全部看完了（从 2013 年至今），结合 Google，整理出这篇~~可能是~~中文互联网内容最详细排版最精美的《电报使用指南》，目的是尽可能地为读者呈现 Telegram 的强大、私密以及友好的用户体验。
 
-> 2016 年国庆，我花了一周时间看完了「即刻 app」的所有主题（圈子），写了一篇三千多字文章：《即刻 App - 不再错过你感兴趣的资讯》([图文版](https://wemp.app/posts/6e4830bc-845d-4f2c-ad78-959c9a89e4eb) | [文字版](https://tingtalk.me/mp-archives/)）。~~即刻已经没有复活的可能了~~（[即刻 App](https://m.okjike.com/download) 居然在 2020 年 6 月 10 日回来了），在Telegram 顺势成了我新的资讯中心。
+> 2016 年国庆，我花了一周时间看完了「即刻 app」的所有主题（圈子），写了一篇三千多字文章：《即刻 App - 不再错过你感兴趣的资讯》([图文版](https://wemp.app/posts/6e4830bc-845d-4f2c-ad78-959c9a89e4eb) | [文字版](https://tingtalk.me/mp-archives/)）。~~即刻已经没有复活的可能了~~（[即刻 App](https://m.okjike.com/download) 居然在 2020 年 6 月 10 日回来了，但是没有主题追踪功能），在Telegram 顺势成了我新的资讯中心。
 
 欢迎各位读者逃离微信（[Escape from the WeChat](https://theinitium.com/article/20200619-technology-escape-from-wechat/)），数字移民到没有监控和审查的地方 ，一起在这片乐土上过上~~没羞没臊~~体面的数字生活。
 
@@ -386,17 +386,19 @@ YouTube：https://www.youtube.com/watch?v=SyM3jMFjess&t=05m06s
 
 ### 🙈生动表情
 
-- [按关键字搜索表情（Search emoji by keyword）](https://telegram.org/blog/unsend-privacy-emoji#emoji-search-and-gifs)：在消息框输入关键词，你会看到一些相关 Emoji 弹出。
+**Emoji**
+
+- [按关键字搜索表情（Search emoji by keyword）](https://telegram.org/blog/unsend-privacy-emoji#emoji-search-and-gifs)：在消息框输入关键词，就会弹出相关的 Emoji。
+- 如何在句中（mid-message）快捷添加 Emoji？语法是 `:（英文半角冒号）` + `关键词`。例如输入 I am `:happy`，就会弹出开心相关的 Emoji，这样就不用从 Emoji 面板挑选 Emoji 了。
+- [能触发 Emoji 的英文关键词合集](https://translations.telegram.org/en/emoji)
+- [能触发 Emoji 的简体中文关键词合集](https://translations.telegram.org/zh-hans/emoji)
+
+
+
+**Stickers（表情包）**
+
 - 在 [@sticker](https://t.me/sticker) + Emoji，可以检索**所有**与 Emoji 相关表情包，例如 `@sticker 👍`。
-- 部分 Emoji 支持动态播放（Animated Emoji）：在任意聊天窗口发送 1 个 [非礼勿视猿](https://zh.wikipedia.org/zh/%E4%B8%89%E7%8C%BF) 🙈（[See-No-Evil Monkey](https://emojipedia.org/see-no-evil-monkey/)），再动 Ta 试试，可爱吧？！
-
-
-
-**关联阅读**
-
-- [Emoji 英文关键词合集](https://translations.telegram.org/en/emoji)
-- [Emoji 简体中文关键词合集](https://translations.telegram.org/zh-hans/emoji)
-- [Telegram Animated Emoji List（电报动态大表情合集）](https://tingtalk.me/telegram-animated-emoji/)
+- 部分 Emoji 支持动态播放（Animated Emoji）：在任意聊天窗口发送 1 个 [非礼勿视猿](https://zh.wikipedia.org/zh/%E4%B8%89%E7%8C%BF) 🙈（[See-No-Evil Monkey](https://emojipedia.org/see-no-evil-monkey/)），再动 Ta 试试，可爱吧？！👉 [Telegram Animated Emoji List（电报动态大表情合集）](https://tingtalk.me/telegram-animated-emoji/)
 
 
 
@@ -432,10 +434,16 @@ Telegram 有两种加密等级，都非常安全：
 
 ### 📊[投票功能](https://telegram.org/blog/polls-2-0-vmq)
 
-- 长按或右击投票（Poll）可以撤回投票（Retract vote）。
+**发起人**
+
 - 支持匿名投票（Anonymous Voting）。
 - 支持多选（Multiple Answers）。
 - 支持答题模式（ [Quiz Mode](https://telegram.org/blog#quiz-mode)）。
+- 但不支持修改发出的 Poll。
+
+**投票者/答题者**
+
+- 不满意长按或右击投票（Poll）可以撤回投票（Retract vote）。
 
 
 
@@ -594,10 +602,11 @@ https://rsshub.app/telegram/channel/tingtalk
 
 
 
-### 🚀机场播报
+### 🚀机场广播
 
 | 频道                                               | 详情                                                         |
 | -------------------------------------------------- | ------------------------------------------------------------ |
+| [DivineEngine](https://t.me/DivineEngine)          | 神机规则                                                     |
 | [Fndroid 的日常](https://t.me/fndroid_news)        | Clash for Windows                                            |
 | [秋水逸冰](https://t.me/qiushuiyibing)             | [Teddysun](https://teddysun.com/about) 会不定期在此发布一些本人的作品。 |
 | [Shadowrocket News](https://t.me/ShadowrocketNews) | iOS 上小火箭                                                 |
@@ -675,7 +684,7 @@ Bots 就像运行在 Telegram 内部的小程序。借助 [Telegram 开放的 AP
 
 我目前的资讯消化方案是：
 
-- 在 [All About RSS](https://github.com/AboutRSS/ALL-about-RSS#telegram-rss-bots) 里找一个 RSS Bots，订阅不想错过的源，在 Telegram 内阅读，推荐以下 Bots：
+- 在 [All About RSS](https://github.com/AboutRSS/ALL-about-RSS#telegram-rss-bots) 里找一个 RSS Bots，订阅不想错过的源，在 Telegram 内阅读，以下 Bots 测试可用：
   - [@FeedManBot](https://t.me/FeedManBot)
   - [@TheFeedReaderBot](https://t.me/TheFeedReaderBot)：不仅可以订阅 RSS 源，还可以在 Telegram 上浏览 Twitter。
   - [@Feed2Telegram_bot](https://t.me/Feed2Telegram_bot)：免费用户只有 5 条 Feeds；发送 Twitter（推特）链接，即可追踪。
@@ -683,7 +692,9 @@ Bots 就像运行在 Telegram 内部的小程序。借助 [Telegram 开放的 AP
   - [@newlearner_rss_bot](https://t.me/newlearner_rss_bot)
   - [@NodeRSS_bot](https://t.me/NodeRSS_bot)
   - [@RSSFlowBot](https://t.me/RSSFlowBot) 从 2020 年 6 月 9 日开始停止运行，[@RssChinabot](https://t.me/RssChinabott) 是它的同款机器人。
-- [Inoreader](https://www.inoreader.com/) 订阅可以错过的源，在网页版或 Android 手机内阅读。
+- [Inoreader](https://www.inoreader.com/) 订阅可以错过的源。
+  - Windows 电脑：创建一个 [虚拟桌面](https://sspai.com/post/43187)，打开 Inoreader 网页版，[开启浏览器通知权限](https://support.google.com/chrome/answer/3220216?co=GENIE.Platform%3DDesktop&hl=zh-Hans)（点击网址左边的锁头 `🔐` > `网站设置` > `通知`：`允许`），就能收到 RSS 的订阅更新了。
+  -  Android 手机：偶尔看看。
 
 
 
@@ -1070,7 +1081,7 @@ https://rsshub.app/twitter/user/OnePieceAnime
 
 
 
-### 👮管理方便
+### 👮管理之道
 
 - 可删除成员的单条消息或全部消息。
 - [慢速模式（Slow Mode）](https://telegram.org/blog/silent-messages-slow-mode#slow-mode)：在 10 秒 / 30 秒 / 1 分钟 / 5 分钟 / 15 分钟 / 1 个小时内，成员只能发送一条消息，这样可以使小组中的对话更加有序，也可以提高每条信息的价值。
@@ -1080,11 +1091,13 @@ https://rsshub.app/twitter/user/OnePieceAnime
 
 
 
-### 🔐管理机器人
+**🔐管理机器人**
 
 - [@policr_mini_bot](https://t.me/policr_mini_bot)：开源验证机器人；[官网](https://mini.telestd.me/)。
 - [@DeleteEventsBot](https://t.me/DeleteEventsBot)：删除无关系统信息，例如谁加入了群组、谁离开了群组等。
-
+- [@areply_bot](https://t.me/areply_bot)：自动解除关联频道（Linked hannel）转发到群组的自动置顶消息，并恢复之前的置顶消息。拉入群组后，请赋予机器人以下权限：
+	- 置顶消息（Pin messages）：必须打开。
+	- 删除消息（Delete messages）：删除系统置顶提示，按需打开。
 
 
 ### 💬对话守则
@@ -1254,6 +1267,7 @@ URL = `https://telegra.ph`/`首次输入的标题`-`首次发表的月`-`首次�
 ## 🔗关联阅读
 
 - [Telegram FAQ](https://telegram.org/faq)：电报常见问题（英文网页）。
+- [The Evolution of Telegram](https://telegram.org/evolution)：电报的演化（简史）。
 - [Articles about Telegram](https://telegram.org/press)：这些文章涵盖了 Telegram 及其赞助商、全球企业家帕维尔•杜罗夫（Pavel Durov）。
 - [Telegram Messenger - Twitter](https://twitter.com/telegram)：Keep evolving and stay in touch，官方推特会介绍各种 `#TelegramTips`。
 - [Telegram logos](https://telegram.org/tour/screenshots)：Please feel free to use these Telegram logos.  Just make sure people understand you're not representing Telegram officially.

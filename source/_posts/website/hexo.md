@@ -185,6 +185,8 @@ marked:
 
 ### 🖼️图片居中
 
+最新的版本（Mimi）已默认居中。
+
 1. 在 `hexo-site\source` 新建一个名为 `_data` 的文件夹。
 2. 把 `hexo-site\themes/next/source/css/_schemes/Mist` 的 `_posts-expand.styl` 复制到 `_data`，并把名字修改为 `styles.styl`。
 3. 打开 `_data` 的 `styles.styl`，修改以下代码：

@@ -2,7 +2,7 @@
 
 title: Telegram Animated Emoji List（电报动态大表情合集）
 date: 2020-03-01  
-updated: 2020-05-03  
+updated: 2020-07-18  
 categories: 数字生活  
 tags: [Telegram, 网上冲浪指南]
 permalink: telegram-animated-emoji
@@ -11,15 +11,13 @@ permalink: telegram-animated-emoji
 
 ![see-no-evil-monkey](telegram-animated-emoji/see-no-evil-monkey.png)
 
-静态的 Emoji，在被 Telegram Team 注入灵魂之后，一个个变得鲜活起来了。
+静态的 Emoji，在被 Telegram 注入灵魂之后，一个个变得鲜活起来了。
 
 <!-- more -->
 
-发送**单个** ❤️ 并碰它一下，手机会震动，那是 Telegram Team  赋予 Emoji 的心跳（If your emoji has a heart, we'll give it a beat or unleash their spirit in motion）。
+发送**单个** ❤️ 并碰它一下，手机会震动，那是 Telegram Team  赋予 Emoji 的心跳（If your emoji has a heart, we'll give it a beat or unleash their spirit in motion）。还有一个更好玩的 Animated Emoji 是 🙈，真是萌到不行。
 
-最好玩的 Animated Emoji 是 🙈，真是萌到不行。
-
-你还可以跟朋友们玩 [掷骰子 🎲](https://telegram.org/blog/folders#and-one-more-thing) 和 [投飞镖 🎯](https://telegram.org/blog/400-million#bullseye) 的游戏。
+除此之外，还可以玩 [掷骰子 🎲](https://telegram.org/blog/folders#and-one-more-thing) 和 [投飞镖 🎯](https://telegram.org/blog/400-million#bullseye) 的游戏。
 
 
 
@@ -58,7 +56,9 @@ permalink: telegram-animated-emoji
 | 💀              | [Skull](https://emojipedia.org/skull/)                       |
 | 🎃              | [Jack-O-Lantern](https://emojipedia.org/jack-o-lantern/)     |
 | 😻              | [Smiling Cat with Heart-Eyes](https://emojipedia.org/smiling-cat-with-heart-eyes/) |
+| 👏              | [Clapping Hands](https://emojipedia.org/clapping-hands/)     |
 | 👍              | [Thumbs Up](https://emojipedia.org/thumbs-up/)               |
+| 👎              | [Thumbs Down](https://emojipedia.org/thumbs-down/)           |
 | 👋              | [Waving Hand](https://emojipedia.org/waving-hand/)           |
 | 💋              | [Kiss Mark](https://emojipedia.org/kiss-mark/)               |
 | 👩‍⚕️             | [Woman Health Worker](https://emojipedia.org/woman-health-worker/) |
@@ -159,4 +159,3 @@ permalink: telegram-animated-emoji
 **最新动态**：关注 [Animated Emojis](https://t.me/AnimatedEmojis) 的 Telegram 频道。
 
 **关键阅读**：[Telegram（电报）：新手指南、使用教程及频道推荐](https://tingtalk.me/telegram/)
-
