@@ -594,6 +594,18 @@ https://rsshub.app/telegram/channel/tingtalk
 
 
 
+### 🚀机场播报
+
+| 频道                                               | 详情                                                         |
+| -------------------------------------------------- | ------------------------------------------------------------ |
+| [Fndroid 的日常](https://t.me/fndroid_news)        | Clash for Windows                                            |
+| [秋水逸冰](https://t.me/qiushuiyibing)             | [Teddysun](https://teddysun.com/about) 会不定期在此发布一些本人的作品。 |
+| [Shadowrocket News](https://t.me/ShadowrocketNews) | iOS 上小火箭                                                 |
+
+更多科学上网（翻墙）相关的优质频道，请在电报上联系 [@tingbot](https://t.me/tingbot) 添加到此列表。
+
+
+
 ### 🔔RSS 订阅
 
 | 频道                                        | 详情                                                         |
@@ -666,7 +678,7 @@ Bots 就像运行在 Telegram 内部的小程序。借助 [Telegram 开放的 AP
 - 在 [All About RSS](https://github.com/AboutRSS/ALL-about-RSS#telegram-rss-bots) 里找一个 RSS Bots，订阅不想错过的源，在 Telegram 内阅读，推荐以下 Bots：
   - [@FeedManBot](https://t.me/FeedManBot)
   - [@TheFeedReaderBot](https://t.me/TheFeedReaderBot)：不仅可以订阅 RSS 源，还可以在 Telegram 上浏览 Twitter。
-  - [@Feed2Telegram_bot](https://t.me/Feed2Telegram_bot)：免费用户只有 5 条 Feeds。
+  - [@Feed2Telegram_bot](https://t.me/Feed2Telegram_bot)：免费用户只有 5 条 Feeds；发送 Twitter（推特）链接，即可追踪。
   - [@el_monitorro_bot](https://t.me/el_monitorro_bot)
   - [@newlearner_rss_bot](https://t.me/newlearner_rss_bot)
   - [@NodeRSS_bot](https://t.me/NodeRSS_bot)
@@ -1036,7 +1048,6 @@ https://rsshub.app/twitter/user/OnePieceAnime
 | [@githubbot](https://telegram.me/githubbot)        | 推送 GitHub 仓库的动态。                                     |
 | [@GmailBot](https://t.me/GmailBot)                 | 在 Telegram 上收发 📧 Gmail。                                 |
 | [@LivegramBot](https://t.me/LivegramBot)           | [不加好友也能私聊](https://telegra.ph/What-is-Livegram-Bot-03-17)，可用于收集反馈及绕开 `+86` 手机号码的限制。 |
-| [@policr_bot](https://t.me/policr_bot)             | 审核入群（虽开源，未审核其安全性）。                         |
 | [@sssoou_bot](https://t.me/sssoou_bot)             | Telegram 搜索，支持中文。                                    |
 | [@Stickers](https://t.me/Stickers)                 | 创建属于自己的表情包。                                       |
 | [@tweet_for_me_bot](https://t.me/tweet_for_me_bot) | 在 Telegram 上发布 Twitter 动态。                            |
@@ -1071,7 +1082,7 @@ https://rsshub.app/twitter/user/OnePieceAnime
 
 ### 🔐管理机器人
 
-- [@policr_mini_bot](https://t.me/policr_mini_bot)：入群验证。
+- [@policr_mini_bot](https://t.me/policr_mini_bot)：开源验证机器人；[官网](https://mini.telestd.me/)。
 - [@DeleteEventsBot](https://t.me/DeleteEventsBot)：删除无关系统信息，例如谁加入了群组、谁离开了群组等。
 
 
