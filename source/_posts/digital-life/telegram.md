@@ -30,7 +30,7 @@ permalink: telegram
 
 - Cyberspace Administration of China 会因为我转发一个 Twitter 评论到微信群，请我到最近的派出所「喝茶」。
 - 微信上无法发送某些链接（只对你可见），例如纽约时报。
-- 微信删除我写的 [公众号文章](https://tingtalk.me/search-tips/)（秋后算账）。
+- 微信先是删除我写的 [公众号文章](https://tingtalk.me/mp-archives/)（秋后算账），接着被永久封号。
 
 我意识到，中文互联网已经完全沦陷了，只好逃难到 Telegram。经过一段时间的使用之后，我彻底成为了 Telegram 的「[自来水](https://jikipedia.com/definition/13187)」，见人就夸。然而身边的亲友却不为所动，甘愿做「温室里的花朵」和「笼的传人」，享受岁月静好。我不会责怪 Ta 们，如果你看过[《肖申克的救赎》](https://www.cupfox.com/search?key=%E8%82%96%E7%94%B3%E5%85%8B%E7%9A%84%E6%95%91%E8%B5%8E)，就能理解这种「放弃抗争」的心态。
 
