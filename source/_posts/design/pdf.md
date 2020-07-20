@@ -13,14 +13,14 @@ permalink: pdf
 
 
 
-PDF 是 Adobe 在 1993 年发明，所以使用 [Adobe Acrobat Pro](https://acrobat.adobe.com/cn/zh-Hans/acrobat/acrobat-pro.html) 可以编辑 PDF 方方面面：裁剪、拆分、合并、排序、OCR（识别文本）等。本文主要讲讲裁剪和拆分功能。
+PDF 是 Adobe 在 1993 年发明，所以使用 [Adobe Acrobat Pro](https://acrobat.adobe.com/cn/zh-Hans/acrobat/acrobat-pro.html) 可以编辑 PDF 方方面面：裁剪、拆分、合并、导出图片、排序、OCR（识别文本）等。本文主要讲讲裁剪和拆分功能。
 
 
 
 如何解锁 Adobe Acrobat Pro 的全部功能，找找「赢政天下」：
 
 - 微博：[@vposy](https://www.weibo.com/p/1005051112829033)
-- 搜索引擎：`Adobe Acrobat Pro vposy`
+- 搜索引擎：`Adobe Acrobat Pro + vposy`
 
 
 
@@ -34,7 +34,7 @@ PDF 是 Adobe 在 1993 年发明，所以使用 [Adobe Acrobat Pro](https://acro
 
 ### 法一
 
-- 打开 pdf 文档
+- 打开 PDF
 - 菜单栏「视图」- 显示/隐藏 - 导览窗格 - 页面缩略图
 - Ctrl + A
 - 右键，选择「裁剪页面」
@@ -45,7 +45,7 @@ PDF 是 Adobe 在 1993 年发明，所以使用 [Adobe Acrobat Pro](https://acro
 
 ### 法二
 
-- 打开 pdf 文档
+- 打开 PDF
 - 「工具」 -> 「印刷制作」 -> 「设置页面框」 -> 应用到「裁剪框」 -> 上下左右输入裁剪值 -> 页面范围：「所有页面」
 - 确定
 - 另存为
@@ -58,9 +58,12 @@ PDF 是 Adobe 在 1993 年发明，所以使用 [Adobe Acrobat Pro](https://acro
 
 
 
-
-
 ## 拆分 PDF
+
+1. 打开 PDF
+2. 点击 `工具` > `组织页面` > `拆分`
+
+
 
 
 
