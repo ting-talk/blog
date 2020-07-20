@@ -2,7 +2,7 @@
 
 title: 想要更高效地找到信息，你需要掌握这些搜索技巧
 date: 2019-03-11  
-updated: 2020-03-22   
+updated: 2020-06-22   
 categories: 数字生活  
 tags: 网上冲浪指南
 permalink: search-tips 
@@ -265,9 +265,10 @@ permalink: search-tips
 - [消费者报道](http://www.ccreports.com.cn/)：专注于消费品及服务比较测试的媒体。
 - [消费明鉴](http://www.mingjian.cn/)：「货比三家」领域的百科全书。
 - [盖得排行](https://www.guiderank.org/)：看品牌的美誉度；App 内置吃喝玩乐地图。
-- [哔哩哔哩](https://www.bilibili.com/)：包罗万象的 B 站。
-- [小米商城](https://www.mi.com/)：米家的产品，直男的选择。
-- 企鹅吃喝直男：微信公众号 ID `qiechihe`，客观独立，亲身实测，专业严选，找遍来自全世界的好东西，和你分享吃得到、喝得出的快乐。
+- [町芒](zhihu.com/org/ting-mang-59)：目前主要做食品方面的评测。如何通过关键词搜索相应的文章：
+	- 进入「町芒」的微信公众号（`dingmang2018`），点击右上角的三个点 💬，即可看到搜索 🔍 入口。
+	- Google 搜索：`某个食品 + 町芒`
+- 企鹅吃喝指南：微信公众号 ID `qiechihe`，找遍来自全世界的好东西，和你分享吃得到、喝得出的快乐。
 
 
 
@@ -279,6 +280,7 @@ permalink: search-tips
 - [Hotspot 3D](https://www.hotspot3d.com/)：手机 3D 模型对比
 - [RTINGS](https://www.rtings.com/)：如果你想从实际的需求和场景出发，找到一副适合自己的耳机、一台电视或者显示器，RTINGS 就可以帮你。
 - [路由器交流](https://www.acwifi.net/)：家用无线路由器评测。
+- [小米商城](https://www.mi.com/)：米家的产品，直男的选择。
 
 
 
