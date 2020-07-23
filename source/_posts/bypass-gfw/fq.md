@@ -150,9 +150,10 @@ Ting 我 Talk 一句：只要肉身在中国大陆，我们的一切行动听党
 
 
 
-**相关工具**
+**关联阅读**
 
 - [订阅链接转换 API](https://bianyuan.xyz/)
+- [ClashR News](https://telegra.ph/ClashR-03-06)
 
 
 
@@ -252,8 +253,9 @@ Ting 我 Talk 一句：只要肉身在中国大陆，我们的一切行动听党
 
 
 
-
 #### Clash for Windows
+
+仅支持 64 位的系统。
 
 ##### 下载
 
@@ -377,6 +379,27 @@ Ting 我 Talk 一句：只要肉身在中国大陆，我们的一切行动听党
 - ShadowsocksD 在 [Shadowsocks](https://github.com/shadowsocks/shadowsocks-android/releases) 的基础上增加了订阅功能
 - 不兼容 ShadowsocksR 协议
 - 目前的开发者厌恶华为 / 锤子 / 小米（MIUI）设备，可能会存在兼容性问题
+
+
+
+#### Clash for Android
+
+**特点**
+
+- 界面简洁美观
+- 支持策略分流
+- 支持访问控制模式（分应用代理、绕行模式）
+
+**下载**
+
+- [Google Play](https://play.google.com/store/apps/details?id=com.github.kr328.clash&hl=zh)
+- [GitHub](https://github.com/Kr328/ClashForAndroid/releases)
+
+
+
+**教程**：[Clash(R) for Android教程 | 东半球第二好用的安卓翻墙工具 - Sabrina](https://merlinblog.xyz/wiki/cfa.html)
+
+**Telegram Channel（电报频道）**：[Clash for Android Channel Gateway](https://t.me/clash_for_android_channel)
 
 
 

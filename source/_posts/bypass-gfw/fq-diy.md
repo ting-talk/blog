@@ -62,6 +62,12 @@ Shadowsocks(R) 简称为 SS(R)，俗称酸酸（乳）。因为图标是小飞�
 
 
 
+关联阅读：[一份不负责任的机场使用手册 - DuyaoSS](https://www.duyaoss.com/archives/1086/) 
+
+
+
+
+
 
 ## 购买 VPS
 
