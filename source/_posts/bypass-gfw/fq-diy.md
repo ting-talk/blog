@@ -39,6 +39,19 @@ permalink: fq-diy
 
 
 
+**Shadowsocks(R) 各客户端的区别**
+
+Shadowsocks(R) 简称为 SS(R)，俗称酸酸（乳）。因为图标是小飞机，所以番茄商（说法来自庭说）也叫机场。
+
+| 客户端                                                 | 注释                                                         |
+| ------------------------------------------------------ | ------------------------------------------------------------ |
+| [Shadowsocks](https://github.com/shadowsocks)          | 原版客户端，但不支持订阅，不过更新勤快。                     |
+| [ShadowsocksD](https://github.com/TheCGDF)             | 在 Shadowsocks 的基础上增加了订阅功能，更新勤快，但对系统挑剔。 |
+| [ShadowsocksR](https://github.com/shadowsocksr-backup) | Shadowsocks 的分支，原生支持**订阅**功能，但停止更新了。     |
+| [ShadowsocksRR](https://github.com/shadowsocksrr/)     | ShadowsocksR 的继承者，推荐使用。                            |
+
+
+
 ### 线路选择
 
 - 直连：翻墙客户端 --> 公网（GFW） --> 翻墙服务端

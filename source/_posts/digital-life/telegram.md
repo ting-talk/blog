@@ -1165,7 +1165,7 @@ https://rsshub.app/twitter/user/OnePieceAnime
 
 
 
-允许传送最大 2000 MB 的文件（version 2.1.18），简直就是绝佳的「文件传输助手」，所以你可以：
+允许传送最大 2000 MiB 的文件，简直就是绝佳的「文件传输助手」，所以你可以：
 
 - 把 [Saved Messages](https://telegram.org/blog/albums-saved-messages#saved-messages)（收藏夹）当作是 [GTD](https://tingtalk.me/gtd) 中 Inbox。每条保存的消息都有一个 ▶️ 按钮，可以将你带到最初发布消息的位置。
 - 开很多私人频道，分类存放你的信息和资讯。你甚至可以在 Telegram 上传本地音乐或者录音到自己的频道，建立自己的云端音乐播放库（或者借助音乐 Bots）和播客（Podcast）。
@@ -1206,13 +1206,15 @@ https://rsshub.app/twitter/user/OnePieceAnime
 
 ### 🔞解锁敏感内容
 
-如何在 iOS 原生客户端查看敏感内容，即使频道或群组被封禁：
+如何在 iOS 原生客户端查看敏感内容（例如 NSFW），即使频道或群组被封禁：
 
 1. 登录 [Telegram Web](https://web.telegram.org/)（网页版）或者下载并登录 [Telegram Desktop](https://desktop.telegram.org/)（客户端）。
 2. `Settings`（设置）> `Privacy and Security`（隐私和安全）。
-3. `Sensitive content`（敏感内容）：打开 `Disable filtering`（关闭过滤），即可 `Display sensitive media in public channels on all your Telegram devices`（允许在您所有登录 Telegram 的设备上显示公共频道内的内容）。
+3. `Sensitive content`（敏感内容）：打开 `Disable filtering`（关闭过滤），网页版是打开 `Show Sensitive Content`，即可 `Display sensitive media in public channels on all your Telegram devices`（允许在您所有登录 Telegram 的设备上显示公共频道内的敏感内容）。
 
 操作完成后，重新启动 iOS / macOS 原生客户端，即可访问敏感群组或频道，但不推荐，过度沉溺于 NSFW 只会让你丧失对人生的主动权。虽然在生物学上，我们都是基因进化的工具（性快感只是讨好人类的手段），但人类之所以是高级动物（并没有贬低其它动物的意思），是因为我们看清事物本质后，依然热爱生活，而不是追求那一「哆嗦」，世界等着你去探索呢。
+
+2020 年 7 月 23 日发现，关闭内容过滤后，网页版和电脑版可以进入被屏蔽的群组，但是最新的 Android 版却无法进入，iOS 设备未测试。
 
 
 

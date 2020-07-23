@@ -9,20 +9,24 @@ permalink: english-pronunciation
 
 ---
 
-![pronunciation](english-pronunciation/pronunciation.png "© icon-library.com")一般来说，同一个单词，名词形式在第一个音节重读，动词形式在第二个音节重读。
+![pronunciation](english-pronunciation/pronunciation.png "© icon-library.com")
+
+一般来说，同一个单词，名词形式在第一个音节重读，动词形式在第二个音节重读。
 
 <!-- more -->
+
+
 
 ## C
 
 ### Content
 
 `ˈkäntent`  
-How was the content of the lectures?   
-讲课的内容是什么？  
+How was the **con**tent of the lectures?   
+讲课的**内容**是什么？  
 
 `kənˈtent`  
-Personally, I'm quite content with the newcomer.   
+Personally, I'm quite con**tent** with the newcomer.   
 就我个人而言，我对新人挺**满意**。  
 
 
@@ -32,17 +36,15 @@ Personally, I'm quite content with the newcomer.
 ### Desert
 
 `ˈdezərt`   
-The Sahara desert is one of the largest deserts in the world.   
+The Sahara **de**sert is one of the largest deserts in the world.   
 撒哈拉沙漠是世界上最大的**沙漠**之一。
 
-
 `dəˈzərt`   
-Where is everyone? - The town's deserted.   
+Where is everyone? - The town's de**ser**ted.   
 大家都去哪儿了 -小镇**荒废**了。
 
-
 `dəˈzərt` dessert  
-Julie, do you mind getting the dessert?   
+Julie, do you mind getting the de**ssert**?   
 朱莉，你能去帮我把**甜点**拿来吗？  
 
 
@@ -52,13 +54,12 @@ Julie, do you mind getting the dessert?
 ### present
 
 `ˈprez(ə)nt`  
-Have you any ideas for presents?   
+Have you any ideas for **pre**sents?   
 你想好买什么**礼物**了吗？  
 
 I sold it to the present owners.   
 是我把它卖给了**现在**的主人。
 
-
 `prəˈzent`  
-I presented at the Teen Choice Awards.   
+I pre**sen**ted at the Teen Choice Awards.   
 我**出席**过青少年选择奖。

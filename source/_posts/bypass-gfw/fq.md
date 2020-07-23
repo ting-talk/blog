@@ -66,22 +66,19 @@ Ting 我 Talk 一句：只要肉身在中国大陆，我们的一切行动听党
 
 ### 💸 充值购买
 
-- 用手机或者电脑打开 [ssrcloud](https://www.clashcloud.net/auth/register?code=o4rW)，注册，登录。
-  - 邀请码是 `o4rW`
-  - [备用注册链接](https://ntt-co-jp.club/#/auth/register?code=o4rW)
-- `商店` - `充值`：￥10 至 ￥20
-- `套餐购买`：多寡随意，丰俭由人。为了保险起见，不管是买哪一家的番茄，我都推荐先买一个月的量试用一下，觉得好用，再季付 / 年付。毕竟道高一次，魔高一丈，中国的网管可不是吃素的（可怕的食肉动物），对番茄这种水果极其厌恶。万一发飙，种植技术一般的番茄商可能就 Game Over 了。
+- 用手机或者电脑的本机浏览器打开 [ssrcloud](https://www.clashcloud.net/auth/register?code=o4rW)（[备用注册链接](https://ntt-co-jp.club/#/auth/register?code=o4rW)）。通过我的邀请链接注册（邀请码是 `o4rW`），你可能会获得 ￥1 的初始出海资金。
+- 注册，登录。
+- `商店` - `充值`：￥10 以上，多寡随意，丰俭由人。
+- `套餐购买`：为了保险起见，不管是买哪一家的番茄，我都推荐先买一个月的量试用一下，觉得好用，再季付 / 年付。毕竟道高一次，魔高一丈，中国的网管可不是吃素的（可怕的食肉动物），对番茄这种水果极其厌恶。万一发飙，种植技术一般的番茄商可能就 Game Over 了。
 - `我的` - `用户中心` - `快速添加节点` - 复制 `普通节点订阅地址`，粘贴在对应的番茄客户端即可食用。
   - 先按照官方教程食用。遇到困难，配合下文「吃番茄」章节排错。
   - 推荐使用 ShadowsocksR 客户端
 
 
 
-
-
 ### 💁 售后服务
 
-有问题，加入 [Telegram](https://tingtalk.me/telegram/) 群组，呼叫机场主：
+有问题，加入 [Telegram](https://tingtalk.me/telegram/) 群组，呼叫管理员：
 
 - Telegram 群组（主群）：https://t.me/ssrcloud
 - Telegram 群组（备用）：https://t.me/mikucloud
@@ -89,7 +86,7 @@ Ting 我 Talk 一句：只要肉身在中国大陆，我们的一切行动听党
 
 
 
-未及时为旧套餐续费，购买新套餐后，无法通过订阅连接更新节点，怎么办：
+未及时续费，购买新套餐后，无法通过订阅连接更新节点，怎么办：
 
 1. 登录 ssrcloud
 2. 点击左侧菜单栏的 `节点列表`
@@ -103,7 +100,9 @@ Ting 我 Talk 一句：只要肉身在中国大陆，我们的一切行动听党
 
 先按照番茄商提供的教程食用番茄，本章节是进阶教程，作为补充。
 
-庭说的博客以纯文本为主，图文教程请参阅：
+
+
+**图文教程请参阅**
 
 - [rixCloud 帮助文档](https://rixcloudkb.io/)
 - [Dler Cloud 文档中心](https://docs.dler.io/black-hole/)
@@ -111,16 +110,16 @@ Ting 我 Talk 一句：只要肉身在中国大陆，我们的一切行动听党
 
 
 
-吃番茄有多种方式：
+**吃番茄有多种方式**
 
-吃法①：手动输入
+**吃法①：手动输入**
 
 - `Server IP`（服务器地址）
 - `Port`（服务器端口）
 - `Password`（密码）
 - `Encryption`（加密方式）
 
-吃法②：自动导入
+**吃法②：自动导入**
 
 - 导入单个番茄
   - 复制番茄商提供的单节点地址，打开番茄客户端， `从剪贴板导入 URL`
@@ -130,22 +129,9 @@ Ting 我 Talk 一句：只要肉身在中国大陆，我们的一切行动听党
 
 
 
-**Shadowsocks(R) 各客户端的区别**
-
-Shadowsocks(R) 简称为 SS(R)，俗称酸酸（乳）。因为图标是小飞机，所以番茄商（说法来自庭说）也叫机场。
-
-| 客户端                                                 | 注释                                                         |
-| ------------------------------------------------------ | ------------------------------------------------------------ |
-| [Shadowsocks](https://github.com/shadowsocks)          | 原版客户端，但不支持订阅，不过更新勤快。                     |
-| [ShadowsocksD](https://github.com/TheCGDF)             | 在 Shadowsocks 的基础上增加了订阅功能，更新勤快，但对系统挑剔。 |
-| [ShadowsocksR](https://github.com/shadowsocksr-backup) | Shadowsocks 的分支，原生支持**订阅**功能，但停止更新了。     |
-| [ShadowsocksRR](https://github.com/shadowsocksrr/)     | ShadowsocksR 的继承者，推荐使用。                            |
-
-
-
 **备用下载链接**
 
-番茄客户端的安装包一般是放在国外网站（例如 GitHub），有时候下载较慢，因此我把这些安装包手动上传到蓝奏云，供读者享用（不保证是最新版）：
+番茄客户端的安装包一般是放在国外网站（例如 GitHub），有时候下载较慢，因此我把这些安装包手动上传到蓝奏云，供读者享用（不保证是最新版，而且某些安装包会被蓝奏云迫于不可抗力删除）：
 - [番茄客户端备用下载链接 by TingTalk](https://lanzous.com/b00t9wiva)
 - [各平台客户端备用下载链接 by rixCloud](https://rixcloudkb.io/kb/client-application-download/)
 - iOS（iPhone & iPad）：因为只能通过 App Store 下载，教程请参考下文。
