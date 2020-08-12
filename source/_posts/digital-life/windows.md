@@ -2,7 +2,7 @@
 
 title: Windows 10 电脑：使用技巧、佳软推荐以及系统重装教程  
 date: 2017-12-18  
-updated: 2020-06-27    
+updated: 2020-08-10    
 categories: 数字生活   
 tags: [Windows, 网上冲浪指南]
 permalink: windows  
@@ -390,17 +390,17 @@ QQ 办公简洁版，界面清爽，支持在线编辑 Word 和 Excel，提供 1
 
 
 
-#### WPS Office
+#### [Microsoft Office](https://www.microsoft.com/zh-cn/microsoft-365/)
 
-- 下载链接（官方下载入口已被封）
-  - [百度网盘](https://pan.baidu.com/s/1dzrm0KGToIPuIH-vTiOFIA)：提取码 `z9t9`
-  - [蓝奏云](https://www.lanzous.com/b0cvr7uxg)
-- Markdown 是非常优秀的写作语言，但并不是人人都知道，所以电脑得备一个 Office 软件打开 Word、Excel 和 PowerPoint，这里推荐 WPS 的党政机关版，干净清爽，无广告困扰，并且支持阅读 PDF。
-- 如果你不喜欢 WPS Office，也不想去折腾 Microsoft Office，可以试试 [腾讯文档](https://docs.qq.com/)：
-	- 无需下载安装，打开网页或小程序就能查看和编辑，云端实时保存。
-	- 支持创建、导入和下载 Word、Excel 和 PPT。
-	- 多人实时编辑文档，权限安全可控。
-	- ❗ 但 Markdown 模式真的太丑太难用了。
+Markdown 是非常优秀的写作语言，但并不是人人都知道，所以电脑还是得备一个 Office 软件打开 Word、Excel 和 PowerPoint。
+
+[Microsoft 365（原 Office 365）家庭版](https://www.microsoft.com/zh-cn/microsoft-365/buy/compare-all-microsoft-365-products) 一年的费用是 ¥498，最多可供 6 人使用，且每人有 1 TB 的 OneDrive 云存储空间。
+
+还可以试试 [腾讯文档](https://docs.qq.com/)：
+- 无需下载安装，打开网页或小程序就能查看和编辑，云端实时保存。
+- 支持创建、导入和下载 Word、Excel 和 PPT。
+- 多人实时编辑文档，权限安全可控。
+- ❗ 但 Markdown 模式真的太丑太难用了。
 
 
 
@@ -711,35 +711,39 @@ Internet Download Manager 是一个多线程下载管理器。虽然长得丑，
 
 ### 安装 Windows 10
 
-#### 方法一
+#### 直接安装
 
 如果电脑可以正常开机，直接解压 Windows 10 镜像，双击 `setup`，按照提示，即可正常安装 Windows 10。
 
-#### 方法二
+#### U 盘安装
 
-如果电脑不能正常开机，例如忘记开机密码（意味着此法可以 [破解 Windows 本地开机密码](http://www.wepe.com.cn/ubook/password.html)），可以者借助 U 盘（ 8G 以上；已备份好 U 盘内的数据）制作 WinPE 启动盘。
-
-
+如果电脑不能正常开机，例如忘记开机密码（意味着此法可以 [破解 Windows 本地开机密码](http://www.wepe.com.cn/ubook/password.html)），可以借助 U 盘（ 8G 以上；已备份好 U 盘内的数据）制作 WinPE 启动盘。
 
 > Windows PreInstallation Environment（Windows PE，简称 WinPE），其中文含义为 Windows 预安装环境。简单来说，WinPE 就是一个超级迷你版的 Windows。它可以安装在 U 盘中，从而可以通过 U 盘启动电脑。
 
 
 
+##### 制作 WinPE 启动 U 盘
 
-- 下载 [微 PE 工具箱（Win10PE 版）](http://www.wepe.com.cn/download.html)
-- 插入 U 盘
-- 打开 `微 PE 工具箱`
-- 选择右下角的 `其他安装方式` - `安装 PE 到 U 盘`
-- 程序会自动识别待写入的 U 盘，其他参数默认即可
-- `立即安装进Ｕ盘`
-- 安装完成后，把 Windows 镜像文件和网卡驱动一起复制到 U 盘里
+1. 下载并安装 [微 PE 工具箱（Win10 PE 版）](http://www.wepe.com.cn/download.html)。
+2. 插入 U 盘
+3. 打开 `微 PE 工具箱`，选择右下角的 `其他安装方式` - `安装 PE 到 U 盘`。程序会自动识别待写入的 U 盘，其他参数默认即可。`立即安装进 Ｕ 盘`。
+4. 安装完成后，把 Windows 镜像文件和网卡驱动一起复制到 U 盘里
+
+##### 设置 BIOS
+
 - [设置 BIOS 中 U 盘为引导启动设备](http://jijiupan.360.cn/startguide.html)
-- 进入 WinPE
-- 打开 `Windows 安装器`，选择 U 盘中的 Windows 安装文件
-- `选择引导驱动器`：C 盘
-- `安装磁盘的位置`：C 盘
-- 开始安装，选择专业版
+- `Secure Boot` 改为 `Disabled`，防止出现 `All boot options are tried`
+- 有些笔记本电脑需要同时按 `Fn` + `F*`
 
+##### 进入 WinPE 安装系统
+
+安装之前，如果对系统盘（C 盘）的容量不满意，可以先分区。
+
+1. 打开 `Windows 安装器`，选择 U 盘中的 Windows 安装文件。
+2. `选择引导驱动器`：C 盘。
+3. `安装磁盘的位置`：C 盘。
+4. 开始安装，选择专业版。
 
 
 **更多玩法**
@@ -748,45 +752,93 @@ Internet Download Manager 是一个多线程下载管理器。虽然长得丑，
 - [FirPE](https://www.firpe.cn/)：也许是最好用的 PE 维护系统,然而不够微 PE 好用。
   - [EasyRC 一键重装](https://firpe.cn/page-196)：也许是当前最简单、最快速的系统重装软件。EasyRC 摆脱了传统借助光驱、U盘等介质的繁琐，操作者无需任何技术基础，随时随地实现傻瓜式电脑系统重装（包括下载 Windows 镜像安装包）。
 
-
-
-
 ### 激活 Windows 10
 
-- 右击桌面左下角的开始图标（快捷键 `Win + X`），选择 `Windows PowerShell (管理员)`
+关联阅读：[激活 Windows 10 - Windows Help](https://support.microsoft.com/zh-cn/help/12440/windows-10-activate)
 
-- 复制以下代码，右键粘贴到 PowerShell 的命令行：
+#### 通过数字许可证激活
+
+数字许可证（在 Windows 10 版本 1511 中称为数字授权）是 Windows 10 的一种激活方法，该方法不需要输入产品密钥。
+
+> 在 Windows 10 的所有系统中，无论系统是如何被激活的（通过 Windows7/8.1 升级或者购买零售密钥版密钥或者嵌入BIO，又名 MSDN 许可证）都会被转换成基于各自的设备硬件 ID（HWID）的一个数字许可证。这个证书储存在微软服务器并且每次安装系统时都会激活这台设备。只有当这台设备的硬件被更改（例如更换主板）时，才会导致许可证失效。通过将它绑定到一个微软账户（MSA）你可以在这种情况下转移证书从而激活这台（硬件被更改的）设备。
+>
+> 这个过程在每台机器上只需要执行一次。在以后的安装中只需要跳过任何需要密钥的地方（在安装的时候选择 `我没有激活密钥`），之后第一次联网的时候将自动联系微软服务器注册 HWID 并激活这台设备。
+>
+> 翻译自 [Justf](https://channel.justf.space/2018/06/17/Windows-activation-HWID/)
+
+
+
+❗ 如果已使用密钥激活 Office 等产品，会丢失其激活状态。
+
+
+
+**前提条件**
+
+- 电脑已联网
+- 关闭 VPN（退出翻墙客户端）
+- 未关闭 Windows 更新服务（[如何启动 Windows Update 服务](https://www.cnblogs.com/xuexianqi/p/12342664.html)）
+
+
+
+**激活步骤**
+
+1. 下载最新的 [HWIDGen](https://www.lanzous.com/b394531/)。
+2. 运行 `HWIDGen.exe`。
+3. 点击右上角的工作模式（Work Mode），选择数字激活（HWID，Hardware Identity）。
+4. 点击开始（START），几分钟后，提示激活 Professional 成功（Successfully actived Professional），确定。
+
+
+
+**检查激活状态**
+
+- **方法一**：按下键盘快捷键 `Win` + `X`，选择 Windows PowerShell，复制 `slmgr.vbs -xpr`，粘贴（右键点击），Enter，显示 `计算机已永久激活`。
+- **方法二**：按下键盘快捷键 `Win` + `S`，输入 `激活`，选择 `激活设置`，显示 `Windows 已使用数字许可证激活` 或 `Windows 已使用与 Microsoft 帐户关联的数字许可证激活`，则表示激活成功。
+
+
+
+#### 通过产品密钥激活
+
+产品密钥是由 25 个字符组成的代码，用于激活 Windows。你会看到产品密钥：XXXXX-XXXXX-XXXXX-XXXXX-XXXXX。
+
+❗ 使用 KMS 激活系统，可能需要重复激活。
+
+
+
+**激活步骤**
+
+1. 右击桌面左下角的开始图标（快捷键 `Win + X`），选择 `Windows PowerShell (管理员)`
+2. 复制以下代码（适用于 Windows 10 专业版），右键粘贴到 PowerShell 的命令行：
     ```
     slmgr /ipk W269N-WFGWX-YVC9B-4J6C9-T83GX
     slmgr /skms kms.03k.org
     slmgr /ato
     ```
-    
-- 10 秒钟过后，自动激活成功。但是，经济允许的情况下，购买正版是更好的选择。
+3. 大概十秒钟过后，就会自动激活成功。但是，经济允许的情况下，购买正版是更好的选择。
+
+其他版本的 Windows 激活码，参阅 [KMS 客户端安装程序密钥（KMS Client Setup Keys）](https://docs.microsoft.com/zh-cn/windows-server/get-started/kmsclientkeys)
 
 
 
 **如果上面的方法失效了**
 
-
 - 备选激活方式一：[Windows：从下载到激活盗版 - NoBige-JackCh3n](https://nobige.cn/post/20190729-WindowsOS_cong_xia_zai_dao_ji_huo_dao_ban/)  
 - 备选激活方式二：[Windows系统一句命令激活 - 零微零](https://v0v.bid/) 
 - 备选激活方式三：[KMS 激活 Windows 一键脚本 by Rat's Blog](https://www.moerats.com/kms/)
 - 备选激活方式四：[沧水的 KMS 激活服务](https://kms.cangshui.net/)
-- 备选激活方式五：[HWIDGen：Windows 10 数字权利激活工具 - Google 搜索](https://www.google.com/search?q=HWIDGen)
+
+
+
+---
 
 
 
 **找回隐藏的桌面图标**
-
 选择 `开始` 菜单 ，然后依次选择 `设置` > `个性化` > `主题` > `桌面主题设置` > 勾选想要放在在桌面上的图标，例如 `计算机`。
 
 
 
 **参考资料**
+
 - [人生极简指南，解决 90% 要用什么软件的烦恼 - 奔跑中的奶酪](https://mp.weixin.qq.com/s/2cwq-Gtqm_cByu7F9zPsHg)
 - [这份 Windows 优化指南，帮你拯救越用越慢的老电脑](https://sspai.com/post/43084) - [Eric_hong](https://sspai.com/u/ja69pqna/updates)
 - [Windows - Topbook](https://topbook.cc/search/article?keywords=windows)
-
-
-

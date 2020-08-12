@@ -54,7 +54,9 @@ PDF 是 Adobe 在 1993 年发明，所以使用 [Adobe Acrobat Pro](https://acro
 
 
 
-**参考资料**：[裁剪 PDF 页面 - Adobe](https://helpx.adobe.com/cn/acrobat/using/crop-pdf-pages.html)
+**关联阅读**
+- [裁剪 PDF 页面 - Adobe](https://helpx.adobe.com/cn/acrobat/using/crop-pdf-pages.html)
+- [你说的框是什么框——理解 PDF 中的五种页面边界 - Neverland](https://type.cyhsu.xyz/2020/07/understand-pdf-page-boundaries/)
 
 
 
@@ -65,5 +67,7 @@ PDF 是 Adobe 在 1993 年发明，所以使用 [Adobe Acrobat Pro](https://acro
 
 
 
+**关联阅读**
 
+- [数字世界中的纸张——理解 PDF - Neverland](https://type.cyhsu.xyz/2018/09/understanding-pdf-the-digitalized-paper/)
 

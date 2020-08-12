@@ -312,7 +312,19 @@ by [郝海龙](https://sspai.com/series/77/)
 
 ## 纠发音
 
-[FanfaniShare](https://space.bilibili.com/346396741)：发音有问题，找 Fanfan 老师。
+### 英式 OR 美式
+
+如果你自己完全没有任何偏好，建议选择美音，因为美音的发音方式相对来说更加放松，与汉语的发音位置更加接近，相比英音，学起来会更容易一些。
+
+
+
+### 音标教学视频
+
+- Underhill 音标视频（英音）：[YouTube](https://www.youtube.com/playlist?list=PLbEWGLATRxw_2hL5hY164nvHdTpwhEOXC) / [Bilibili](https://sspai.com/post/bilibili.com/video/BV1px411C7j9)
+- BBC 音标视频（英音）：[YouTube](https://www.youtube.com/playlist?list=PLD6B222E02447DC07) / [Bilibili 双语字幕版](https://www.bilibili.com/video/BV1GJ411X7hu/) / [BBC Learning English 官网](https://www.bbc.co.uk/learningenglish/features/pronunciation)
+- Rachel’s English：Sounds of American English（美音）：[YouTube](https://www.youtube.com/playlist?list=PLB043E64B8BE05FB7) / [Bilibili 英文字幕版](https://www.bilibili.com/video/av50021902/) / [Bilibili 机翻中文字幕版](https://www.bilibili.com/video/BV1yb411y7wm) / [Rachel’s English 官网](https://rachelsenglish.com/)
+
+闲暇之余，你也可以找 [Fanfan 老师](https://space.bilibili.com/346396741)。
 
 
 
