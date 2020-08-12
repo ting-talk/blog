@@ -320,14 +320,18 @@ Hi ting-talk! You've successfully authenticated, but GitHub does not provide she
 
 ```shell
 git init
-git add .
-git commit -m "first commit" 
 ```
 
-Enter。
+添加远程仓库：
 
-```
+```shell
 git remote add origin git@github.com:ting-talk/blog.git
+```
+
+克隆远程仓库：
+
+```shell
+git clone git@github.com:ting-talk/blog.git
 ```
 
 推送：

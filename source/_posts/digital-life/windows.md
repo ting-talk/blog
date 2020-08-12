@@ -2,14 +2,16 @@
 
 title: Windows 10 电脑：使用技巧、佳软推荐以及系统重装教程  
 date: 2017-12-18  
-updated: 2020-08-10    
+updated: 2020-08-13    
 categories: 数字生活   
 tags: [Windows, 网上冲浪指南]
 permalink: windows  
 
 ---
 
-[![windows-10](windows/windows-10.png)全球 Windows 10 活跃设备已经超过 10 亿台](https://news.microsoft.com/zh-cn/window-10-%E5%8A%A9%E5%8A%9B10-%E4%BA%BF%E6%9C%88%E6%B4%BB%E8%B7%83%E8%AE%BE%E5%A4%87%E4%B8%BA%E5%85%A8%E7%90%83%E8%B5%8B%E8%83%BD/)。不得不承认，它越好越好用了。下面跟着我的节奏，一起释放 Windows 10 的潜力。
+![windows-10](windows/windows-10.png)
+
+[全球 Windows 10 活跃设备已经超过 10 亿台](https://news.microsoft.com/zh-cn/window-10-%E5%8A%A9%E5%8A%9B10-%E4%BA%BF%E6%9C%88%E6%B4%BB%E8%B7%83%E8%AE%BE%E5%A4%87%E4%B8%BA%E5%85%A8%E7%90%83%E8%B5%8B%E8%83%BD/)。不得不承认，这个操作系统越好越好用了。
 
 <!-- more -->
 
@@ -329,6 +331,26 @@ CertUtil -hashfile D:\Downloads\Shadowsocks-4.1.9.3.zip SHA512
 
 
 
+#### [Dism++](https://www.chuyu.me/zh-Hans/)
+
+> DISM：Deployment Image Service and Management Tool，部署映像服务和管理。
+
+也许是最强的 Windows 实用工具（系统优化工具），例如：
+- 在桌面上的显示我的电脑
+- 将用户账号控制程序（UAC）调整为从不通知
+- 隐藏快捷方式小箭头
+- 启用 Windows 照片查看器
+- 关闭商店应用推广
+- 打开资源管理器（`Win` + `E`）时显示此电脑
+- 任务栏时钟精确到秒
+- ……
+
+
+
+即下即用，无广告、无后门，安心用。
+
+
+
 #### [Geek Uninstaller](https://geekuninstaller.com/)
 
 - 小巧（2 MB ）、绿色（无需安装）、易用（单文件）的卸载工具。
@@ -404,6 +426,12 @@ Markdown 是非常优秀的写作语言，但并不是人人都知道，所以�
 
 
 
+#### [Visual Studio Code](https://code.visualstudio.com/)
+
+微软开发的代码编辑器。
+
+
+
 #### [Adobe Acrobat](https://acrobat.adobe.com/cn/zh-Hans/acrobat.html)
 
 - 如果不需要修改 PDF 的内容，[Acrobat Reader](https://acrobat.adobe.com/cn/zh-Hans/acrobat/pdf-reader.html)、[Sumatra](https://www.sumatrapdfreader.org/free-pdf-reader.html)、Google Chrome（谷歌浏览器）、Microsoft Edge（ Windows 10 自带浏览器）和 WPS Office 都可以满足你的要求。
@@ -420,12 +448,6 @@ Markdown 是非常优秀的写作语言，但并不是人人都知道，所以�
 #### [PDF 补丁丁](https://www.cnblogs.com/pdfpatcher/)
 
 一个多功能 PDF 工具箱：修改 PDF、编辑 PDF 书签、导出 PDF 书签、导入书签、生成、合并、拆分、提取页内容、提取图片、OCR……永久免费，绝不过期，无广告，无弹出废话对话框。
-
-
-
-#### 微软拼音
-
-自带的输入法已经足够好用，而国产的输入法有关不完的广告弹窗。
 
 
 
@@ -643,8 +665,6 @@ Internet Download Manager 是一个多线程下载管理器。虽然长得丑，
 
 
 
-
-
 #### [Dynamic Theme](https://www.microsoft.com/zh-cn/p/dynamic-theme/9nblggh1zbkw)
 
 免费的五星桌面壁纸软件，自动跟随 Bing 每日壁纸更新，无广告，无水印，支持自动保存壁纸到指定的文件夹。启动之后，也不会常驻在任务栏的通知区域，就像 Windows 10 系统自带的功能一样，可谓是「随风潜入夜，换图细无声」。每天通过一张漂亮的壁纸，去认识这个多姿多彩而又残酷的世界。
@@ -690,6 +710,12 @@ Internet Download Manager 是一个多线程下载管理器。虽然长得丑，
 
 - 目前仅支持 Windows 10 和 iOS。
 - 需登录 [Microsoft 帐户](https://account.microsoft.com)，登陆之后自动保存，顺畅继续。
+
+
+
+#### 微软拼音
+
+自带的输入法已经足够好用，而国产的输入法有关不完的广告弹窗。
 
 
 
