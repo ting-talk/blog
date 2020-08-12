@@ -2,7 +2,7 @@
 
 title: 番茄食用指南（科学上网教程）  
 date: 2016-03-03  
-updated: 2020-07-14   
+updated: 2020-08-13   
 categories: 翻墙方法   
 tags: 突破网络审查 
 permalink: fq
@@ -292,13 +292,29 @@ Ting 我 Talk 一句：只要肉身在中国大陆，我们的一切行动听党
 
 **[General](https://docs.cfw.lbyczf.com/contents/ui/general.html)（常规）**   
 
-- `System Proxy`（系统代理）：`On`
-- `Start with Windows`（开机自启）：`On`
-- `GeoIP Database`：点击更新 MaxMind 的 GeoIP2 Lite 数据库。此数据库用于 Geo 规则和 DNS 判断，建议每月至少更新一次。
+`System Proxy`（系统代理）：`On`
+
+`Start with Windows`（开机自启）：`On`
+
+`GeoIP Database`：点击更新 MaxMind 的 GeoIP2 Lite 数据库。此数据库用于 Geo 规则和 DNS 判断，建议每月至少更新一次。
+
+`UWP Loopback`
+
+> UWP 是微软在 Windows 10 中引入的新概念，由于所有 UWP 应用均运行在被称为 App Container 的虚拟沙箱环境中，其安全性及纯净度远胜于传统的 EXE 应用。但 App Container 机制同时也阻止了网络流量发送到本机（即 loopback）， 使大部分网络抓包调试工具无法对 UWP 应用进行流量分析。同样的，该机制也阻止了 UWP 应用访问 localhost，即使你在系统设置中启用了代理，也无法令 UWP 应用访问本地代理服务器，十分恼人。by [通过设置为 Win 10 UWP 应用解除网络隔离 - SHY](https://sspai.com/post/41137)
+
+如何开启用本地回环代理：
+1. 点击 `Launch Helper`。
+2. 点击 `Exempt All` 勾选所有 UWP 应用。
+3. 点击 `Save Changes` 保存设置。
+4. 点击右上角关闭，此时 UWP 应用的网络问题就可以解决了，例如 Microsoft To Do 可以同步了。
+
+❗ 请注意：安装新的 UWP 应用后，需要重新设置。
 
 
 
-**参考资料**
+**关联阅读**
+
+- 文字教程：[UWP 应用联网 - Fndroid](https://github.com/Fndroid/clash_for_windows_pkg/wiki/UWP%E5%BA%94%E7%94%A8%E8%81%94%E7%BD%91)
 - 图文教程：[Clash for Windows 官方文档 - Fndroid](https://docs.cfw.lbyczf.com/)
 - 图文教程：[如何在 Clash for Windows 上进行配置 - rixCloud](https://rixcloudkb.io/kb/configured-by-clash-for-windows/)
 - 视频教程：[Clash(R) for Windows 教程 | 可能是Windows上最好用的代理工具 - Sabrina](https://merlinblog.xyz/wiki/cfw.html)
