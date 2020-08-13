@@ -9,7 +9,7 @@ permalink: putty
 
 ---
 
-![ssh](putty/ssh.png "Secure Shell（安全外壳协议，简称 SSH）是一种加密的网络传输协议。")
+![ssh](putty/ssh.png)
 
 - Windows 用户可以使用 PuTTY（读 [ˈpʌti] ）连接 VPS。
 - macOS 用户可以使用苹果电脑自带的终端（Terminal）连接 VPS。
