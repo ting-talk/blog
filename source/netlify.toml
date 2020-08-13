@@ -1,0 +1,5 @@
+[[redirects]]
+  from = "https://tingtalk.netlify.com/*"
+  to = "https://tingtalk.me/:splat"
+  status = 301
+  force = true
