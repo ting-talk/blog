@@ -56,12 +56,12 @@ Telegram 是开源的（[Open Source](https://telegram.org/faq#q-why-not-open-so
 
 ### 👍近乎完美
 
-- **[高度加密](https://telegram.org/faq#q-what-are-your-thoughts-on-internet-privacy)**：迄今为止最安全的大众化沟通（即时通讯）软件，[没有审查](https://telegram.org/faq#q-wait-0-o-do-you-process-take-down-requests-from-third-parties)，更不会被封号。
+- [高度加密](https://telegram.org/faq#q-what-are-your-thoughts-on-internet-privacy)：迄今为止最安全的大众化沟通（即时通讯）软件，[没有审查](https://telegram.org/faq#q-wait-0-o-do-you-process-take-down-requests-from-third-parties)，更不会被封号。
 - **云端同步**：信息无缝地同步到所有的设备上（Cloud Storage）。纵使手机丢了，电脑进水了，但你的电报数据一直都在。
-- **[不占内存](https://telegram.org/blog/cache-and-stickers)**：不必在设备上存储所有的聊天记录，因为数据一直保存在云端，你随时可以取回来，你也可以完全删除。
+- [不占内存](https://telegram.org/blog/cache-and-stickers)：不必在设备上存储所有的聊天记录，因为数据一直保存在云端，你随时可以取回来，你也可以完全删除。
 - **简单极速**：借助 [Nikolai](https://zh.wikipedia.org/zh-hans/%E5%B0%BC%E5%8F%A4%E6%8B%89%C2%B7%E6%9D%9C%E6%B4%9B%E5%A4%AB)（Durov 的哥哥）开发独有数据协议，Apps 启动迅速，信息同步飞快。
 - **设计统一**：不管是桌面端、手机端、还是网页端，都能轻松上手。标配 [夜间模式](https://telegram.org/blog#switch-to-night-mode-faster)。
-- **[表情贴纸](https://telegram.org/blog/animated-stickers)**：高清而富有趣味；支持自制表情包（[Custom Sticker Sets](https://telegram.org/blog/stickers-revolution)）并用 Emoji 调用。
+- [表情贴纸](https://telegram.org/blog/animated-stickers)：高清而富有趣味；支持自制表情包（[Custom Sticker Sets](https://telegram.org/blog/stickers-revolution)）并用 Emoji 调用。
 - **超大群聊**：封顶 20 万人，配合各种管理工具（例如限制发言间隔），让交流井井有条。
 
 
