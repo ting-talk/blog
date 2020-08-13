@@ -1,5 +1,5 @@
 ---
-[](https://topbook.cc/overview?selectedArticle=1813)
+
 title: 如何组织一场全员参与的培训活动  
 date: 2019-10-19   
 updated: 2019-10-19  

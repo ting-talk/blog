@@ -42,23 +42,23 @@ favicon:
   apple_touch_icon: /images/apple-touch-icon-next.png
   safari_pinned_tab: /images/logo.svg
   #android_manifest: /images/manifest.json
-  #ms_browserconfig: /images/browserconfig.xml
+  ms_browserconfig: /images/browserconfig.xml
 
 # Show multilingual switcher in footer.
 language_switcher: false
 
 footer:
   # Specify the date when the site was setup. If not defined, current year will be used.
-  #since: 2015
+  since: 2016
 
   # Icon between year and copyright info.
   icon:
     # Icon name in Font Awesome. See: https://fontawesome.com/icons
     name: fa fa-heart
     # If you want to animate the icon, set it to true.
-    animated: false
+    animated: true
     # Change the color of icon, using Hex Code.
-    color: "#ff0000"
+    color: "#019425"
 
   # If not defined, `author` from Hexo `_config.yml` will be used.
   copyright:
@@ -84,8 +84,8 @@ footer:
 # CC licenses are available in 39 languages, you can find the specific and correct abbreviation you need on https://creativecommons.org
 creative_commons:
   license: by-nc-sa
-  sidebar: false
-  post: false
+  sidebar: true
+  post: true
   language:
 
 
@@ -94,13 +94,13 @@ creative_commons:
 # ---------------------------------------------------------------
 
 # Schemes
-scheme: Muse
-#scheme: Mist
+#scheme: Muse
+scheme: Mist
 #scheme: Pisces
 #scheme: Gemini
 
 # Dark Mode
-darkmode: false
+darkmode: true
 
 
 # ---------------------------------------------------------------
@@ -113,11 +113,11 @@ darkmode: false
 # When running the site in a subdirectory (e.g. yoursite.com/blog), remove the leading slash from link value (/archives -> archives).
 # External url should start with http:// or https://
 menu:
-  #home: / || fa fa-home
-  #about: /about/ || fa fa-user
-  #tags: /tags/ || fa fa-tags
-  #categories: /categories/ || fa fa-th
-  #archives: /archives/ || fa fa-archive
+  home: / || fa fa-home
+  archives: /archives/ || fa fa-archive
+  categories: /categories/ || fa fa-th
+  tags: /tags/ || fa fa-tags
+  about: /about/ || fa fa-user
   #schedule: /schedule/ || fa fa-calendar
   #sitemap: /sitemap.xml || fa fa-sitemap
   #commonweal: /404/ || fa fa-heartbeat
@@ -135,8 +135,8 @@ menu_settings:
 
 sidebar:
   # Sidebar Position.
-  position: left
-  #position: right
+  #position: left
+  position: right
 
   # Manual define the sidebar width. If commented, will be default for:
   # Muse | Mist: 320
@@ -158,11 +158,11 @@ sidebar:
 # Sidebar Avatar
 avatar:
   # Replace the default image and set the url here.
-  url: #/images/avatar.gif
+  url: /images/avatar.png
   # If true, the avatar will be dispalyed in circle.
-  rounded: false
+  rounded: true
   # If true, the avatar will be rotated with the cursor.
-  rotated: false
+  rotated: true
 
 # Posts / Categories / Tags in sidebar.
 site_state: true
@@ -172,11 +172,12 @@ site_state: true
 # Key is the link label showing to end users.
 # Value before `||` delimiter is the target permalink, value after `||` delimiter is the name of Font Awesome icon.
 social:
+  Telegram: https://t.me/tingtalkme || fab fa-telegram
   #GitHub: https://github.com/yourname || fab fa-github
-  #E-Mail: mailto:yourname@gmail.com || fa fa-envelope
+  E-Mail: mailto:tingtalk.me(at)gmail.com || fa fa-envelope
   #Weibo: https://weibo.com/yourname || fab fa-weibo
   #Google: https://plus.google.com/yourname || fab fa-google
-  #Twitter: https://twitter.com/yourname || fab fa-twitter
+  Twitter: https://twitter.com/tingtalkme || fab fa-twitter
   #FB Page: https://www.facebook.com/yourname || fab fa-facebook
   #StackOverflow: https://stackoverflow.com/yourname || fab fa-stack-overflow
   #YouTube: https://youtube.com/yourname || fab fa-youtube
@@ -203,7 +204,7 @@ links:
 toc:
   enable: true
   # Automatically add list number to toc.
-  number: true
+  number: false
   # If true, all words will placed on next lines if header width longer then sidebar width.
   wrap: false
   # If true, all level of TOC in a post will be displayed, rather than the activated part of it.
@@ -231,11 +232,11 @@ excerpt_description: true
 
 # Read more button
 # If true, the read more button will be displayed in excerpt section.
-read_more_btn: true
+read_more_btn: false
 
 # Post meta display settings
 post_meta:
-  item_text: true
+  item_text: false
   created_at: true
   updated_at:
     enable: true
@@ -245,8 +246,8 @@ post_meta:
 # Post wordcount display settings
 # Dependencies: https://github.com/next-theme/hexo-word-counter
 symbols_count_time:
-  separated_meta: true
-  item_text_post: true
+  separated_meta: false
+  item_text_post: false
   item_text_total: false
 
 # Use icon instead of the symbol # to indicate the tag at the bottom of the post
@@ -256,13 +257,13 @@ tag_icon: false
 # Front-matter variable (unsupport animation).
 reward_settings:
   # If true, a donate button will be displayed in every article by default.
-  enable: false
+  enable: true
   animation: false
-  #comment: Buy me a coffee
+  comment: 小小鼓励，大大动力。
 
 reward:
-  #wechatpay: /images/wechatpay.png
-  #alipay: /images/alipay.png
+  wechatpay: /images/wechatpay.png
+  alipay: /images/alipay.png
   #paypal: /images/paypal.png
   #bitcoin: /images/bitcoin.png
 
@@ -270,9 +271,9 @@ reward:
 # Usage: `Key: permalink || icon` (Font Awesome)
 follow_me:
   #Twitter: https://twitter.com/username || fab fa-twitter
-  #Telegram: https://t.me/channel_name || fab fa-telegram
-  #WeChat: /images/wechat_channel.jpg || fab fa-weixin
-  #RSS: /atom.xml || fa fa-rss
+  Telegram: https://t.me/tingtalk || fab fa-telegram
+  WeChat: /images/wechat_channel.jpg || fab fa-weixin
+  RSS: /atom.xml || fa fa-rss
 
 # Related popular posts
 # Dependencies: https://github.com/tea3/hexo-related-popular-posts
@@ -357,7 +358,7 @@ codeblock:
     dark: prism-dark
   # Add copy button on codeblock
   copy_button:
-    enable: false
+    enable: true
     # Available values: default | flat | mac
     style:
 
@@ -370,10 +371,10 @@ back2top:
 
 # Reading progress bar
 reading_progress:
-  enable: false
+  enable: true
   # Available values: top | bottom
   position: top
-  color: "#37c6c0"
+  color: "#019425"
   height: 3px
 
 # Bookmark Support
@@ -455,14 +456,14 @@ disable_baidu_transformation: false
 
 # If true, site-subtitle will be added to index page.
 # Remember to set up your site-subtitle in Hexo `_config.yml` (e.g. subtitle: Subtitle)
-index_with_subtitle: false
+index_with_subtitle: true
 
 # Automatically add external URL with Base64 encrypt & decrypt.
 exturl: false
 
 # Google Webmaster tools verification.
 # See: https://www.google.com/webmasters
-google_site_verification:
+google_site_verification: pgQmOy13c9VNuQuxdPkd2Vn7jrK5usr-V_5sP61fkLM
 
 # Bing Webmaster tools verification.
 # See: https://www.bing.com/webmaster
@@ -474,7 +475,7 @@ yandex_site_verification:
 
 # Baidu Webmaster tools verification.
 # See: https://ziyuan.baidu.com/site
-baidu_site_verification:
+baidu_site_verification: 
 
 # Enable baidu push so that the blog will push the url to baidu automatically which is very helpful for SEO.
 baidu_push: false
@@ -507,7 +508,7 @@ math:
 
 # Easily enable fast Ajax navigation on your website.
 # For more information: https://github.com/next-theme/pjax
-pjax: false
+pjax: true
 
 # FancyBox is a tool that offers a nice and elegant way to add zooming functionality for images.
 # For more information: https://fancyapps.com/fancybox
@@ -576,9 +577,9 @@ comments:
 
 # Disqus
 disqus:
-  enable: false
-  shortname:
-  count: true
+  enable: true
+  shortname: tingtalk
+  count: false
   #post_meta_order: 0
 
 # DisqusJS
@@ -665,7 +666,7 @@ add_this_id:
 
 # Google Analytics
 google_analytics:
-  tracking_id: # <app_id>
+  tracking_id: UA-111507163-1
   # By default, NexT will load an external gtag.js script on your site.
   # If you only need the pageview feature, set the following option to true to get a better performance.
   only_pageview: false
@@ -734,7 +735,7 @@ algolia_search:
 # Local Search
 # Dependencies: https://github.com/next-theme/hexo-generator-searchdb
 local_search:
-  enable: false
+  enable: true
   # If auto, trigger search by changing input.
   # If manual, trigger search by pressing enter key or search button.
   trigger: auto
@@ -743,7 +744,7 @@ local_search:
   # Unescape html strings to the readable one.
   unescape: false
   # Preload the search data when the page loads.
-  preload: false
+  preload: true
 
 # Swiftype Search API Key
 swiftype_key:
@@ -860,7 +861,7 @@ canvas_ribbon:
 # Remember to use the https protocol of CDN files when you enable https on your site.
 vendors:
   # Available values: local, jsdelivr, unpkg
-  internal: local
+  internal: jsdelivr
 
   # Internal version: 3.1.0
   # anime: //cdn.jsdelivr.net/npm/animejs@3.2.0/lib/anime.min.js

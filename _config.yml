@@ -45,14 +45,14 @@ post_asset_folder: true
 relative_link: false
 future: true
 highlight:
-  enable: false
-  line_number: true
+  enable: true
+  line_number: false
   auto_detect: false
   tab_replace: ''
   wrap: true
   hljs: false
 prismjs:
-  enable: true
+  enable: false
   preprocess: true
   line_number: false
   tab_replace: ''
@@ -118,7 +118,7 @@ meta_generator: true
 date_format: YYYY-MM-DD
 time_format: HH:mm:ss
 ## updated_option supports 'mtime', 'date', 'empty'
-updated_option: 'mtime'
+updated_option: 'date'
 
 # Pagination
 ## Set per_page to 0 to disable pagination
@@ -141,3 +141,25 @@ theme: next
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: ''
+
+search:
+  path: search.xml
+  field: post
+  content: true
+  format: html
+
+sitemap:
+  path: sitemap.xml
+
+feed:
+  type: atom
+  path: atom.xml
+  limit: 20
+  hub:
+  content: true
+  content_limit: 140
+  content_limit_delim: ' '
+  order_by: -date
+  icon: icon.png
+  autodiscovery: true
+  template:

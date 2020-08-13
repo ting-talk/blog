@@ -162,8 +162,6 @@ marked:
 
 
 
-
-
 ## 📰RSS
 
 [hexo-generator-feed](https://github.com/hexojs/hexo-generator-feed): Feed generator for Hexo.
@@ -342,9 +340,15 @@ git commit -m "first push"
 git push origin master
 ```
 
+本地分支强制覆盖远程分支：
+
+```shell
+git push origin master --force
+```
 
 
-## 🎸其他
+
+## 🎸博客搭建
 
 ### 🍊[Gridea](https://gridea.dev/)
 
