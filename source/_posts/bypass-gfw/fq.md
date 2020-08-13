@@ -60,7 +60,7 @@ Ting 我 Talk 一句：只要肉身在中国大陆，我们的一切行动听党
 
 [点击这里](https://tingtalk.me/fq-free/) 查看免费的番茄商（推荐使用迷雾通） ，如果本文中提供的番茄购买链接被封了，可以作为临时的备用访问途径，不推荐长期使用。因为时间宝贵，请对自己好一点。
 
-我目前的主力出海工具是 ssrcloud，多年老机场，节点不少，价格适中（目前月付最低 ￥10，包含 20 GB 的代理流量）。如果对稳定性有更高的要求，对番茄价格不敏感，推荐使用 [Dler Cloud](https://dleris.best/auth/register?affid=68948)。
+我目前的主力出海工具是 ssrcloud，多年老机场，节点不少，价格适中（目前月付最低 ￥10，包含 20 GB 的代理流量）。
 
 
 
@@ -275,6 +275,14 @@ Ting 我 Talk 一句：只要肉身在中国大陆，我们的一切行动听党
 1. 在顶部输入框粘贴订阅配置链接，然后点击 `Download` 按钮。Clash for Windows 会自动下载远程配置文，如果一切顺利，你应当可以看到绿色提示信息。`Success!`，并且可以看到一个新的配置文件（如果弹出 `Could not switch to this profile! `，关闭软件，以 `管理员身份运行`。）。
 2. 点击新的配置文件，就能切换到该配置。
 3. 点击配置文件的 ℹ️（Change information），在 `Update Interval (hour)` 填入 `24`，即 24 小时自动更新一次配置文件。
+
+
+
+免费 Clash 节点 via [proxypool](https://github.com/zu1k/proxypool)，配置文件如下：
+
+```http
+https://proxy.tgbot.co/clash
+```
 
 
 
