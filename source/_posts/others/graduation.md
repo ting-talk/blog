@@ -5,7 +5,6 @@ date: 2017-06-11
 updated: 2017-06-11
 categories: 杂七杂八        
 tags: [佳句, 人物, 祝福]  
-permalink: graduation  
 
 ---
 

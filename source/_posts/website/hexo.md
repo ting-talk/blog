@@ -4,8 +4,7 @@ title: 如何优化 Hexo（静态博客）
 date: 2017-07-17  
 updated: 2020-05-29
 categories: 网站搭建  
-tags: [网站, Hexo, 博客]   
-permalink: hexo  
+tags: [网站, Hexo, 博客]    
 ---
 
 ![hexo](hexo/hexo.png)
@@ -37,14 +36,14 @@ YAML 语言（/ˈjæməl/ ）的基本规则：
 
 优化步骤如下：
 
-1. 修改 `站点 _config.yml` 的 `permalink`（永久链接）为 `:title/`
+1. 修改 `站点 _config.yml` 的 `permalink`（永久链接）为 `:name/ `
 
     ```markdown
     # URL
-    permalink: :title/ 
+    permalink: :name/ 
     ```
 
-2. 在文章的 `Front Matter` 增加 `permalink: ` 的定义
+2. 把 Markdown 文档命名为 `hexo-tips.md`。
 
     ```markdown
     ---
@@ -52,8 +51,7 @@ YAML 语言（/ˈjæməl/ ）的基本规则：
     title: Hexo Tips  
     date: 2019-08-17  
     categories: 博客  
-    permalink: hexo-tips   
-    
+     
     ---
     
     让 Hexo 更优雅的小技巧。
@@ -66,10 +64,12 @@ YAML 语言（/ˈjæməl/ ）的基本规则：
     - 大写字母用小写字母代替
     - 删除所有特殊字符，只用连字符；连字符代替空格
     - 尽可能简短，删除 the、a、an、for、and、if 、or 等虚词
+    
     ```
 
 3. 优化之后的 URL 是 `https://tingtalk.me/hexo-tips`，简短有力，清晰明了。
-4. 顺手把 Markdown 文档也命名为 `hexo-tips.md`。
+
+
 
 🔗关联阅读：[Clean URL - Wikipedia](https://en.wikipedia.org/wiki/Clean_URL)
 
@@ -101,7 +101,6 @@ YAML 语言（/ˈjæməl/ ）的基本规则：
     title: Hexo Tips  
     date: 2019-08-17  
     categories: 博客  
-    permalink: hexo-tips   
     
     ---
     

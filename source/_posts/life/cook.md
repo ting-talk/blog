@@ -5,7 +5,6 @@ date: 2019-06-13
 updated: 2020-07-17  
 categories: 生活百科  
 tags: [生活, 技能]
-permalink: cook  
 
 ---
 

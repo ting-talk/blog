@@ -5,7 +5,6 @@ date: 2017-10-11
 updated: 2019-12-03  
 categories: 翻墙方法   
 tags: 突破网络审查  
-permalink: fq-diy  
 
 ---
 

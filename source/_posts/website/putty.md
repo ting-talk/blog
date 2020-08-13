@@ -1,12 +1,9 @@
 ---
-
 title: 使用 SSH（Secure Shell）客户端（PuTTY）远程连接 VPS  
 date: 2020-06-29  
 updated:  2020-06-29
 categories: 网站搭建  
 tags: [网站, VPS]  
-permalink: putty
-
 ---
 
 ![ssh](putty/ssh.png)

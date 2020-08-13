@@ -5,7 +5,6 @@ date: 2019-07-04
 updated: 2019-07-04   
 categories: 英语学习
 tags: [外贸, 英语, Email]   
-permalink: follow-up-email  
 
 ---
 

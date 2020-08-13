@@ -5,7 +5,6 @@ date: 2020-06-11
 updated: 2020-06-11
 categories: 数字生活   
 tags: 网上冲浪指南
-permalink: google-account
 ---
 
 ![google](google-account/google.png)

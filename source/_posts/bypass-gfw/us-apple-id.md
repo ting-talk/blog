@@ -5,7 +5,6 @@ date: 2019-05-15
 updated: 2020-03-22    
 categories: 翻墙方法   
 tags: 突破网络审查  
-permalink: us-apple-id  
 
 ---
 

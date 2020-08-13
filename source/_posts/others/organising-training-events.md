@@ -5,7 +5,6 @@ date: 2019-10-19
 updated: 2019-10-19  
 categories: 杂七杂八  
 tags: 工作  
-permalink: organising-training-events    
 
 ---
 

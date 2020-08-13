@@ -5,7 +5,6 @@ date: 2017-11-06
 updated: 2020-04-25     
 categories: 生活百科
 tags: [健康, 生活] 
-permalink: teeth 
 
 ---
 

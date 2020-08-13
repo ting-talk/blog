@@ -5,7 +5,6 @@ date: 2019-10-29
 updated: 2019-10-31  
 categories: 英语学习 
 tags: [英语, 口语]  
-permalink: english-pronunciation  
 
 ---
 

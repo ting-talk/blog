@@ -5,7 +5,6 @@ date: 2019-06-16
 updated: 2019-11-12 
 categories: 美的设计    
 tags: 设计
-permalink: photography  
 ---
 
 ![apertur](photography/apertur.png)

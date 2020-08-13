@@ -5,7 +5,6 @@ date: 2020-02-24
 updated: 2020-02-24    
 categories: 翻墙方法   
 tags: 突破网络审查   
-permalink: fq-ever  
 
 ---
 

@@ -5,7 +5,6 @@ date: 2020-01-28
 updated: 2020-03-05  
 categories: 杂七杂八  
 tags: 健康
-permalink: covid-19
 
 ---
 

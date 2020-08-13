@@ -5,7 +5,6 @@ date: 2019-04-27
 updated: 2020-05-08  
 categories: 翻墙方法   
 tags: [突破网络审查, VPS]   
-permalink: gcp  
 ---
 
 ![google-cloud](gcp/google-cloud.png)

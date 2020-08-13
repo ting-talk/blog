@@ -5,7 +5,6 @@ date: 2019-09-18
 updated: 2019-10-15  
 categories: 翻墙方法   
 tags: [突破网络审查, Chrome] 
-permalink: switchyomega  
 
 ---
 

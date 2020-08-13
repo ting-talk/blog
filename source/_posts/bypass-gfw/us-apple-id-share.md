@@ -4,7 +4,6 @@ date: 2019-05-15
 updated: 2020-04-15    
 categories: 翻墙方法   
 tags: 突破网络审查   
-permalink: us-apple-id-share
 ---
 
 ![apple-id](us-apple-id-share/apple-id.png) 

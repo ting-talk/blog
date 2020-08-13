@@ -5,7 +5,6 @@ date: 2017-07-17
 updated: 2017-07-17
 categories: 小庭子说  
 tags: [小庭子, 随手记]   
-permalink: whisper  
 
 ---
 

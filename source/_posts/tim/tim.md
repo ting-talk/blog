@@ -5,7 +5,6 @@ date: 1994-01-25
 updated: 1994-01-25  
 categories: 小庭子说  
 tags: [小庭子]      
-permalink: tim    
 
 ---
 

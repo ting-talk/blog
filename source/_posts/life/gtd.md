@@ -5,7 +5,6 @@ date: 2019-11-24
 updated: 2020-02-18    
 categories: 生活百科  
 tags: [生活, 工作, 技能]
-permalink: gtd  
 
 ---
 

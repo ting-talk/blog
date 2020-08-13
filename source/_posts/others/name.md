@@ -5,7 +5,6 @@ date: 2019-07-03
 updated: 2019-12-10  
 categories: 杂七杂八 
 tags: 写作    
-permalink: name  
 ---
 
 ![name](name/name.png)
