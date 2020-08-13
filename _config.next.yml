@@ -14,7 +14,7 @@ cache:
   enable: true
 
 # Remove unnecessary files after hexo generate.
-minify: false
+minify: true
 
 # Define custom file paths.
 # Create your custom files in site directory `source/_data` and uncomment needed files below.
@@ -41,7 +41,7 @@ favicon:
   medium: /images/favicon-32x32-next.png
   apple_touch_icon: /images/apple-touch-icon-next.png
   safari_pinned_tab: /images/logo.svg
-  #android_manifest: /images/manifest.json
+  android_manifest: /images/manifest.json
   ms_browserconfig: /images/browserconfig.xml
 
 # Show multilingual switcher in footer.
@@ -172,12 +172,13 @@ site_state: true
 # Key is the link label showing to end users.
 # Value before `||` delimiter is the target permalink, value after `||` delimiter is the name of Font Awesome icon.
 social:
-  Telegram: https://t.me/tingtalkme || fab fa-telegram
+  Telegram: https://t.me/tingtalk || fab fa-telegram
   #GitHub: https://github.com/yourname || fab fa-github
   E-Mail: mailto:tingtalk.me(at)gmail.com || fa fa-envelope
+  RSS: https://tingtalk.me/atom.xml || fa fa-rss
   #Weibo: https://weibo.com/yourname || fab fa-weibo
   #Google: https://plus.google.com/yourname || fab fa-google
-  Twitter: https://twitter.com/tingtalkme || fab fa-twitter
+  #Twitter: https://twitter.com/tingtalkme || fab fa-twitter
   #FB Page: https://www.facebook.com/yourname || fab fa-facebook
   #StackOverflow: https://stackoverflow.com/yourname || fab fa-stack-overflow
   #YouTube: https://youtube.com/yourname || fab fa-youtube
@@ -259,7 +260,7 @@ reward_settings:
   # If true, a donate button will be displayed in every article by default.
   enable: true
   animation: false
-  comment: 小小鼓励，大大动力。
+  comment: 👍 小小鼓励 👏 大大动力 💪
 
 reward:
   wechatpay: /images/wechatpay.png
@@ -339,7 +340,7 @@ text_align:
   mobile: justify
 
 # Reduce padding / margin indents on devices with narrow width.
-mobile_layout_economy: false
+mobile_layout_economy: true
 
 # Android Chrome header panel color ($brand-bg / $headband-bg => $black-deep).
 android_chrome_color: "#222"
@@ -367,7 +368,7 @@ back2top:
   # Back to top in sidebar.
   sidebar: false
   # Scroll percent label in b2t button.
-  scrollpercent: false
+  scrollpercent: true
 
 # Reading progress bar
 reading_progress:
@@ -707,7 +708,7 @@ firestore:
 # Show Views / Visitors of the website / page with busuanzi.
 # Get more information on http://ibruce.info/2015/04/04/busuanzi
 busuanzi_count:
-  enable: false
+  enable: true
   total_visitors: true
   total_visitors_icon: fa fa-user
   total_views: true
@@ -861,7 +862,7 @@ canvas_ribbon:
 # Remember to use the https protocol of CDN files when you enable https on your site.
 vendors:
   # Available values: local, jsdelivr, unpkg
-  internal: jsdelivr
+  internal: 
 
   # Internal version: 3.1.0
   # anime: //cdn.jsdelivr.net/npm/animejs@3.2.0/lib/anime.min.js
