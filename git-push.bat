@@ -1,17 +1,31 @@
-echo "Start submitting code to the local repository"
-echo "The current directory is：%cd%"
-git add *
+title GIT提交批处理——小二三不乌
+color 16
+
+
+echo 开始提交代码到本地仓库
+echo 当前目录是：%cd%
+
+echo 开始添加变更
+echo ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+git add -A .
+echo 执行结束！
+echo ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
 echo;
- 
-echo "Commit the changes to the local repository"
-set now=%date% %time%
-echo %now%
-git commit -m "%now%"
+echo 提交变更到本地仓库
+echo ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+set /p declation=输入修改:
+git commit -m "%declation%"
+echo ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
 echo;
- 
-echo "Commit the changes to the remote git server"
-git push 
+echo 将变更情况提交到远程git服务器
+echo ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+git push origin master
+echo ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
 echo;
- 
-echo "Batch execution complete!"
+echo 批处理执行完毕！
 echo;
+
+pause
