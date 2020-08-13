@@ -163,3 +163,8 @@ feed:
   icon: icon.png
   autodiscovery: true
   template:
+
+# Fix issue: halfwidth quotation marks rendered to fullwidth
+## Reference: https://github.com/hexojs/hexo/issues/1981#issuecomment-229309844
+marked:
+  smartypants: false
