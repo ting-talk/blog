@@ -8,7 +8,9 @@ tags: [Telegram, 网上冲浪指南]
 
 ---
 
-![telegram](telegram/telegram.png)[TG](https://telegram.org/) 是迄今为止最棒的即时聊天软件（Instant Messaging）。在这个自由新世界，你不必自我审查（freedom of speech）。
+![telegram](telegram/telegram.png)
+
+[TG](https://telegram.org/) 是迄今为止最棒的即时聊天软件（Instant Messaging）。在这个自由新世界，你不必自我审查（freedom of speech）。
 
 <!-- more -->
 
