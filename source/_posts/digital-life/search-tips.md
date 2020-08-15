@@ -136,16 +136,13 @@ tags: 网上冲浪指南
 
 
 
-
-
-
-
 **关联阅读**
 - [公开数据集搜索引擎 by Google](https://datasetsearch.research.google.com/)
 - [Google 搜索帮助](https://support.google.com/websearch)
 - [Google 搜索的运作方式（How Google Search works）](https://www.google.com/intl/zh-CN/search/howsearchworks/)：你每次进行搜索时，都会在搜索结果中看到成千上万个含有实用信息的网页，有时甚至是数百万个。早在你输入搜索内容之前，Google 就已开始算计要显示哪些结果，并秉持向你提供最佳信息的承诺（反观百度）。
 - [最详细的 Google 搜索指令大全 - 黑科技娃娃](https://www.cooltechdoll.com/google-search-commands/)
 - [15 个提高 Google 搜索效率的小技巧 - 子不语Rex](https://sspai.com/post/34150)
+- [Google Search Operators: The Complete List (42 Advanced Operators) by Joshua Hardwick](https://ahrefs.com/blog/google-advanced-search-operators/)
 
 
 
