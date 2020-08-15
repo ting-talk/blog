@@ -37,11 +37,11 @@ date: 2017-07-15 11:03:10
 ## Contact
 
 - Email：tingtalk.me(at)gmail.com
-- [Twitter](https://twitter.com/tingtalkme)：tingtalkme
-- [Telegram](https://t.me/tingtalkme)：tingtalkme
-- [Telegram 频道](https://t.me/tingtalk)：tingtalk
+- [Telegram](https://t.me/tingtalkme)：@tingtalkme
+- [Telegram 频道](https://t.me/tingtalk)：@tingtalk
 - [今日热榜](https://tophub.today/)：订阅 [庭说](https://tophub.today/n/KGoRRbNol6)
-- 微信号：`804976336`。接头时说出暗号「博客 + 进群」，邀请你加入「庭说读者群」
+- [Twitter](https://twitter.com/tingtalkme)：@tingtalkme
+- 微信号：`tingtalkme`。接头时说出暗号「博客 + 进群」，邀请你加入并不活跃的「庭说读者群」，
 - 公众号：扫描下方的二维码，关注「庭说 TingTalk 」。
 
 ![wechat-mp-qr-code-white.jpg](https://i.loli.net/2020/04/16/Y9bCMpH3lojRaTG.jpg)
