@@ -390,6 +390,10 @@ YouTube：https://www.youtube.com/watch?v=SyM3jMFjess&t=05m06s
 
 
 
+如何在 YouTube 中复制当前时间的视频网址：右键点击进度条，在弹出的菜单中选择「复制当前时间的视频网址」。
+
+
+
 ### 🙈生动表情
 
 **Emoji**
@@ -919,7 +923,7 @@ https://rsshub.app/twitter/user/OnePieceAnime
 **Tips**
 - 有备无患：定期导出 OPML 文件至物理硬盘和云盘保存。
 - [RSSHub](https://docs.rsshub.app/) 是一个开源、简单易用、易于扩展的 RSS 生成器，可以给任何奇奇怪怪的内容（突然有点害羞）生成 RSS 订阅源。RSSHub 借助于开源社区的力量快速发展中，目前已适配数百家网站的上千项内容。得知 RSSHub 被墙后，对 GFW 无 Fuck 可说。
--  是一个 [开源](https://github.com/richshaw2015/oh-my-rss) 的在线 RSS 阅读服务，旨在为 IT 从业者提供一个优质的学习圈子。
+-  [己思](https://ohmyrss.com/) 是一个 [开源](https://github.com/richshaw2015/oh-my-rss) 的在线 RSS 阅读服务，旨在为 IT 从业者提供一个优质的学习圈子。
 
 
 
