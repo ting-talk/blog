@@ -8,7 +8,7 @@ tags: 突破网络审查
 
 ![yum-cha](yum-cha/yum-cha.png)
 
-> 发表异议观点，可能有相关人员暗下谈话劝阻，因为此过程中会喝茶（请人谈话或做客，一般会沏茶），因此成为被中共相关机构调查或拘留的代称。大意 by [维基百科](https://zh.wikipedia.org/zh-hans/%E9%A3%B2%E8%8C%B6_(%E6%B6%88%E6%AD%A7%E7%BE%A9))
+> 发表异议观点，可能有相关人员暗下谈话劝阻，因为此过程中会喝茶（请人谈话或做客，一般会沏茶），因此成为被中共相关机构调查或拘留的代称。by [维基百科](https://zh.wikipedia.org/zh-hans/%E9%A3%B2%E8%8C%B6_(%E6%B6%88%E6%AD%A7%E7%BE%A9))
 
 > 一种通过饮用茶叶饮品而与历史进行深度沟通，对文化进行传承，对灵魂进行洗涤与升华的仪式。by [小鸡词典](https://jikipedia.com/definitions/user/443757271)
 

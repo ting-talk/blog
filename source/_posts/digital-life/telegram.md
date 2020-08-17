@@ -28,7 +28,7 @@ tags: [Telegram, 网上冲浪指南]
 
 天下苦微信久矣，随着言论审查力度的加大，任何「风吹草动」都要「斩草除根」：
 
-- Cyberspace Administration of China 会因为我转发一个 Twitter 评论到微信群，请我到最近的派出所「喝茶」。
+- Cyberspace Administration of China 会因为我转发一个 Twitter 评论到微信群，请我到最近的派出所「[喝茶](https://tingtalk.me/yum-cha/)」。
 - 微信上无法发送某些链接（只对你可见），例如纽约时报。
 - 微信先是删除我写的 [公众号文章](https://tingtalk.me/mp-archives/)（秋后算账），接着被永久封号。
 
