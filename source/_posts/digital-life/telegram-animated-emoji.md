@@ -16,7 +16,12 @@ tags: [Telegram, 网上冲浪指南]
 
 发送**单个** ❤️ 并碰它一下，手机会震动，那是 Telegram Team  赋予 Emoji 的心跳（If your emoji has a heart, we'll give it a beat or unleash their spirit in motion）。还有一个更好玩的 Animated Emoji 是 🙈，真是萌到不行。
 
-除此之外，还可以玩 [掷骰子 🎲](https://telegram.org/blog/folders#and-one-more-thing) 和 [投飞镖 🎯](https://telegram.org/blog/400-million#bullseye) 的游戏。
+除此之外，还可以玩游戏（在聊天窗口输入单个 Emoji）：
+
+- 🎲：掷骰子 [dice](https://telegram.org/blog/folders#and-one-more-thing)
+- 🎯：扔飞镖 [darts](https://telegram.org/blog/400-million#bullseye) 
+- 🏀：投篮 basketball
+- ⚽：射门 [football](https://macos.telegram.org/#v6-3-1-2020-07-31)
 
 
 
