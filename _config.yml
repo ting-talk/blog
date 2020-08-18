@@ -154,7 +154,7 @@ sitemap:
 feed:
   type: atom
   path: atom.xml
-  limit: 20
+  limit: 0
   hub:
   content: true
   content_limit: 140
@@ -168,3 +168,26 @@ feed:
 ## Reference: https://github.com/hexojs/hexo/issues/1981#issuecomment-229309844
 marked:
   smartypants: false
+
+
+markdown:
+  preset: 'default'
+  render:
+    html: true
+    xhtmlOut: false
+    breaks: true
+    linkify: true
+    typographer: true
+    quotes: '“”‘’'
+  enable_rules:
+  disable_rules:
+  plugins:
+  anchors:
+    level: 2
+    collisionSuffix: ''
+    permalink: false
+    permalinkClass: 'header-anchor'
+    permalinkSide: 'left'
+    permalinkSymbol: '¶'
+    case: 0
+    separator: ''

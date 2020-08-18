@@ -222,6 +222,8 @@ tags: 技能
 
 ### 倒车入库
 
+视频教程：[精确到厘米，老司机教你科目二 - 知否KnowHow](https://www.bilibili.com/video/BV1k54y1e7gH)
+
 
 #### 操作要求
 
