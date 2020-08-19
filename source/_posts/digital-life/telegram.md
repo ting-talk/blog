@@ -2,7 +2,7 @@
 
 title: Telegram（电报）：新手指南、使用教程及频道推荐
 date: 2019-11-09  
-updated: 2020-08-14
+updated: 2020-08-19
 categories: 数字生活  
 tags: [Telegram, 网上冲浪指南]
 
@@ -905,17 +905,29 @@ https://rsshub.app/dytt
 https://rsshub.app/douban/movie/playing/7.5
 ```
 
-追踪 Telegram 的 Twitter 动态。
+
+
+#### 🎸其它
+
+追踪 Telegram 的 Twitter 动态：
 
 ```http
 https://rsshub.app/twitter/user/telegram
 ```
 
-追踪《海贼王动漫》（One Piece）的 Twitter 动态。
+追踪《海贼王动漫》（One Piece）的 Twitter 动态：
 
 ```http
 https://rsshub.app/twitter/user/OnePieceAnime
 ```
+
+追踪小宇宙播客 App 的发现动态：
+
+```http
+https://rsshub.app/xiaoyuzhou
+```
+
+
 
 
 
