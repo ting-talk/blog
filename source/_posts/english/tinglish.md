@@ -301,11 +301,35 @@ by [郝海龙](https://sspai.com/series/77/)
 - *Word Power Made Easy* by Norman Lewis
 - *Merriam-Webster’s Vocabulary Builder* by Mary Wood Cornog
 
-
 ## 练听力
 
+无论是纯听还是跟读，练到每一句话，脑子里一定要想着这句话的意思，只有这样你才能更快地让声音信号和意思建立联系。你也许听过一个说法叫做「磨耳朵」，即长时间把自己浸泡在英语听力材料当中，这种方法几乎无效，原因就是听的时候根本没去想意思，用来磨耳朵的英语最后全被大脑当作了杂音。
+
+
+
+**[《新概念英语》第二册的前 30 篇文章](https://sspai.com/post/62014)**
+
+1. 不看原文，先听一遍录音。
+2. 通读听力原文并理解其内容。
+3. 逐句跟读。
+4. 全文跟读。
+5. 再听五遍。
+
+
+
+**听力材料其他推荐**
+
 - [Daily English Dictation](https://www.bilibili.com/video/av24173069)：日常听力训练，找 Coach Shane。
-- [喜马拉雅FM](https://www.ximalaya.com/) ：刷牙或洗澡的时候听
+- [Pocket Casts](https://www.pocketcasts.com/) ：相关的英语电台节目，刷牙或洗澡的时候听
+
+
+
+**练习听力的手机软件**
+
+1. [每日英语听力](https://dict.eudic.net/ting)（欧路词典出品）
+2. [轻听英语](https://langeasy.com.cn/)（朗易思听出品）
+
+
 
 
 
