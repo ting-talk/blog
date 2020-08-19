@@ -1,5 +1,5 @@
 ---
-title: 宠物的成长日志
+title: 宠物成长日志
 date: 2020-03-08  
 updated: 2020-08-19
 categories: 萌宠相伴
@@ -596,7 +596,7 @@ Dora 喜欢看我洗澡。
 
 ### 2020-05-31
 
-![dora-and-tinkle](dora-and-tinkle/dora-and-tinkle.jpeg)
+![dora-and-tinkle](pets-diary/dora-and-tinkle.jpeg)
 
 Good dog，今晚没有吠。`00:36`
 
