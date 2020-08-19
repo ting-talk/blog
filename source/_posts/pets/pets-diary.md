@@ -1,12 +1,12 @@
 ---
 title: 宠物的成长日志
 date: 2020-03-08  
-updated: 2020-07-25
+updated: 2020-03-08
 categories: 萌宠相伴
 tags: [宠物, 随手记] 
 ---
 
-![dog](keep-pets/dog.png)
+![dog](pets-diary/dog.png)
 
 如何成为一名合格的铲屎官？路漫漫其修远兮。
 
