@@ -704,7 +704,7 @@ Bots 就像运行在 Telegram 内部的小程序。借助 [Telegram 开放的 AP
   - [@el_monitorro_bot](https://t.me/el_monitorro_bot)
   - [@newlearner_rss_bot](https://t.me/newlearner_rss_bot)
   - [@NodeRSS_bot](https://t.me/NodeRSS_bot)
-  - [@RSSFlowBot](https://t.me/RSSFlowBot) 从 2020 年 6 月 9 日开始停止运行，[@RssChinabot](https://t.me/RssChinabott) 是它的同款机器人。
+  - [@RSSFlowBot](https://t.me/RSSFlowBot) 从 2020 年 6 月 9 日开始停止运行，[@RssChinabot](https://t.me/RssChinabot) 是它的同款机器人。
 - [Inoreader](https://www.inoreader.com/) 订阅可以错过的源。
   - Windows 电脑：创建一个 [虚拟桌面](https://sspai.com/post/43187)，打开 Inoreader 网页版，[开启浏览器通知权限](https://support.google.com/chrome/answer/3220216?co=GENIE.Platform%3DDesktop&hl=zh-Hans)（点击网址左边的锁头 `🔐` > `网站设置` > `通知`：`允许`），就能收到 RSS 的订阅更新了。
   -  Android 手机：偶尔看看。
