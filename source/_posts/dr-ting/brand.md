@@ -3,8 +3,8 @@
 title: 「庭说」的品牌设计  
 date: 2017-07-17  
 updated: 2020-03-14
-categories: 小庭子说  
-tags: [小庭子]   
+categories: 庭勃士说  
+tags: [庭勃士]   
 
 ---
 
