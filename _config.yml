@@ -152,6 +152,7 @@ search:
 sitemap:
   path: sitemap.xml
 
+
 feed:
   type: atom
   path: atom.xml
