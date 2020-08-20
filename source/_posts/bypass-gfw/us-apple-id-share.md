@@ -1,9 +1,9 @@
 ---
-title: 美区 Apple ID 共享
+title: 如何寻找共享美区苹果账号（Apple ID）
 date: 2019-05-15  
 updated: 2020-04-15    
 categories: 翻墙方法   
-tags: 突破网络审查   
+tags: [突破网络审查, Apple ID]     
 ---
 
 ![apple-id](us-apple-id-share/apple-id.png) 
