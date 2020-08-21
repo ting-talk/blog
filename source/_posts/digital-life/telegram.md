@@ -1,56 +1,56 @@
 ---
-
 title: Telegram（电报）：新手指南、使用教程及频道推荐
 date: 2019-11-09  
-updated: 2020-08-19
+updated: 2020-08-22
 categories: 数字生活  
-tags: [Telegram, 网上冲浪指南]
-
+tags: [Telegram, 网上冲浪指南, 突破网络审查]
 ---
 
 ![telegram](telegram/telegram.png)
 
-[TG](https://telegram.org/) 是迄今为止最棒的即时聊天软件（Instant Messaging）。在这个自由新世界，你不必自我审查（freedom of speech）。
+[TG](https://zh.wikipedia.org/zh/Telegram) 是迄今为止最棒的即时聊天软件（Instant Messaging）。在这个自由新世界，你不必自我审查（Freedom of speech）。缺点就是得 [翻墙](https://tingtalk.me/fq/) 后才能使用，但也不算是缺点，学会科学上网，才算真正打开了数字世界的大门。
 
 <!-- more -->
 
-缺点就是得「吃」了 [番茄](https://tingtalk.me/fq/) 才能正常使用。但也不算是缺点，学会科学上网，你才真正打开了数字世界的大门。这把钥匙 Google 上有一把，另一把在这本保姆级的《电报百科全书》里（夸张的修辞手法）。
-
-💡 善用右侧的目录栏和查找功能（`Ctrl` + `F`），将有助于快速定位想要看到的内容。
+💡 善用右侧的目录栏和查找功能（`Ctrl` + `F`），快速定位想要看到的内容。
 
 
 
-## ⚖️电报介绍
+## ✈️电报介绍
 
 ### 🗓️相遇故事
 
-2016 年，[我刚开始学会科学上网](https://t.me/tingtalk/223)，下载了 Telegram。虽然我在上面找不到朋友和我聊天，但是我并没有在 Android 手机上卸载 Telegram，因为相比输入法和微信，Telegram 提供了更为丰富的 [Emoji](https://emojipedia.org/)。如此一来，买不起 iPhone 的我，在发朋友圈的时候，也能自由地使用 Emoji。
+2016 年春，[我刚开始学会科学上网](https://t.me/tingtalk/223)，下载了 Telegram。虽然我在上面找不到朋友和我聊天，但是我并没有卸载 Telegram，因为相比输入法和微信，Telegram 提供了丰富的 [Emoji](https://emojipedia.org/)。如此一来，买不起 iPhone 的我，也能在 Android 手机上自由地使用最新的 Emoji 与朋友在微信上交流和发朋友圈。可是，近些年来，天下苦微信久矣，随着言论审查力度的加大，任何「风吹草动」都要「斩草除根」：
 
-天下苦微信久矣，随着言论审查力度的加大，任何「风吹草动」都要「斩草除根」：
+- [Cyberspace Administration of China](http://www.cac.gov.cn/) 会因为我转发一个 Twitter 评论到 24 人的微信群，请我到最近的派出所「[喝茶](https://tingtalk.me/yum-cha/)」。
+- 微信上无法发送某些链接（不显示发送失败，只对你可见），例如纽约时报的文章。
+- 微信秋后算账，删除我之前写的一篇介绍 [搜索技巧](https://tingtalk.me/search-tips/) 的文章，接着 [公众号](https://tingtalk.me/mp-archives/) 被永久封号。
 
-- Cyberspace Administration of China 会因为我转发一个 Twitter 评论到微信群，请我到最近的派出所「[喝茶](https://tingtalk.me/yum-cha/)」。
-- 微信上无法发送某些链接（只对你可见），例如纽约时报。
-- 微信先是删除我写的 [公众号文章](https://tingtalk.me/mp-archives/)（秋后算账），接着被永久封号。
+[一系列屏蔽措施](https://zh.wikipedia.org/zh-hans/%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E7%BD%91%E7%BB%9C%E5%AE%A1%E6%9F%A5)，让我意识到中文互联网已经完全沦陷了，于是逃难到 Telegram。经过一段时间的使用后，我彻底成为了 Telegram 的「[自来水](https://jikipedia.com/definition/13187)」，见人就夸。然而身边的亲朋好友却不为所动，不愿跟我一起数字移民到一个可以安心说话的地方，甘愿做「温室里的花朵」和「笼的传人」，享受岁月静好。我不会责怪 Ta 们，如果你看过[《肖申克的救赎》](https://www.cupfox.com/search?key=%E8%82%96%E7%94%B3%E5%85%8B%E7%9A%84%E6%95%91%E8%B5%8E)，就能理解这种「放弃抗争」的心态。
 
-我意识到，中文互联网已经完全沦陷了，只好逃难到 Telegram。经过一段时间的使用之后，我彻底成为了 Telegram 的「[自来水](https://jikipedia.com/definition/13187)」，见人就夸。然而身边的亲友却不为所动，甘愿做「温室里的花朵」和「笼的传人」，享受岁月静好。我不会责怪 Ta 们，如果你看过[《肖申克的救赎》](https://www.cupfox.com/search?key=%E8%82%96%E7%94%B3%E5%85%8B%E7%9A%84%E6%95%91%E8%B5%8E)，就能理解这种「放弃抗争」的心态。
+> 刚入狱的时候，你痛恨周围的高墙，慢慢地，你习惯了生活在其中，最终你发现，自己不得不依靠它而生存。by *The Shawshank Redemption*
 
 既然说不动认识我的人，但世界那么大，人口那么多，网络世界上一定有一群人，Ta 们和我一样，反感「温室园丁」不透明的做法，相信「自由价更高」。
 
-The devil's in the details，因此我熬夜无数，花了几个月，把 Telegram 官网的 [FAQ](https://telegram.org/faq) 和 [Blog](https://telegram.org/blog) 全部看完了（从 2013 年至今），结合 Google，整理出这篇~~可能是~~中文互联网内容最详细排版最精美的《电报使用指南》，目的是尽可能地为读者呈现 Telegram 的强大、私密以及友好的用户体验。
+The devil's in the details，因此我熬夜无数，花了几个月，把 Telegram 官网的 [FAQ](https://telegram.org/faq) 和 [Blog](https://telegram.org/blog) 全部看完了（从 2013 年创立至今），结合 Google 搜索引擎，整理出这篇~~可能是~~中文互联网内容最详细排版最精美的《电报使用指南》，目的就是尽可能地为读者呈现 Telegram 的强大、私密以及友好的用户体验。
 
-> 2016 年国庆，我花了一周时间看完了「即刻 app」的所有主题（圈子），写了一篇三千多字文章：《即刻 App - 不再错过你感兴趣的资讯》([图文版](https://wemp.app/posts/6e4830bc-845d-4f2c-ad78-959c9a89e4eb) | [文字版](https://tingtalk.me/mp-archives/)）。~~即刻已经没有复活的可能了~~（[即刻 App](https://m.okjike.com/download) 居然在 2020 年 6 月 10 日回来了，但是没有主题追踪功能），在Telegram 顺势成了我新的资讯中心。
+> 2016 年国庆，我花了一周时间看完了「即刻 app」的所有主题（圈子），写了一篇三千多字文章：《即刻 App - 不再错过你感兴趣的资讯》([图文版](https://wemp.app/posts/6e4830bc-845d-4f2c-ad78-959c9a89e4eb) | [文字版](https://tingtalk.me/mp-archives/)）。~~即刻已经没有复活的可能了~~（[即刻 App](https://m.okjike.com/download) 居然在 2020 年 6 月 10 日回来了，但是缺失了主题追踪功能），在Telegram 顺势成了我新的资讯中心。
 
-欢迎各位读者逃离微信（[Escape from the WeChat](https://theinitium.com/article/20200619-technology-escape-from-wechat/)），数字移民到没有监控和审查的地方 ，一起在这片乐土上过上~~没羞没臊~~体面的数字生活。
+欢迎各位读者逃离微信（[Escape from the WeChat](https://theinitium.com/article/20200619-technology-escape-from-wechat/)），转移到没有监控和审查的地方 ，一起在这片乐土上过上~~没羞没臊~~体面的数字生活。
 
 
 
 ### 🚶‍♂️遗世独立
 
-在 Telegram 诞生的那一年（2013 年），斯诺登揭露事件成为了标志性事件，许多人第一次意识到 Ta 们的数字通讯遭到了监视。（The year Telegram was born was marked by the Snowden Revelations, when many people realized for the first time their digital communications were being watched.）
+2013 年 5 月 20 日，斯诺登向《卫报》媒体透露棱镜计划（[PRISM](https://zh.wikipedia.org/zh-hans/%E7%A8%9C%E9%8F%A1%E8%A8%88%E7%95%AB)），说自己：
 
-Telegram 是开源的（[Open Source](https://telegram.org/faq#q-why-not-open-source-everything)），不接受外部投资，所以就不需要向任何股东负责。也不会通过广告盈利，因为 [挣钱永远不会是 Telegram 的终极目标](https://telegram.org/faq#q-how-are-you-going-to-make-money-out-of-this)，所以自 2013 年 8 月 14 日发布以来，Telegram 没有向第三方披露过一个字节的用户私人数据。Telegram 只会默默地践行一个理念：这个星球上的每个人都享有自由的权利（Everyone on the planet has a right to be free.）。
+> 愿意牺牲掉这一切（工作、收入和女朋友）（把真相告诉世人），因为美国政府利用他们正在秘密建造的这一个庞大监视机器摧毁隐私、互联网自由和世界各地人们的基本自由的行为让他良心不安。by [Edward Snowden](https://zh.wikipedia.org/zh-cn/%E7%88%B1%E5%BE%B7%E5%8D%8E%C2%B7%E6%96%AF%E8%AF%BA%E7%99%BB)
 
-> We believe that humans are inherently intelligent and benevolent beings that deserve to be trusted; trusted with freedom to share their thoughts, freedom to communicate privately, freedom to create tools. This philosophy defines everything we do. 我们相信人类天生就是聪明和仁慈的，值得信任的；坚信人类可以自由地分享想法，自由地私下交流，自由地创造工具。 这种哲学定义了我们所做的一切。by Telegram 的创始人和 CEO [Pavel Durov](https://telegram.org/blog/200-million)
+许多人第一次意识到 Ta 们的数字通信遭到了监视（The year Telegram was born was marked by the Snowden Revelations, when many people realized for the first time their digital communications were being watched.）。
+
+2013 年 8 月 14 日，杜洛夫兄弟（[Pavel Durov](https://zh.wikipedia.org/wiki/%E4%BF%9D%E7%BE%85%C2%B7%E6%9D%9C%E6%B4%9B%E5%A4%AB) 和 [Nikolai Durov](https://zh.wikipedia.org/zh-cn/%E5%B0%BC%E5%8F%A4%E6%8B%89%C2%B7%E6%9D%9C%E6%B4%9B%E5%A4%AB)）正式发布开源的（[Open Source](https://telegram.org/faq#q-why-not-open-source-everything)）Telegram（特指客户端），并且不接受外部投资，因此不需要向任何股东负责。也不会通过广告盈利，因为 [挣钱永远不会是 Telegram 的终极目标](https://telegram.org/faq#q-how-are-you-going-to-make-money-out-of-this)，所以 Telegram 至今没有向第三方披露过一个字节的用户私人数据。Telegram 只会默默地践行一个理念：这个星球上的每个人都享有自由的权利（Everyone on the planet has a right to be free.）：
+
+> We believe that humans are inherently intelligent and benevolent beings that deserve to be trusted; trusted with freedom to share their thoughts, freedom to communicate privately, freedom to create tools. This philosophy defines everything we do. 我们相信人类天生就是聪明和仁慈的，值得信任的；坚信人类可以自由地分享想法，自由地私下交流，自由地创造工具。 这种哲学定义了我们所做的一切。by [Pavel Durov](https://telegram.org/blog/200-million)
 
 截止 2020 年 4 月 24 日，Telegram 每月有 4 亿用户（[Telegram has reached 400,000,000 monthly users.](https://telegram.org/blog/400-million))。
 
@@ -58,13 +58,13 @@ Telegram 是开源的（[Open Source](https://telegram.org/faq#q-why-not-open-so
 
 ### 👍近乎完美
 
-- [高度加密](https://telegram.org/faq#q-what-are-your-thoughts-on-internet-privacy)：迄今为止最安全的大众化沟通（即时通讯）软件，[没有审查](https://telegram.org/faq#q-wait-0-o-do-you-process-take-down-requests-from-third-parties)，更不会被封号。
-- **云端同步**：信息无缝地同步到所有的设备上（Cloud Storage）。纵使手机丢了，电脑进水了，但你的电报数据一直都在。
-- [不占内存](https://telegram.org/blog/cache-and-stickers)：不必在设备上存储所有的聊天记录，因为数据一直保存在云端，你随时可以取回来，你也可以完全删除。
-- **简单极速**：借助 [Nikolai](https://zh.wikipedia.org/zh-hans/%E5%B0%BC%E5%8F%A4%E6%8B%89%C2%B7%E6%9D%9C%E6%B4%9B%E5%A4%AB)（Durov 的哥哥）开发独有数据协议，Apps 启动迅速，信息同步飞快。
-- **设计统一**：不管是桌面端、手机端、还是网页端，都能轻松上手。标配 [夜间模式](https://telegram.org/blog#switch-to-night-mode-faster)。
-- [表情贴纸](https://telegram.org/blog/animated-stickers)：高清而富有趣味；支持自制表情包（[Custom Sticker Sets](https://telegram.org/blog/stickers-revolution)）并用 Emoji 调用。
+- **[高度加密](https://telegram.org/faq#q-what-are-your-thoughts-on-internet-privacy)**：迄今为止最安全的大众化沟通软件，[没有审查](https://telegram.org/faq#q-wait-0-o-do-you-process-take-down-requests-from-third-parties)，更不会被封号，[除非执法调查单位能证明用户是恐怖分子](https://telegram.org/faq#q-there-39s-illegal-content-on-telegram-how-do-i-take-it-down)。
+- **云端同步**：信息无缝同步到所有的设备上（Cloud Storage）。纵使设备循坏，但用户数据固若金汤（Secret Chat 除外）。
+- **[不占内存](https://telegram.org/blog/cache-and-stickers)**：不必在设备上存储所有的聊天记录，因为数据一直保存在云端，你随时可以取回来，你也可以完全删除。
+- **简单极速**：借助 Nikolai Durov 开发独有数据协议，Apps 启动迅速，信息同步飞快。
 - **超大群聊**：封顶 20 万人，配合各种管理工具（例如限制发言间隔），让交流井井有条。
+- **设计统一**：不管是桌面端、手机端、还是网页端，都能轻松上手，并标配 [夜间模式](https://telegram.org/blog#switch-to-night-mode-faster)。
+- **[表情贴纸](https://telegram.org/blog/animated-stickers)**：采用 [矢量](https://tingtalk.me/raster-to-vector/) 格式，高清而富有趣味；支持自制表情包（[Custom Sticker Sets](https://telegram.org/blog/stickers-revolution)）并用 Emoji 调用。
 
 
 
@@ -72,13 +72,21 @@ Telegram 是开源的（[Open Source](https://telegram.org/faq#q-why-not-open-so
 
 - 每次扫码登录，心中万马奔腾：也许微信掌门人上辈子是一个无马（码）不欢的 [骑兵](https://baike.baidu.com/item/%E9%AA%91%E5%85%B5%E7%89%87/972384)。
 - 只能发送小于 100 MB 的文件；一次只能发送 9 张图片，而且每次都要勾选原图。
-- 删除好友是单向的。开发者能不能坦荡些？一别两宽，各生欢喜。何必纠缠呢？！
+- 占用巨大的存储空间，而且备份与同步的体验特别差，也不能换成欧盟号码到处用户数据。
+
+> 注册微信的时候，用户会默认同意 [腾讯微信软件许可及服务协议](https://weixin.qq.com/agreement?lang=zh_CN) ，其中在 7.1.2 提到一个霸王条款：「微信帐号的所有权归腾讯公司所有，用户完成申请注册手续后，仅获得微信帐号的使用权，且该使用权仅属于初始申请注册人。……」。
+>
+> 用户免费使用微信（无所有权），微信收集用户的私人数据，贩卖给广告商，这无可厚非。但当用户想要取回 Ta 所创造的内容（数字资产）时，例如导出微信个人数据（朋友圈数据和收藏功能数据等），只好借助欧盟的 GDPR（通用数据保护条例）行使数据可携权。于是我花了 5.26 USD（含税）买了一个比利时的手机号码，微信却猖言道：「[由于当地法规限制，WeChat 暂不支援中国大陆用户将绑定的手机号码更换为欧盟手机号码。](https://help.wechat.com/cgi-bin/micromsg-bin/oshelpcenter?opcode=2&id=1208117b2mai141125mnzm6j)」`2020-04-22`
+>
+> 请问是哪条「当地法规」？这不是「法制」，而是「Fuck 制」：强奸一个个没有反抗能力的用户！
+
+原谅我「口吐芬芳」，不懂中国特色。
 
 
 
 ### 🤔瑕不掩瑜
 
-#### 🐼中文搜索极其糟糕
+#### 🔍中文搜索极其糟糕
 
 Telegram 的中文搜索是以「词」为单位的，以标点符号或空格作为「词」的间隔。如何改善：
 
@@ -104,7 +112,7 @@ Telegram 的中文搜索是以「词」为单位的，以标点符号或空格�
 
 
 
-关联阅读：[为什么 Telegram 不能搜索中文讯息 - 翁君牧](https://medium.com/@nevik.w39/%E7%82%BA%E4%BB%80%E9%BA%BC-telegram-%E4%B8%8D%E8%83%BD%E6%90%9C%E5%B0%8B%E4%B8%AD%E6%96%87%E8%A8%8A%E6%81%AF-6b7d07690e6f)
+> 关联阅读：[为什么 Telegram 不能搜索中文讯息 - 翁君牧](https://medium.com/@nevik.w39/%E7%82%BA%E4%BB%80%E9%BA%BC-telegram-%E4%B8%8D%E8%83%BD%E6%90%9C%E5%B0%8B%E4%B8%AD%E6%96%87%E8%A8%8A%E6%81%AF-6b7d07690e6f)
 
 
 
@@ -119,9 +127,8 @@ Telegram 的中文搜索是以「词」为单位的，以标点符号或空格�
 
 ### 👇下载登录
 
-进入 [Telegram Apps 的下载页面](https://telegram.org/apps)，选择对应的平台，下载，安装，注册。
+不推荐使用第三方电报客户端，请进入 [Telegram Apps 的官方下载页面](https://telegram.org/apps)，选择对应的平台，下载，安装，注册。
 
-不推荐使用第三方的电报客户端。
 
 
 **如果你有注册或登录问题**
@@ -133,6 +140,8 @@ Telegram 的中文搜索是以「词」为单位的，以标点符号或空格�
 
 **如何在电脑上使用 Telegram for Desktop**
 
+使用 Clash 翻墙的用户，可以跳过这一步。
+
 1. 打开客户端
 2. 点击右上角的 `SETTINGS`（设置）> `Connection type`（连接类型）> `Use custom proxy`（使用自定义代理）> `ADD PROXY`（添加代理），以酸酸乳牌的番茄为例：
 	- SOCKS	
@@ -143,19 +152,7 @@ Telegram 的中文搜索是以「词」为单位的，以标点符号或空格�
 
 ### 🐼汉化界面
 
-既然已经出来混了（突破网络墙），首选使用英文版的 Telegram（突破语言墙）。要是一点英文底子都没有：
-
-#### [官方语言包](https://t.me/setlanguage/zh-hans-beta)
-
-点此安装 👆。截止 2020 年 6 月 28 日，翻译已完成 87% 了。
-
-
-
-#### [第三方语言包](https://t.me/setlanguage/classic-zh-cn)
-
-点此安装 👆。或者，在 Telegram 搜索 `zh_CN`，关注 [Telegram-zh_CN 简体中文语言包](https://t.me/zh_CN)，获取最新的中文本地化文件
-
-2020 年 4 月 12 日，Telegram zh-CN Project 发布了 [停止更新公告](https://t.me/zh_CN/488)。
+既然已经出来混了（突破网络墙），首选使用英文版的 Telegram（突破语言墙）。要是一点英文底子都没有，[点此安装官方语言包](https://t.me/setlanguage/zh-hans-beta)。截止 2020 年 6 月 28 日，翻译已完成 87% 了，不妨碍日常使用。
 
 
 
@@ -163,7 +160,7 @@ Telegram 的中文搜索是以「词」为单位的，以标点符号或空格�
 
 ### 👤设置用户名
 
-你可以在 `Setting`（设置）里面设置一个用户名（Username）。设置后，别人能够在不知道你的电话号码的情况下，通过此用户名找到你并与你联系。此外：
+你可以在 `Setting`（设置）里面填写一个用户名（Username）。设置后，别人能够在不知道你的电话号码的情况下，通过此用户名找到你。此外：
 
 - 用户名可以随时更改或删除（用户名为空）。
 - 用户名不区分大小写（TingTalk = tingtalk），但 Telegram 会记住的大小写偏好。
@@ -173,7 +170,7 @@ Telegram 的中文搜索是以「词」为单位的，以标点符号或空格�
 **侵权**
 
 - [如果一个骗子假装是你](https://telegram.org/faq#q-what-if-someone-is-pretending-to-be-me)，联系 [@notoscam](https://t.me/notoscam)。
-- [用户名被占用怎么办？](https://telegram.org/faq#q-what-do-i-do-if-my-username-is-taken)把你在 Facebook、Twitter 或 Instagram 的用户名（两个平台以上）发给 [@username_bot](https://t.me/username_bot)。
+- 针对品牌方，[用户名被占用怎么办？](https://telegram.org/faq#q-what-do-i-do-if-my-username-is-taken)把你在 Facebook、Twitter 或 Instagram 的用户名（两个平台以上）发给 [@username_bot](https://t.me/username_bot)。
 - 如果你看到表情包（sticker sets）、频道（channels）或机器人（bots）侵犯了你的版权，请提交投诉到邮箱：dmca@telegram.org
 
 
@@ -192,9 +189,9 @@ Telegram 的中文搜索是以「词」为单位的，以标点符号或空格�
 
 
 
-**浏览一些群组和频道后，无法打开群组和频道的链接？**
+**浏览一些群组和频道后，无法打开群组和频道的链接，怎么办？**
 
-若用户在 24 小时内访问超过 200 个群组或频道的链接（点击打开就算访问，不需要加入），就会被打入电报冷宫 24 小时。禁闭期间，无法通过链接访问新的群组或频道（点击链接一直转圈而无法访问）。
+若用户在 24 小时内访问超过 200 个群组或频道的链接（点击打开就算访问，不需要加入），就会被打入冷宫 24 小时。禁闭期间，无法通过链接访问新的群组或频道（点击链接一直转圈而无法访问）。
 
 
 
@@ -208,8 +205,8 @@ Telegram 的中文搜索是以「词」为单位的，以标点符号或空格�
 
 **为什么要给账户设置自毁机制**
 
-- 为了节约服务器的存储空间（省点钱，毕竟 Telegram 没有任何收入来源），Telegram 会自动删除长时间不上线的用户。作为一个免费的非商业软件，Telegram 也不需要你的私人数据。
-- 如果不慎丢失了 SIM，被人捡到，又忘记开启两步验证，新的主人就能把你的 Telegram 账号占为己有。
+- 为了节约服务器的存储空间（省点钱，毕竟 Telegram 没有任何收入来源），Telegram 会自动删除长时间不上线的用户。而且作为一个免费的非商业软件，Telegram 也不需要你的私人数据。
+- 如果不慎丢失了 SIM（手机卡），又忘记开启两步验证，新的主人就能把你的 Telegram 账号占为己有。假如你设置了 1 个月不上线就销户，坏人在第 32 天捡到你的手机，不过此时你的 Telegram 账号已经不存在了。
 
 
 
@@ -223,8 +220,15 @@ Telegram 的中文搜索是以「词」为单位的，以标点符号或空格�
 
 要是对隐私有较高的要求，或者彻底解除 +86 开头的手机号码的私聊限制，可以把手机号码换绑到非中国区的手机号码，例如 Google Voice：
 
-- [自己注册 Google Voice](https://www.v2ex.com/t/662342)
-- 在 Google 或淘宝上搜索相应的关键词购买现成 Google Voice。我找 [Cody](https://www.goojie.eu/1.html) 花了 28 CNY 买了一个，但天要下雨，人会变坏，风险自担。
+**方法一**
+
+[自己注册 Google Voice](https://www.v2ex.com/t/662342)，比较麻烦，此法基本失效。
+
+**方法二**
+
+1. [注册 Google 账号](https://tingtalk.me/google-account/)。
+2. 在 Google 或淘宝上搜索 Google Voice，购买别人注册下来的号码。
+3. 转移到自己的 Google 账号上。
 
 
 
@@ -236,8 +240,8 @@ Telegram 的中文搜索是以「词」为单位的，以标点符号或空格�
 
 以后登录时，输入验证码后，还要输入密码。
 
-- 安全密码：请勿使用纯数字密码，可使用开源的 [KeePass](https://keepass.info/) 生成高强度密码
-- 电子邮箱：Gmail 或者 Outlook，国内的邮箱被「窃听」的可能性较高
+- 安全密码：请勿使用纯数字密码，可使用开源的 [KeePass](https://keepass.info/) 生成高强度密码。
+- 电子邮箱：Gmail 或者 Outlook，国内的邮箱被「窃听」的可能性较高。
 
 
 
@@ -254,11 +258,43 @@ Telegram 的中文搜索是以「词」为单位的，以标点符号或空格�
 
 ## 💬对话界面
 
-### 👍使用技巧
+Telegram 会记忆浏览进度，打开对话界面会自动跳转到未读消息 `Unread Messages`（The app restores your previous scroll position when you switch back to a chat）。没看完未读消息也没关系，下载回来，还是那个位置。
 
-- **记忆浏览进度**：打开对话界面会自动跳转到未读消息 `Unread Messages`（The app restores your previous scroll position when you switch back to a chat）。
-- **消息静音（[Mute Notifications](https://telegram.org/blog/shared-files#mute-notifications)）**：可屏蔽联系人 / 群组 / 频道的消息通知 1 个小时 / 4 个小时 / 18 个小时 / 3 天 / 永久静音。
-- 在 Telegram 上语音通话（打电话），需要手机在翻墙客户端上开启 UDP 转发。
+
+
+### 📝文本格式化
+
+#### Desktop
+
+1. 在编辑区输入文本
+2. 左键选择想要格式化的文本
+3. 右击 > `Formatting`
+
+| Formatting                                    | Shortcut (PC)          |
+| --------------------------------------------- | ---------------------- |
+| **Bold**（加粗 ）                             | `Ctrl` + `B`           |
+| *Italic*（斜体）                              | `Ctrl` + `I`           |
+| <u>Underline</u>（下划线）                    | `Ctrl` + `U`           |
+| ~~Strikethrough~~（删除线）                   | `Ctrl` + `Shift` + `X` |
+| `Monospace`（等宽）                           | `Ctrl` + `Shift` + `M` |
+| [Create link](https://tingtalk.me/)（超链接） | `Ctrl` + `K`           |
+| Plain text（纯文本）                          | `Ctrl` + `Shift` + `N` |
+
+#### Android
+
+1. 在编辑区输入文本
+2. 长按选择想要格式化的文本
+3. 轻触界面右上角的三个点（顶栏右侧，大概在通知栏电量 🔋 的下方。非常刁钻的一个位置，我花了好几天才找到），即可看到文本格式化选项
+
+#### iOS
+
+1. 在编辑区输入文本
+2. 长按选择想要格式化的文本，会弹出一些文字操作的选项
+3. 轻触 `BIU`（或许藏在 ▶️ 后面），即可看到文本格式化选项
+
+
+
+也可以在任意发送框输入 [@bold](https://telegram.me/bold)，使用 [Markdown](https://tingtalk.me/markdown/) 编辑消息（最多输入 256 字符）。
 
 
 
@@ -275,66 +311,12 @@ Telegram 的中文搜索是以「词」为单位的，以标点符号或空格�
 
 
 
-### 🗂对话分组
-
-点击 [这个链接](tg://settings/folders)，或在设置中启动分组功能（[Chat Folders](https://telegram.org/blog/folders)）：
-
-- 最多创建 10 个分组。
-- 每个分组都能置顶无数个对话（[Unlimited Pins](https://telegram.org/blog/folders#unlimited-pins)）。
-
-
-
 ### 👇长按消息
 
 
 - 编辑已发送消息（[Edit your messages after posting](https://telegram.org/blog/edit)），包括文字、图片和视频（[Replace Media](https://telegram.org/blog/unread-replace-2x#replace-media-and-add-captions)）。
-- [消息可以无限期撤回](https://telegram.org/faq#q-can-i-delete-my-messages)（`Delete` 删除），而且被删除的信息不会在聊天中留下痕迹。
+- [消息可以无限期撤回](https://telegram.org/faq#q-can-i-delete-my-messages)（`Delete` 删除），而且被删除的信息不会在双方的聊天记录中留下痕迹（可选）。
 - [选择部分消息](https://telegram.org/blog#select-parts-of-messages)：长按 2 次消息，可选择部分文字，而不仅仅是复制全文。
-
-
-
-### 🖥️电脑版
-
-- **快速多选**：在对话界面的空白位置，按着鼠标左键不放，即可多选信息，然后选择转发或者删除。
-- **链接直达**：按住 `Ctrl` 再点击 URL，直接打开链接，不必弹窗确认（Open this link? CANCEL / OPEN）。
-- **多用户切换**：不再是手机版的专属功能。
-- **置顶消息（Pin）**：这个功能只有在 Telegram Desktop（电脑版）才支持。
-
-
-
-### 📝文本格式化
-
-#### Desktop
-
-1. 在编辑区输入文本
-2. 左键选择想要格式化的文本
-3. 右击 > `Formatting`
-
-| Formatting                                    | Shortcut (PC)          |
-| --------------------------------------------- | ---------------------- |
-| **Bold**（加粗 ）                           | `Ctrl` + `B`           |
-| *Italic*（斜体）                             | `Ctrl` + `I`           |
-| <u>Underline</u>（下划线）                  | `Ctrl` + `U`           |
-| ~~Strikethrough~~（删除线）                   | `Ctrl` + `Shift` + `X` |
-| `Monospace`（等宽）                          | `Ctrl` + `Shift` + `M` |
-| [Create link](https://tingtalk.me/)（超链接） | `Ctrl` + `K`           |
-| Plain text（纯文本）                          | `Ctrl` + `Shift` + `N` |
-
-#### Android
-
-1. 在编辑区输入文本
-2. 长按选择想要格式化的文本
-3. 轻触界面右上角的三个点（顶栏右侧，大概在通知栏电量 🔋 的下方。非常刁钻的一个位置，我花了几天才找到），即可看到文本格式化选项
-
-#### iOS
-
-1. 在编辑区输入文本
-2. 长按选择想要格式化的文本，会弹出一些文字操作的选项
-3. 轻触 `BIU`（或许藏在 ▶️ 后面），即可看到文本格式化选项
-
-
-
-也可以在任意发送框输入 [@bold](https://telegram.me/bold)，使用 [Markdown](https://tingtalk.me/markdown/) 编辑消息。
 
 
 
@@ -345,6 +327,8 @@ Telegram 的中文搜索是以「词」为单位的，以标点符号或空格�
 - `Send without sound` 静音发送消息（纵使对方在睡觉，你的 urgent idea 也不会搅人春梦）。简直就是为健忘的人而设计。
 - `Scheduled Message` [定时发送](https://telegram.org/blog/scheduled-reminders-themes)：在 [Saved Messages](https://telegram.org/blog/albums-saved-messages#saved-messages)（收藏夹）可以给自己发送定时消息作为提醒（Set a reminder）。
   - `Send when * comes online` [当对方上线时发送](https://telegram.org/blog#send-when-online)（右上角）：这样就可以排在对方聊天列表的前面（Put you right at the top of their chat list.）。
+
+接收者也可以对消息静音（[Mute Notifications](https://telegram.org/blog/shared-files#mute-notifications)）：可屏蔽联系人 / 群组 / 频道的消息通知 1 个小时 / 4 个小时 / 18 个小时 / 3 天 / 永久静音。
 
 
 
@@ -357,11 +341,15 @@ Telegram 的中文搜索是以「词」为单位的，以标点符号或空格�
 
 
 
+
+
 ### 🗣️语音消息
 
 - 支持 2 倍速播放（[2X playback](https://telegram.org/blog/unread-replace-2x#double-time-playback-for-voice-and-video-messages)）。
 - 可调节语音消息的进度（不必从头开始播放）。
 - [记忆播放位置](https://telegram.org/blog#podcast-and-audiobook-support)：超过 20 分钟的音频文件，Telegram 会帮你记住最后的播放位置，以便中途中断后再次收听。
+
+此外，在 Telegram 上语音通话（打电话），需要手机在翻墙客户端上开启 UDP 转发。
 
 
 
@@ -442,6 +430,10 @@ Telegram 有两种加密等级，都非常安全：
 
 
 
+
+
+
+
 ### 📊[投票功能](https://telegram.org/blog/polls-2-0-vmq)
 
 **发起人**
@@ -454,6 +446,15 @@ Telegram 有两种加密等级，都非常安全：
 **投票者/答题者**
 
 - 不满意长按或右击投票（Poll）可以撤回投票（Retract vote）。
+
+
+
+### 🖥️电脑版
+
+- **快速多选**：在对话界面的空白位置，按着鼠标左键不放，即可多选信息，然后选择转发或者删除。
+- **链接直达**：按住 `Ctrl` 再点击 URL，直接打开链接，不必弹窗确认（Open this link? CANCEL / OPEN）。
+- **多用户切换**：不再是手机版的专属功能。
+- **置顶消息（Pin）**：这个功能只有在 Telegram Desktop（电脑版）才支持。
 
 
 
@@ -523,17 +524,15 @@ https://rsshub.app/telegram/channel/tingtalk
 
 
 
-**同步 Telegram Channels 与 Twitter**
+**如何向我推荐优质频道**
 
-借助 [@ifttt](https://telegram.me/ifttt) 机器人，你可转发频道消息到 Twitter：
-
-1. 在频道中添加 @ifttt 并设置为管理员。
-2. 把频道链接发给 @ifttt 机器人。
-3. 打开 [Tweet new text posts from your Telegram channel](https://ifttt.com/applets/FyU3EhJZ-tweet-new-text-posts-from-your-telegram-channel)，并选择一个频道，Save。
+1. 在 Telegram 搜索 [@tingbot](https://t.me/tingbot) 
+2. 说明推荐理由
+3. 优质频道将更新在这篇《电报教程》里
 
 
 
-以下是目前订阅的频道，持续更新并分类优化中。但不要「贪杯」哦，「淹没」在信息洪流中，对有限的人生来说，是一种慢性自杀，请合理分配稀缺的注意力。
+以下是我目前收集的频道，但不要「贪杯」哦，「淹没」在信息洪流中，对有限的人生来说，是一种慢性自杀，请合理分配稀缺的注意力。
 
 
 
@@ -541,7 +540,8 @@ https://rsshub.app/telegram/channel/tingtalk
 
 | 频道                                               | 详情                                                         |
 | -------------------------------------------------- | ------------------------------------------------------------ |
-| [Telegram News](https://t.me/telegram)             | 官方电报频道：获得关于 Telegram 的更新通知。                 |
+| [Telegram News](https://t.me/telegram)             | 电报官方频道：获得关于 Telegram 的更新通知。                 |
+| [ISIS Watch](https://t.me/ISISwatch)               | 电报官方频道：[每日汇报有多少恐怖组织相关的频道被封了](https://t.me/isiswatch/2)。 |
 | [Trending Stickers](https://t.me/TrendingStickers) | Telegram 表情包合集。                                        |
 | [紙飛機](https://t.me/tgflight)                    | 欢迎搭乘纸飞机，Porsche 和你聊聊 Telegram 的大小事。[播客 RSS 订阅链接](https://feeds.buzzsprout.com/837646.rss)。 |
 | [TGgeek](https://t.me/TGgeek)                      | TG 极客：分享 Telegram 使用技巧、重要资讯、常见问答、中文汉化、版本更新等信息。 |
@@ -926,8 +926,6 @@ https://rsshub.app/twitter/user/OnePieceAnime
 ```http
 https://rsshub.app/xiaoyuzhou
 ```
-
-
 
 
 
