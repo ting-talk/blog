@@ -32,7 +32,7 @@ tags: [网上冲浪指南, 突破网络审查, Telegram]
 
 既然说不动认识我的人，但世界那么大，人口那么多，网络世界上一定有一群人，Ta 们和我一样，反感「温室园丁」不透明的做法，相信「自由价更高」。
 
-The devil's in the details，因此我熬夜无数，花了几个月，把 Telegram 官网的 [FAQ](https://telegram.org/faq) 和 [Blog](https://telegram.org/blog) 全部看完了（从 2013 年创立至今），结合 Google 搜索引擎，整理出这篇~~可能是~~中文互联网内容最详细排版最精美的《电报使用指南》，目的就是尽可能地为读者呈现 Telegram 的强大、私密以及友好的用户体验。
+The devil's in the details，因此我熬夜无数，花了几个月，把 Telegram 官网的 [FAQ](https://telegram.org/faq) 和 [Blog](https://telegram.org/blog) 全部看完了（从 2013 年创立至今），结合 Google 搜索引擎，整理出这篇~~可能是~~中文互联网内容最详细排版最精美的《电报使用指南》，目的就是尽可能地为读者呈现 Telegram 的强大、私密以及友好的用户体验，Make Telegram great again。
 
 > 2016 年国庆，我花了一周时间看完了「即刻 app」的所有主题（圈子），写了一篇三千多字文章：《即刻 App - 不再错过你感兴趣的资讯》([图文版](https://wemp.app/posts/6e4830bc-845d-4f2c-ad78-959c9a89e4eb) | [文字版](https://tingtalk.me/mp-archives/)）。~~即刻已经没有复活的可能了~~（[即刻 App](https://m.okjike.com/download) 居然在 2020 年 6 月 10 日回来了，但是缺失了主题追踪功能），在Telegram 顺势成了我新的资讯中心。
 
@@ -58,10 +58,10 @@ The devil's in the details，因此我熬夜无数，花了几个月，把 Teleg
 
 ### 👍近乎完美
 
-- **[高度加密](https://telegram.org/faq#q-what-are-your-thoughts-on-internet-privacy)**：迄今为止最安全的大众化沟通软件，[没有审查](https://telegram.org/faq#q-wait-0-o-do-you-process-take-down-requests-from-third-parties)，更不会被封号，[除非执法调查单位能证明用户是恐怖分子](https://telegram.org/faq#q-there-39s-illegal-content-on-telegram-how-do-i-take-it-down)。
-- **云端同步**：信息无缝同步到所有的设备上（Cloud Storage）。纵使设备循坏，但用户数据固若金汤（Secret Chat 除外）。
+- **[高度加密](https://telegram.org/faq#q-what-are-your-thoughts-on-internet-privacy)**：迄今为止最安全的大众化沟通软件，使用独有的网络传输协议 [MTProto](https://core.telegram.org/mtproto)。
+- **[没有审查](https://telegram.org/faq#q-wait-0-o-do-you-process-take-down-requests-from-third-parties)**：不用担心被封号，[除非执法调查单位能证明用户是恐怖分子](https://telegram.org/faq#q-there-39s-illegal-content-on-telegram-how-do-i-take-it-down)。
+- **云端同步**：聊天历史无缝同步到所有的设备上（Cloud Storage）。纵使设备循坏，但用户数据固若金汤（Secret Chat 除外）。
 - **[不占内存](https://telegram.org/blog/cache-and-stickers)**：不必在设备上存储所有的聊天记录，因为数据一直保存在云端，你随时可以取回来，你也可以完全删除。
-- **简单极速**：借助 Nikolai Durov 开发独有数据协议，Apps 启动迅速，信息同步飞快。
 - **超大群聊**：封顶 20 万人，配合各种管理工具（例如限制发言间隔），让交流井井有条。
 - **设计统一**：不管是桌面端、手机端、还是网页端，都能轻松上手，并标配 [夜间模式](https://telegram.org/blog#switch-to-night-mode-faster)。
 - **[表情贴纸](https://telegram.org/blog/animated-stickers)**：采用 [矢量](https://tingtalk.me/raster-to-vector/) 格式，高清而富有趣味；支持自制表情包（[Custom Sticker Sets](https://telegram.org/blog/stickers-revolution)）并用 Emoji 调用。
@@ -127,7 +127,9 @@ Telegram 的中文搜索是以「词」为单位的，以标点符号或空格�
 
 ### 👇下载登录
 
-不推荐使用第三方电报客户端，请进入 [Telegram Apps 的官方下载页面](https://telegram.org/apps)，选择对应的平台，下载，安装，注册。
+请进入 [Telegram Apps 的官方下载页面](https://telegram.org/apps)，选择对应的平台，下载，安装，注册。
+
+自由开放的 Telegram 在各平台都有数十种客户端，各有哪些优缺点，又该如何选择呢？请查阅 [Telegram 客户端版本比较](https://tlgr.tw/)，但不推荐使用第三方电报客户端。
 
 
 
@@ -429,18 +431,27 @@ Telegram 会记忆浏览进度，打开对话界面会自动跳转到未读消�
 
 ### 🤐[私密聊天](https://telegram.org/faq#secret-chats)
 
-在 Secret Chat 模式下可以：
+**Cloud Chats**
 
+`客户端` -`服务器` / `服务器` - `客户端` 
+
+信息存储在 Telegram Cloud 中进行加密。 这使云消息既安全又可以立即从任何设备访问，即使完全丢失了设备。所以你不需要将所有的信息历史记录存储在手机上，当你需要的时候，你可以随时在 Telegram 下载（缓存）旧的信息和媒体，这为你节省了大量的磁盘空间和内存。
+
+
+
+**Secret Chats**
+
+`客户端` - `客户端`
+
+聊天记录不能云备份，因为私人数据没有经过 Telegram 的同步服务器，所以没有任何其他人可以破解它们，包含 Telegram 团队本身。
+
+> 关联阅读：[为什么电报的端到端加密不是默认的？](https://telegra.ph/Why-Isnt-Telegram-End-to-End-Encrypted-by-Default-08-14)
+
+- 只能通过原始设备访问历史消息，如果退出并再次登录，将失去所有的秘密聊天记录。
 - 可设置阅后即焚（self-destruct）计时器，自动销毁消息或媒体文件（只适用于计时器设置后发送的消息，对早期的信息没有影响）。
 - 不能转发消息。
 - Android 设备不能截屏；iOS 设备可以截屏 ，但对方截屏时你会收到通知。不过，只建议与你信任的人分享敏感信息。 毕竟，对方可以用另外一台设备给屏幕拍照。
 - 删除发送方的消息，接收方那边也会强制删除。
-- 如果退出并再次登录，将失去所有的秘密聊天记录。
-
-Telegram 有两种加密等级，都非常安全：
-
-- Secret Chats 使用 `客户端` - `客户端` 加密，聊天记录不能云备份（私人数据不经过 Telegram 的同步服务器），只能通过原始设备访问历史消息。[为什么电报的端到端加密不是默认的？](https://telegra.ph/Why-Isnt-Telegram-End-to-End-Encrypted-by-Default-08-14)
-- Cloud Chats 使用 `客户端` -`服务器` / `服务器` - `客户端` 加密，并存储在 Telegram Cloud 中进行加密。 这使您的云消息既安全又可以立即从任何设备访问，即使您完全丢失了设备。所以你不需要将所有的信息历史记录存储在手机上，当你需要的时候，你可以随时在 Telegram 下载（缓存）旧的信息和媒体，这为你节省了大量的磁盘空间和内存。
 
 
 
