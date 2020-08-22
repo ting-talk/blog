@@ -3,7 +3,7 @@ title: Telegram（电报）：新手指南、使用教程及频道推荐
 date: 2019-11-09  
 updated: 2020-08-22
 categories: 数字生活  
-tags: [Telegram, 网上冲浪指南, 突破网络审查]
+tags: [网上冲浪指南, 突破网络审查, Telegram]
 ---
 
 ![telegram](telegram/telegram.png)
@@ -152,7 +152,13 @@ Telegram 的中文搜索是以「词」为单位的，以标点符号或空格�
 
 ### 🐼汉化界面
 
-既然已经出来混了（突破网络墙），首选使用英文版的 Telegram（突破语言墙）。要是一点英文底子都没有，[点此安装官方语言包](https://t.me/setlanguage/zh-hans-beta)。截止 2020 年 6 月 28 日，翻译已完成 87% 了，不妨碍日常使用。
+既然已经出来混了（突破网络墙），首选使用英文版的 Telegram（突破语言墙）。要是一点英文底子都没有：
+
+1. [点此安装官方简体中文语言包](https://t.me/setlanguage/zh-hans-beta) 
+2. 选择 `CHANGE`（更改）
+3. 即可把界面语言替换为简体中文
+
+截止 2020 年 6 月 28 日，翻译已完成 87% 了，不妨碍日常使用。
 
 
 
@@ -164,6 +170,9 @@ Telegram 的中文搜索是以「词」为单位的，以标点符号或空格�
 
 - 用户名可以随时更改或删除（用户名为空）。
 - 用户名不区分大小写（TingTalk = tingtalk），但 Telegram 会记住的大小写偏好。
+- 添加和删除联系人（Contacts）都是单向操作，双方的通讯录都是独立的（你中有我，我中可能没有你），也没有通知。
+- 点击左侧菜单栏 > `Contacts`（联系人）> `Find People Nearby`（寻找附近的人），比微信的面对面建群更快捷。
+- [转发消息时，长按联系人 / 群组 / 频道可多选。](https://telegram.org/blog#multi-sharing-from-other-apps)
 
 
 
@@ -232,6 +241,14 @@ Telegram 的中文搜索是以「词」为单位的，以标点符号或空格�
 
 
 
+如果对隐私有更好的要求，这些还远远不够，例如：
+
+- 使用没有个人特征的头像（在 Telegram 设置里删除曾经使用过的头像）、昵称和用户名，确保不会碳基身份关联。
+- 不使用 Touch ID 或 Face ID 解锁你的手机，只以密码锁屏（数字 + 字母），以免被「执法人员」控制身体后强行解锁。
+- 使用 [Tor](https://www.torproject.org/)（The Onion Router、洋葱路由器）隐藏用户真实 IP 地址、避免网络监控及流量分析。
+
+
+
 ### ✌️[开启两步验证](https://telegram.org/blog/sessions-and-2-step-verification#two-step-verification)
 
 1. `Setting`（设置）
@@ -262,13 +279,13 @@ Telegram 会记忆浏览进度，打开对话界面会自动跳转到未读消�
 
 
 
-### 📝文本格式化
+### 📝文本格式
 
 #### Desktop
 
 1. 在编辑区输入文本
 2. 左键选择想要格式化的文本
-3. 右击 > `Formatting`
+3. 右击 > `Formatting`（格式选项）
 
 | Formatting                                    | Shortcut (PC)          |
 | --------------------------------------------- | ---------------------- |
@@ -322,13 +339,21 @@ Telegram 会记忆浏览进度，打开对话界面会自动跳转到未读消�
 
 ### 📡消息发送
 
-手机上长按（电脑上右击）消息发送键
+手机上长按（电脑上右击）消息发送键：
 
-- `Send without sound` 静音发送消息（纵使对方在睡觉，你的 urgent idea 也不会搅人春梦）。简直就是为健忘的人而设计。
-- `Scheduled Message` [定时发送](https://telegram.org/blog/scheduled-reminders-themes)：在 [Saved Messages](https://telegram.org/blog/albums-saved-messages#saved-messages)（收藏夹）可以给自己发送定时消息作为提醒（Set a reminder）。
-  - `Send when * comes online` [当对方上线时发送](https://telegram.org/blog#send-when-online)（右上角）：这样就可以排在对方聊天列表的前面（Put you right at the top of their chat list.）。
+- `Send without sound`（静音发送消息）：纵使对方在睡觉，你的 urgent idea 也不会搅人春梦，简直就是为健忘的人而设计。
+- `Scheduled Message`（[定时发送](https://telegram.org/blog/scheduled-reminders-themes)）
+  - 发送日程消息，对方并不知道你使用了定时发送。
+  - 在 [Saved Messages](https://telegram.org/blog/albums-saved-messages#saved-messages)（我的收藏）也可以发送定时消息作为提醒（Set a reminder）。
+  - `Send when * comes online`（[当对方上线时发送](https://telegram.org/blog#send-when-online)）：这样就可以排在对方聊天列表的前面（Put you right at the top of their chat list.）。
 
-接收者也可以对消息静音（[Mute Notifications](https://telegram.org/blog/shared-files#mute-notifications)）：可屏蔽联系人 / 群组 / 频道的消息通知 1 个小时 / 4 个小时 / 18 个小时 / 3 天 / 永久静音。
+接收者也可以对消息静音（[Mute Notifications](https://telegram.org/blog/shared-files#mute-notifications)）：可屏蔽联系人 / 群组 / 频道的消息通知：
+
+- 1 个小时
+- 4 个小时
+- 18 个小时
+- 3 天
+- 永久静音
 
 
 
@@ -336,10 +361,8 @@ Telegram 会记忆浏览进度，打开对话界面会自动跳转到未读消�
 
 消息的读取状态（回执）分为两种
 
-- One check（✔️）：发送成功（有些消息，例如纽约时报的链接，微信没发送出去，也不会有 ❗，这是赤裸裸的欺骗 ）。
+- One check（✔️）：发送成功（在微信，有些消息（例如纽约时报的链接）没发送出去，也不会有发送失败的感叹号 ❗，这是赤裸裸的欺骗 ）。
 - Two checks（✔️✔️）：消息已阅。
-
-
 
 
 
@@ -363,22 +386,26 @@ Telegram 会记忆浏览进度，打开对话界面会自动跳转到未读消�
 建议从 05:06 开始看。
 ```
 
-`05:06` 会自动高亮显示为链接，观看者点击 `05:06`，视频就会从第 5 分 6 秒播放。其中 `05:06` 必填项，提示的话可以选填。你发现了吗？YouTube 和哔哩哔哩的评论区也是支持这种时间戳。
+`05:06` 会自动高亮显示为链接，观看者点击 `05:06`，视频就会从第 5 分 6 秒播放。其中 `05:06` 必填项，提示的话可以选填。
 
-**如何在视频链接中加入时间戳**：
+你发现了吗？YouTube 和哔哩哔哩的评论区也是支持这种时间戳。
 
-哔哩哔哩：https://www.bilibili.com/video/av55857100?t=14m15s
+**如何在视频链接中加入时间戳**
 
-YouTube：https://www.youtube.com/watch?v=SyM3jMFjess&t=05m06s
+- 哔哩哔哩：https://www.bilibili.com/video/av55857100?t=14m15s
+- YouTube：https://www.youtube.com/watch?v=SyM3jMFjess&t=05m06s
 
-- `?t=` / `&t=` 时间 time
-- `h` 时
-- `m` 分
-- `s` 秒
+**参数说明**
 
+- `?t=` / `&t=` 时间  time
+- `h` 时 hour
+- `m` 分 minute
+- `s` 秒 second
 
+**如何在 YouTube 中复制当前时间的视频网址**
 
-如何在 YouTube 中复制当前时间的视频网址：右键点击进度条，在弹出的菜单中选择「复制当前时间的视频网址」。
+1. 右键点击进度条
+2. 在弹出的菜单中选择 `复制当前时间的视频网址`
 
 
 
@@ -406,7 +433,7 @@ YouTube：https://www.youtube.com/watch?v=SyM3jMFjess&t=05m06s
 
 - 可设置阅后即焚（self-destruct）计时器，自动销毁消息或媒体文件（只适用于计时器设置后发送的消息，对早期的信息没有影响）。
 - 不能转发消息。
-- Android 设备不能截屏；iOS 设备可以截屏 ，但对方截屏时你会收到通知。不过，只建议与你信任的人分享敏感信息。 毕竟，Ta 可以用另外一台设备给屏幕拍照。
+- Android 设备不能截屏；iOS 设备可以截屏 ，但对方截屏时你会收到通知。不过，只建议与你信任的人分享敏感信息。 毕竟，对方可以用另外一台设备给屏幕拍照。
 - 删除发送方的消息，接收方那边也会强制删除。
 - 如果退出并再次登录，将失去所有的秘密聊天记录。
 
@@ -414,23 +441,6 @@ Telegram 有两种加密等级，都非常安全：
 
 - Secret Chats 使用 `客户端` - `客户端` 加密，聊天记录不能云备份（私人数据不经过 Telegram 的同步服务器），只能通过原始设备访问历史消息。[为什么电报的端到端加密不是默认的？](https://telegra.ph/Why-Isnt-Telegram-End-to-End-Encrypted-by-Default-08-14)
 - Cloud Chats 使用 `客户端` -`服务器` / `服务器` - `客户端` 加密，并存储在 Telegram Cloud 中进行加密。 这使您的云消息既安全又可以立即从任何设备访问，即使您完全丢失了设备。所以你不需要将所有的信息历史记录存储在手机上，当你需要的时候，你可以随时在 Telegram 下载（缓存）旧的信息和媒体，这为你节省了大量的磁盘空间和内存。
-
-**如何清除缓存（释放存储空间）**
-
-1. `Settings`（设置）
-2. `Data and Storage`（数据和存储）
-3. `Storage Usage`（空间使用情况）
-4. `Clear cache`（清除缓存）
-
-如果对隐私有更好的要求，这些还远远不够，例如
-
-- 使用没有个人特征的头像（在 Telegram 设置里删除曾经使用过的头像）、昵称和用户名，确保不会和
-- 不使用 Touch ID 或 Face ID 解锁你的手机，只以密码锁屏（数字 + 字母），以免被「执法人员」控制身体后强行解锁。
-- 使用 [Tor](https://www.torproject.org/)（The Onion Router、洋葱路由器）隐藏用户真实 IP 地址、避免网络监控及流量分析。
-
-
-
-
 
 
 
@@ -449,12 +459,23 @@ Telegram 有两种加密等级，都非常安全：
 
 
 
-### 🖥️电脑版
+### 🖥️电脑版本
 
 - **快速多选**：在对话界面的空白位置，按着鼠标左键不放，即可多选信息，然后选择转发或者删除。
 - **链接直达**：按住 `Ctrl` 再点击 URL，直接打开链接，不必弹窗确认（Open this link? CANCEL / OPEN）。
 - **多用户切换**：不再是手机版的专属功能。
 - **置顶消息（Pin）**：这个功能只有在 Telegram Desktop（电脑版）才支持。
+
+
+
+### 🧹清除缓存
+
+此举只是暂时释放存储空间，因为媒体文件都会保留在 Telegram 云端，若你需要可以再次下载，例如翻看历史消息的时候。
+
+1. `Settings`（设置）
+2. `Data and Storage`（数据和存储）
+3. `Storage Usage`（存储使用情况）
+4. `Clear Telegram Cache`（清理缓存）
 
 
 
@@ -477,6 +498,108 @@ Telegram 有两种加密等级，都非常安全：
 2. 依次点击 `Settings` > `Advanced` > `Export Telegram data`
 3. 选择要导出的数据类型
 
+## 📖通用技巧
+
+### 🌐互联开放
+
+公开（Public）的频道或群组，不用注册 Telegram 账号也看到其间的内容，并可以被搜索引擎索引（The contents of public channels can be seen on the Web without a Telegram account and are indexed by search engines.），例如在浏览器输入 [t.me/s/tingtalk](https://t.me/s/tingtalk)。发现了吗？就是在 Permanent link（永久链接）中加一个 `s`。
+
+
+
+**如何查看创建日期**
+
+1. 在任意对话窗口（例如 Saved Messages）或浏览器输入 `https://t.me/` + `ID` + `1`，例如 https://t.me/tingtalk/1
+2. 发送
+3. 点击这个链接
+4. 就会跳转到该群组或频道（未删除的）第一条消息，在其上方，可以看到创建日期（Channel created）
+
+
+
+### 🔍搜索秘技
+
+**去哪里找钟意的频道（Channel），群组（Group）和机器人（Bot）呢？**
+
+☝️ 在 Telegram 内直接搜索关键词，但中文搜索识别较差。例如，「庭说」的频道是 https://t.me/tingtalk
+
+- 搜索英文 `tingtalk`（`t.me/` 后面的字符就是 ID），可以准确识别
+- 搜索中文 `庭说`，可能无法识别
+
+✌️ 配合一些 [Google 搜索技巧](https://tingtalk.me/search-tips/)，在 [Google](https://www.google.com/search?q=site:tingtalk.me) 上搜索（添加或删减 `OR` 都会改变搜索结果，请多多尝试不同的关键词）：
+
+- 关键词 + site:t.me，例如：`海贼王 OR one piece site:t.me`
+- 关键词 + telegram，例如：`海贼王 OR one piece telegram OR 电报 OR TG`
+
+由此可得，Telegram 的内容是可以被 Google 等搜索引擎抓取的。反观国内的互联网江湖，各自割据，搞得网民苦不堪言。就拿微信来说，你不能在 Google 或者百度搜到公众号的文章。
+
+👌 Telegram 频道搜索引擎（非官方）：[sssoou.com](http://www.sssoou.com/)。帮助大家搜 Telegram 频道里的资源，不用因为 Telegram 对中文支持不好，而找不到想要的资源。
+
+
+
+### ☁️多端同步
+
+你可以**同时**在所有的设备上使用 Telegram，这是我的设备列表：
+
+* 2 台 Windows 电脑（开机自启）
+* 1 部 Android 手机
+* 1 部 iPhone 手机
+* 1 个 [网页端](https://web.telegram.org/)
+* ……
+
+
+
+相比于微信：
+
+- 登录过的设备，下次登录时，不必再次扫描二维码或者输入密码。
+- 云草稿（[Cloud drafts](https://telegram.org/blog/drafts)）：除了消息可以在各个平台同步之外，连未完成编辑的消息（草稿）都可以跨设备同步。Now you can start typing on your phone, then continue on your computer – right where you left off.
+- 手机格式化之后，重新安装 App，一切都是原来的样子，未读消息还是未读状态，让人安心。
+- 手机下线 Telegram 后，其他设备的 Telegram 并不会退出，但是可以自由控制哪些设备退出。
+
+
+
+允许传送最大 2000 MiB 的文件，简直就是绝佳的「文件传输助手」，所以你可以：
+
+- 把 [Saved Messages](https://telegram.org/blog/albums-saved-messages#saved-messages)（收藏夹）当作是 [GTD](https://tingtalk.me/gtd) 中 Inbox。每条保存的消息都有一个 ▶️ 按钮，可以将你带到最初发布消息的位置。
+- 开很多私人频道，分类存放你的信息和资讯。你甚至可以在 Telegram 上传本地音乐或者录音到自己的频道，建立自己的云端音乐播放库（或者借助音乐 Bots）和播客（Podcast）。
+
+
+
+### 📁对话列表
+
+在对话列表长按某个对话
+
+- **删除对话（Delete chat）**：勾选 `Also delete for ***`，即可同时删除双方所有的聊天记录：
+  - 不用经过对方同意：如果你的朋友遭遇不测，你可以及时清除消息来保护自己和对方。
+  - 反之，需要保留证据时，请及时截图或（在桌面端）导出聊天记录。
+- **归档对话（[Archive chat](https://telegram.org/blog/folders#archived-chats)）**：把不常用的群组和频道放到归档文件夹中，精简对话列表，[Everything in its place](https://telegram.org/blog/archive-and-new-design#everything-in-its-place)。
+  - 在移动端，从顶部下拉对话列表可看到「已归档对话」。
+  - [长按可标记全部归档对话为已读状态](https://telegram.org/blog#mark-archive-as-read)。
+  - 当存档对话收到通知时，它将从归档列表中返回到聊天列表，但是静音对话是永远存档的。
+
+
+
+### 🔴关闭通知
+
+1. `Settings`（设置）> `Notifications and Sounds`（通知和声音）。
+2. `Badge Counter`（未读消息数量显示）：取消 `Include Muted Chats`（包含已关闭通知的对话）
+
+如此设置，只有未静音的对话（私聊 / 群组 / 频道）来消息了，才会收到「小红点」。
+
+
+
+### 🔞解锁敏感内容
+
+如何在 iOS 原生客户端查看敏感内容（例如 NSFW），即使频道或群组被封禁：
+
+1. 登录 [Telegram Web](https://web.telegram.org/)（网页版）或者下载并登录 [Telegram Desktop](https://desktop.telegram.org/)（客户端）。
+2. `Settings`（设置）> `Privacy and Security`（隐私和安全）。
+3. `Sensitive content`（敏感内容）：打开 `Disable filtering`（关闭过滤），网页版是打开 `Show Sensitive Content`，即可 `Display sensitive media in public channels on all your Telegram devices`（允许在您所有登录 Telegram 的设备上显示公共频道内的敏感内容）。
+
+操作完成后，重新启动 iOS / macOS 原生客户端，即可访问敏感群组或频道，但不推荐，过度沉溺于 NSFW 只会让你丧失对人生的主动权。虽然在生物学上，我们都是基因进化的工具（性快感只是讨好人类的手段），但人类之所以是高级动物（并没有贬低其它动物的意思），是因为我们看清事物本质后，依然热爱生活，而不是追求那一「哆嗦」，世界等着你去探索呢。
+
+2020 年 7 月 23 日发现，关闭内容过滤后，网页版和电脑版可以进入被屏蔽的群组，但是最新的 Android 版却无法进入，iOS 设备未测试。
+
+
+
 
 
 ## 📣频道推荐
@@ -487,33 +610,22 @@ Telegram 有两种加密等级，都非常安全：
 - [Hashtags](https://telegram.org/tour/channels#hashtags)：多用 `#` （标签）给消息分类，方便快速检索（instant search）。
 - 频道可以有无数个订阅者，但是创建者只能邀请前 200 个成员到你的频道。
 - [频道绑定群聊](https://telegram.org/blog/privacy-discussions-web-bots#broadcasts-meet-group-chats) 后，频道中的每条新帖子（new post）都会自动转发到该群组并被置顶（Pin）。通过 Bot [@areply_bot](https://t.me/areply_bot)，可以自动解除频道消息在群组的同步置顶。
-- 频道的内容不用注册 Telegram 账号也看到，并可以被搜索引擎索引，例如 [t.me/s/tingtalk](https://t.me/s/tingtalk)。The contents of public channels can be seen on the Web without a Telegram account and are indexed by search engines.
 - 支持 [Instant View](https://instantview.telegram.org/) 的文章会缓存在 Telegram 的服务器上。
 - [Post Widget](https://core.telegram.org/widgets/posts)：将频道或公共群组的消息嵌入到任何地方。You can embed messages from public groups and channels anywhere. 
 - 频道分析（[Channel Stats](https://telegram.org/blog/folders#channel-stats)）📈：订阅人数超过 500 人（之前是 1,000  人）的频道会有详细的统计数据分析报告（[Statistics](https://telegram.org/tour/channels#detailed-statistics)）。
-- 编辑已发送消息（[Edit your messages after posting](https://telegram.org/blog/edit)），包括文字、图片和视频（[Replace Media](https://telegram.org/blog/unread-replace-2x#replace-media-and-add-captions)）。在消息发送后的前几天可以在手机上编辑，此后只能在电脑端编辑。`2020-07-10`
-
-
-
-**不下载不注册 Telegram，如何在浏览器查看频道信息**
-
-在 Permanent link（永久链接）中加一个 `s`，例如
-
-```
-https://t.me/s/tingtalk
-```
+- 编辑已发送消息（[Edit your messages after posting](https://telegram.org/blog/edit)），包括文字、图片和视频（[Replace Media](https://telegram.org/blog/unread-replace-2x#replace-media-and-add-captions)）。
 
 
 
 **如何通过 RSS 订阅 Telegram 频道**
 
-有些用户觉得 Telegram 用手机号码注册不安全，但是又想第一时间获得 Telegram 频道的更新，那么可以 [借助 RSSHub 生成电报公开频道的 RSS 订阅链接](https://docs.rsshub.app/social-media.html#telegram)，例如：
+有些用户觉得 Telegram 用手机号码注册不安全，但是又想第一时间获得 Telegram 公开频道的更新，那么可以 [借助 RSSHub 生成电报公开频道的 RSS 订阅链接](https://docs.rsshub.app/social-media.html#telegram)，例如：
 
 ```
 https://rsshub.app/telegram/channel/tingtalk
 ```
 
-只要把 `tingtalk` 替换成其他公共频道的 Permanent link（永久链接）即可。
+只要把 `tingtalk` 替换成其他公共频道的 Permanent link（永久链接）后缀即可。
 
 
 
@@ -528,7 +640,7 @@ https://rsshub.app/telegram/channel/tingtalk
 
 1. 在 Telegram 搜索 [@tingbot](https://t.me/tingbot) 
 2. 说明推荐理由
-3. 优质频道将更新在这篇《电报教程》里
+3. 优质频道将会更新在这篇《电报教程》里
 
 
 
@@ -664,26 +776,6 @@ Bots 就像运行在 Telegram 内部的小程序。借助 [Telegram 开放的 AP
 
 
 
-**去哪里找钟意的频道（Channel），群组（Group）和机器人（Bot）呢？**
-
-☝️ 在 Telegram 内直接搜索关键词，但中文搜索识别较差。例如，「庭说」的频道是 https://t.me/tingtalk
-
-- 搜索英文 `tingtalk`（`t.me/` 后面的字符就是 ID），可以准确识别
-- 搜索中文 `庭说`，可能无法识别
-
-✌️ 配合一些 [Google 搜索技巧](https://tingtalk.me/search-tips/)，在 [Google](https://www.google.com/search?q=site:tingtalk.me) 上搜索（添加或删减 `OR` 都会改变搜索结果，请多多尝试不同的关键词）：
-
-- 关键词 + site:t.me，例如：`海贼王 OR one piece site:t.me`
-- 关键词 + telegram，例如：`海贼王 OR one piece telegram OR 电报 OR TG`
-
-由此可得，Telegram 的内容是可以被 Google 等搜索引擎抓取的。反观国内的互联网江湖，各自割据，搞得网民苦不堪言。就拿微信来说，你不能在 Google 或者百度搜到公众号的文章。
-
-关联阅读：[逃离微信宣言（FreeFromWechat Manifesto）](https://matters.news/@freefromwechat/%E9%80%83%E7%A6%BB%E5%BE%AE%E4%BF%A1%E5%AE%A3%E8%A8%80-free-from-wechat-manifesto-bafyreib7535kdob62z6j7dlfjsl5or2doduvuqpgd7xdji2hzncfrvdws4)
-
-👌 Telegram 频道搜索引擎（非官方）：[sssoou.com](http://www.sssoou.com/)。帮助大家搜 Telegram 频道里的资源，不用因为 Telegram 对中文支持不好，而找不到想要的资源。
-
-
-
 ### 🧡RSS 机器人
 
 > （如果）你不懂得 RSS，上网的效率和乐趣都要大打折扣。by [阮一峰](http://www.ruanyifeng.com/blog/2006/01/rss.html)
@@ -715,6 +807,8 @@ Bots 就像运行在 Telegram 内部的小程序。借助 [Telegram 开放的 AP
 
 
 Tips：点击 RSS 地址最右侧的图标 📋，即可复制订阅链接，然后粘贴在 RSS 阅读器即可订阅成功。
+
+
 
 
 #### 🦠疫情
@@ -1074,95 +1168,11 @@ https://rsshub.app/xiaoyuzhou
 
 
 
-## 🎸其他技巧
-
-### 🤝联系人
-
-- 添加和删除联系人（Contacts）都是单向操作，双方的通讯录都是独立的（你中有我，我中可能没有你），也没有通知。
-- 点击左侧菜单栏 > `Contacts`（联系人）> `Find People Nearby`（寻找附近的人）。比微信的面对面建群更直接。
-- [转发消息时，长按联系人 / 群组 / 频道可多选。](https://telegram.org/blog#multi-sharing-from-other-apps)
-
-
-
-### ☁️多端同步
-
-你可以**同时**在所有的设备上使用 Telegram，这是我的设备列表：
-
-* 2 台 Windows 电脑（开机自启）
-* 1 部 Android 手机
-* 1 部 iPhone 手机
-* 1 个 [网页端](https://web.telegram.org/)
-* ……
-
-
-
-相比于微信：
-
-- 登录过的设备，下次登录时，不必再次扫描二维码或者输入密码。
-- 云草稿（[Cloud drafts](https://telegram.org/blog/drafts)）：除了消息可以在各个平台同步之外，连未完成编辑的消息（草稿）都可以跨设备同步。Now you can start typing on your phone, then continue on your computer – right where you left off.
-- 手机格式化之后，重新安装 App，一切都是原来的样子，未读消息还是未读状态，让人安心。
-- 手机下线 Telegram 后，其他设备的 Telegram 并不会退出，但是可以自由控制哪些设备退出。
-
-
-
-允许传送最大 2000 MiB 的文件，简直就是绝佳的「文件传输助手」，所以你可以：
-
-- 把 [Saved Messages](https://telegram.org/blog/albums-saved-messages#saved-messages)（收藏夹）当作是 [GTD](https://tingtalk.me/gtd) 中 Inbox。每条保存的消息都有一个 ▶️ 按钮，可以将你带到最初发布消息的位置。
-- 开很多私人频道，分类存放你的信息和资讯。你甚至可以在 Telegram 上传本地音乐或者录音到自己的频道，建立自己的云端音乐播放库（或者借助音乐 Bots）和播客（Podcast）。
-
-
-
-### 📁对话列表
-
-在对话列表长按某个对话
-
-- **删除对话（Delete chat）**：勾选 `Also delete for ***`，即可同时删除双方所有的聊天记录：
-  - 不用经过对方同意：如果你的朋友遭遇不测，你可以及时清除消息来保护自己和对方。
-  - 反之，需要保留证据时，请及时截图或（在桌面端）导出聊天记录。
-- **归档对话（[Archive chat](https://telegram.org/blog/folders#archived-chats)）**：把不常用的群组和频道放到归档文件夹中，精简对话列表，[Everything in its place](https://telegram.org/blog/archive-and-new-design#everything-in-its-place)。
-  - 在移动端，从顶部下拉对话列表可看到「已归档对话」。
-  - [长按可标记全部归档对话为已读状态](https://telegram.org/blog#mark-archive-as-read)。
-  - 当存档对话收到通知时，它将从归档列表中返回到聊天列表，但是静音对话是永远存档的。
-
-
-
-### 📆查看创建日期
-
-1. 在任意对话窗口（例如 Saved Messages）或浏览器输入 `https://t.me/` + `ID` + `1`，例如 https://t.me/tingtalk/1
-2. 发送
-3. 点击这个链接
-4. 就会跳转到该群组或频道（未删除的）第一条消息，在其上方，可以看到创建日期（Channel created）
-
-
-
-### 🔴关闭消息通知
-
-1. `Settings`（设置）> `Notifications and Sounds`（通知和声音）。
-2. `Badge Counter`（未读消息数量显示）：取消 `Include Muted Chats`（包含已关闭通知的对话）
-
-如此设置，只有未静音的对话（私聊 / 群组 / 频道）来消息了，才会收到「小红点」。
-
-
-
-### 🔞解锁敏感内容
-
-如何在 iOS 原生客户端查看敏感内容（例如 NSFW），即使频道或群组被封禁：
-
-1. 登录 [Telegram Web](https://web.telegram.org/)（网页版）或者下载并登录 [Telegram Desktop](https://desktop.telegram.org/)（客户端）。
-2. `Settings`（设置）> `Privacy and Security`（隐私和安全）。
-3. `Sensitive content`（敏感内容）：打开 `Disable filtering`（关闭过滤），网页版是打开 `Show Sensitive Content`，即可 `Display sensitive media in public channels on all your Telegram devices`（允许在您所有登录 Telegram 的设备上显示公共频道内的敏感内容）。
-
-操作完成后，重新启动 iOS / macOS 原生客户端，即可访问敏感群组或频道，但不推荐，过度沉溺于 NSFW 只会让你丧失对人生的主动权。虽然在生物学上，我们都是基因进化的工具（性快感只是讨好人类的手段），但人类之所以是高级动物（并没有贬低其它动物的意思），是因为我们看清事物本质后，依然热爱生活，而不是追求那一「哆嗦」，世界等着你去探索呢。
-
-2020 年 7 月 23 日发现，关闭内容过滤后，网页版和电脑版可以进入被屏蔽的群组，但是最新的 Android 版却无法进入，iOS 设备未测试。
-
-
-
-### 📖发布敏感内容
+## 🎸Telegraph
 
 [Telegraph](https://telegra.ph/) 一个极简的匿名内容发布工具（[Minimalist publishing tool](https://telegram.org/blog/telegraph)）。
 
-**用法一**
+### ☝️用法一
 
 此法不需要注册账号与下载软件。
 
@@ -1174,14 +1184,14 @@ https://rsshub.app/xiaoyuzhou
 
 
 
-**用法二**
+### ✌️用法二
 
 1. 在 Telegram 打开 Telegraph 的小管家 [@telegraph](https://t.me/telegraph)
 2. 根据提示配置 Account
 3. 写文章
 4. 发布（PUBLISH）
 
-👍 通过 Bots 发布文章的好处：
+**通过 Bots 发布文章的好处**
 
 - 在任何一个设备（across any number of devices）都可以再次编辑文章的标题、作者和正文（除了文章链接）
   - `Log in as *** on this device`，然后反回到 @telegraph（也许不用操作这一步）
@@ -1194,7 +1204,7 @@ https://rsshub.app/xiaoyuzhou
 
 
 
-**如何让文章 [链接更美观](https://tingtalk.me/hexo/)**
+### 🔗如何让文章链接更美观
 
 URL = `https://telegra.ph`/`首次输入的标题`-`首次发表的月`-`首次发表的日`
 
@@ -1207,7 +1217,7 @@ URL = `https://telegra.ph`/`首次输入的标题`-`首次发表的月`-`首次�
 
 
 
-**如何让文章排版更美观**
+### 📝如何让文章排版更美观
 
 1. 使用 [Markdown](https://tingtalk.me/markdown/) 写文章（例如 [Typora](https://typora.io/)）
 2. 复制
@@ -1234,4 +1244,5 @@ URL = `https://telegra.ph`/`首次输入的标题`-`首次发表的月`-`首次�
 - [Telegram 频道：Newlearnerの自留地 导航页](https://www.newlearner.site/2019/12/15/newlearnerchannel.html/#Telegram)
 - [什么是数字移民及其基础教程 - TSBBLOG](https://tsb2blog.com/what-means-digital-immigrants-in-china.html)
 
-Stay home. Wash your hands. Be safe. And stay tuned for our next updates! It is already brewing in our dungeons! 呆在家，常洗手。敬请关注，更强大的 Telegram 已经在我们的地牢里酝酿中了！（为什么是地牢？因为没人知道 Telegram 的开发者们在哪）。
+Stay home. Wash your hands. Be safe. And stay tuned for our next updates! It is already brewing in our dungeons! 呆在家，常洗手。敬请关注，更强大的 Telegram 已经在我们的地牢里酝酿中了！为什么是地牢？因为没人知道 Telegram 的开发者们在哪里秘密开发 Telegram？
+

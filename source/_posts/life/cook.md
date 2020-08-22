@@ -1,24 +1,24 @@
 ---
-
-title: 独居青年的做菜笔记  
+title: 独居青年的烹饪笔记  
 date: 2019-06-13   
 updated: 2020-07-17  
 categories: 生活百科  
 tags: [生活, 技能]
-
 ---
 
 ![recipe](cook/recipe.png)
 
-烹饪让我安宁。Since I learned how to cook, my life has become a smorgasbord of interesting tales. Homemade, peace. 
-
-> 人生不能像做菜，把所有的料都准备好了才下锅。by 1994 年上映的《饮食男女》。
+做菜让我安宁（但是洗碗让我狰狞）。Since I learned how to cook, my life has become a smorgasbord of interesting tales. Homemade, peace. 
 
 <!-- more -->
 
 
 
-**🍳待学资料**
+## 🍳待学教程
+
+> 人生不能像做菜，把所有的料都准备好了才下锅。by《饮食男女》。
+
+收集的教程，有空就看看，没看就自己琢磨，不必一步到位。
 
 - [自我隔离前去了趟盒马超市，这些都是值得「囤」的 - Mio是8不是7](https://sspai.com/post/58737)
 - [盒马有什么值得买？](https://dengbiao.me/?p=1898)
@@ -385,7 +385,7 @@ tags: [生活, 技能]
 
 ## 🏠客家菜
 
-Hakka 煎酿三宝：酿豆腐、酿茄子、酿青椒（酿香菇、酿灯笼椒、酿苦瓜）
+Hakka 煎酿六宝（我自己定义的）：酿豆腐、酿茄子、酿青椒、酿灯笼椒、酿香菇、酿苦瓜……
 
 
 ### 🐯酿豆腐
@@ -437,9 +437,9 @@ Hakka 煎酿三宝：酿豆腐、酿茄子、酿青椒（酿香菇、酿灯笼�
 
 ### 😖酿苦瓜
 
-[苦瓜酿肉 by 王刚](https://www.bilibili.com/video/BV1Kt4y1y7MA)
+视频教程：[苦瓜酿肉 by 王刚](https://www.bilibili.com/video/BV1Kt4y1y7MA)
 
-瓜瓤是苦味的来源。
+温馨提示：瓜瓤是苦味的来源。
 
 
 
