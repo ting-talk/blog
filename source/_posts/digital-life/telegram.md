@@ -48,11 +48,11 @@ The devil's in the details，因此我熬夜无数，花了几个月，把 Teleg
 
 许多人第一次意识到 Ta 们的数字通信遭到了监视（The year Telegram was born was marked by the Snowden Revelations, when many people realized for the first time their digital communications were being watched.）。
 
-2013 年 8 月 14 日，杜洛夫兄弟（[Pavel Durov](https://zh.wikipedia.org/wiki/%E4%BF%9D%E7%BE%85%C2%B7%E6%9D%9C%E6%B4%9B%E5%A4%AB) 和 [Nikolai Durov](https://zh.wikipedia.org/zh-cn/%E5%B0%BC%E5%8F%A4%E6%8B%89%C2%B7%E6%9D%9C%E6%B4%9B%E5%A4%AB)）正式发布开源的（[Open Source](https://telegram.org/faq#q-why-not-open-source-everything)）Telegram（特指客户端），并且不接受外部投资，因此不需要向任何股东负责。也不会通过广告盈利，因为 [挣钱永远不会是 Telegram 的终极目标](https://telegram.org/faq#q-how-are-you-going-to-make-money-out-of-this)，所以 Telegram 至今没有向第三方披露过一个字节的用户私人数据。Telegram 只会默默地践行一个理念：这个星球上的每个人都享有自由的权利（Everyone on the planet has a right to be free.）：
+2013 年 8 月 14 日，杜洛夫兄弟（[Pavel Durov](https://zh.wikipedia.org/wiki/%E4%BF%9D%E7%BE%85%C2%B7%E6%9D%9C%E6%B4%9B%E5%A4%AB) 和 [Nikolai Durov](https://zh.wikipedia.org/zh-cn/%E5%B0%BC%E5%8F%A4%E6%8B%89%C2%B7%E6%9D%9C%E6%B4%9B%E5%A4%AB)）正式发布开源的（[Open Source](https://telegram.org/faq#q-why-not-open-source-everything)）Telegram（特指客户端），并且不接受外部投资，因此不需要向任何股东负责。也不会通过广告盈利，因为挣钱永远不会是 Telegram 的终极目标（[Making profits will never be an end-goal for Telegram](https://telegram.org/faq#q-how-are-you-going-to-make-money-out-of-this)），所以 Telegram 至今没有向第三方披露过一个字节的用户私人数据。Telegram 只会默默地践行一个理念：这个星球上的每个人都享有自由的权利（Everyone on the planet has a right to be free.）：
 
 > We believe that humans are inherently intelligent and benevolent beings that deserve to be trusted; trusted with freedom to share their thoughts, freedom to communicate privately, freedom to create tools. This philosophy defines everything we do. 我们相信人类天生就是聪明和仁慈的，值得信任的；坚信人类可以自由地分享想法，自由地私下交流，自由地创造工具。 这种哲学定义了我们所做的一切。by [Pavel Durov](https://telegram.org/blog/200-million)
 
-截止 2020 年 4 月 24 日，Telegram 每月有 4 亿用户（[Telegram has reached 400,000,000 monthly users.](https://telegram.org/blog/400-million))。
+截止 2020 年 4 月 24 日，Telegram 每月有 4 亿活跃用户（[Telegram has reached 400,000,000 monthly users.](https://telegram.org/blog/400-million))。
 
 
 
@@ -431,7 +431,7 @@ Telegram 会记忆浏览进度，打开对话界面会自动跳转到未读消�
 
 ### 🤐[私密聊天](https://telegram.org/faq#secret-chats)
 
-**Cloud Chats**
+**Cloud Chats**（默认聊天模式）
 
 `客户端` -`服务器` / `服务器` - `客户端` 
 
@@ -439,7 +439,7 @@ Telegram 会记忆浏览进度，打开对话界面会自动跳转到未读消�
 
 
 
-**Secret Chats**
+**Secret Chats**（不支持在 Windows 和 Web 上发起）
 
 `客户端` - `客户端`
 
