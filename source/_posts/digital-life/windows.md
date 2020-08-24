@@ -355,7 +355,9 @@ CertUtil -hashfile D:\Downloads\Shadowsocks-4.1.9.3.zip SHA512
 
 #### [360 驱动大师网卡版](http://weishi.360.cn/qudongdashi/index.html)
 
-虽然很不想用 360 的产品，但是，无奈其他驱动管理软件都太流氓。
+虽然很不想用 360 的产品，但是，无奈其他驱动管理软件（驱动精灵、驱动人生）都太流氓。
+
+如不放心 360 家的软件，去各家驱动的官网更新，会是更好的选择。
 
 
 
