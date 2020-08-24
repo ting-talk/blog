@@ -606,7 +606,7 @@ Search before you ask（遇事不明，搜索引擎）。这篇保姆级的教�
 ### 📞与我联系
 
 - 加入庭说的后花园： [Telegram 群组](https://t.me/tingtalk)（`@tingtalk`），那里百花盛开，充满自由的气息。这是 [Telegram 新手教程](https://tingtalk.me/telegram/)。
-- 添加庭勃士的微信号（ID `804976336`）：接头暗号「番茄」。
+- 添加庭勃士的微信号 `tingtalkme`：接头暗号「番茄」。
 
 虽然庭说的博客已被封了，我也可能因此再次被 invited for some tea。但我有一个小小梦想：信息可以像水和空气一样自由流动。只要我还能表达，青山不改，绿水长流。
 

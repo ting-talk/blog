@@ -186,6 +186,13 @@ Telegram 的中文搜索是以「词」为单位的，以标点符号或空格�
 
 
 
+### 😎上传头像
+
+- **删除以往头像**：Telegram 会默认保存用过的头像，以方便用户快速切换。如果头像中包含敏感信息，请速速去设置里删除。
+- **支持视频头像**：[Profile Videos](https://telegram.org/blog/profile-videos-people-nearby-and-more#profile-videos) 功能是在 2020 年 7 月 26 日加入的。
+
+
+
 ### 💢解除私聊限制
 
 使用中国大陆的手机号码（+86）注册 Telegram 后，私聊 Ta 人时，可能会提示 `Sorry, you can only send messages to mutual contacts at the momet.`（对不起，你现在只能发送私信给双向联系人。），则代表此账号被 Telegram 官方被判定为 Spam（即垃圾信息）账号了（虽然是无辜的）。
@@ -700,6 +707,7 @@ https://rsshub.app/telegram/channel/tingtalk
 | [Appinn Feed](https://t.me/appinnfeed)              | 分享免费、小巧、实用、有趣、绿色的软件。                     |
 | [Price Tag 应用推荐](https://t.me/appfans)          | 专注 iOS 和 macOS 上优质、限免应用推荐。                     |
 | [Google Play 限免信息](https://t.me/playsales)      | 不定时推介 Play Store 上的限免游戏和 App。                   |
+| [反斗限免](https://t.me/apprcn)                     | 这里有反斗软件和反斗限免的文章更新。                         |
 | [科技爱好者周刊](https://t.me/scitech_fans)         | 记录每周值得分享的科技内容，周五发布；非官方频道。[科技爱好者周刊合集](https://www.yuque.com/ruanyf/weekly)。 |
 | [单向历](https://t.me/ows_calendar)                 | 给时光以生命（非官方频道）。                                 |
 | [iYouPort](https://t.me/iyouport)                   | IYP 不是过眼云烟的新闻网站，我们提供实战能力，这里是值得您反复回看的档案室。 |
@@ -768,6 +776,7 @@ https://rsshub.app/telegram/channel/tingtalk
 | [交差点](https://t.me/jiaochadian)                | "Technology alone is not enough."                            |
 | [不客观 Not Objective](https://t.me/notobjective) | 一档搭建在 Telegram 的简易播客，纯主观感受。by [郝海龙](https://haohailong.net/) |
 | [中文播客精选](https://t.me/greatpodcasts)        | 分享精选优质中文播客，目前推荐单期节目为主。                 |
+| [每日一歌](https://t.me/dailymusich)              | 愿你也能在这里找到属于你自己的共鸣。                         |
 
 
 
@@ -1035,6 +1044,7 @@ https://rsshub.app/xiaoyuzhou
 
 
 **Tips**
+
 - 有备无患：定期导出 OPML 文件至物理硬盘和云盘保存。
 - [RSSHub](https://docs.rsshub.app/) 是一个开源、简单易用、易于扩展的 RSS 生成器，可以给任何奇奇怪怪的内容（突然有点害羞）生成 RSS 订阅源。RSSHub 借助于开源社区的力量快速发展中，目前已适配数百家网站的上千项内容。得知 RSSHub 被墙后，对 GFW 无 Fuck 可说。
 -  [己思](https://ohmyrss.com/) 是一个 [开源](https://github.com/richshaw2015/oh-my-rss) 的在线 RSS 阅读服务，旨在为 IT 从业者提供一个优质的学习圈子。

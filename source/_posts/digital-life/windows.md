@@ -1,28 +1,24 @@
 ---
-
 title: Windows 10 电脑：使用技巧、佳软推荐以及系统重装教程  
 date: 2017-12-18  
-updated: 2020-08-13    
+updated: 2020-08-20    
 categories: 数字生活   
 tags: [Windows, 网上冲浪指南]
-
 ---
 
 ![windows-10](windows/windows-10.png)
 
-[全球 Windows 10 活跃设备已经超过 10 亿台](https://news.microsoft.com/zh-cn/window-10-%E5%8A%A9%E5%8A%9B10-%E4%BA%BF%E6%9C%88%E6%B4%BB%E8%B7%83%E8%AE%BE%E5%A4%87%E4%B8%BA%E5%85%A8%E7%90%83%E8%B5%8B%E8%83%BD/)。不得不承认，这个操作系统越好越好用了。
+[全球 Windows 10 活跃设备已经超过 10 亿台](https://news.microsoft.com/zh-cn/window-10-%E5%8A%A9%E5%8A%9B10-%E4%BA%BF%E6%9C%88%E6%B4%BB%E8%B7%83%E8%AE%BE%E5%A4%87%E4%B8%BA%E5%85%A8%E7%90%83%E8%B5%8B%E8%83%BD/)，如何让 Windows 10 更好用？这篇文章一次性统统告诉你。
 
 <!-- more -->
 
 ## 使用技巧
 
-这些 Tips 可以帮你提高工作效率和电脑性能，快来试试吧。
-
-
+以下 Tips 可以帮你提高工作效率和电脑性能。
 
 ### 保持桌面整洁
 
-文件不要放在桌面上，而是放在非系统盘（一般是 C 盘），然后右键文件夹，选择 `发送到：快捷方式到桌面` 或 `固定到“开始”屏幕`，这样做的好处是：
+文件不要放在桌面上，而是放在非系统盘（C 盘 以外），然后右键文件或文件夹，选择 `发送到：快捷方式到桌面` 或 `固定到“开始”屏幕`，这样做的好处是：
 
 - 重装系统时（只动 C 盘的情况下），桌面会被清空。放在非系统盘，可以减少丢失文件的风险。
 - 不会拖慢你的电脑运行速度（删除不常用的快捷方式）。
@@ -34,7 +30,7 @@ tags: [Windows, 网上冲浪指南]
 - 右击任务栏不想展示出来的图标，选择 `在任务栏取消固定`。
 - 右击任务栏任一空白处
   - 选择 `任务栏设置` > `合并任务栏按钮：任务栏已满时`。
-  - 取消勾选 `人脉`、`任务视图`、`Cotana`（可用 `Win + C` 唤醒小娜）等
+  - 取消勾选 `人脉`、`任务视图`、`Cotana`（可用 `Win + C` 唤醒小娜）等。
 
 
 
@@ -124,7 +120,6 @@ tags: [Windows, 网上冲浪指南]
 - 更新 Windows：选择 `开始` 菜单 ，然后依次选择 `设置` > `更新和安全` 
 - 更新设备驱动程序（借助 [360 驱动大师](http://www.360.cn/qudongdashi/) 更新）
 - [Process Lasso](https://bitsum.com/)：Real-Time CPU Optimization and Automation
-- 桌面只放少量常用的快捷方式；或者右击图标，选择 `固定到"开始"屏幕` 或 `发送到：桌面快捷方式`
 - 删除从不使用的程序；定期清理系统垃圾；定期重启
 - 最后的大招：初始化电脑（恢复出厂设置、格式化）：依次选择 `开始` 按钮  > `设置` > `更新和安全` > `恢复`
 
@@ -175,8 +170,8 @@ powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61
 
 按下键盘快捷键 `Win` + `S` 打开搜索，输入 `存储设置`
 
-- `配置存储感知或立即运行`，按需配置
-- `查看其他驱动器上的存储使用情况`，选择磁盘，`临时文件`，扫描，`立即删除`
+- `配置存储感知或立即运行`，按需配置。
+- `查看其他驱动器上的存储使用情况`，选择磁盘，`临时文件`，扫描，`立即删除`。
 - `更改新内容的保存位置`：把 `C:` 盘改为其他盘，释放系统盘的空间。
 
 
@@ -225,8 +220,7 @@ powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61
 ## 佳软推荐
 
 - [不想卸载重装，如何把 C 盘已安装的软件转移到其他盘：FreeMove](https://topbook.cc/overview?selectedArticle=1750)
-- 统一把安装包放在 `D:\Downloads`
-- `Win + E` 打开文件资源管理器，右击左侧 `快速访问` 中的 `下载`，选择 `属性`，切换到 `位置` 选项卡，输入 `D:\Downloads`
+- 统一把安装包放在下载文件夹，例如 `D:\Downloads`
 - 安装软件时
   - 安装路径中最好不要包含中文
   - 统一在**非系统盘**管理：直接把路径中的 `C` 改成 ` D`，并去掉 `x86`（`C:\Program Files (x86)\QQ` 改为 `D:\Program Files\QQ`）
@@ -267,7 +261,7 @@ CertUtil -hashfile D:\Downloads\Shadowsocks-4.1.9.3.zip SHA512
 
 
 
-优选免安装的便携版（Portable）：
+**优选免安装的便携版（Portable）**
 
 1. 把下载好的 `Portable.exe` 剪切到 `D:\Program Files`（或者其他路径）。
 2. 右键点击文件 - `打开方式` -  `选择其他应用` - `更多应用` - `在这台电脑上查找其他应用`（勾选 `始终使用此应用打开 *** 文件`）。
@@ -283,7 +277,7 @@ CertUtil -hashfile D:\Downloads\Shadowsocks-4.1.9.3.zip SHA512
 
 
 
-💡 点击软件标题，即可直达官网下载链接（可能需要番茄）。
+💡 点击以下软件标题，即可直达官网下载链接（有些可能需要科学上网）。
 
 
 
@@ -293,13 +287,18 @@ CertUtil -hashfile D:\Downloads\Shadowsocks-4.1.9.3.zip SHA512
 
 #### [科学上网](https://tingtalk.me/fq/)
 
-提升互联网生活质量的第一步是打通全球网络，访问 `tingtalk.me/fq` 开启数字世界的另一扇大门。这个话题，言多必失，点到即止。
+提升互联网生活质量的第一步是打通全球网络，访问 `tingtalk.me/fq` 开启数字世界的另一扇大门。
 
 
 
 #### [Chrome](https://www.google.com/chrome/)
 
-[官方下载 for 中国大陆地区](https://www.google.cn/intl/zh-CN/chrome/) | [离线包下载 for Windows](https://www.iplaysoft.com/tools/chrome/)
+**如何下载**
+
+- [通用下载网址（需翻墙）](https://www.google.com/chrome/)：google.com/chrome
+- [中国大陆地区（可直达）](https://www.google.cn/chrome/)：google.cn/chrome
+
+**选用理由**
 
 - Google Chrome（谷歌浏览器）作为全球 65.64% 用户的选择，你应该成为其中的一员（2019 年 4 月）。
 - 你可以从超过 15 万款 Chrome 扩展程序中随心选择，按照自己的喜好扩展浏览器功能（Chrome 最强大的地方）。
@@ -311,11 +310,9 @@ CertUtil -hashfile D:\Downloads\Shadowsocks-4.1.9.3.zip SHA512
 
 
 
-
-
 #### [火绒安全](https://www.huorong.cn/)
 
-- 其实 Windows 10 自带的 `安全中心` 对大部分人来说已经够用，如不放心，就加个 [火绒安全](https://www.huorong.cn/) 吧。强悍、干净、轻巧的火绒可以让你安全、安静、自由地使用电脑。关注公众号「火绒安全实验室」（WeChat ID：HuorongLab） 你就会知道金山毒霸、360 安全卫士和腾讯电脑管等有多么恶毒。
+- Windows 10 自带的 `安全中心` 对大部分人来说已经够用，如不放心，就加个 [火绒安全](https://www.huorong.cn/) 吧。强悍、干净、轻巧的火绒可以让你安全、安静、自由地使用电脑。此外，关注公众号「火绒安全实验室」（WeChat ID：HuorongLab） 你就会知道金山毒霸、360 安全卫士和腾讯电脑管等有多么恶毒。
 - 火绒不会有广告弹窗等任何打扰用户的行为，也不会在安装包中随意捆绑其他软件。同时，火绒反捆绑和弹窗拦截还能帮助您的计算机变得更加干净。
 - 家长控制：帮助家长保护、管教孩子，在孩子使用电脑时对孩子的上网行为进行管控。家长控制功能从上网时段控制、程序执行控制、网站内容控制、设备使用控制四个方面保护孩子。
 
@@ -325,7 +322,7 @@ CertUtil -hashfile D:\Downloads\Shadowsocks-4.1.9.3.zip SHA512
 
 - 轻巧、快速、免费、好看的解压缩软件。
 - 最喜欢它的「自动解压」功能：不用再担心解压出一堆散乱文件或双层文件夹。
-- 7.x 版本之后，需要 30 美元去广告，可前往 [蓝奏云](https://wwa.lanzous.com/b00t9wiva) 下载 6.x 版本。
+- 7.x 版本之后，需要 30 美元去广告，可前往 [蓝奏云](https://wwa.lanzous.com/b00t9wiva) 高速下载 6.x 版本。
 - 关联阅读：[Bandizip | 也许是全球第二好用的压缩软件](https://www.xjcbt.com/bandizip.html)（为什么叫「第二好用」的压缩软件呢？因为每个人都有自己的的习惯，自己喜欢的才是最好用的。）
 
 
@@ -343,8 +340,6 @@ CertUtil -hashfile D:\Downloads\Shadowsocks-4.1.9.3.zip SHA512
 - 打开资源管理器（`Win` + `E`）时显示此电脑
 - 任务栏时钟精确到秒
 - ……
-
-
 
 即下即用，无广告、无后门，安心用。
 
@@ -366,8 +361,67 @@ CertUtil -hashfile D:\Downloads\Shadowsocks-4.1.9.3.zip SHA512
 
 #### [Process Lasso](https://bitsum.com/)
 
-- 我的笔记本电脑是在 2014 年花了 3000 元多买的，服役多年之后，越来越卡了。用了 Process Lasso（Real-Time CPU Optimization and Automation）之后，我的「换机计划」又搁浅了。
-- 对于绝大多数用户来说，安装 Process Lasso 后无需任何设置，软件即可让老旧设备如获新生。详情请参阅 [Process Lasso – 进程实时优化，拯救老电脑，告别卡顿 - 数码荔枝](https://www.lizhi.io/review/50048528/)
+服役多年老电脑，会越来越卡了，使用 Process Lasso（Real-Time CPU Optimization and Automation）也许可以再撑一撑。
+
+对于绝大多数用户来说，安装 Process Lasso 后无需任何设置，软件即可让老旧设备如获新生。详情请参阅 [Process Lasso – 进程实时优化，拯救老电脑，告别卡顿 - 数码荔枝](https://www.lizhi.io/review/50048528/)
+
+
+
+### 下载工具
+
+
+- [别再问我什么是 BT 种子 - 回形针PaperClip](https://www.bilibili.com/video/av57748098/)
+- [磁力下载是什么原理？跟用种子下载的区别大不大？- 万物30秒](https://www.bilibili.com/video/BV1Ht411R7Y8)
+- [什么是 BitTorrent（BT 种子）、磁力链接（Magnet URI scheme）、电驴链接（eD2k）和迅雷链接（Thunder）by 奔跑中的奶酪](https://mp.weixin.qq.com/s/dvTvWIwg5HeSo0noftX38w)
+
+
+
+#### IDM
+
+Internet Download Manager 是一个多线程下载管理器。虽然长得丑，但是可以大大提升你的下载幸福感。
+
+> 什么是多线程下载？打个比方，现在要接满 1 桶水，浏览器下载时只能开 1 个水龙头，接满 1 桶水时间为 1 小时。多线程下载器可以 32 个水龙头同时接水，接满 1 桶水时间缩短到 2 分钟，足足快了 32 倍。by [网盘直链下载助手](https://www.baiduyun.wiki/zh-cn/)
+
+
+- [Internet Download Manager 下载地址](https://www.lanzous.com/b0ug2rrc)（经济宽裕的读者还请付费支持）
+- 配合 [网盘助手](https://greasyfork.org/zh-CN/scripts/378301-%E7%BD%91%E7%9B%98%E5%8A%A9%E6%89%8B) 这个 [油猴脚本](https://tingtalk.me/userscripts/) 可以 [解决百度网盘限速](https://www.runningcheese.com/baiduyun)。如果网盘助手的生成链接不能下载，请更换 [应用 ID](https://greasyfork.org/zh-CN/scripts/378301-%E7%BD%91%E7%9B%98%E5%8A%A9%E6%89%8B)。
+- `下载` - `选项` - `连接`： `默认最大连接数` 修改为 `32`
+- 如何下载 [被 Q](https://tingtalk.me/fq/) 的文件：`下载` - `选项` -  `代理服务器` - `手动配置代理 / socks`
+  - `地址`：`127.0.0.1`
+  - `端口`：`1080`
+  - 配置好后，IDM 就可以下载被 Q 的内容了。但是下载完记得 `不使用代理 / socks`，除非你有很多 [番茄](https://tingtalk.me/fq/)。
+- 快捷键：`下载` - `选项` - `快捷键`
+  - 强制调用 IDM：点击时按住 `Insert` 键可以使 IDM 直接抢占浏览器的所有资源下载，从而避免二次请求带来的尴尬。
+  - 暂停调用 IDM：按住 `Alt` 键则可以让 IDM 暂时停止接管浏览器的下载，让浏览器自行完成下载任务。
+- 针对包含有效期的动态临时下载地址，在主界面中右击未完成的任务，选择 `刷新下载地址`。
+- 可惜只支持超文本（安全）传输协议（HTTP / HTTPS）和文件传输协议（FTP），不支持 BitTorrent（BT）、磁力链接（Magnet URI scheme）、电驴链接（eD2k）和迅雷链接（Thunder）。这个时候就得迅雷出场了。
+
+
+
+#### 迅雷
+
+根据 [阿虚同学](https://mp.weixin.qq.com/s/fxU1pIUvUZ29GgAQ9HMd6w) 的测试，最佳的下载搭档是：
+
+- 方法一：[迅雷 X](https://www.lanzous.com/i9cym0h) + [比特彗星](https://www.lanzous.com/b073c7g4f)
+- 方法二：[迅雷 X](https://www.lanzous.com/i9cym0h) + [迅雷 5](https://www.lanzous.com/i9cym8f)
+
+**下载思路**
+
+1. 先用迅雷 X 下载资源
+2. 迅雷 X 搞不定的情况下，使用迅雷 5 或比特彗星（对资源无限制）
+
+**下载链接**  
+
+打开 [阿虚同学的储物间](http://kyon945.ys168.com/) 的第 8 栏。
+
+小技巧：[把迅雷边下边看的默认播放器为 PotPlayer - AppSo](https://mp.weixin.qq.com/s/m-9XPn72p5sexlz7_GZ4fw)
+
+
+
+#### [uTorrent](https://www.utorrent.com/)
+
+- 建议安装 2.2.1 版本
+- 图文设置教程：[如何优雅的使用 BitTorrent网络下载文件? - NovaOPCJ's Blog](https://blog.novaopcj.top/?p=74)
 
 
 
@@ -375,7 +429,7 @@ CertUtil -hashfile D:\Downloads\Shadowsocks-4.1.9.3.zip SHA512
 
 #### [Telegram](https://desktop.telegram.org/)
 
-目前最好用的即时通信软件。教程请参阅：[Telegram：电报新手指南、使用技巧及频道推荐](https://tingtalk.me/telegram/)
+目前最好用的即时通信软件。教程请参阅：[Telegram：电报新手指南、使用技巧及频道推荐](https://tingtalk.me/telegram/)。
 
 
 
@@ -415,7 +469,7 @@ QQ 办公简洁版，界面清爽，支持在线编辑 Word 和 Excel，提供 1
 
 Markdown 是非常优秀的写作语言，但并不是人人都知道，所以电脑还是得备一个 Office 软件打开 Word、Excel 和 PowerPoint。
 
-[Microsoft 365（原 Office 365）家庭版](https://www.microsoft.com/zh-cn/microsoft-365/buy/compare-all-microsoft-365-products) 一年的费用是 ¥498，最多可供 6 人使用，且每人有 1 TB 的 OneDrive 云存储空间。
+推荐使用 [Office Tool Plus](https://otp.landian.vip/zh-cn/) 下载 Microsoft Office。但是更推荐订阅 [Microsoft 365（原 Office 365）家庭版](https://www.microsoft.com/zh-cn/microsoft-365/buy/compare-all-microsoft-365-products)，一年的费用是 ¥498，最多可供 6 人使用，且每人有 1 TB 的 OneDrive 云存储空间。
 
 还可以试试 [腾讯文档](https://docs.qq.com/)：
 - 无需下载安装，打开网页或小程序就能查看和编辑，云端实时保存。
@@ -433,8 +487,9 @@ Markdown 是非常优秀的写作语言，但并不是人人都知道，所以�
 
 #### [Adobe Acrobat](https://acrobat.adobe.com/cn/zh-Hans/acrobat.html)
 
-- 如果不需要修改 PDF 的内容，[Acrobat Reader](https://acrobat.adobe.com/cn/zh-Hans/acrobat/pdf-reader.html)、[Sumatra](https://www.sumatrapdfreader.org/free-pdf-reader.html)、Google Chrome（谷歌浏览器）、Microsoft Edge（ Windows 10 自带浏览器）和 WPS Office 都可以满足你的要求。
-- 但当您需要编辑 PDF 的时候，Acrobat Pro（$359 / 年，但是你懂的）就是您最佳的 PDF 解决方案，毕竟，PDF 是由 Adobe 1991 年发明的。
+如果不需要修改 PDF 的内容，[Acrobat Reader](https://acrobat.adobe.com/cn/zh-Hans/acrobat/pdf-reader.html)、[Sumatra](https://www.sumatrapdfreader.org/free-pdf-reader.html)、Google Chrome（谷歌浏览器）、Microsoft Edge（ Windows 10 自带浏览器）和 WPS Office 都可以满足你的要求。但当您需要编辑 PDF 的时候，Acrobat Pro 就是您最佳的 PDF 解决方案，毕竟，PDF 是由 Adobe 1991 年发明的。
+
+一年的费用 $359，去微博找 [@vposy](https://www.weibo.com/vposy) 的置顶微博说不定有惊喜。
 
 
 
@@ -535,9 +590,7 @@ Windows 的默认图片浏览器非常难用。而 qimgv 是一款开源的图�
 
 1. 下载 [Adobe Creative Cloud](https://www.adobe.com/cn/creativecloud/catalog/desktop.html) 并安装。
 2. 打开 Adobe Creative Cloud，登录 Adobe 账号，下载 Photoshop 和 Illustrator 等。
-3. 使用 [GenP v2.5](https://jpsmile.com/genp-v2-5/) 破解。
-
-
+3. 使用 [GenP v2.5](https://jpsmile.com/genp-v2-5/) 破解，可能已失效。
 
 
 
@@ -559,70 +612,6 @@ Windows 的默认图片浏览器非常难用。而 qimgv 是一款开源的图�
 - 2012 年 9 月百度推出「百度云」。2016 年 10 月 11 日，百度云（Baidu Cloud）改名为百度网盘。
 - 在国内大容量免费网盘相继「去世」的困境下，不知道百度网盘还能挺多久。虽然下载会限速，但是你可以通过 IDM 解除限速。
 - ❗ 鸡蛋不要放在同一个篮子里，重要的数据还是乖乖地做好多个备份吧。
-
-
-
-### 下载工具
-
-
-- [别再问我什么是 BT 种子 - 回形针PaperClip](https://www.bilibili.com/video/av57748098/)
-- [磁力下载是什么原理？跟用种子下载的区别大不大？- 万物30秒](https://www.bilibili.com/video/BV1Ht411R7Y8)
-- [什么是 BitTorrent（BT 种子）、磁力链接（Magnet URI scheme）、电驴链接（eD2k）和迅雷链接（Thunder）by 奔跑中的奶酪](https://mp.weixin.qq.com/s/dvTvWIwg5HeSo0noftX38w)
-
-
-
-#### IDM
-
-Internet Download Manager 是一个多线程下载管理器。虽然长得丑，但是可以大大提升你的下载幸福感。
-
-> 什么是多线程下载？打个比方，现在要接满 1 桶水，浏览器下载时只能开 1 个水龙头，接满 1 桶水时间为 1 小时。多线程下载器可以 32 个水龙头同时接水，接满 1 桶水时间缩短到 2 分钟，足足快了 32 倍。by [网盘直链下载助手](https://www.baiduyun.wiki/zh-cn/)
-
-
-- [Internet Download Manager 下载地址](https://www.lanzous.com/b0ug2rrc)（经济宽裕的读者还请付费支持）
-- 配合 [网盘助手](https://greasyfork.org/zh-CN/scripts/378301-%E7%BD%91%E7%9B%98%E5%8A%A9%E6%89%8B) 这个 [油猴脚本](https://tingtalk.me/userscripts/) 可以 [解决百度网盘限速](https://www.runningcheese.com/baiduyun)。如果网盘助手的生成链接不能下载，请更换 [应用 ID](https://greasyfork.org/zh-CN/scripts/378301-%E7%BD%91%E7%9B%98%E5%8A%A9%E6%89%8B)。
-- `下载` - `选项` - `连接`： `默认最大连接数` 修改为 `32`
-- 如何下载 [被 Q](https://tingtalk.me/fq/) 的文件：`下载` - `选项` -  `代理服务器` - `手动配置代理 / socks`
-  - `地址`：`127.0.0.1`
-  - `端口`：`1080`
-  - 配置好后，IDM 就可以下载被 Q 的内容了。但是下载完记得 `不使用代理 / socks`，除非你有很多 [番茄](https://tingtalk.me/fq/)。
-- 快捷键：`下载` - `选项` - `快捷键`
-  - 强制调用 IDM：点击时按住 `Insert` 键可以使 IDM 直接抢占浏览器的所有资源下载，从而避免二次请求带来的尴尬。
-  - 暂停调用 IDM：按住 `Alt` 键则可以让 IDM 暂时停止接管浏览器的下载，让浏览器自行完成下载任务。
-- 针对包含有效期的动态临时下载地址，在主界面中右击未完成的任务，选择 `刷新下载地址`。
-- 可惜只支持超文本（安全）传输协议（HTTP / HTTPS）和文件传输协议（FTP），不支持 BitTorrent（BT）、磁力链接（Magnet URI scheme）、电驴链接（eD2k）和迅雷链接（Thunder）。这个时候就得迅雷出场了。
-
-
-
-#### 迅雷
-
-根据 [阿虚同学](https://mp.weixin.qq.com/s/fxU1pIUvUZ29GgAQ9HMd6w) 的测试，最佳的下载搭档是：
-
-- 方法一：[迅雷 X](https://www.lanzous.com/i9cym0h) + [比特彗星](https://www.lanzous.com/b073c7g4f)
-- 方法二：[迅雷 X](https://www.lanzous.com/i9cym0h) + [迅雷 5](https://www.lanzous.com/i9cym8f)
-
-
-
-**下载思路**
-
-1. 先用迅雷 X 下载资源
-2. 迅雷 X 搞不定的情况下，使用迅雷 5 或比特彗星（对资源无限制）
-
-
-
-**下载链接**  
-
-打开 [阿虚同学的储物间](http://kyon945.ys168.com/) 的第 8 栏。
-
-
-
-小技巧：[把迅雷边下边看的默认播放器为 PotPlayer - AppSo](https://mp.weixin.qq.com/s/m-9XPn72p5sexlz7_GZ4fw)
-
-
-
-#### [uTorrent](https://www.utorrent.com/)
-
-- 建议安装 2.2.1 版本
-- 图文设置教程：[如何优雅的使用 BitTorrent网络下载文件? - NovaOPCJ's Blog](https://blog.novaopcj.top/?p=74)
 
 
 
@@ -658,9 +647,7 @@ Internet Download Manager 是一个多线程下载管理器。虽然长得丑，
 5. 用「手机 / 私人电脑」远程控制公司的电脑桌面
 6. 披星戴月，完成任务。Tomorrow is another day
 
-**Note**
-
-- [TeamViewer](https://www.teamviewer.cn/cn/) 有时会被检测为商用，[向日葵](https://sunlogin.oray.com/personal/) 可以作为你的备选远程桌面软件（向日葵跟着月亮转，好似月光下的你跟着老板转）
+**Note**：[TeamViewer](https://www.teamviewer.cn/cn/) 有时会被检测为商用，[向日葵](https://sunlogin.oray.com/personal/) 可以作为你的备选远程桌面软件（向日葵跟着月亮转，好似月光下的你跟着老板转）。
 
 
 
@@ -779,10 +766,6 @@ Internet Download Manager 是一个多线程下载管理器。虽然长得丑，
 
 ### 激活 Windows 10
 
-关联阅读：[激活 Windows 10 - Windows Help](https://support.microsoft.com/zh-cn/help/12440/windows-10-activate)
-
-#### 通过数字许可证激活
-
 数字许可证（在 Windows 10 版本 1511 中称为数字授权）是 Windows 10 的一种激活方法，该方法不需要输入产品密钥。
 
 > 在 Windows 10 的所有系统中，无论系统是如何被激活的（通过 Windows7/8.1 升级或者购买零售密钥版密钥或者嵌入BIO，又名 MSDN 许可证）都会被转换成基于各自的设备硬件 ID（HWID）的一个数字许可证。这个证书储存在微软服务器并且每次安装系统时都会激活这台设备。只有当这台设备的硬件被更改（例如更换主板）时，才会导致许可证失效。通过将它绑定到一个微软账户（MSA）你可以在这种情况下转移证书从而激活这台（硬件被更改的）设备。
@@ -793,7 +776,7 @@ Internet Download Manager 是一个多线程下载管理器。虽然长得丑，
 
 
 
-❗ 如果已使用密钥激活 Office 等产品，会丢失其激活状态。
+❗ 如果已使用密钥激活 Office 等产品，可能会丢失其激活状态。
 
 
 
@@ -819,45 +802,11 @@ Internet Download Manager 是一个多线程下载管理器。虽然长得丑，
 - **方法一**：按下键盘快捷键 `Win` + `X`，选择 Windows PowerShell，复制 `slmgr.vbs -xpr`，粘贴（右键点击），Enter，显示 `计算机已永久激活`。
 - **方法二**：按下键盘快捷键 `Win` + `S`，输入 `激活`，选择 `激活设置`，显示 `Windows 已使用数字许可证激活` 或 `Windows 已使用与 Microsoft 帐户关联的数字许可证激活`，则表示激活成功。
 
-
-
-#### 通过产品密钥激活
-
-产品密钥是由 25 个字符组成的代码，用于激活 Windows。你会看到产品密钥：XXXXX-XXXXX-XXXXX-XXXXX-XXXXX。
-
-❗ 使用 KMS 激活系统，可能需要重复激活。
+关联阅读：[激活 Windows 10 - Windows Help](https://support.microsoft.com/zh-cn/help/12440/windows-10-activate)
 
 
 
-**激活步骤**
-
-1. 右击桌面左下角的开始图标（快捷键 `Win + X`），选择 `Windows PowerShell (管理员)`
-2. 复制以下代码（适用于 Windows 10 专业版），右键粘贴到 PowerShell 的命令行：
-    ```
-    slmgr /ipk W269N-WFGWX-YVC9B-4J6C9-T83GX
-    slmgr /skms kms.03k.org
-    slmgr /ato
-    ```
-3. 大概十秒钟过后，就会自动激活成功。但是，经济允许的情况下，购买正版是更好的选择。
-
-其他版本的 Windows 激活码，参阅 [KMS 客户端安装程序密钥（KMS Client Setup Keys）](https://docs.microsoft.com/zh-cn/windows-server/get-started/kmsclientkeys)
-
-
-
-**如果上面的方法失效了**
-
-- 备选激活方式一：[Windows：从下载到激活盗版 - NoBige-JackCh3n](https://nobige.cn/post/20190729-WindowsOS_cong_xia_zai_dao_ji_huo_dao_ban/)  
-- 备选激活方式二：[Windows系统一句命令激活 - 零微零](https://v0v.bid/) 
-- 备选激活方式三：[KMS 激活 Windows 一键脚本 by Rat's Blog](https://www.moerats.com/kms/)
-- 备选激活方式四：[沧水的 KMS 激活服务](https://kms.cangshui.net/)
-
-
-
----
-
-
-
-**找回隐藏的桌面图标**
+**激活后，找回隐藏的桌面图标**
 选择 `开始` 菜单 ，然后依次选择 `设置` > `个性化` > `主题` > `桌面主题设置` > 勾选想要放在在桌面上的图标，例如 `计算机`。
 
 
