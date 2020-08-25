@@ -315,6 +315,8 @@ by [郝海龙](https://sspai.com/series/77/)
 4. 全文跟读。
 5. 再听五遍。
 
+建议配合 [课文详解](http://www.tingroom.com/lesson/nce2/index.html) 辅助理解。
+
 
 
 **听力材料其他推荐**
