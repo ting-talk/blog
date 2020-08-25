@@ -76,7 +76,7 @@ Ting 我 Talk 一句：只要肉身在中国大陆，我们的一切行动听党
 
 ### 💸 充值
 
-在左侧菜单栏往下滑，找到 `商店` - `充值`（2020 年 7 月 23 日去除了月付 ￥10 的套餐）：
+在左侧菜单栏往下滑，找到 `商店` - `充值`（2020 年 7 月 23 日下架了月付 ￥10 的套餐）：
 
 - 月付 ￥15：150 GB
 - 季付 ￥60：600 GB
@@ -90,10 +90,15 @@ Ting 我 Talk 一句：只要肉身在中国大陆，我们的一切行动听党
 - 每个用户所在的地理位置不一样，选用的运营商也不相同，所以网速和稳定性是因人而异的。
 - 道高一次，魔高一丈，中国的网管可不是吃素的（可怕的食肉动物），对番茄这种水果极其厌恶。万一发飙，种植技术一般的番茄商可能就 Game Over 了，所以我也不敢保证我现在用的这家机场会不会跑路。
 
-在左侧菜单栏，找到 `我的` - `用户中心` - `快速添加节点` - 复制 `普通节点订阅地址`，粘贴在对应的番茄客户端即可食用。
-- 先按照官方教程食用。遇到困难，配合下文「吃番茄」章节排错。
-- Android 推荐使用 ShadowsocksR 客户端。
-- Windows 推荐使用 Clash。
+在左侧菜单栏，找到 `我的` - `用户中心` - 滑倒底部，找到 `快速添加节点`，粘贴订阅链接到对应的番茄客户端即可食用。
+
+Windows 用户推荐使用 Clash，教程在下面「吃番茄」的章节。
+
+Android 用户推荐使用 ShadowsocksR 客户端，但是也可以把 Clash for Windows 订阅链接用在 Clash for Android 上，教程在下面「吃番茄」的章节。
+
+使用苹果
+
+
 
 ### 💁 售后
 
@@ -265,14 +270,16 @@ Ting 我 Talk 一句：只要肉身在中国大陆，我们的一切行动听党
 
 #### Clash for Windows
 
-仅支持 64 位的系统。
+仅支持 64 位的 Windows 系统。
 
 ##### 下载
 
-- 官方：[Clash for Windows.exe](https://github.com/Fndroid/clash_for_windows_pkg/releases)  by Fndroid
+- 官方：[Clash for Windows.exe](https://github.com/Fndroid/clash_for_windows_pkg/releases)  by Fndroid，下载速度可能比较慢。
   - 安装版：`Clash.for.Windows.Setup.exe`
   - 便携版：`Clash.for.Windows-win.7z`
-- 备用：[Clash for Windows](https://cdn.rixcloud.io/download/Clash-Windows.exe) by rixCloud
+- 备用：下载速度较快，但可能不是最新版，不过不影响使用。
+  - [rixCloud](https://cdn.rixcloud.io/download/Clash-Windows.exe)
+  - [蓝奏云](https://lanzous.com/b00t9wiva)
 
 ##### 安装
 - 双击安装
@@ -427,8 +434,9 @@ https://proxy.tgbot.co/clash
 
 **下载**
 
-- [Google Play](https://play.google.com/store/apps/details?id=com.github.kr328.clash&hl=zh)
-- [GitHub](https://github.com/Kr328/ClashForAndroid/releases)
+- [Google Play](https://play.google.com/store/apps/details?id=com.github.kr328.clash&hl=zh)：需要 Google 服务框架。
+- [GitHub](https://github.com/Kr328/ClashForAndroid/releases)：下载速度较慢。
+- [蓝奏云](https://lanzous.com/b00t9wiva)：下载速度较快，但可能不是最新版，不过不影响使用。
 
 
 
