@@ -2,7 +2,7 @@
 
 title: 番茄食用指南（科学上网教程）  
 date: 2016-03-03  
-updated: 2020-08-13   
+updated: 2020-08-20   
 categories: 翻墙方法   
 tags: 突破网络审查 
 
@@ -14,7 +14,7 @@ tags: 突破网络审查
 
 <!-- more -->
 
-## ⚠️前言
+## ⚠️ 前言
 
 番茄是一种恶魔果实，可以让食用者得到一种特殊的能力：越过长城，走向世界，访问任何一个网站（例如 Google、YouTube、Twitter 等）。但是，如果在中国大陆吃番茄，请注意以下事项。
 
@@ -53,7 +53,7 @@ Ting 我 Talk 一句：只要肉身在中国大陆，我们的一切行动听党
 
 
 
-## 💰买番茄
+## 💰 买番茄
 
 [点击这里](https://tingtalk.me/fq-ever/) 查看曾经推荐过的番茄商（flycloud、Just My Socks），因为价格或稳定性，不推荐购买。
 
@@ -63,7 +63,7 @@ Ting 我 Talk 一句：只要肉身在中国大陆，我们的一切行动听党
 
 
 
-### 💸 充值购买
+### 📧 注册
 
 用手机或者电脑的本机浏览器打开 [ssrcloud](https://ntt-co-jp.club/auth/register?code=iQuU)，或者复制下面这个网址，粘贴到浏览器的地址栏：
 ```http
@@ -72,13 +72,21 @@ Ting 我 Talk 一句：只要肉身在中国大陆，我们的一切行动听党
 - 邀请码是 `iQuU`
 - 通过我的邀请链接注册，你可能会获得 ￥1 的初始出海资金。 
 
-注册，登录，在左侧菜单栏往下滑，找到 `商店` - `充值`（2020 年 7 月 23 日去除了月付 ￥10 的套餐）：
+注册后，登录。
+
+### 💸 充值
+
+在左侧菜单栏往下滑，找到 `商店` - `充值`（2020 年 7 月 23 日去除了月付 ￥10 的套餐）：
+
 - 月付 ￥15：150 GB
 - 季付 ￥60：600 GB
 - 年付 ￥150：1500 GB
 - ……  
 
-在左侧菜单栏往下滑，找到 `套餐购买`：为了保险起见，不管是买哪一家的番茄，我都推荐先买一个月的量试用一下，觉得好用（周末高峰期也可用），再季付，年付可以等敏感期（6 月份）过了之后再买。为什么：
+### 🛒 购买
+
+在左侧菜单栏往下滑，找到 `套餐购买`：为了保险起见，不管是买哪一家的番茄，我都推荐先买一个月的量试用一下，觉得好用（周末高峰期也能稳定使用），再季付，年付可以等敏感期（6 月份）过了之后再买。为什么：
+
 - 每个用户所在的地理位置不一样，选用的运营商也不相同，所以网速和稳定性是因人而异的。
 - 道高一次，魔高一丈，中国的网管可不是吃素的（可怕的食肉动物），对番茄这种水果极其厌恶。万一发飙，种植技术一般的番茄商可能就 Game Over 了，所以我也不敢保证我现在用的这家机场会不会跑路。
 
@@ -87,8 +95,7 @@ Ting 我 Talk 一句：只要肉身在中国大陆，我们的一切行动听党
 - Android 推荐使用 ShadowsocksR 客户端。
 - Windows 推荐使用 Clash。
 
-
-### 💁 售后服务
+### 💁 售后
 
 有问题，加入 [Telegram](https://tingtalk.me/telegram/) 群组，呼叫管理员：
 
@@ -96,19 +103,22 @@ Ting 我 Talk 一句：只要肉身在中国大陆，我们的一切行动听党
 - Telegram 群组（备用）：https://t.me/mikucloud
 - Telegram 通知频道：https://t.me/googlessrr
 
+### 🔁 续费
 
+目前 ssrcloud 不支持自动续费，请在账号到期前重新购买套餐。如果觉得每月都要重复操作，可以购买季付或者年付套餐。
 
-未及时续费，购买新套餐后，无法通过订阅连接更新节点，怎么办：
+对于不熟悉代理规则的用户，账号过期后，请退出番茄客户端/app，再登录官网续费。
 
-1. 登录 ssrcloud
-2. 点击左侧菜单栏的 `节点列表`
+购买新套餐后，无法通过订阅连接更新节点，怎么办：
+
+1. 登录 ssrcloud，点击左侧菜单栏的 `节点列表`
 3. 打开其中一个节点的 `配置二维码`
 4. 右键 ShadowsocksR 客户端 - `服务器` - `扫描二维码`
 5. 现在应该可以更新节点了
 
 
 
-## 🍅吃番茄
+## 🍅 吃番茄
 
 先按照番茄商提供的教程食用番茄，本章节是进阶教程，作为补充。
 
@@ -442,7 +452,7 @@ https://proxy.tgbot.co/clash
 
 
 
-#### 🍥Potatso Lite
+#### 🍥 Potatso Lite
 
 使用非中国区的 Apple ID 可以安装免费的 [Potatso Lite](https://apps.apple.com/us/app/potatso-lite/id1239860606)（土豆丝入门版）
 
@@ -464,7 +474,7 @@ https://proxy.tgbot.co/clash
 
 
 
-#### 🚀[Shadowrocket](https://itunes.apple.com/us/app/shadowrocket/id932747118?mt=8)
+#### 🚀 [Shadowrocket](https://itunes.apple.com/us/app/shadowrocket/id932747118?mt=8)
 
 `$2.99` 俗称「小火箭」：
 
@@ -514,7 +524,7 @@ https://proxy.tgbot.co/clash
 
 
 
-#### 🧬[Quantumult](https://itunes.apple.com/us/app/quantumult/id1252015438?mt=8) 
+#### 🧬 [Quantumult](https://itunes.apple.com/us/app/quantumult/id1252015438?mt=8) 
 
 `$4.99` 俗称「圈」。
 
@@ -556,7 +566,7 @@ https://proxy.tgbot.co/clash
 
 
 
-## 🤙后记
+## 🤙 后记
 
 ### 💾 备选菜园
 
@@ -566,7 +576,7 @@ https://proxy.tgbot.co/clash
 
 
 
-### 🚚进阶技巧
+### 🚚 进阶技巧
 
 ❗ 小白用户可以略过本章节。
 
@@ -574,7 +584,7 @@ https://proxy.tgbot.co/clash
 
 
 
-### 🧹清除 DNS 缓存
+### 🧹 清除 DNS 缓存
 
 一切都设置好了，但还是无法访问 Google，可能是 DNS 受到污染了。怎么办：
 
@@ -594,13 +604,13 @@ Windows 设备，请刷新 DNS 缓存：
 
 
 
-### 🔍善用 Google
+### 🔍 善用 Google
 
 Search before you ask（遇事不明，搜索引擎）。这篇保姆级的教程写得那么详细，手再伸出来就砍了。如果暂时无法访问 [Google](https://www.google.com/ncr)，推荐使用 [必应搜索（国际版）](https://cn.bing.com/)。苦寻无果，与我联系，手把手教你越过互联网的藩篱（My mission is to give you freedom）。
 
 
 
-### 📞与我联系
+### 📞 与我联系
 
 - 加入庭说的后花园： [Telegram 群组](https://t.me/tingtalk)（`@tingtalk`），那里百花盛开，充满自由的气息。这是 [Telegram 新手教程](https://tingtalk.me/telegram/)。
 - 添加庭勃士的微信号 `tingtalkme`：接头暗号「番茄」。
