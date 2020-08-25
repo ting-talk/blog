@@ -358,6 +358,36 @@ I've learned that people will forget what you said, people will forget what you 
 
 ## G
 
+### Get
+
+I got very angry. 我非常生气。
+`get` 在这里有「**逐渐变得**」的含义，接近  `become`，是个表示过程的动词，表示状态的变化。而 `I was very angry` 则仅表示当时的状态是生气，并不暗示过程。
+
+
+
+
+
+### Go
+
+**加定冠词 `the`**
+
+- go to the theatre
+  去剧场看戏
+- go to the cinema
+  去看电影
+
+**不加定冠词 `the`**
+
+- go to school
+  上学
+- go to bed
+  上床，睡觉
+- go to church
+  去教堂，去做礼拜
+- go to hospital
+  去医院
+
+
 ### Good night
 
 `Sleep well, Sleep tight.`
@@ -513,6 +543,32 @@ The smaller the mind, the greater the conceit.
   相信我，那女人就是个拜金女。
 - She's a gold digger. She only wants your money.  
 - I got a feeling she's a gold digger.  
+
+
+
+## N
+
+### None
+
+表示否定的代词 `none` 意义上相当于 `not any` 或 `no one`，但语气较强：
+- She kept none of his letters.
+  他的信件她一封也没有保留。
+- None of my friends left early.
+  我的朋友没有一个早离开的。
+
+`none of` 这个短语有时可以表达一种断然、甚至粗暴的口气，尤其是在祈使句中：
+
+- None of your silly remarks!
+  别说傻话了！
+
+
+
+### No
+
+`no` = `not any`
+
+I don't have any friends. = I have no friends.
+I have no time. = I don't have any time.
 
 
 
