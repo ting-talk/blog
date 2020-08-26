@@ -173,7 +173,7 @@ markdown:
     xhtmlOut: false
     breaks: true
     linkify: true
-    typographer: true
+    typographer: false
     quotes: '“”‘’'
   enable_rules:
   disable_rules:
@@ -187,6 +187,3 @@ markdown:
     permalinkSymbol: '¶'
     case: 0
     separator: ''
-
-markdown-it:
-  smartypants: false
