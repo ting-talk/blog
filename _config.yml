@@ -187,3 +187,4 @@ markdown:
     permalinkSymbol: '¶'
     case: 0
     separator: ''
+  smartypants: false
