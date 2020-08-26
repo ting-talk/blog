@@ -288,6 +288,23 @@ Telegram 会记忆浏览进度，打开对话界面会自动跳转到未读消�
 
 
 
+### ✏️消息更正
+
+在 Telegram，你可以编辑发出去的消息（[Edit your messages after posting](https://telegram.org/blog/edit)），包括文字、图片和视频，所以：
+
+
+- 文字出现 typos，不用删除，多久之前发的消息都可以更正（Edit）。
+- 图片忘记打马赛克，但因为有图片说明（配文），懒得撤回重输，可以当场抹除敏感信息，当场换（[Replace Media](https://telegram.org/blog/unread-replace-2x#replace-media-and-add-captions)）。
+- 视频发错了，善后方式与图片同理。
+- 图片换视频，视频换图片，Why not?
+
+如何替换图片或视频？长按或右击消息，选择 `Edit`：
+
+- 通用法：点击笔头图标 ✏️，弹出资源窗口，选择正确的图片和视频即可替换。
+- 桌面端：复制正确的图片和视频，回到 Telegram，粘贴即可替换。
+
+
+
 ### 📝文本格式
 
 #### Desktop
@@ -337,13 +354,6 @@ Telegram 会记忆浏览进度，打开对话界面会自动跳转到未读消�
 
 
 
-### 👇长按消息
-
-
-- 编辑已发送消息（[Edit your messages after posting](https://telegram.org/blog/edit)），包括文字、图片和视频（[Replace Media](https://telegram.org/blog/unread-replace-2x#replace-media-and-add-captions)）。
-- [消息可以无限期撤回](https://telegram.org/faq#q-can-i-delete-my-messages)（`Delete` 删除），而且被删除的信息不会在双方的聊天记录中留下痕迹（可选）。
-- [选择部分消息](https://telegram.org/blog#select-parts-of-messages)：长按 2 次消息，可选择部分文字，而不仅仅是复制全文。
-
 
 
 ### 📡消息发送
@@ -372,6 +382,14 @@ Telegram 会记忆浏览进度，打开对话界面会自动跳转到未读消�
 
 - One check（✔️）：发送成功（在微信，有些消息（例如纽约时报的链接）没发送出去，也不会有发送失败的感叹号 ❗，这是赤裸裸的欺骗 ）。
 - Two checks（✔️✔️）：消息已阅。
+
+
+
+### 👇长按消息
+
+
+- [消息可以无限期撤回](https://telegram.org/faq#q-can-i-delete-my-messages)（`Delete` 删除），而且被删除的信息不会在双方的聊天记录中留下痕迹（可选）。
+- [选择部分消息](https://telegram.org/blog#select-parts-of-messages)：长按 2 次消息，可选择部分文字，而不仅仅是复制全文。
 
 
 

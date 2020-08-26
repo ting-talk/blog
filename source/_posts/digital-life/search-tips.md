@@ -69,6 +69,12 @@ tags: 网上冲浪指南
 
 
 
+**用英文半角括号 `( )` 改变优先级**
+
+- 例子：[电报 (教程 OR 指南)](https://www.google.com/search?q=%E7%94%B5%E6%8A%A5%20(%E6%95%99%E7%A8%8B%20OR%20%E6%8C%87%E5%8D%97)) 
+
+
+
 **搜索完全匹配的结果**（我就是要搜这些）
 
 - 为字词或短语加上英文引号 `" "`
@@ -119,6 +125,10 @@ tags: 网上冲浪指南
 
 - The tilde symbol `~` includes similar words in your search results.  
 - 例如：`~food ~store`
+
+
+
+
 
 
 
