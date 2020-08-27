@@ -835,9 +835,10 @@ Seatbelts save lives. Buckle up, every time.
 ### Sunday
 
 `on Sundays` 每个星期日
-
-I never get up early on Sundays. 
-
+- I never get up early on Sundays. 
+  星期天我从来不早起。
+- We do not go to school on Sundays.
+  星期天我们不上学。
 
 
 ## T

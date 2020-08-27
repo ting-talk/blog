@@ -10,13 +10,13 @@ tags: 英语
 
 ![letter-a-b-c](tinglish/letter-a-b-c.png)
 
-在学习英语过程中，我想把那些「怦然心动」的瞬间分享给读者们（seize the moment）。
+一言以蔽之，模仿正确且常用的英语，并不间断地重复练习。
 
 <!-- more -->
 
 ## 微信群
 
-添加庭勃士的微信 `804976336`，街头暗号是 `博客 + 英语群 `，邀你进群围观。Let's have fun and enjoy it.
+在学习英语过程中，我想把那些「怦然心动」的瞬间分享给读者们（seize the moment）。添加庭勃士的微信 `tingtalkme`，街头暗号是 `博客 + 英语群 `，邀你进群围观。Let's have fun and enjoy it.
 
 **Group Notice**
 
