@@ -1145,7 +1145,7 @@ https://rsshub.app/xiaoyuzhou
 | [@sssoou_bot](https://t.me/sssoou_bot)             | Telegram 搜索，支持中文。                                    |
 | [@Stickers](https://t.me/Stickers)                 | 创建属于自己的表情包。                                       |
 | [@tweet_for_me_bot](https://t.me/tweet_for_me_bot) | 在 Telegram 上发布 Twitter 动态。                            |
-| [@tgstogifbot](https://t.me/tgstogifbot)           | 把 Telegram 上 tgs 格式的表情包转换为 gif 格式。使用 [图压](https://tuya.xinxiao.tech/) 压缩到 500 KB 以下，就能在微信自动播放。 |
+| [@tgstogifbot](https://t.me/tgstogifbot)           | 把 Telegram 上 tgs 格式的表情包转换为 gif 格式。使用 [图压](https://tuya.xinxiao.tech/) 压缩到  1MB 以下，就能在微信自动播放。 |
 | [@telegraph](https://t.me/telegraph)               | 登录和编辑 [Telegraph](https://telegra.ph/) 文章，并 [统计 telegra.ph 的浏览量](https://telegram.org/blog/telegraph#telegraph-api)。 |
 | [@verifybot](https://t.me/verifybot)               | 加了官方认证后，名字后面有个 ✅（[verify a big andactive official channel, bot or public group](https://telegram.org/verify)）。 |
 
