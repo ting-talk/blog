@@ -440,9 +440,17 @@ https://proxy.tgbot.co/clash
 
 
 
-**教程**：[Clash(R) for Android教程 | 东半球第二好用的安卓翻墙工具 - Sabrina](https://merlinblog.xyz/wiki/cfa.html)
+**教程**
 
-**Telegram Channel（电报频道）**：[Clash for Android Channel Gateway](https://t.me/clash_for_android_channel)
+使用方法和 Clash for Windows 类似，这里不再赘述。
+
+Clash(R) for Android 图文教程：[东半球第二好用的安卓翻墙工具 - Sabrina](https://merlinblog.xyz/wiki/cfa.html)
+
+
+
+**动态**
+
+Telegram Channel（电报频道）：[Clash for Android Channel Gateway](https://t.me/clash_for_android_channel)
 
 
 
