@@ -291,7 +291,7 @@ CertUtil -hashfile D:\Downloads\Shadowsocks-4.1.9.3.zip SHA512
 
 
 
-#### [Chrome](https://www.google.com/chrome/)
+#### 浏览器：[Chrome](https://www.google.com/chrome/)
 
 **如何下载**
 
@@ -310,7 +310,7 @@ CertUtil -hashfile D:\Downloads\Shadowsocks-4.1.9.3.zip SHA512
 
 
 
-#### [火绒安全](https://www.huorong.cn/)
+#### 电脑管家：[火绒安全](https://www.huorong.cn/)
 
 - Windows 10 自带的 `安全中心` 对大部分人来说已经够用，如不放心，就加个 [火绒安全](https://www.huorong.cn/) 吧。强悍、干净、轻巧的火绒可以让你安全、安静、自由地使用电脑。此外，关注公众号「火绒安全实验室」（WeChat ID：HuorongLab） 你就会知道金山毒霸、360 安全卫士和腾讯电脑管等有多么恶毒。
 - 火绒不会有广告弹窗等任何打扰用户的行为，也不会在安装包中随意捆绑其他软件。同时，火绒反捆绑和弹窗拦截还能帮助您的计算机变得更加干净。
@@ -318,7 +318,7 @@ CertUtil -hashfile D:\Downloads\Shadowsocks-4.1.9.3.zip SHA512
 
 
 
-#### [Bandizip](https://cn.bandisoft.com/bandizip/) 
+#### 解压缩：[Bandizip](https://cn.bandisoft.com/bandizip/) 
 
 - 轻巧、快速、免费、好看的解压缩软件。
 - 最喜欢它的「自动解压」功能：不用再担心解压出一堆散乱文件或双层文件夹。
@@ -327,7 +327,7 @@ CertUtil -hashfile D:\Downloads\Shadowsocks-4.1.9.3.zip SHA512
 
 
 
-#### [Dism++](https://www.chuyu.me/zh-Hans/)
+#### 系统优化：[Dism++](https://www.chuyu.me/zh-Hans/)
 
 > DISM：Deployment Image Service and Management Tool，部署映像服务和管理。
 
@@ -345,30 +345,40 @@ CertUtil -hashfile D:\Downloads\Shadowsocks-4.1.9.3.zip SHA512
 
 
 
-#### [Geek Uninstaller](https://geekuninstaller.com/)
+#### 卸载工具：[Geek Uninstaller](https://geekuninstaller.com/)
+
+通过控制面板卸载程序不会自动扫描残留的文件、文件夹和注册表项目。
 
 **优点**
 - 小巧（2 MB ）、绿色（无需安装）、易用（单文件）的卸载工具。
 - 卸载完成，Geek Uninstaller 会自动扫描残留的文件（夹）和注册表项目。
+- 支持卸载 `Windows Store App`（切换入口：顶部菜单栏 > `查看`）
 
 **缺点**
+
 - 部分用户反应会连带把其它软件一起卸载了，但是我用了几年没遇到过这种情况。
+- 可选 [Bulk Crap Uninstaller](https://www.bcuninstaller.com/) 作为替代卸载软件（[视频介绍](https://www.bilibili.com/video/BV1u54y1d7yk/)）。
 
 **下载**
 
-- 官网（下载速度慢）：geekuninstaller.com
-- [蓝奏云](https://wwa.lanzous.com/b00t9wiva)（下载速度快）
+- 官网（下载速度慢）：geekuninstaller.com。
+- [蓝奏云](https://wwa.lanzous.com/b00t9wiva)（下载速度快）。
 
 **使用**
 
-1. 打开 `geek`
-2. 右击想要卸载的软件，选择 `卸载(U)…`
-3. 卸载完成后，geek 会自动扫描残留的文件、文件夹和注册表项目
+1. 打开 `geek`。
+2. 找到想要卸载的软件：
+	- 底部有搜索框。
+	- 点击 `程序名称`、`大小`、`安装时间`，即可改变软件排序。
+3. 双击；或者右击 >`卸载(U)…`。
+4. 卸载完成后，geek 会自动扫描残留的文件、文件夹和注册表项目（清理效果：★★★☆☆）。
 
 **导出软件清单**
 
-1. 点击顶部菜单栏的 `文件`
-2. `导出为 HTML(E)… Ctrl +S`
+1. 点击顶部菜单栏的 `文件`。
+2. `导出为 HTML(E)… Ctrl +S`。
+
+重装电脑后，就可以照着这个清单武装你的电脑。
 
 
 
@@ -380,7 +390,7 @@ CertUtil -hashfile D:\Downloads\Shadowsocks-4.1.9.3.zip SHA512
 
 
 
-#### [Process Lasso](https://bitsum.com/)
+#### 进程优化：[Process Lasso](https://bitsum.com/)
 
 服役多年老电脑，会越来越卡了，使用 Process Lasso（Real-Time CPU Optimization and Automation）也许可以再撑一撑。
 
