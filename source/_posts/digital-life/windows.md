@@ -8,7 +8,7 @@ tags: [Windows, 网上冲浪指南]
 
 ![windows-10](windows/windows-10.png)
 
-[全球 Windows 10 活跃设备已经超过 10 亿台](https://news.microsoft.com/zh-cn/window-10-%E5%8A%A9%E5%8A%9B10-%E4%BA%BF%E6%9C%88%E6%B4%BB%E8%B7%83%E8%AE%BE%E5%A4%87%E4%B8%BA%E5%85%A8%E7%90%83%E8%B5%8B%E8%83%BD/)，如何让 Windows 10 更好用？这篇文章一次性统统告诉你。
+[全球 Windows 10 活跃设备已经超过 10 亿台](https://news.microsoft.com/zh-cn/window-10-%E5%8A%A9%E5%8A%9B10-%E4%BA%BF%E6%9C%88%E6%B4%BB%E8%B7%83%E8%AE%BE%E5%A4%87%E4%B8%BA%E5%85%A8%E7%90%83%E8%B5%8B%E8%83%BD/)，如何让 Windows 10 更好用？有哪些优质的实用软件？这篇文章一次性统统告诉你。
 
 <!-- more -->
 
@@ -347,9 +347,28 @@ CertUtil -hashfile D:\Downloads\Shadowsocks-4.1.9.3.zip SHA512
 
 #### [Geek Uninstaller](https://geekuninstaller.com/)
 
+**优点**
 - 小巧（2 MB ）、绿色（无需安装）、易用（单文件）的卸载工具。
 - 卸载完成，Geek Uninstaller 会自动扫描残留的文件（夹）和注册表项目。
-- 官网下载速度较慢，所以我把安装文件上传到 [蓝奏云](https://wwa.lanzous.com/b00t9wiva) 了。
+
+**缺点**
+- 部分用户反应会连带把其它软件一起卸载了，但是我用了几年没遇到过这种情况。
+
+**下载**
+
+- 官网（下载速度慢）：geekuninstaller.com
+- [蓝奏云](https://wwa.lanzous.com/b00t9wiva)（下载速度快）
+
+**使用**
+
+1. 打开 `geek`
+2. 右击想要卸载的软件，选择 `卸载(U)…`
+3. 卸载完成后，geek 会自动扫描残留的文件、文件夹和注册表项目
+
+**导出软件清单**
+
+1. 点击顶部菜单栏的 `文件`
+2. `导出为 HTML(E)… Ctrl +S`
 
 
 
@@ -596,6 +615,12 @@ Windows 的默认图片浏览器非常难用。而 qimgv 是一款开源的图�
 
 
 
+#### Inkscape
+
+开源的矢量绘图软件，我拿来 [位图矢量化](https://tingtalk.me/raster-to-vector/)，特别好用。
+
+
+
 ### 文件同步
 
 #### [坚果云](https://www.jianguoyun.com/)
@@ -704,6 +729,14 @@ Windows 的默认图片浏览器非常难用。而 qimgv 是一款开源的图�
 #### 微软拼音
 
 自带的输入法已经足够好用，而国产的输入法有关不完的广告弹窗。
+
+
+
+**关联阅读**
+
+Awesome Windows：[Windows上优质 & 精选的最佳应用程序及工具列表。](https://github.com/Awesome-Windows/Awesome/blob/master/README-cn.md)
+
+
 
 
 
