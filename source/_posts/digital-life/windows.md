@@ -358,6 +358,9 @@ CertUtil -hashfile D:\Downloads\Shadowsocks-4.1.9.3.zip SHA512
 
 - 部分用户反应会连带把其它软件一起卸载了，但是我用了几年没遇到过这种情况。
 - 可选 [Bulk Crap Uninstaller](https://www.bcuninstaller.com/) 作为替代卸载软件（[视频介绍](https://www.bilibili.com/video/BV1u54y1d7yk/)）。
+  - 免费开源
+  - 支持多选卸载
+  - 界面语言没有中文版
 
 **下载**
 
