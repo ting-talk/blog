@@ -1,7 +1,7 @@
 ---
 title: Telegram（电报）：新手指南、使用教程及频道推荐
 date: 2019-11-09  
-updated: 2020-08-22
+updated: 2020-08-31
 categories: 数字生活  
 tags: [网上冲浪指南, 突破网络审查, Telegram]
 ---
@@ -453,30 +453,6 @@ Telegram 会记忆浏览进度，打开对话界面会自动跳转到未读消�
 - 部分 Emoji 支持动态播放（Animated Emoji）：在任意聊天窗口发送 1 个 [非礼勿视猿](https://zh.wikipedia.org/zh/%E4%B8%89%E7%8C%BF) 🙈（[See-No-Evil Monkey](https://emojipedia.org/see-no-evil-monkey/)），再动 Ta 试试，可爱吧？！👉 [Telegram Animated Emoji List（电报动态大表情合集）](https://tingtalk.me/telegram-animated-emoji/)
 
 
-
-### 🤐[私密聊天](https://telegram.org/faq#secret-chats)
-
-**Cloud Chats**（默认聊天模式）
-
-`客户端` -`服务器` / `服务器` - `客户端` 
-
-信息存储在 Telegram Cloud 中进行加密。 这使云消息既安全又可以立即从任何设备访问，即使完全丢失了设备。所以你不需要将所有的信息历史记录存储在手机上，当你需要的时候，你可以随时在 Telegram 下载（缓存）旧的信息和媒体，这为你节省了大量的磁盘空间和内存。
-
-
-
-**Secret Chats**（不支持在 Windows 和 Web 上发起）
-
-`客户端` - `客户端`
-
-聊天记录不能云备份，因为私人数据没有经过 Telegram 的同步服务器，所以没有任何其他人可以破解它们，包含 Telegram 团队本身。
-
-> 关联阅读：[为什么电报的端到端加密不是默认的？](https://telegra.ph/Why-Isnt-Telegram-End-to-End-Encrypted-by-Default-08-14)
-
-- 只能通过原始设备访问历史消息，如果退出并再次登录，将失去所有的秘密聊天记录。
-- 可设置阅后即焚（self-destruct）计时器，自动销毁消息或媒体文件（只适用于计时器设置后发送的消息，对早期的信息没有影响）。
-- 不能转发消息。
-- Android 设备不能截屏；iOS 设备可以截屏 ，但对方截屏时你会收到通知。不过，只建议与你信任的人分享敏感信息。 毕竟，对方可以用另外一台设备给屏幕拍照。
-- 删除发送方的消息，接收方那边也会强制删除。
 
 
 
@@ -1175,11 +1151,44 @@ https://rsshub.app/xiaoyuzhou
 
 **🔐管理机器人**
 
-- [@policr_mini_bot](https://t.me/policr_mini_bot)：开源验证机器人；[官网](https://mini.telestd.me/)。
-- [@DeleteEventsBot](https://t.me/DeleteEventsBot)：删除无关系统信息，例如谁加入了群组、谁离开了群组等。
-- [@areply_bot](https://t.me/areply_bot)：自动解除关联频道（Linked hannel）转发到群组的自动置顶消息，并恢复之前的置顶消息。拉入群组后，请赋予机器人以下权限：
-	- 置顶消息（Pin messages）：必须打开。
-	- 删除消息（Delete messages）：删除系统置顶提示，按需打开。
+在管理后台搜索 Bots 名字，即可添加，注意只给最低权限。
+
+[@policr_mini_bot](https://t.me/policr_mini_bot)：开源验证机器人；[官网](https://mini.telestd.me/)。权限只给 `Delete messages` 和 `Ban users`。
+
+[@DeleteEventsBot](https://t.me/DeleteEventsBot)：删除无关系统信息，例如谁加入了群组、谁离开了群组等。权限只给 `Delete messages。`
+
+[@areply_bot](https://t.me/areply_bot)：自动解除关联频道（Linked hannel）转发到群组的自动置顶消息，并恢复之前的置顶消息。拉入群组后，请赋予机器人以下权限：
+
+- 置顶消息（Pin messages）：必须打开。
+- 删除消息（Delete messages）：删除系统置顶提示，按需打开。
+
+
+
+## 🤐[私密聊天](https://telegram.org/faq#secret-chats)
+
+**Cloud Chats**（默认聊天模式）
+
+`客户端` -`服务器` / `服务器` - `客户端` 
+
+信息存储在 Telegram Cloud 中进行加密。 这使云消息既安全又可以立即从任何设备访问，即使完全丢失了设备。所以你不需要将所有的信息历史记录存储在手机上，当你需要的时候，你可以随时在 Telegram 下载（缓存）旧的信息和媒体，这为你节省了大量的磁盘空间和内存。
+
+
+
+**Secret Chats**（不支持在 Windows 和 Web 上发起）
+
+`客户端` - `客户端`
+
+聊天记录不能云备份，因为私人数据没有经过 Telegram 的同步服务器，所以没有任何其他人可以破解它们，包含 Telegram 团队本身。
+
+> 关联阅读：[为什么电报的端到端加密不是默认的？](https://telegra.ph/Why-Isnt-Telegram-End-to-End-Encrypted-by-Default-08-14)
+
+- 只能通过原始设备访问历史消息，如果退出并再次登录，将失去所有的秘密聊天记录。
+- 可设置阅后即焚（self-destruct）计时器，自动销毁消息或媒体文件（只适用于计时器设置后发送的消息，对早期的信息没有影响）。
+- 不能转发消息。
+- 不能编辑已发送的消息。
+- Android 设备不能截屏；iOS 设备可以截屏 ，但对方截屏时你会收到通知。不过，只建议与你信任的人分享敏感信息。 毕竟，对方可以用另外一台设备给屏幕拍照。
+- 删除发送方的消息，接收方那边也会强制删除。
+
 
 
 ### 💬对话守则
