@@ -116,6 +116,8 @@ l
 
 借助搜索引擎、官方网站和维基百科，你不难找到专有名词应该怎么写。
 
+来自 Anyway.FM 的 UI 行业英文术语聚合：[Anyway.ABC 安妮薇术语小词典](https://abc.anyway.fm/)
+
 
 
 
