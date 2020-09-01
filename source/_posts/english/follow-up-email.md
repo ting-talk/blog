@@ -5,9 +5,8 @@ date: 2019-07-04
 updated: 2019-07-04   
 categories: 英语学习
 tags: [外贸, 英语, Email]  
-post-author: May
-post-link: http://www.maywaimao.com/ 
-
+author: May
+post_link: http://www.maywaimao.com/ 
 ---
 
 ![email](follow-up-email/email.png)
