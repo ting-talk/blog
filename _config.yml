@@ -166,6 +166,10 @@ feed:
   autodiscovery: true
   template:
 
+
+
+## See Also: https://vxiaozhe1998.gitee.io/2020/03/25/HEXO%E4%B8%8B%E7%9A%84%E9%94%9A%E7%82%B9%E6%A0%87%E9%A2%98%E4%B8%8EEmoji%E8%A1%A8%E6%83%85/
+
 markdown:
   preset: 'default'
   render:
@@ -178,12 +182,17 @@ markdown:
   enable_rules:
   disable_rules:
   plugins:
+    - markdown-it-abbr
+    - markdown-it-footnote
+    - markdown-it-ins
+    - markdown-it-sub
+    - markdown-it-sup
   anchors:
     level: 2
     collisionSuffix: ''
-    permalink: true
+    permalink: false
     permalinkClass: 'header-anchor'
     permalinkSide: 'left'
     permalinkSymbol: '¶'
-    case: 0
-    separator: ''
+    case: 1
+    separator: '-'
