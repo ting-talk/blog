@@ -991,7 +991,7 @@ anchor:
   text: '#'
   icon:
     # If true, the `text` option will be ignored.
-    enable: false 
+    enable: true 
     # By default, NexT has built-in FontAwesome support.
     # This option means `font-family: FontAwesome`, so DO Not change it.
     # Also you can choose ForkAwesome, but that's another story.
