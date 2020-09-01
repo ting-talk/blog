@@ -614,7 +614,7 @@ Telegram 会记忆浏览进度，打开对话界面会自动跳转到未读消�
 
 
 
-## 📣频道推荐
+## 📣频道推荐 {#channels}
 
 [Channels](https://telegram.org/tour/channels) 是向大众传播信息的完美工具（[The perfect tool for broadcasting messages to the masses](https://telegram.org/blog/channels)）：
 
