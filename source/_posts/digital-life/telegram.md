@@ -305,6 +305,20 @@ Telegram 会记忆浏览进度，打开对话界面会自动跳转到未读消�
 
 
 
+### 🌅发送原图
+
+先选择想要发送的图片（不止于 9 张）
+
+- Android 设备：点击弹出窗口右上角的三个点，`Send without compression`
+- iOS 设备和 Windows 电脑：`Send as a file`
+- macOS 设备：`Send as a file`
+
+⚠️ 原图不会压缩图片，但是会暴露文件名。
+
+Telegram 会记住你的操作习惯，下次发送图片时不必再次勾选原图选项。
+
+
+
 ### 📝文本格式
 
 #### Desktop
