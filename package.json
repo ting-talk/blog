@@ -12,8 +12,8 @@
     "version": "5.0.2"
   },
   "dependencies": {
-    "hexo": "^5.0.0",
-    "hexo-asset-link": "^2.0.2",
+    "hexo": "^5.1.1",
+    "hexo-asset-link": "^2.1.0",
     "hexo-deployer-git": "^2.1.0",
     "hexo-generator-archive": "^1.0.0",
     "hexo-generator-category": "^1.0.0",
@@ -27,7 +27,7 @@
     "hexo-renderer-markdown-it": "^4.1.0",
     "hexo-renderer-stylus": "^1.1.0",
     "hexo-server": "^2.0.0",
-    "hexo-theme-next": "^8.0.0-rc.5",
+    "hexo-theme-next": "^8.0.0",
     "markdown-it-named-headings": "^1.1.0",
     "pjax": "^0.2.8"
   }
