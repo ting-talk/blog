@@ -4,11 +4,15 @@ title: 大客户下单后，如何用邮件有效跟进？
 date: 2019-07-04    
 updated: 2019-07-04   
 categories: 英语学习
-tags: [外贸, 英语, Email]   
+tags: [外贸, 英语, Email]  
+post-author: May
+post-link: http://www.maywaimao.com/ 
 
 ---
 
-![email](follow-up-email/email.png)原文来自 [May 外贸实战](http://www.maywaimao.com/)，为了获得更好的阅读体验，本文对其改善了排版。
+![email](follow-up-email/email.png)
+
+原文来自 [May 外贸实战](http://www.maywaimao.com/)，为了获得更好的阅读体验，本文对其改善了排版。
 
 <!-- more -->
 
