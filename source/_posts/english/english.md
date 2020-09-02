@@ -760,6 +760,12 @@ I get what you're trying to say, Morty. 我知道你想说什么，莫蒂。
 - A: Do you want one more beer?（你想要再喝一杯啤酒吗？）
 - B: I think I'm good. / No, I'm good. / I'm good. Thanks.（不用了，没关系。）
 
+
+
+I've never felt so good in my life. 我这辈字没觉得这么好过。
+
+I've never felt so dumb in my life. 从未感到如此废柴。
+
 ### Guy
 
 I'm not that kind of guy, Morty. 我不是那种人，莫蒂。
@@ -767,6 +773,16 @@ I'm not that kind of guy, Morty. 我不是那种人，莫蒂。
 
 
 ## H
+
+### Halt
+
+侧重突然地、决定性地终止、停止某一活动。
+
+The dimension I visited was so advanced, they had also halted the aging process, and everyone there was young, Morty, and they had been forever. 我所访问的次元是如此的先进，他们也停止了衰老的过程，那里的每个人都很年轻，Morty，而且他们一直都很年轻。
+
+
+
+
 
 ### Happy
 
@@ -839,6 +855,9 @@ holy crap = holy shit 我的天哪；我的妈呀；该死
 
 Listen to me, Morty. I know that new situations can be intimidating. 听我说，莫蒂。我知道人在新环境里会感到不安。
 
+### Importantly
+
+More importantly, your father is a horrible influence on our son. 更重要的是，您的父亲对我们的儿子造成了可怕的影响。
 
 ## K
 
@@ -982,7 +1001,11 @@ Could you send me your literature on/about car insurance policies, please? 请�
 
 
 
+### Mattress
 
+床垫
+
+The mattress is too hard for him. 那个床垫对他来说太硬了。
 
 
 
@@ -1070,6 +1093,19 @@ I have no time. = I don't have any time.
  [nuːˈtriːnoʊ] 【核物理学】中微子（微小的电中性粒子）
 
 
+
+### Number
+
+`do a number on sb` 伤害某人；打败某人；使某人难堪；把某人整得很惨。
+
+- I really did a number on my ankle when I fell.
+  我摔倒时真把脚踝弄坏了。
+
+- He has done a number on Boston in the past two years. 
+  过去两年他把 Boston 整得很惨。
+
+- The boss did a number on child laborers by paying them nothing but poor meals.
+  老板显然是欺负那些童工，不付给他们工资只供应粗劣的饭食。
 
 ## O
 
@@ -1342,6 +1378,16 @@ Seatbelts save lives. Buckle up, every time.
 
 
 
+### Serum
+
+血清；免疫血清；美容精华液
+
+I'm pretty close to death, which the serum will prevent. 我快死了，血清可以让我活下去。
+
+
+
+
+
 ### Scalpel
 
 手术刀；柳叶刀
@@ -1579,10 +1625,8 @@ Seatbelts save lives. Buckle up, every time.
   阿尔玛跟我说，西奥多拉没有参加她的派对，这是最后一根稻草。
 - That's the last straw. I'm just staying at home and watching TV tonight. 
   我忍无可忍了。我计划今晚待在家，看电视。
-- Okay, that's it, that's the final straw. 
+- Okay, that's it, that's the final/last straw. 
   好吧，就这样了，我也受够了。
-
-
 
 
 
