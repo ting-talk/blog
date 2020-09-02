@@ -149,7 +149,9 @@ I usually give people the benefit of the doubt.
 - His face was bloated. 
   他的脸肿了。
 
+### Bound
 
+I do not overstep my bounds with Morty. 我和 Morty 的关系保持得很有分寸。
 
 
 
@@ -181,6 +183,16 @@ I usually give people the benefit of the doubt.
 - ✔️ You wanna check out the catalog / video.
 - ❌ Please have a look.
 - ❌ Pease take a look.
+
+
+
+
+
+### Charismatic
+
+充满个人魅力的
+
+He could be charismatic, even mesmerizing, but also cold and brutal. 他有时候极富魅力，能让你着迷，但他也可以冷酷、残忍。by 《乔布斯传》
 
 
 
@@ -310,6 +322,21 @@ Convenience store：便利店（特指 7 × 24）
 
 
 
+### Count
+
+`on the count of three` 我数到三
+
+- On the count of three, I want you to yell "Cheese."  One Mississippi，two Mississippi,  three Mississippi…
+  我数到三，请大家喊出「茄子」。
+- On the count of three, name your favorite creature.
+  数一到三然后说出你最喜欢的东西
+- Now I need your help on the count of three. 
+  现在大家一起数到三
+
+
+
+
+
 ### Cut-throat
 
 Cut-throat competition：恶性竞争
@@ -373,6 +400,17 @@ I can't simply switch off my curiosity.
 
 
 
+### Defy
+
+公开地、勇敢地反对或抵抗，有时含公然挑衅之意。
+
+- It defies all logic that thing. 
+  无法用逻辑理解。
+
+- How dare you defy your masters! 
+  胆敢反抗你的主人！
+
+
 ### Down
 
 `be down with` 好的；同意；愿意
@@ -410,6 +448,23 @@ I can't simply switch off my curiosity.
 
 
 
+### Dump
+
+take a shit 上大号；大便
+
+=
+
+take a dump
+
+= 
+
+drop a log 丢下一根圆木
+
+I'm gonna go take a shit .
+
+I need to use the restroom. 我要上厕所（大小号都一样）。
+
+
 ### Dream
 
 If you don't dream, you might as well be dead.  
@@ -432,7 +487,7 @@ If you don't dream, you might as well be dead.
 
 
 
-### epitome
+### Epitome
 
 /ɪˈpɪtəmɪ/ 典型；缩影
 
@@ -458,12 +513,31 @@ All men are created equal.
 
 
 
+### Errand
+
+[ˈerənd] （短程）差使；跑腿
+
+- I got an errand to run in a whole different dimension. 
+  我要去另外一个次元办点事儿。
+
+- She went off on some errand.
+  她出去办事了。
+
+- Run an errand for me, will you? Go find Roger for me.
+  替我跑跑腿好吗？帮我去找一下罗杰。
+
 ## F
 
 ### Feature vs Function
 
 - `Feature`：What's the difference? (特点、特征)
 - `Function`：What's this? (功能、用途)
+
+
+
+### Flatter
+
+Uh, that's flattering... and a little weird. 好荣幸 但有点诡异。
 
 
 
@@ -555,18 +629,59 @@ I've learned that people will forget what you said, people will forget what you 
 
 
 
+### Freebie 
+
+赠品
+
+- Freebie thanksgiving dinner is now officially over.   
+  免费感恩晚餐正式结束。
+- Everybody likes to get a freebie: something given to you to try for free. 
+  大家都喜欢拿赠品。
+
+
+
 ## G
+
+
+
+### Gaslight
+
+煤气灯；心理操纵（mindfuck）
+
+- Dont't gaslight me.
+
+
 
 ### Get
 
-I got very angry. 我非常生气。
+`I got very angry.` 我非常生气。
 `get` 在这里有「**逐渐变得**」的含义，接近  `become`，是个表示过程的动词，表示状态的变化。而 `I was very angry` 则仅表示当时的状态是生气，并不暗示过程。
 
 
 
-I got a surprise for you, Morty. 
+`I got a surprise for you, Morty.` 莫蒂，我给你一个惊喜。
 
 
+
+`get off sb's back` used to tell someone to stop criticizing you:
+
+- I'm fine. Get off Rick's back. 我挺好的，别找 Rick 麻烦了。
+- Why don't you get off my back! I'm doing my best.
+- Get off my back, I didn't sleep last night. / can't you see how
+  busy I am. / Don't you have anything better to do ?
+
+
+
+`The old guy's still got it.` 宝刀未老。
+
+`go with the flow` 随大流；随波逐流；顺其自然
+
+- Most of them just go with the flow, ending up as something like a gas fitter or a policeman.
+- In high school, I went with the flow.
+
+
+
+I get what you're trying to say, Morty. 我知道你想说什么，莫蒂。
 
 
 
@@ -645,6 +760,12 @@ I got a surprise for you, Morty.
 - A: Do you want one more beer?（你想要再喝一杯啤酒吗？）
 - B: I think I'm good. / No, I'm good. / I'm good. Thanks.（不用了，没关系。）
 
+### Guy
+
+I'm not that kind of guy, Morty. 我不是那种人，莫蒂。
+
+
+
 ## H
 
 ### Happy
@@ -661,7 +782,7 @@ Charisma is important, but so is hard work. You can't always charm your way thro
 
 
 
-### have
+### Have
 
 `have to` 可用于各种时态
 
@@ -669,6 +790,54 @@ Charisma is important, but so is hard work. You can't always charm your way thro
 
 by [have got to 与 get to 的差别 - 希平方](https://www.hopenglish.com/hope-tips-have-got-to)
 
+
+
+### Heist 
+
+/haɪst/ 盗窃（贵重物品）
+
+- He didn't do the heist, I did.   
+  偷东西的不是他，是我。
+
+
+
+### Hook
+
+`Hook up` 勾搭某人
+
+- Friends hooking up is a bad idea. 
+  朋友在一起是件坏事。
+- Now Jack's hooked up, l'm single again. 
+  现在杰克有了新对象，而我又恢复单身了。
+- Are you two still hooking up? 
+  你们俩还在一起吗？
+- You really wanna hook up with her? 
+  你真的很想跟她搞?
+
+### Holy
+
+holy crap = holy shit 我的天哪；我的妈呀；该死
+
+
+
+## I
+
+
+
+### Input 
+
+投入物（指信息、资源等）
+
+- we owe it all to everyone's input.
+  我们的成功要归功于每个人的付出。
+- We listen to our employees and value their input.  
+  我们听取员工的想法，重视他们的意见和建议。
+
+
+
+### Intimidating
+
+Listen to me, Morty. I know that new situations can be intimidating. 听我说，莫蒂。我知道人在新环境里会感到不安。
 
 
 ## K
@@ -742,13 +911,80 @@ Let's make kindness go viral.
 - Any luck? / No luck?   
   怎么样 / 成功了吗？
 
+
+
+### Lumber
+
+木材（伐下后未经削磨的木材，现多用于美国英语中）；缓慢笨拙地移动
+
+Look at it just lumbering around. 看它滚来滚去。
+
+
+
+### Literature 
+
+（公司的）宣传资料，产品简介，服务项目介绍
+
+Could you send me your literature on/about car insurance policies, please? 请给我寄一份贵公司汽车保险方面的资料好吗？
+
+
+
 ### Little
 
-- Little by little：循序渐进
+`Little by little` 循序渐进
+
+
+
+### Limit
+
+`push it to the limit` 超越极限
+
+- I desperately wanna push this A12X to the limit.
+  我破不急待想把 A12X 用到极限。
+- Your expectations are too high so you push yourself to the limit , affecting your state of mind.
+  你对自己的期待过高，也把自己逼到极限，这都会影响你的精神状态。
+
+
 
 
 
 ## M
+
+### Man
+
+有足够的勇气（或能力）
+
+- I told him that he should be man enough to admit he had done wrong.
+  我对他说，他应该勇于承认错误。
+- You can search me if you think you're man enough.
+  有胆的话，你可以搜我的身。
+
+
+
+### Manhandle
+
+推搡；用手搬（大而重的物体）
+
+- Manhandle them. Give them the business.
+  蹂躏它们，大力不要停。
+
+- You don't have to manhandle me. 
+  好了 你不需要动手动脚的。
+
+- Foreign journalists were manhandled by armed police, and told to leave.
+  外国记者们遭到武警的肢体推撞，并被口头驱离。
+
+### Ｍega
+
+非常好的；巨大的；兆；百万倍
+
+Ｍega tree 奇异树
+
+
+
+
+
+
 
 ### Mind
 
@@ -756,6 +992,13 @@ The smaller the mind, the greater the conceit.
 思想越狭隘，自负越膨胀。
 
 
+
+### Millennia
+
+ [mɪˈleniə] 一千年，千周年；千周年纪念日
+
+- For millennia, it was impossible to know. 
+  数千年来，这些都是不解之谜。
 
 ### Money
 
@@ -766,7 +1009,37 @@ The smaller the mind, the greater the conceit.
 
 
 
+### Moral
+
+寓意
+
+- The moral of this story is bros before hoes.
+  我们能从这件事中学到：兄弟比女人更重要。
+
+- Friends 'til the end. Bros before hoes. 
+
+  生死之交。绝不重色轻友。
+
+
+
+
+
+
+
 ## N
+
+### Nip
+
+`nip (something) in the bud` 防患于未然
+
+- `nip` 掐断
+- `bud` 花蕾
+- You gotta nip this in the bud.   
+  你得趁早打消这种想法。
+
+
+
+
 
 ### None
 
@@ -789,6 +1062,12 @@ The smaller the mind, the greater the conceit.
 
 I don't have any friends. = I have no friends.
 I have no time. = I don't have any time.
+
+
+
+### Neutrino
+
+ [nuːˈtriːnoʊ] 【核物理学】中微子（微小的电中性粒子）
 
 
 
@@ -828,6 +1107,16 @@ I have no time. = I don't have any time.
 
 
 
+### Outnumbered
+
+ 敌众我寡
+
+- We are outnumbered.
+- They still outnumber us 1,000 to one.  
+  他们的人数依然是我们的一千倍。
+
+
+
 ### Orchard
 
 We found a pick-your-own apple orchard `'ɔrtʃərd`.   
@@ -835,7 +1124,39 @@ We found a pick-your-own apple orchard `'ɔrtʃərd`.
 
 
 
+### Opinion
+
+I know that's not a popular opinion, but it's my two cents on the issue. 我知道这不是什么主流的观点，但我就是这么想的。
+
+That's just my two cents. 这只是我的个人浅见（愚见）。一种自谦的表达，毕竟自己的想法只值两分钱，所以我是不会强求你一定要同意的！
+
+If you want my two cents, I think you should just quit and look for a better job. 如果你想听听我的浅见的话，我是觉得你应该离职找更好的工作。
+
+
+
+
+
 ## P
+
+### Packaging vs Packing
+
+- **Packaging**：产品的包装，例如彩盒包装、气泡袋包装……
+- **Packing**：打包。有多少箱，每箱多少件。所以装箱单的英文是 Packing list。
+
+
+
+### Pain
+
+- It pains me to sell it. 
+  卖了它我也很心疼。
+- It pains me to bring you this news.   
+  我怀着沉痛的心情给你带来这个消息。
+- I know that it pains you to see this. But I'm fine, ok? I'm fine. 
+  我知道你见我这样很痛苦。但我没事，行了吧？我好极了。
+
+
+
+
 
 ### Pardon
 
@@ -850,10 +1171,33 @@ We found a pick-your-own apple orchard `'ɔrtʃərd`.
 
 
 
-### Packaging vs Packing
+### Pass
 
-- **Packaging**：产品的包装，例如彩盒包装、气泡袋包装……
-- **Packing**：打包。有多少箱，每箱多少件。所以装箱单的英文是 Packing list。
+推后
+
+- I think I'll pass on the hiking next time.  
+  我想远足的事下次再说吧。
+- "You can join us if you like." Brad shook his head. " I'll pass, thanks."   
+  “你要乐意，可以加入我们。”布拉德摇了摇头。“下次吧，谢谢。”   
+
+
+
+### Pitch 
+
+推销（说辞）
+
+- She made a pitch for the job but she didn't get it.
+  她竭力争取这份工作，但却未得到。
+- She pitched her idea to me over a business lunch.
+  她在一次吃工作午餐时竭力向我游说她的想法。
+- Another client, another sales pitch, another moment of feeling disconnected from people. 
+  又是一个客户，又是一通兜揽生意的套话（推销说辞），又是一阵脱离人群的空虚。
+
+
+
+Hey, honey, crazy idea bad pitch let's put your dad here. 
+
+亲爱的。突发奇想，咱把你爸送进去吧。
 
 
 
@@ -908,12 +1252,48 @@ A take precedence over B：A 优先于 B
   商界人士常认为说话时流利程度和表达能力比语法重要。
 
 
+
+### Puke
+
+You make me want to puke. 我看到你就想吐。
+
+### Pussy
+
+猫咪；阴门
+
+`pussy out` 怂了；打退堂鼓；（临阵）退缩
+
+- Don't pussy out on me now.   
+  你现在最好别惹恼我。 
+
+### 
+
+
+
 ## R
 
 ### Real
 
 Keep it real.   
 坚持真实。
+
+
+
+### Reference
+
+`Is this a JoJo reference?` 这是 JoJo 的梗吗？
+
+
+### Respect
+
+with all due respect  给予一切应有的尊重；恕我直言；冒昧的说
+
+- With all due respect, Sir, I cannot agree with your last statement.  
+  恕我直言，先生，我不能同意您最后的那部分阐述。
+
+### Rehash
+
+Okay. Let's not rehash that fight.  好吧，这个问题咱别再吵了。
 
 
 
@@ -924,12 +1304,81 @@ Two roads diverged in a wood, and I took the one less traveled by, and that has 
 
 
 
+### Root
+
+- We're rooting for you.
+  我们支持你。
+- Excellent. Which scientists are you rooting for?   
+  太棒了。你支持哪个科学家？
+
+
+
+### Rut
+
+车辙；刻板乏味的生活；（雄鹿等雄性动物的）发情期
+
+- You keep going to the same bar. You're in a rut.   
+  你每次都去同一间酒吧, 你墨守成规了。  
+- Get out this rut we've been in lately.   
+  摆脱近期的刻板生活。
+
+
+
 ## S
+
+### Sauce
+
+`Szechuan sauce` 川香酱
+
+- Szechuan \ˈsech-ˌwän\  四川的  
+- sauce 酱  
+
+
 
 ### Save
 
 Seatbelts save lives. Buckle up, every time.   
 时刻系好安全带，安全才能时刻在。by《超能陆战队》
+
+
+
+### Scalpel
+
+手术刀；柳叶刀
+
+
+
+### Screwdriver
+
+螺丝刀
+
+- Now hand me that flat-head screwdriver.  
+  把扁头的螺丝刀递给我。  
+
+
+
+
+
+### Shoe
+
+- I don't know when the other shoes' gonna drop.  
+  祸不单行，不知道下一劫是何时。  
+  咱们躲过了初一但是躲不了十五。  
+
+
+
+### Shoot hoops
+
+投篮；打篮球
+
+- Miguel and I go to the park on Sundays, hang out, shoot hoops. 
+  我和米格尔周末会去公园逛逛，打打球。
+- Hey, Joe! Wanna shoot some hoops? 
+  乔伊 你要去打篮球吗？
+- Let's go. Time to go shoot hoops. 
+  我们走吧，该去投篮了。
+
+
 
 
 
@@ -953,6 +1402,17 @@ Seatbelts save lives. Buckle up, every time.
 易错点
 
 -  `I'm feeling bad, I couldn't make it to the party.` 没法去派对，我感到很遗憾。 
+
+
+
+### Sidekick
+
+助手；跟班
+
+- Might make me his new sidekick? 
+  我会成为 Rick 外公的新宠吗？
+
+
 
 
 
@@ -982,6 +1442,52 @@ Seatbelts save lives. Buckle up, every time.
   
 
 
+
+### Slippery
+
+`slippery slope` 滑坡效应
+
+指坏情况或恶习一旦开始就很可能变得愈加严重；小时偷针，大时偷金
+
+- Once we start doing that, it's a slippery slope.   
+  一旦开了头就刹不住车。
+
+
+
+
+
+### Snap
+
+`snap out of it` 振作起来
+
+- I was in a funk, and I couldn't snap out of it.  
+  我前段时间比较丧，就是开心不起来。
+- Any idea when you will snap out of this?   
+  你什么时候能摆脱这种负面情绪啊？
+
+
+
+
+
+### Solid
+
+`do me a solid` = `do me a favor` = `help me out` 帮我个忙
+
+- Hey, would you do me a solid? 
+  Well, what kind of solid?
+- Do me a solid and stop talking.
+- Could you do me a solid, Dan?   
+  Sure. What is it?   
+  Could you take this to HR, please?   
+- Amy, I need you to do me a solid.
+  Shoot. 说吧（交谈时指示对方开始说话）。  
+  My husband and I are going to a party tonight. I can’t find a babysitter on such short notice.  
+  Say no more（我懂了） . Just tell me what time you need me there. 
+
+
+
+
+
 ### Sorry
 
 - I am terribly sorry, but …
@@ -1003,6 +1509,7 @@ Seatbelts save lives. Buckle up, every time.
 	- I got stuck in traffic. / Traffic was slow.
 	- I overslept. / My alarm didn‘t go off.
 	- I misjudged the time.
+
 
 
 ### Social Media
@@ -1036,6 +1543,86 @@ Seatbelts save lives. Buckle up, every time.
 
 
 
+### Split
+
+`split the difference` 折衷；各让一步
+
+- How about splitting the difference, 2% off?   
+  那么我们各自让一半，减价 2% 怎么样？
+- Let's split the difference, and then I'll take it.  
+  我们折中一下，我就买。
+
+
+
+
+
+### Stem
+
+- Your future stems from your present.
+  未来源自当下。
+- I think my problems stem from childhood. 
+  我觉得我的问题源自儿时。
+- It stems from fear. And fear stems from ignorance. 
+  它是在恐惧中产生的，而恐惧来自无知。
+- Embryonic stem cells are particularly powerful.
+  胚胎干细胞尤其强大。
+
+
+
+
+
+### Straw
+
+使人一忍再忍的一系列事件的最后一件
+
+- Alma said to me when Theodora didn't come to her party, it was the last straw. 
+  阿尔玛跟我说，西奥多拉没有参加她的派对，这是最后一根稻草。
+- That's the last straw. I'm just staying at home and watching TV tonight. 
+  我忍无可忍了。我计划今晚待在家，看电视。
+- Okay, that's it, that's the final straw. 
+  好吧，就这样了，我也受够了。
+
+
+
+
+
+### Stride
+
+大步走（a long step）；从容处理
+
+- Beth was struck by how Naomi took the mistake in her stride.
+  娜奥米在失误面前表现得处乱不惊，给贝丝留下了深刻印象。
+- Some people find retiring difficult, but he has taken it all in his stride.
+  有些人感到退休生活很艰难，但他轻而易举地适应了。
+
+
+
+
+
+### Suffice
+
+[sə'faɪs] to be enough
+
+- A simple "No, I didn't drink any beer" would've sufficed.   
+  你直接说「我没喝啤酒」不就得了。
+- A thank you would suffice.   
+  说句谢谢就可以了。
+- Suffice it to say, I was awesome.   
+  只能说，我太厉害了。
+- Just suffice to say she was really into you.   
+  只能说她对你很着迷。
+
+### Sunday
+
+`on Sundays` 每个星期日
+
+- I never get up early on Sundays. 
+  星期天我从来不早起。
+- We do not go to school on Sundays.
+  星期天我们不上学。
+
+
+
 ### Supplier vs Vendor
 
 
@@ -1044,7 +1631,6 @@ Seatbelts save lives. Buckle up, every time.
 - A supplier may be the manufacturer of goods.
 - A supplier is mostly a middleman who supplies goods or services to the vendor.
 
-
 **Vendor**
 
 - A vendor sells the goods to the consumer and is the last person involved in the supply chain.
@@ -1052,16 +1638,34 @@ Seatbelts save lives. Buckle up, every time.
 
 
 
-### Sunday
+### Swing 
 
-`on Sundays` 每个星期日
-- I never get up early on Sundays. 
-  星期天我从来不早起。
-- We do not go to school on Sundays.
-  星期天我们不上学。
+swing by/past （尤指在前往别处的路上）顺便快速访问某地
+
+- I told Paul we’d swing by his place around 7.30.
+  我告诉保罗我们会在7点半左右很快地顺便拜访一下他家。
+
+- We can swing past the store on the way to the party.
+  我们可以在去聚会的路上很快地去一下那家商店。
+
+
+
 
 
 ## T
+
+### Take 
+
+`it takes one to to know one` 彼此彼此
+
+- You say that I'm a cheapskate, do you? well, it takes one to know one!
+  你说我是个吝啬鬼，是不是？彼此彼此！
+
+### Test
+
+You know what? That was all a test, Morty. Just an elaborate test to make you more assertive. 你知道吗？那只是个考验，莫蒂。只是精心的测试，可以使您更加自信。
+
+
 
 ### Think
 
@@ -1137,6 +1741,10 @@ It was really thoughtful of you to remember my birthday.
 
 
 
+### Tug
+
+ You're tugging me too hard. 你把我拽得太紧了。
+
 
 
 ## U
@@ -1159,9 +1767,18 @@ Variety is the spice of life.
 
 ## W
 
-### Waiting
+### Walk
 
-- I am waiting for factory to tell me.
+`walk over` 苛刻对待
+
+- You mustn't let him walk over you like that.  
+  你不能让他那么欺负你。
+
+
+
+### Way
+
+`way to go` 棒棒哒
 
 
 
@@ -1175,6 +1792,16 @@ Variety is the spice of life.
 - ❌ Whatever = I don't care.
 
  
+
+
+
+### Wordplay
+
+文字游戏；文字梗；双关语
+
+- Okay, I'm sensing this is some kind of wordplay. 好的，我可以感到这是什么文字游戏的。
+
+
 
 ###  World
 
@@ -1213,3 +1840,13 @@ The world is not beautiful. Therefore, it is.
 
 - No wonder。  
   难怪。
+
+
+
+## References
+
+| 公众号       | WeChat ID    | 作者        |
+| :----------- | :----------- | :---------- |
+| 英语学习笔记 | ericzenglish | 张海露 Eric |
+| Zinger       | arealzinger  | 邱抓马      |
+
