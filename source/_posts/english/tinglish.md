@@ -14,29 +14,11 @@ tags: 英语
 
 <!-- more -->
 
-## 微信群
-
-在学习英语过程中，我想把那些「怦然心动」的瞬间分享给读者们（seize the moment）。添加庭勃士的微信 `tingtalkme`，街头暗号是 `博客 + 英语群 `，邀你进群围观。Let's have fun and enjoy it.
-
-**Group Notice**
-
-- 表达你的想法时少用表情包，只发送有信息增量的消息。
-- 尽量用英文（但也不排斥中文）去阐述。说错了也无妨，每纠正一次，意味你就进步一点。
-- 请使用英文（半角）标点符号，并在标点符号后面空一格。更多书写细节，参阅这篇 [书写风格指南](https://tingtalk.me/style-guide/)。
-
-**Getting Ready**
-
-- 把群聊设置为「消息免打扰」。
-- 把群昵称改成英文名：
-    - 拼音起名：俞莲舟 👉🏿 Lianzhou Yu
-    - [英文名背后的含义](https://www.behindthename.com/)
-    - [英文名大全](https://babynames.net/)
-
-第一次运营这么大的群聊，如有叨扰，请大胆地退出，这并不会影响我们之间的「交情」。
-
-
-
 ## 方法论
+
+### 郝海龙
+
+推荐购买郝老师的[《英语自学手册》](https://sspai.com/series/77/)（￥119），这可能中文互联网最好的英语教程（兼顾导向），内容翔实，逻辑自洽，解决了我很多年来的英语迷思。
 
 - 我们已经通过**模仿与重复**学会了一种语言：我们的母语。既然你已经学会了母语，那么其实你本身就知道学习一门语言的方法。只是因为母语习得太过自然，我们大都没有认真想过自己究竟是怎样学会一门语言的：模仿与重复是学习语言的唯一有效的方法。所以很多时候，语言学习给聪明人带来的痛苦甚至更大一些，因为他失去了「聪明」所能带来的巨大优势。
 
@@ -52,11 +34,38 @@ tags: 英语
   - 花大量的时间在错误的英语用法上，以至于我们大脑记忆中的用法有一多半都是错误的，脱口而出的自然也是错误的英语。
   - 我们的词汇量被锁定在一个远远不够用的水平。
 
-by [郝海龙](https://sspai.com/series/77/)
+
+
+### Tinyfool
+
+英语学习方法系列（交流导向）on YouTube：
+
+- [为什么要建立以听力为主导的英语学习方式，以及如何轻松地突破英语听说读写](https://www.youtube.com/watch?v=_l8Rn6tPs6o&list=PLNEGQlCPzlkJVzbjuQOu0CZGKyn29CnT3&index=1)
+  - Stage 1：美剧/英剧（生词密度低）
+  - Stage 2：英文播客（生词密度中），后期可以倍速播放
+- [怎么用美剧/英剧来提高英语听力水平（如何用舒适的英语学习方式获得最好的效果）](https://www.youtube.com/watch?v=FGiSZP7iTUk&list=PLNEGQlCPzlkJVzbjuQOu0CZGKyn29CnT3&index=2)
+  - 感兴趣的剧
+  - 能听懂 80% 的剧
+  - 关闭字幕
+  - 不要边查单词边看剧
+- [为什么学英语总感觉没有时间？ 如何获得无穷无尽的学习时间](https://www.youtube.com/watch?v=jhMcoVz5dzI&list=PLNEGQlCPzlkJVzbjuQOu0CZGKyn29CnT3&index=3)
+  - 关键不是时间管理
+  - 要把我们的娱乐建立在我们的学习基础上
+  - 我们应该如何战胜空虚无聊寂寞冷
+- [如何构建循序渐进的英语写作学习体系](https://www.youtube.com/watch?v=_6qBHmXBxnc&list=PLNEGQlCPzlkJVzbjuQOu0CZGKyn29CnT3&index=4)
+  - 不要跟中国人练习
+  - 去外国人为主的地方练习：不要去中文英语角
+  - 英文社区推荐：Quora（英文问答社区）、Reddit（英文论坛）
+  - 一定要用拼写检查软件：Grammarly
+- [如何通过大量的阅读英文新闻扩大词汇量](https://www.youtube.com/watch?v=qdrXD4XLlr0&list=PLNEGQlCPzlkJVzbjuQOu0CZGKyn29CnT3&index=5)：[英语轻松读 App](https://tiny4.org/enreader/)
+  - 网上和现实生活中的英文资料则经常包含很多生词。如果每个单词都停下来去查，阅读的效率很低，但是直接跳过的话，很多文章就完全读不懂了。而提高英文阅读能力的唯一行之有效的办法就是多读，怎么在方便、效率和难度之间找到一个平衡点？
+  - [《英语轻松读》开发手记 —— 为什么我们做了一款不要钱的学英语的 App](https://codechina.org/2019/11/enreader-develop-note/)
+- [英语思维存在么？如何构建英语思维？](https://www.youtube.com/watch?v=agThvNFmlUA&list=PLNEGQlCPzlkJVzbjuQOu0CZGKyn29CnT3&index=6)
+  - 用英语去学习新东西。你会发现你新学的东西很多词汇，你根本不知道中文咋说。
 
 
 
-### 打造英语环境
+**打造英语环境**
 
 
 - 把手机（微信）、电脑和浏览器的语言全部切换为 English。
@@ -370,6 +379,14 @@ by [郝海龙](https://sspai.com/series/77/)
 
 
 
+
+
+## 常写作
+
+请使用英文（半角）标点符号，并在标点符号后面空一格。更多书写细节，参阅这篇 [书写风格指南](https://tingtalk.me/style-guide/)。
+
+
+
 ## 谈翻译
 
 今日的中文虽因地区不同而互见差异，但共同的趋势都是繁琐与生硬，例如：
@@ -383,6 +400,10 @@ by [郝海龙](https://sspai.com/series/77/)
 - 明明可以说「这本传记很动人」、「这本传记引人入胜」，或者干脆说「这本传记很好看」，却要说成「这本传记的可读性颇高」
 
 对于这种化简为繁、以拙代巧的趋势，有心人如果不及时提出警告，我们的中文势必愈变愈差，而道地中文原有的那种美德，那种简洁而又灵活的语文生态，也必将面目全非。by [余光中：怎样改进英式中文？──论中文的常态与变态](https://news.mingpao.com/ins/%E6%96%87%E6%91%98/article/20171215/s00022/1513328994116/%E6%80%8E%E6%A8%A3%E6%94%B9%E9%80%B2%E8%8B%B1%E5%BC%8F%E4%B8%AD%E6%96%87-%E2%94%80%E2%94%80%E8%AB%96%E4%B8%AD%E6%96%87%E7%9A%84%E5%B8%B8%E6%85%8B%E8%88%87%E8%AE%8A%E6%85%8B%EF%BC%88%E6%96%87-%E4%BD%99%E5%85%89%E4%B8%AD%EF%BC%89)，辑自《明报月刊》1987 年 10 月号。
+
+
+
+
 
 
 
@@ -427,3 +448,12 @@ by [郝海龙](https://sspai.com/series/77/)
 
 
 其实很多小伙伴的单词量都很不少，但就是开不了口，这也许是因为不知道如何把这些单词组合成一句话。那就让我们回到童年，和孩子一起，用最初的方式掌握一门语言。
+
+
+
+### 英文名
+
+- 拼音起名：俞莲舟 👉🏿 Lianzhou Yu
+- [英文名背后的含义](https://www.behindthename.com/)
+- [英文名大全](https://babynames.net/)
+

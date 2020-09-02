@@ -40,6 +40,8 @@ tags: [英语, 佳句]
 - How about we go on a picnic this weekend?  
   我们周末去野餐如何？（How about 后面可以接句子，What about 不可以）
 
+
+
 ### Already 🆚 Yet
 
 **Already 多用于肯定句中**
@@ -49,6 +51,15 @@ tags: [英语, 佳句]
 **Yet 多用于疑问句与否定句中**
 - Have you finished it yet? 
 - I haven't finished it yet.
+
+
+
+### Advertised
+
+`as advertised` 名不虚传
+
+- One thing's for sure, you're just as pretty as advertised.   
+  不过有件事可以确定，你和传言中一样帅气。
 
 
 
@@ -69,9 +80,36 @@ We all know that we should never judge a book by its cover, but in reality peopl
 
 
 
+### Authority
+
+`I have it on good authority` 我敢保证
+
+- I have it on very good authority that your life's in danger. 
+  我有可靠消息，你现在有生命危险。
+
+
+
+### Axe
+
+裁员；撤销
+
+- Over 500 staff are facing the axe.
+  500 多位员工面临被解雇的命运。
+
+
+
 
 
 ## B
+
+
+
+### Begin
+
+Well begun is half done.  
+好的开始是成功的一半。
+
+
 
 ### Benefit
 
@@ -80,10 +118,38 @@ I usually give people the benefit of the doubt.
 
 
 
-### Begin
 
-Well begun is half done.  
-好的开始是成功的一半。
+
+
+
+### Best
+
+击败；战胜
+
+- You bested us, party beast. And to that, I doff my cap. 
+  败给你们了，舞会魔王。为此，我脱帽致敬。
+
+
+
+### Bite
+
+上钩；咬钩；吞饵
+
+-  Okay, I'll bite.
+   我会上钩 / 咬饵（哎呀，别卖关子啦，快告诉我为什么。）
+-  He'll bite. Get him on the phone. 
+   他会上钩的，给他打电话。
+
+
+
+### Bloated
+
+肿胀的；傲慢的；肚子胀的（吃撑了的）
+
+- His face was bloated. 
+  他的脸肿了。
+
+
 
 
 
@@ -147,6 +213,23 @@ Well begun is half done.
 	中国人思想开明，充满积极乐观的态度。
 - Chinese food is exquisite.   
 	中国美食十分精致。
+
+
+
+### Class
+
+`cut class` 逃课
+
+- Apparently, she's been cutting classes all week.   
+  显然，她这周都没去学校。
+- Dan, you've been sleeping all day, cutting class.   
+  丹，你整天都在睡觉和翘课。
+- Oh, my god. It was so worth cutting class to hear this.   
+  哦，天呐！翘班听到这个消息真是太值得了。
+- That's no excuse for talking back to your teacher, or cutting class, or dropping out of school. 
+  这些不是你去跟老师顶嘴、逃学或缀学的借口。
+
+
 
 ### Correct
 
@@ -240,6 +323,12 @@ I can't simply switch off my curiosity.
 
 
 
+### Cyberstalker
+
+网络跟踪狂
+
+
+
 
 
 
@@ -271,6 +360,56 @@ I can't simply switch off my curiosity.
 
 
 
+### Deal
+
+`A deal's a deal ` 一言为定
+
+- You ripped me off. A deal's a deal. 
+  你坑了我。交易就是交易。
+- Don't think you'll raise the price, a deal's a deal.
+  你休想坐地起价，我们早有协议。
+- Do we have a deal? 
+  It's a deal. 就这么定了。
+
+
+
+### Down
+
+`be down with` 好的；同意；愿意
+
+- Want to go grab some pizza?
+  Okay, I'm down with that.
+- I am up for movies, but I am not down with your movie choice. 
+  我想去看个电影。但是你选的电影我觉得不行。
+- We are going to the movies later tonight. Are you down?
+  我们今晚晚些时候准备去看个电影。想一起吗？
+- I'm down.
+  我加一；我也要。
+
+
+
+`come down with` 患上（小病）
+
+- I think I'm coming down with flu.
+  我想我染上流感了。
+
+
+
+
+
+### Duck
+
+（快速低头或弓身以）躲闪
+
+- Duck! Down! Hold on, hold on. 
+  快趴下！快趴下！抓紧！抓紧！
+- He ducked in time to avoid a blow. 
+  他及时地弯下身，躲开了一击。
+
+
+
+
+
 ### Dream
 
 If you don't dream, you might as well be dead.  
@@ -281,6 +420,36 @@ If you don't dream, you might as well be dead.
 
 
 ## E
+
+
+
+### Eon
+
+/ˈiːən/ 千万年
+
+- I've been here for eons. 
+  我已经存在了亿万年。
+
+
+
+### epitome
+
+/ɪˈpɪtəmɪ/ 典型；缩影
+
+- He's kind of the epitome of an American businessman. I really like that. He is self-established. 
+  他是美国商人的典范。我真的很欣赏他这点。他是白手起家的。
+- That epitome of rugged wildness, the grizzly bear, seems to be the only species other than humans to have invented the comb. 
+  粗犷野性的象征——灰熊，看来是除了人类以外唯一一种发明了梳子的动物。
+- In Nigeria, maybe now it's changing a little bit, but in Nigeria, eating plain, white rice is the epitome of poverty. 
+  现在尼日利亚的情况可能有了一些改变，不过在尼日利亚，吃白饭代表着贫穷。
+- Even now in her sixties, she is the epitome of French elegance.
+  即使现在已经年届花甲，她仍堪称法国人优雅风度的典范。
+- Maureen was the epitome of sophistication.
+  莫琳是个典型的老油条。
+
+
+
+
 
 ### Equal
 
@@ -306,6 +475,20 @@ All men are created equal.
   你发烧了？多喝热水，不会有事的。
 - I hope the children are all right.   
   我希望孩子们平安无事。
+
+### Finger
+
+`put one's finger on sth`
+
+to discover the exact reason why a situation is the way it is, especially when something is wrong
+
+- There's something odd about him, but I can't quite put my finger on it.
+- He couldn't put his finger on the problem.   
+  他无法指出问题的所在。
+- I can't put my finger on why.  
+  看不出问题所在。
+
+
 
 
 
@@ -345,6 +528,22 @@ Stop focusing on perfect, start focusing on done.
   多余的调料会破坏食物本来的风味。
 
 
+
+### Foot
+
+`get off on the wrong foot` 出师不利
+
+- Simon and I got off on the wrong  foot but we're good friends now.   
+  我和西蒙一开始关系不好，但是现在成了好朋友。
+- I know we got off on the wrong foot, but I'm willing to start over.
+  我知道我们一开始就处不好，但是我愿意从头来过。
+- I finally got a date with that new girl in class but I sure got off on the wrong foot with her: I had car trouble and got to her place almost two hours late.
+  那天我终于和班上新来的那个女同学约好了出去玩。可是，当天我的车出了问题，晚了两个小时才去接她，所以我一开头就把事弄糟了。
+- get/start off on the right foot
+  一上来就一切顺利
+
+
+
 ### Forget
 
 Just realized I forgot to add the shipping.
@@ -362,6 +561,10 @@ I've learned that people will forget what you said, people will forget what you 
 
 I got very angry. 我非常生气。
 `get` 在这里有「**逐渐变得**」的含义，接近  `become`，是个表示过程的动词，表示状态的变化。而 `I was very angry` 则仅表示当时的状态是生气，并不暗示过程。
+
+
+
+I got a surprise for you, Morty. 
 
 
 
@@ -386,6 +589,13 @@ I got very angry. 我非常生气。
   去教堂，去做礼拜
 - go to hospital
   去医院
+
+
+
+
+
+
+
 
 
 ### Good night
@@ -448,6 +658,16 @@ You make my day!
 
 Charisma is important, but so is hard work. You can't always charm your way through life.  
 魅力固然重要，努力工作也同样重要。你不能一辈子都靠卖弄你的魅力过日子（帅又不能当饭吃，但下饭）。
+
+
+
+### have
+
+`have to` 可用于各种时态
+
+`have got to` 只用于现在时，口语还会缩写成 `got to`
+
+by [have got to 与 get to 的差别 - 希平方](https://www.hopenglish.com/hope-tips-have-got-to)
 
 
 
