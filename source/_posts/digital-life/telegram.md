@@ -487,11 +487,9 @@ Telegram 会记住你的操作习惯，下次发送图片时不必再次勾选�
 - 方法一：修改 [图贴式](https://www.tutieshi.com/compress/) 的压缩质量等级（压得太狠会失真）
 - 方法二：使用 [docsmall](https://docsmall.com/gif-compress)（网站）或者 [图压](https://tuya.xinxiao.tech/)（软件）大于 1 MB 的 GIF
 
-如果是 iOS 设备，使用 Shu 这个 App 一键搞定以上步骤（转换格式 + 压缩图片）。
+为什么不用 Photoshop 压缩 GIF？因为会产生毛糙的白边。
 
 最后推荐一个可以批量修改图片大小的网站：[iLoveIMG](https://www.iloveimg.com/zh-cn/resize-image)
-
-
 
 
 
