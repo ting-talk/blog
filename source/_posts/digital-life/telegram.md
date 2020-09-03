@@ -1111,10 +1111,11 @@ https://rsshub.app/xiaoyuzhou
 
 
 
-**其它点歌机器人**
+**其它点歌（下歌）机器人**
 
-- [VKM Bot](https://t.me/vkm_bot)：可以听李志的歌。
-- [Spotify](https://t.me/spotifybot)：[目前全球最大的串流音乐服务商](https://zh.wikipedia.org/zh/Spotify)。
+- [@vkm_bot](https://t.me/vkm_bot)
+- [@u2bu_mp3_bot](https://t.me/u2bu_mp3_bot)
+- [@spotifybot](https://t.me/spotifybot)：[目前全球最大的串流音乐服务商](https://zh.wikipedia.org/zh/Spotify)。
 - [@cctracks](https://t.me/cctracks)：免版权音乐（但不可商用），但频道已经停止更新，期待回归。
 
 
