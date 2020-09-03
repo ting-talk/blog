@@ -468,28 +468,28 @@ Telegram 会记住你的操作习惯，下次发送图片时不必再次勾选�
 
 
 
-**如何导出电报表情包**
+📤 **如何导出电报上的表情包**
 
 1. 选择一个 Sticker to GIF Converter，例如 [@tgstogifbot](https://t.me/tgstogifbot)
 2. 发送 Stickers，Bots 就可以把 Telegram 上 tgs 格式的表情包转换为 gif 格式
 
 
 
-**如何压缩 GIF，使之可以在微信上自动播放**
+🗜️ **在限制多多的微信 App 上，小于 1 MB 的 GIF 图片才会自动播放。 如何压缩**
 
 1. 打开 [图贴式](https://www.tutieshi.com/compress/)（网站），选择 GIF 压缩
 2. 宽度设置为 `240`，压缩质量 70（默认）
 3. 选择或拖拽一个或多个 GIF 到压缩窗口，`开始压缩`
-4. （推荐使用 [IDM](https://tingtalk.me/windows/#%E4%B8%8B%E8%BD%BD%E5%B7%A5%E5%85%B7)）`打包下载`
+4. 压缩完成后，（推荐使用 [IDM](https://tingtalk.me/windows/#%E4%B8%8B%E8%BD%BD%E5%B7%A5%E5%85%B7)）`打包下载`
 
-在限制多多的微信 App 上，1MB 以下 GIF 图片才能自动播放。如何压缩到 1 MB 以下：
+此时某些表情包可能大于 1 MB，需要再压一次：
 
 - 方法一：修改 [图贴式](https://www.tutieshi.com/compress/) 的压缩质量等级（压得太狠会失真）
-- 方法二：使用 [docsmall](https://docsmall.com/gif-compress)（网站）或者 [图压](https://tuya.xinxiao.tech/)（软件）大于 1 MB 的 GIF
+- 方法二：使用 [docsmall](https://docsmall.com/gif-compress)（网站）或者 [图压](https://tuya.xinxiao.tech/)（软件）二次压缩
 
 为什么不用 Photoshop 压缩 GIF？因为会产生毛糙的白边。
 
-最后推荐一个可以批量修改图片大小的网站：[iLoveIMG](https://www.iloveimg.com/zh-cn/resize-image)
+最后推荐一个可以批量修改图片尺寸的网站：[iLoveIMG](https://www.iloveimg.com/zh-cn/resize-image)
 
 
 
