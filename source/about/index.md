@@ -93,6 +93,8 @@ date: 2017-07-15 11:03:10
 
 ![alipay-reward.jpg](https://i.loli.net/2020/04/30/FI8bTwv5tuhBarg.jpg)
 
+或者通过 [PayPal](https://paypal.me/WeitingZhong?locale.x=zh_XC) 激励我。
+
 
 
 通过博客赞赏码，我收到了以下读者最直接的鼓励。这会激励我保持创作的动力，纵使年纪轻轻，已经长满了白头发，博客和公众号都在国内被封杀了。但是我相信：每个时代都会悄悄犒赏，那些爱学习爱分享的人。

@@ -75,6 +75,26 @@ tags: 网上冲浪指南
 - 方法：在 `baidu` 后面加 `wp`（网盘 / 我呸的拼音首字母）
 - 例如：`pan.baidu.com/s/1dyGdFw` > `pan.baiduwp.com/s/1dyGdFw`
 
+
+
+## 压缩 GIF
+
+**使之可以在微信上自动播放**
+
+1. 打开 [图贴式](https://www.tutieshi.com/compress/)（网站），选择 GIF 压缩
+2. 宽度设置为 `240`，压缩质量 70（默认）
+3. 选择或拖拽一个或多个 GIF 到压缩窗口，`开始压缩`
+4. （推荐使用 [IDM](https://tingtalk.me/windows/#%E4%B8%8B%E8%BD%BD%E5%B7%A5%E5%85%B7)）`打包下载`
+
+在限制多多的微信 App 上，1MB 以下 GIF 图片才能自动播放。如何压缩到 1 MB 以下：
+
+- 方法一：修改 [图贴式](https://www.tutieshi.com/compress/) 的压缩质量等级
+- 方法二：使用 [docsmall](https://docsmall.com/gif-compress)（网站）或者 [图压](https://tuya.xinxiao.tech/)（软件）大于 1 MB 的 GIF
+
+最后推荐一个可以批量修改图片大小的网站：[iLoveIMG](https://www.iloveimg.com/zh-cn/resize-image)
+
+
+
 ## 压制 B 站视频
 
 - 编码器：H.264

@@ -455,16 +455,41 @@ Telegram 会记住你的操作习惯，下次发送图片时不必再次勾选�
 **Emoji**
 
 - [按关键字搜索表情（Search emoji by keyword）](https://telegram.org/blog/unsend-privacy-emoji#emoji-search-and-gifs)：在消息框输入关键词，就会弹出相关的 Emoji。
+  - [能触发 Emoji 的英文关键词合集](https://translations.telegram.org/en/emoji)
+  - [能触发 Emoji 的简体中文关键词合集](https://translations.telegram.org/zh-hans/emoji)
 - 如何在句中（mid-message）快捷添加 Emoji？语法是 `:（英文半角冒号）` + `关键词`。例如输入 I am `:happy`，就会弹出开心相关的 Emoji，这样就不用从 Emoji 面板挑选 Emoji 了。
-- [能触发 Emoji 的英文关键词合集](https://translations.telegram.org/en/emoji)
-- [能触发 Emoji 的简体中文关键词合集](https://translations.telegram.org/zh-hans/emoji)
 
 
 
 **Stickers（表情包）**
 
-- 在 [@sticker](https://t.me/sticker) + Emoji，可以检索**所有**与 Emoji 相关表情包，例如 `@sticker 👍`。
+- 在聊天窗口输入 [@sticker](https://t.me/sticker) + Emoji，可以检索**所有**与 Emoji 相关表情包，例如 `@sticker 👍`。
 - 部分 Emoji 支持动态播放（Animated Emoji）：在任意聊天窗口发送 1 个 [非礼勿视猿](https://zh.wikipedia.org/zh/%E4%B8%89%E7%8C%BF) 🙈（[See-No-Evil Monkey](https://emojipedia.org/see-no-evil-monkey/)），再动 Ta 试试，可爱吧？！👉 [Telegram Animated Emoji List（电报动态大表情合集）](https://tingtalk.me/telegram-animated-emoji/)
+
+
+
+**如何导出电报表情包**
+
+1. 选择一个 Sticker to GIF Converter，例如 [@tgstogifbot](https://t.me/tgstogifbot)
+2. 发送 Stickers，Bots 就可以把 Telegram 上 tgs 格式的表情包转换为 gif 格式
+
+
+
+**如何压缩 GIF，使之可以在微信上自动播放**
+
+1. 打开 [图贴式](https://www.tutieshi.com/compress/)（网站），选择 GIF 压缩
+2. 宽度设置为 `240`，压缩质量 70（默认）
+3. 选择或拖拽一个或多个 GIF 到压缩窗口，`开始压缩`
+4. （推荐使用 [IDM](https://tingtalk.me/windows/#%E4%B8%8B%E8%BD%BD%E5%B7%A5%E5%85%B7)）`打包下载`
+
+在限制多多的微信 App 上，1MB 以下 GIF 图片才能自动播放。如何压缩到 1 MB 以下：
+
+- 方法一：修改 [图贴式](https://www.tutieshi.com/compress/) 的压缩质量等级（压得太狠会失真）
+- 方法二：使用 [docsmall](https://docsmall.com/gif-compress)（网站）或者 [图压](https://tuya.xinxiao.tech/)（软件）大于 1 MB 的 GIF
+
+如果是 iOS 设备，使用 Shu 这个 App 一键搞定以上步骤（转换格式 + 压缩图片）。
+
+最后推荐一个可以批量修改图片大小的网站：[iLoveIMG](https://www.iloveimg.com/zh-cn/resize-image)
 
 
 
@@ -1135,7 +1160,7 @@ https://rsshub.app/xiaoyuzhou
 | [@sssoou_bot](https://t.me/sssoou_bot)             | Telegram 搜索，支持中文。                                    |
 | [@Stickers](https://t.me/Stickers)                 | 创建属于自己的表情包。                                       |
 | [@tweet_for_me_bot](https://t.me/tweet_for_me_bot) | 在 Telegram 上发布 Twitter 动态。                            |
-| [@tgstogifbot](https://t.me/tgstogifbot)           | 把 Telegram 上 tgs 格式的表情包转换为 gif 格式。使用 [图压](https://tuya.xinxiao.tech/) 压缩到  1MB 以下，就能在微信自动播放。 |
+| [@tgstogifbot](https://t.me/tgstogifbot)           | 把 Telegram 上 tgs 格式的表情包转换为 gif 格式。             |
 | [@telegraph](https://t.me/telegraph)               | 登录和编辑 [Telegraph](https://telegra.ph/) 文章，并 [统计 telegra.ph 的浏览量](https://telegram.org/blog/telegraph#telegraph-api)。 |
 | [@verifybot](https://t.me/verifybot)               | 加了官方认证后，名字后面有个 ✅（[verify a big andactive official channel, bot or public group](https://telegram.org/verify)）。 |
 
