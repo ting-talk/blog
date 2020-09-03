@@ -16,8 +16,6 @@ tags: [英语, 佳句]
 
 ### About
 
-### How about 🆚 What about
-
 **`What about`: objection or potential problem**
 
 - Honey, I got a new job but I need to move to Beijing.  
@@ -42,6 +40,15 @@ tags: [英语, 佳句]
 
 
 
+### Advertised
+
+`as advertised` 名不虚传
+
+- One thing's for sure, you're just as pretty as advertised.   
+  不过有件事可以确定，你和传言中一样帅气。
+
+
+
 ### Already 🆚 Yet
 
 **Already 多用于肯定句中**
@@ -54,12 +61,17 @@ tags: [英语, 佳句]
 
 
 
-### Advertised
+### Anal
 
-`as advertised` 名不虚传
+[ˈeɪnl] 肛门的，直肠的
 
-- One thing's for sure, you're just as pretty as advertised.   
-  不过有件事可以确定，你和传言中一样帅气。
+anal sex 肛交
+
+You're young. You've got your whole life ahead of you, and your anal cavity is still taut, yet malleable. 你还有大好人生，肛门也紧致有弹性。
+
+- cavity 比 hole 正式，指实体内中或表面的空洞或空腔。
+- taut [tɔːt] 紧绷的
+- malleable [ˈmæliəbl] 可塑的
 
 
 
@@ -152,6 +164,12 @@ I usually give people the benefit of the doubt.
 ### Bound
 
 I do not overstep my bounds with Morty. 我和 Morty 的关系保持得很有分寸。
+
+
+
+### Butthole
+
+When we get to customs, I'm gonna need you to take these seeds into the bathroom, and I'm gonna need you to put them way up inside your butthole, Morty. 当我们到了海关，我需要你把这些种子带到浴室，我需要你把它们放进你的屁股里，莫蒂。
 
 
 
@@ -433,6 +451,10 @@ I can't simply switch off my curiosity.
 
 
 
+### Done
+
+I'm done being the voice of reason. 我真受够了一直做个理智的人。
+
 
 
 ### Duck
@@ -527,6 +549,10 @@ All men are created equal.
   替我跑跑腿好吗？帮我去找一下罗杰。
 
 ## F
+
+### Face
+
+Told you! In your face! He is ruining our child. 我就说嘛！我们的孩子快被他毁了。
 
 ### Feature vs Function
 
@@ -795,6 +821,18 @@ You make my day!
 
 Charisma is important, but so is hard work. You can't always charm your way through life.  
 魅力固然重要，努力工作也同样重要。你不能一辈子都靠卖弄你的魅力过日子（帅又不能当饭吃，但下饭）。
+
+
+
+
+
+### Hassle 
+
+- You need to stop hassling her. 
+  你别再烦她了
+
+- That's a very popular way to pay nowadays, totally hassle free! 
+  现在这种方式很流行，完全没有麻烦。
 
 
 
@@ -1314,6 +1352,14 @@ Keep it real.
 坚持真实。
 
 
+
+### Rectum
+
+[ˈrektəm] 直肠
+
+These seeds aren't gonna get through customs unless they're in someone's rectum, Morty.
+
+这些种子只有在别人的直肠里才能通过海关，莫蒂。
 
 ### Reference
 

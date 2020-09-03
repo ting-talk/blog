@@ -17,7 +17,13 @@ Wubba Lubba dub dub. 这部地球上脑洞最大的科幻情景喜剧动画（An
 
 
 
-### 中文解说
+## S1E1
+
+David James Armsby 做了一个同人视频 Glenn the Gromflomite（[YouTube](https://www.youtube.com/watch?v=qYbtfzDr_Jw) | [哔哩哔哩](https://www.bilibili.com/video/av13478975/)），讲述了第一个被 Morty 射杀的海关外星人 Glenn 背后的家庭故事。
+
+
+
+## 中文解说
 
 [安迪视频](https://space.bilibili.com/357261525)，用心创造能让观众融入的故事世界。推荐每看完一集，配合一集肝帝的解说视频。
 
