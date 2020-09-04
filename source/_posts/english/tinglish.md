@@ -344,7 +344,7 @@ tags: 英语
 
 
 
-## 纠发音
+## 大胆说
 
 ### 英式 OR 美式
 
@@ -359,6 +359,10 @@ tags: 英语
 - Rachel’s English：Sounds of American English（美音）：[YouTube](https://www.youtube.com/playlist?list=PLB043E64B8BE05FB7) / [Bilibili 英文字幕版](https://www.bilibili.com/video/av50021902/) / [Bilibili 机翻中文字幕版](https://www.bilibili.com/video/BV1yb411y7wm) / [Rachel’s English 官网](https://rachelsenglish.com/)
 
 闲暇之余，你也可以找 [Fanfan 老师](https://space.bilibili.com/346396741)。
+
+
+
+> 脱口秀（Stand-up Comedy）演员 Norah 有个非常著名的关于口语学习的段子《学好口语的诀窍》，英文名叫 We Should All Learn Acting，直译过来是「我们都应该学习表演」（[YouTube](https://www.youtube.com/watch?v=hqKYoZKnqAE) | [哔哩哔哩](https://www.bilibili.com/video/BV1hK4y1k7vu)），段子大概的意思是外语要说得地道，全靠演技，强烈推荐大家收看。虽然是个搞笑段子，但不得不说，确实揭示了语言学习的某种本质。by [郝海龙](https://sspai.com/post/62428)
 
 
 
