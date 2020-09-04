@@ -29,6 +29,7 @@ tags: 设计
 - 托腮
 - 回眸连拍
 - 侧着站比正面站更有层次感
+- 更多 Pose，去 [FindPose](https://www.v2fy.com/jikemiji/find-pose/) 看看
 
 **与环境互动，融入场景中**
 - 与花草互动

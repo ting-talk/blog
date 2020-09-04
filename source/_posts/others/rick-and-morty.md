@@ -35,6 +35,35 @@ David James Armsby 做了一个同人视频 Glenn the Gromflomite（[YouTube](ht
 
 
 
+## 番外篇
+
+官方动画外传「莫蒂法庭」剧情与彩蛋
+
+哔哩哔哩：
+
+- [视频解说 by 安迪](https://www.bilibili.com/video/BV12T4y1L7C4)
+- [黑白版（中英字幕） by Adult Swim](https://www.bilibili.com/video/bv1tE41137sL/)
+- 
+
+
+
+State of Georgia Vs. Denver Fenton Allen | Rick and Morty
+
+YouTube：
+
+- [黑白 by Adult Swim](https://www.youtube.com/watch?v=7vN_PEmeKb0)
+- [动画 by tiarawhy](https://www.youtube.com/watch?v=5FGwEIiMVDg)
+
+- 
+
+
+
+ The Delicious Taste of Ice Cream：[哔哩哔哩](https://www.bilibili.com/video/BV17W411Q7 Tm) | [YouTube](https://www.youtube.com/watch?v=390GngAClgE)
+
+Rick & Morty | A look at Rick Sanchez exciting life in Galactic Federation Lockup：[YouTube](https://www.youtube.com/watch?v=AzZ4K1OzomE)
+
+
+
 ## 经典台词
 
 Rick: Listen Morty, I hate to break it to you, but what people calls "love" is just a chemical reaction that compels animals to breed. It hits hard, Morty, then it slowly fades, leaving you stranded in a failing marriage. I did it. Your parents are gonna do it. Break the cycle, Morty. Rise above. Focus on science.

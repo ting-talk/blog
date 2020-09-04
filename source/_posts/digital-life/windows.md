@@ -75,7 +75,7 @@ tags: [Windows, 网上冲浪指南]
 
 **[虚拟桌面](https://sspai.com/post/43187)**
 
-上班摸鱼的必备技能：一个桌面工作，一个桌面玩乐。
+上班摸鱼的必备技能：一个桌面工作，一个桌面玩乐。或者在浏览器打开 [fakeupdate.net](https://fakeupdate.net/)，选一张系统「升级」的图片，全屏（`F11`），开始划水。
 
 | 按该键           | 执行以下操作                    |
 | ------------------------------ | ---------------------------------- |
@@ -412,15 +412,25 @@ CertUtil -hashfile D:\Downloads\Shadowsocks-4.1.9.3.zip SHA512
 
 #### IDM
 
-Internet Download Manager 是一个多线程下载管理器。虽然长得丑，但是可以大大提升你的下载幸福感。
+Internet Download Manager 是一个多线程下载管理器。虽然长得丑，但是可以大大提升你的下载幸福感。可惜只支持超文本（安全）传输协议（HTTP / HTTPS）和文件传输协议（FTP），不支持 BitTorrent（BT）、磁力链接（Magnet URI scheme）、电驴链接（eD2k）和迅雷链接（Thunder）。这个时候就得迅雷和其他下载软件出场了。
 
 > 什么是多线程下载？打个比方，现在要接满 1 桶水，浏览器下载时只能开 1 个水龙头，接满 1 桶水时间为 1 小时。多线程下载器可以 32 个水龙头同时接水，接满 1 桶水时间缩短到 2 分钟，足足快了 32 倍。by [网盘直链下载助手](https://www.baiduyun.wiki/zh-cn/)
 
+**下载**
+
 
 - [Internet Download Manager 下载地址](https://www.lanzous.com/b0ug2rrc)（经济宽裕的读者还请付费支持）
+
+**用途**
+
 - 配合 [网盘助手](https://greasyfork.org/zh-CN/scripts/378301-%E7%BD%91%E7%9B%98%E5%8A%A9%E6%89%8B) 这个 [油猴脚本](https://tingtalk.me/userscripts/) 可以 [解决百度网盘限速](https://www.runningcheese.com/baiduyun)。如果网盘助手的生成链接不能下载，请更换 [应用 ID](https://greasyfork.org/zh-CN/scripts/378301-%E7%BD%91%E7%9B%98%E5%8A%A9%E6%89%8B)。
-- `下载` - `选项` - `连接`： `默认最大连接数` 修改为 `32`
-- 如何下载 [被 Q](https://tingtalk.me/fq/) 的文件：`下载` - `选项` -  `代理服务器` - `手动配置代理 / socks`
+- 下载网页的各种音频和视频，例如 YouTube 视频。
+
+**技巧**
+
+
+- `下载` - `选项` - `连接`： `默认最大连接数` 修改为 `32`（不过开太多线程可能会被网站 Ban）
+- 如何下载 [被墙](https://tingtalk.me/fq/) 的文件：`下载` - `选项` -  `代理服务器` - `手动配置代理 / socks`
   - `地址`：`127.0.0.1`
   - `端口`：`1080`
   - 配置好后，IDM 就可以下载被 Q 的内容了。但是下载完记得 `不使用代理 / socks`，除非你有很多 [番茄](https://tingtalk.me/fq/)。
@@ -428,7 +438,6 @@ Internet Download Manager 是一个多线程下载管理器。虽然长得丑，
   - 强制调用 IDM：点击时按住 `Insert` 键可以使 IDM 直接抢占浏览器的所有资源下载，从而避免二次请求带来的尴尬。
   - 暂停调用 IDM：按住 `Alt` 键则可以让 IDM 暂时停止接管浏览器的下载，让浏览器自行完成下载任务。
 - 针对包含有效期的动态临时下载地址，在主界面中右击未完成的任务，选择 `刷新下载地址`。
-- 可惜只支持超文本（安全）传输协议（HTTP / HTTPS）和文件传输协议（FTP），不支持 BitTorrent（BT）、磁力链接（Magnet URI scheme）、电驴链接（eD2k）和迅雷链接（Thunder）。这个时候就得迅雷出场了。
 
 
 
@@ -748,6 +757,8 @@ Windows 的默认图片浏览器非常难用。而 qimgv 是一款开源的图�
 **关联阅读**
 
 Awesome Windows：[Windows上优质 & 精选的最佳应用程序及工具列表。](https://github.com/Awesome-Windows/Awesome/blob/master/README-cn.md)
+
+[FXXKMAKEDING](https://node4.mkdmirror.workers.dev/0:/)：Fuck 思杰马克丁，来这里下载「绿色」软件吧。
 
 
 

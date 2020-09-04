@@ -123,6 +123,12 @@ tags: [设计, 工作]
 
 
 
+### 使用 Emoji 填充图表
+
+![使用 Emoji 填充图表](https://user-images.githubusercontent.com/15868458/69109258-289c2680-0ab2-11ea-9b21-1f7d73758221.gif "https://www.v2fy.com/p/emoji_copy_paste/")
+
+
+
 ### 参考来源
 
 [用好 Keynote 这两个「对齐」工具，幻灯片排版也可以专业有质感 - 包几君Pro](https://sspai.com/post/60316)
