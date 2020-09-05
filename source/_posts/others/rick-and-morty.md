@@ -15,11 +15,34 @@ Wubba Lubba dub dub. 这部地球上脑洞最大的科幻情景喜剧动画（An
 
 <!-- more -->
 
+Shut up，直接 [在 AcFun 看《瑞克和莫蒂》](https://www.acfun.cn/bangumi/aa5024874_36188_1723641)，记得选「电波诚译版」。
+
+## Season 1
 
 
-## S1E1
+
+### Episode 1
+
+
 
 David James Armsby 做了一个同人视频 Glenn the Gromflomite（[YouTube](https://www.youtube.com/watch?v=qYbtfzDr_Jw) | [哔哩哔哩](https://www.bilibili.com/video/av13478975/)），讲述了第一个被 Morty 射杀的海关外星人 Glenn 背后的家庭故事。
+
+
+
+I don't like being told where to go and what to do. 我不喜欢让人指手画脚。
+
+The student becomes the teacher. 青出于蓝而胜于蓝。 
+
+
+It's our son with Albert Ein-douche. 这不是咱儿子和阿尔伯特·爱因撕蛋吗?
+
+
+You are obviously not capable of judging these situations on your own. 你自己显然没有足够的判断力。
+
+
+
+Jerry: Look, I love you, morty, but we both know you're not as fast as the other kids, and if you want to compete in this world, you got to work twice as hard. 我爱你，孩子。但我们都清楚你没别的孩子机灵，如果你想有所成就 就得加倍努力。
+Morty: Aw, geez, dad.You know, that's a lot to drop on a kid all at once. 天啊，老爸。你突然和一个小孩子说这些 太沉重了吧
 
 
 
@@ -79,3 +102,8 @@ You have to think ahead and live in the moment.
 
 
 Your future stems from your present, which, if you're living right, keeps changing. Truth is, anyone that knows how they're definitely gonna die is either boring as hell or about to get shot. People that spend their life avoiding death are already dead. 直视死亡，方能解脱。
+
+
+
+
+

@@ -116,6 +116,18 @@ We all know that we should never judge a book by its cover, but in reality peopl
 
 
 
+### Bargain
+
+You drive a hard bargain, but what am I supposed to do? 你真会开条件，但我能干嘛呢？
+
+You are really a hard bargain. Are you going to place an order now? 你真会还价。你现在要订货吗？
+
+I drove a hard bargain with the vendor before I got the price down. 我跟那个小贩费了老半天功夫才买到的。
+
+Actually I have to admit I'm hopeless at driving a hard bargain, and I know some of my suppliers are taking advantage of that.事实上，我必须承认我的讨价还价能力很差，我知道我的一些供应商正在利用这一点。
+
+Yeah, I know that. But at those places. the prices they ask you are ridiculously high, and if you don't bargain hard, you will get ripped-off. 是的，我知道。但是在那些地方，通常他们的要加都很高，要是你不还价的话，你就会被狠宰一顿。
+
 ### Begin
 
 Well begun is half done.  
@@ -167,6 +179,24 @@ I do not overstep my bounds with Morty. 我和 Morty 的关系保持得很有分
 
 
 
+### Bureaucracy
+
+[bjʊˈrɑːkrəsi] 官僚作风；官僚主义；官僚体制
+
+I can't abide bureaucracy. 
+
+abide [əˈbaɪd] （因为厌恶而）不能忍受，无法容忍
+
+bureaucrat [ˈbjʊrəkræt] 
+
+The economy is still controlled by bureaucrats.
+
+经济依然被官僚们所控制。
+
+
+
+
+
 ### Butthole
 
 When we get to customs, I'm gonna need you to take these seeds into the bathroom, and I'm gonna need you to put them way up inside your butthole, Morty. 当我们到了海关，我需要你把这些种子带到浴室，我需要你把它们放进你的屁股里，莫蒂。
@@ -174,6 +204,16 @@ When we get to customs, I'm gonna need you to take these seeds into the bathroom
 
 
 ## C
+
+### Cafeteria
+
+[ˌkæfəˈtɪriə] （常指工厂、大学或办公大楼内的）自助餐厅，自助食堂
+
+The food in the cafeteria is abominable. 
+
+这家自助餐厅的膳食糟糕透了。
+
+abominable [əˈbɑːmɪnəbl] 恶劣的
 
 ### Call
 
@@ -327,6 +367,14 @@ He could be charismatic, even mesmerizing, but also cold and brutal. 他有时�
 
 
 
+### Coordinate
+
+坐标
+
+I need to type in the coordinates to our home world. 我得输入我们自己世界的坐标。
+
+
+
 ### Communication
 
 We had a breakdown in communication.
@@ -355,6 +403,16 @@ Convenience store：便利店（特指 7 × 24）
 
 
 
+### Cry
+
+for crying out loud! 天呀；
+
+Cool it, honey! 冷静一点儿，别发那么大的火，亲爱的。
+
+
+
+
+
 ### Cut-throat
 
 Cut-throat competition：恶性竞争
@@ -371,8 +429,6 @@ I can't simply switch off my curiosity.
 ### Cyberstalker
 
 网络跟踪狂
-
-
 
 
 
@@ -428,6 +484,19 @@ I can't simply switch off my curiosity.
 - How dare you defy your masters! 
   胆敢反抗你的主人！
 
+
+
+### Disclosure
+
+[dɪsˈkloʊʒər] 公开；被公布的事实
+
+Full disclosure, it's a piece of crap. 坦白说就是一堆废铁。
+
+We need full disclosure. 我们需要你毫无保留。
+
+Full disclosure, I've never been a big fan of your stuff. 坦白说 我从来都不是你节目的粉丝。
+
+So in the spirit of full disclosure, 所以本着坦诚的精神
 
 ### Down
 
@@ -493,6 +562,24 @@ If you don't dream, you might as well be dead.
 做人如果没有梦想，跟咸鱼有什么分别。by George Foreman（职业拳击手：乔治·福尔曼）
 
 
+
+### Duh
+
+ [dʌ; dɜː] 咄（表犹豫、不快或轻蔑）；（用于认为某人说错话或某事显而易见时）哦
+
+
+Well, duh doy, son. 不是吗？孩子。
+
+
+
+Do you like Star Wars? - (Finebros) Uh, duh! Okay, that's what I thought! 你喜欢《星球大战》吗？-（废话！）好，我也是这么想的！
+
+Duh. There's no way one speargun could shoot through three heads in real life. 废话嘛 现实中一枪下去怎么可能戳穿三个脑袋。
+
+Uh, yeah. Duh. What did you think? 是啊 废话 你以为呢？
+
+A: How did you get in here? （你怎么进来的？）
+B: Through the door, duh. （废话，当然是从门进来的。）
 
 
 
@@ -598,6 +685,25 @@ The first step is hardest.
 万事开头难。
 
 
+
+### Fishy
+
+可疑的
+
+- There seems to be something fishy going on. 
+  好像有可疑的事情发生。
+
+- There's something fishy going on here. 
+  这儿的情况有点不大对头。
+
+- Something is fishy, don't you think so?
+  有点可疑啊，你不觉得吗？
+
+- Well, it does look a little fishy. 
+  看着 有点奇怪。
+
+- Fishy? It couldn't be more obvious. 
+   什么奇怪啊？这不明摆的吗。
 
 ### Focuse
 
@@ -853,6 +959,57 @@ by [have got to 与 get to 的差别 - 希平方](https://www.hopenglish.com/hop
 - He didn't do the heist, I did.   
   偷东西的不是他，是我。
 
+### Here
+
+
+`Here it is`
+
+- 「It is here」的倒装：（你要的）东西在这。
+
+
+`Here we go`
+
+- （就在此时此地）我们出发吧。
+
+
+`Here goes`
+
+- = Here it goes，一般是说话者开始做一件事时说的，以唤起別人注意，可译做「开始了」、「动手了」等
+- "Here goes" he said, and jumped into the icy water（「看我的！」他说，纵身跳进冰冷的水里）。
+
+
+`Here we are`
+
+- （就在此时此地）我们到了。
+
+
+`Here you are`
+
+- 解释一：Here, you are served.
+- 解释二：Here (is the item which) you are (looking for / requesting).
+- 举例一：服务员把面送到你桌上，TA 会跟你说 「Here you are.」（你的面送到了，请您慢用）
+- 举例二：出租车司机载你到目的地时，TA 跟你说 「Here you are.」（你去的地方到了）
+- 举例三：朋友把东西递给你也说 「Here you are.」（你要的东西在这儿、拿去吧、给你）
+- 同义词（近距离）：当店员正在拿**这**东西给你时，TA 会说 Here you go
+- 同义词（远距离）：如果你手上正拿着想要买的东西，店员会说 There you go（你手上**那**个就是了）
+
+
+
+**倒装**
+
+- 这是汤姆和玛丽  
+  Here are Tom and Mary（无代词就倒装）  
+  Here they are（有代词不倒装）  
+- 汤姆来了  
+  There comes Tom（无代词就倒装）  
+  There he comes（有代词不倒装）
+
+### High road 
+
+You're gonna try to take the high road on this one? 你还想抢占道德制高点？
+
+Don't high-road us. 别抢占道德制高点了
+
 
 
 ### Hook
@@ -868,9 +1025,18 @@ by [have got to 与 get to 的差别 - 希平方](https://www.hopenglish.com/hop
 - You really wanna hook up with her? 
   你真的很想跟她搞?
 
+### Holiday
+
+- Holidays are for everyone.
+  -   Happy holidays! 节日快乐！这是为了顾及不过圣诞节的人们（尤其是犹太人）。因为圣诞节（Christmas）就是基督（Christ）也就是耶稣（ Jesus）的生日，而犹太人是不承认耶稣的。他们年底也有自己的节日。
+- Vacation involves traveling.
+- Staycation: stay at home 的 vacation.
+
+
+
 ### Holy
 
-holy crap = holy shit 我的天哪；我的妈呀；该死
+holy crap = holy shit = holy cow 我的天哪；我的妈呀；该死;不会吧
 
 
 
@@ -889,13 +1055,39 @@ holy crap = holy shit 我的天哪；我的妈呀；该死
 
 
 
+### Insane
+
+This is insane! 这太疯狂了！/ 这简直疯了！
+
+It's insane what you miss in prison. 你根本想不到你在监狱里会想念什么。
+
+
+
 ### Intimidating
 
 Listen to me, Morty. I know that new situations can be intimidating. 听我说，莫蒂。我知道人在新环境里会感到不安。
 
+
+
+### Interstellar
+
+This guy he doesn't understand interstellar currency. 
+
+这人根本不懂星际货币。
+
+
+
 ### Importantly
 
 More importantly, your father is a horrible influence on our son. 更重要的是，您的父亲对我们的儿子造成了可怕的影响。
+
+
+
+### Improvise
+
+It's all improvised. It's very funny. 都是即兴创作，乐趣无穷。
+
+
 
 ## K
 
@@ -906,57 +1098,32 @@ Let's make kindness go viral.
 
 
 
-### Here
-
-
-`Here it is`
-- 「It is here」的倒装：（你要的）东西在这。
-
-
-`Here we go`
-- （就在此时此地）我们出发吧。
-
-
-`Here goes`
-- = Here it goes，一般是说话者开始做一件事时说的，以唤起別人注意，可译做「开始了」、「动手了」等
-- "Here goes" he said, and jumped into the icy water（「看我的！」他说，纵身跳进冰冷的水里）。
-
-
-`Here we are`
-- （就在此时此地）我们到了。
-
-
-`Here you are`
-- 解释一：Here, you are served.
-- 解释二：Here (is the item which) you are (looking for / requesting).
-- 举例一：服务员把面送到你桌上，TA 会跟你说 「Here you are.」（你的面送到了，请您慢用）
-- 举例二：出租车司机载你到目的地时，TA 跟你说 「Here you are.」（你去的地方到了）
-- 举例三：朋友把东西递给你也说 「Here you are.」（你要的东西在这儿、拿去吧、给你）
-- 同义词（近距离）：当店员正在拿**这**东西给你时，TA 会说 Here you go
-- 同义词（远距离）：如果你手上正拿着想要买的东西，店员会说 There you go（你手上**那**个就是了）
+《瑞克和莫蒂》S1E1 17:05 Jerry 为什么说：我是愤怒的父亲 又不是即兴演说家  
 
 
 
-**倒装**
-- 这是汤姆和玛丽  
-  Here are Tom and Mary（无代词就倒装）  
-  Here they are（有代词不倒装）  
-- 汤姆来了  
-  There comes Tom（无代词就倒装）  
-  There he comes（有代词不倒装）  
+### Know
+
+`it takes one to to know one` 彼此彼此
+
+- You say that I'm a cheapskate, do you? well, it takes one to know one!
+  你说我是个吝啬鬼，是不是？彼此彼此！
 
 
-
-### Holiday
-
-- Holidays are for everyone.
-  -   Happy holidays! 节日快乐！这是为了顾及不过圣诞节的人们（尤其是犹太人）。因为圣诞节（Christmas）就是基督（Christ）也就是耶稣（ Jesus）的生日，而犹太人是不承认耶稣的。他们年底也有自己的节日。
-- Vacation involves traveling.
-- Staycation: stay at home 的 vacation.
 
 
 
 ## L
+
+### Latino
+
+[læˈtiːnoʊ] 拉丁美洲人；拉丁裔美国人（西班牙裔美国人）
+
+There's no evidence that a latino student did it! 
+
+没有任何证据表明是拉丁裔的学生干的！
+
+
 
 ### Luck
 
@@ -1217,6 +1384,12 @@ If you want my two cents, I think you should just quit and look for a better job
 - **Packaging**：产品的包装，例如彩盒包装、气泡袋包装……
 - **Packing**：打包。有多少箱，每箱多少件。所以装箱单的英文是 Packing list。
 
+### Pant
+
+You you really wear the pants around here. 这里毕竟你说了算。
+
+There's no doubt who'll wear the pants in that house. 毫无疑问，谁会在那房子里当家作主
+
 
 
 ### Pain
@@ -1275,6 +1448,10 @@ Hey, honey, crazy idea bad pitch let's put your dad here.
 
 
 
+### Pointy
+
+有尖头的
+
 
 
 ### Post
@@ -1283,6 +1460,8 @@ Hey, honey, crazy idea bad pitch let's put your dad here.
   我有消息后同步给大家。
 - Keep me posted. 
   有消息请同步给我。
+
+
 
 
 
@@ -1350,6 +1529,10 @@ You make me want to puke. 我看到你就想吐。
 
 Keep it real.   
 坚持真实。
+
+### Reasoning
+
+It's beyond your reasoning. 这些超出你们的理解范围的
 
 
 
@@ -1635,6 +1818,10 @@ I'm pretty close to death, which the serum will prevent. 我快死了，血清�
 
 
 
+Can you be a little bit more specific? 能再具体点吗?
+
+
+
 ### Split
 
 `split the difference` 折衷；各让一步
@@ -1744,12 +1931,7 @@ swing by/past （尤指在前往别处的路上）顺便快速访问某地
 
 ## T
 
-### Take 
 
-`it takes one to to know one` 彼此彼此
-
-- You say that I'm a cheapskate, do you? well, it takes one to know one!
-  你说我是个吝啬鬼，是不是？彼此彼此！
 
 ### Test
 
@@ -1852,6 +2034,15 @@ It was really thoughtful of you to remember my birthday.
 
 Variety is the spice of life.  
 变化是生活的调味品。丰富多彩是生活的情趣所在。Trying different things keeps life interesting. Give anything a go.
+
+
+### Violation
+
+- I smell the violation of civil liberties! 
+  我闻到了侵犯公民自由的味道
+
+- I consider it a violation.
+  我认为这是对我的冒犯。
 
 
 
