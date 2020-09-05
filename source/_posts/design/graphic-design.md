@@ -14,6 +14,8 @@ tags: 设计
 
 <!-- more -->
 
+推荐看 [oooooohmygosh](https://space.bilibili.com/38053181) 的视频，比看我这个有用多了。
+
 ## Logo
 
 
