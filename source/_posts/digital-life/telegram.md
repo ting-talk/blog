@@ -1,7 +1,7 @@
 ---
 title: Telegram（电报）：新手指南、使用教程及频道推荐
 date: 2019-11-09  
-updated: 2020-08-31
+updated: 2020-09-08
 categories: 数字生活  
 tags: [网上冲浪指南, 突破网络审查, Telegram]
 ---
@@ -663,6 +663,7 @@ Telegram 会记住你的操作习惯，下次发送图片时不必再次勾选�
 - [Post Widget](https://core.telegram.org/widgets/posts)：将频道或公共群组的消息嵌入到任何地方。You can embed messages from public groups and channels anywhere. 
 - 频道分析（[Channel Stats](https://telegram.org/blog/folders#channel-stats)）📈：订阅人数超过 500 人（之前是 1,000  人）的频道会有详细的统计数据分析报告（[Statistics](https://telegram.org/tour/channels#detailed-statistics)）。
 - 编辑已发送消息（[Edit your messages after posting](https://telegram.org/blog/edit)），包括文字、图片和视频（[Replace Media](https://telegram.org/blog/unread-replace-2x#replace-media-and-add-captions)）。
+- 频道/超级群组的关注上限是 500 个（具体数字未得到官方的求证），但是限制是一定存在的，因为限制提示语出现在官方翻译页面：抱歉，您已加入太多频道/超级群组。请先退出一些频道/超级群组后再加入。（[Sorry, you have joined too many channels and supergroups. Please leave some before joining this one.](https://translations.telegram.org/zh-hans/tdesktop/groups_and_channels/lng_join_channel_error)）
 
 
 

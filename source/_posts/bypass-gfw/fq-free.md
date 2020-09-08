@@ -55,6 +55,46 @@ tags: 突破网络审查
 
 
 
+## proxypool
+
+从公开互联网上抓取的共享节点，聚合去重后提供可用的节点列表，每 15 分钟更新一次，添加即用：
+
+Shadowsocks 订阅 URL（JSON)：
+
+```
+https://proxy.tgbot.co/ss/sub
+```
+
+Shadowsocks 订阅 URL（SIP002）:
+
+```
+https://proxy.tgbot.co/sip002/sub
+```
+
+ShadowsocksR 订阅 URL：
+
+```
+https://proxy.tgbot.co/ssr/sub
+```
+
+V2Ray 订阅 URL：
+
+```
+https://proxy.tgbot.co/vmess/sub
+```
+
+
+
+[程序已在 GitHub 开源](https://github.com/zu1k/proxypool)。
+
+作者的博客：[关于 proxypool 的介绍](https://blog.lgf.im/2020/proxypool.html)
+
+作者的 Telegram Channel：[@peekfun](https://t.me/peekfun)
+
+
+
+
+
 ## [iGG 谷歌访问助手](https://iguge.app/)
 
 一个浏览器插件，只能免费访问 Google 家的产品，例如 Google 搜索引擎、Gmail 和 Chrome 网上应用店等，不支持为 YouTube 和其他客户端软件提供海外「加速」服务。
