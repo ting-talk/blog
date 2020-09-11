@@ -69,9 +69,9 @@ anal sex 肛交
 
 You're young. You've got your whole life ahead of you, and your anal cavity is still taut, yet malleable. 你还有大好人生，肛门也紧致有弹性。
 
-- cavity 比 hole 正式，指实体内中或表面的空洞或空腔。
-- taut [tɔːt] 紧绷的
-- malleable [ˈmæliəbl] 可塑的
+- `cavity` 比 hole 正式，指实体内中或表面的空洞或空腔。
+- `taut` [tɔːt] 紧绷的
+- `malleable` [ˈmæliəbl] 可塑的
 
 
 
@@ -189,11 +189,21 @@ abide [əˈbaɪd] （因为厌恶而）不能忍受，无法容忍
 
 bureaucrat [ˈbjʊrəkræt] 
 
-The economy is still controlled by bureaucrats.
+The economy is still controlled by bureaucrats. 经济依然被官僚们所控制。
 
-经济依然被官僚们所控制。
+### Bummer
 
+令人不快的事情；带来不便的事
 
+I'm sorry, morty. It's a bummer. In reality, you're as dumb as they come. 我很抱歉Morty 不幸的是你确实很蠢。
+- `as they come` 按照原来的样子
+
+"I've left my wallet at home." "What a bummer!" “我的钱包忘在家里了。”“真糟糕！”
+
+I locked my keys in the car - bummer! 我把钥匙锁在汽车里了——真糟糕！
+
+What a bummer! You set me up? 
+太遗憾了！拿我当猴耍吗？
 
 
 
@@ -498,6 +508,12 @@ Full disclosure, I've never been a big fan of your stuff. 坦白说 我从来都
 
 So in the spirit of full disclosure, 所以本着坦诚的精神
 
+### Dissolve
+
+Temporary superintelligence is just a side effect of the mega seeds dissolving in your rectal cavity. 暂时的超常智力只是奇异种**溶解**在你肠道里的副作用。
+
+
+
 ### Down
 
 `be down with` 好的；同意；愿意
@@ -798,9 +814,11 @@ I've learned that people will forget what you said, people will forget what you 
 `get off sb's back` used to tell someone to stop criticizing you:
 
 - I'm fine. Get off Rick's back. 我挺好的，别找 Rick 麻烦了。
+- I had to give them up just to get your parents off my back. 我不得不放弃它们好让你父母别来烦我。
 - Why don't you get off my back! I'm doing my best.
 - Get off my back, I didn't sleep last night. / can't you see how
   busy I am. / Don't you have anything better to do ?
+- 
 
 
 
@@ -1008,9 +1026,9 @@ by [have got to 与 get to 的差别 - 希平方](https://www.hopenglish.com/hop
 
 You're gonna try to take the high road on this one? 你还想抢占道德制高点？
 
-Don't high-road us. 别抢占道德制高点了
+Don't high-road us. 别抢占道德制高点了。
 
-
+I am not trying to high-road you. 我并不是想说我有多高尚。
 
 ### Hook
 
@@ -1544,6 +1562,8 @@ These seeds aren't gonna get through customs unless they're in someone's rectum,
 
 这些种子只有在别人的直肠里才能通过海关，莫蒂。
 
+`rectal` 直肠的
+
 ### Reference
 
 `Is this a JoJo reference?` 这是 JoJo 的梗吗？
@@ -2060,6 +2080,12 @@ Variety is the spice of life.
 ### Way
 
 `way to go` 棒棒哒
+
+
+
+### Wear
+
+Once those seeds `wear off`, you're gonna lose most of your motor Skills. 一旦种子的效力过去 你会失去大部分运动机能。
 
 
 

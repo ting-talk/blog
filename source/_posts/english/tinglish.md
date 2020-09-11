@@ -331,7 +331,8 @@ tags: 英语
 **听力材料其他推荐**
 
 - [Daily English Dictation](https://www.bilibili.com/video/av24173069)：日常听力训练，找 Coach Shane。
-- [Pocket Casts](https://www.pocketcasts.com/) ：相关的英语电台节目，刷牙或洗澡的时候听
+- [Pocket Casts](https://www.pocketcasts.com/) ：相关的英语电台节目，刷牙或洗澡的时候听。
+- [YouTube 有哪些值得看的外语频道 - 酱紫表](https://sspai.com/post/56339)
 
 
 
@@ -339,6 +340,10 @@ tags: 英语
 
 1. [每日英语听力](https://dict.eudic.net/ting)（欧路词典出品）
 2. [轻听英语](https://langeasy.com.cn/)（朗易思听出品）
+
+
+
+
 
 
 

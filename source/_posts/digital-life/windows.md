@@ -770,7 +770,7 @@ Awesome Windows：[Windows上优质 & 精选的最佳应用程序及工具列表
 
 ### 下载 Windows 10
 
-- （打开迅雷）下载 Windows 10 光盘映像（ISO 文件）：截至 2019-10-12，最新版是 [Windows 10 (business editions), version 1909 (x64) - DVD (Chinese-Simplified)](https://msdn.itellyou.cn/)
+- （使用 [迅雷](https://www.xunlei.com/)）下载 Windows 10 光盘映像（ISO 文件）：截至 2019-10-12，最新版是 [Windows 10 (business editions), version 1909 (x64) - DVD (Chinese-Simplified)](https://msdn.itellyou.cn/)
 - 下载 [360 驱动网卡版](http://www.360.cn/qudongdashi/index.html) ：防止电脑安装后无法联网
 
 下载系统的同时，备份好电脑 C 盘（系统盘）内的数据。重要数据，备份 2 次：
