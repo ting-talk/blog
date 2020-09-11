@@ -32,11 +32,13 @@ YAML 语言（/ˈjæməl/ ）的基本规则：
 默认的 URL 是 `https://tingtalk.me/2019/08/17/Hexo使用技巧`
 
 - **层级太深**：斜杠太多不利于搜索引擎的抓取。
-- **包含中文**：URL 只能使用英文、数字和连字符（hyphen）。如果包含中文，分享出现的链接可能是 `https://tingtalk.me/2019/08/17/Hexo%E4%BD%BF%E7%94%A8%E6%8A%80%E5%B7%A7`，中文强制被转码成十六进制编码，又臭又长。
+- **包含中文**：URL 只能使用英文、数字和连字符（hyphen）`-`。如果包含中文，分享出现的链接可能是 `https://tingtalk.me/2019/08/17/Hexo%E4%BD%BF%E7%94%A8%E6%8A%80%E5%B7%A7`，中文强制被转码成十六进制编码，又臭又长。
 
-优化步骤如下：
+URL 很重要，确立 URL 之前要深思熟虑，一旦新文章发出后，请不要随意修改。
 
-1. 修改 `站点 _config.yml` 的 `permalink`（永久链接）为 `:name/ `
+### 以文件名称为 URL
+
+1. 修改站点配置文件 `_config.yml` 的 `permalink`（永久链接）为 `:name/ `。
 
     ```markdown
     # URL
@@ -71,7 +73,37 @@ YAML 语言（/ˈjæməl/ ）的基本规则：
 
 
 
-🔗关联阅读：[Clean URL - Wikipedia](https://en.wikipedia.org/wiki/Clean_URL)
+### 在 Front Matter 定义
+
+1. 不用修改站点配置文件 `_config.yml` 的 `permalink`（永久链接）`permalink: :year/:month/:day/:title/`。
+
+2. 每次在文章的 Front Matter 中加上 permalink 字段，例如 `hexo-tips/`，就会 [覆盖文章网址](https://hexo.io/zh-cn/docs/front-matter.html)，无视站点配置文件的 permalink 设置。
+
+   ```markdown
+   ---
+   title: Hexo Tips  
+   date: 2019-08-17  
+   categories: 博客  
+   permalink: hexo-tips/
+   ---
+   
+   如果 Hexo 版本在 5.0 以上，hexo-tips 后面一定要加上斜线 /。
+   
+   <!-- more -->
+   
+   正文。
+   ```
+
+3. 优化之后的 URL 是 `https://tingtalk.me/hexo-tips`。Front Matter 的 permalink 具有最高优先级，所以文件名是否一样，是否有中文，都没有关系。
+
+以上 2 种设定 permalink 的方法，都可以在 `_posts` 创建分类（category）文件夹，例如我可以把 `hexo-tips.md` 放在 `_posts/website`,方便管理文章。但 URL 中又不会包含 category，保持 URL 的简洁可爱。
+
+不推荐使用插件 [hexo-abbrlink](https://github.com/rozbo/hexo-abbrlink) 生成唯一永久链接，一串无意义的数字让 URL 变得不可读且不方便记忆。而且每次分享文章时，都要打开博客才能把网址复制出来。
+
+**🔗关联阅读**
+
+- [Clean URL - Wikipedia](https://en.wikipedia.org/wiki/Clean_URL)
+- [永久链接（Permalinks）| Hexo](https://hexo.io/zh-cn/docs/permalinks.html)
 
 
 
