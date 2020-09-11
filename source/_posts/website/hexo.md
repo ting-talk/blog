@@ -36,7 +36,7 @@ YAML 语言（/ˈjæməl/ ）的基本规则：
 
 URL 很重要，确立 URL 之前要深思熟虑，一旦新文章发出后，请不要随意修改。
 
-### 以文件名称为 URL
+### 📂以文件名称为 URL
 
 1. 修改站点配置文件 `_config.yml` 的 `permalink`（永久链接）为 `:name/ `。
 
@@ -73,7 +73,7 @@ URL 很重要，确立 URL 之前要深思熟虑，一旦新文章发出后，�
 
 
 
-### 在 Front Matter 定义
+### ⚙在 Front Matter 定义
 
 1. 不用修改站点配置文件 `_config.yml` 的 `permalink`（永久链接）`permalink: :year/:month/:day/:title/`。
 
@@ -96,7 +96,7 @@ URL 很重要，确立 URL 之前要深思熟虑，一旦新文章发出后，�
 
 3. 优化之后的 URL 是 `https://tingtalk.me/hexo-tips`。Front Matter 的 permalink 具有最高优先级，所以文件名是否一样，是否有中文，都没有关系。
 
-以上 2 种设定 permalink 的方法，都可以在 `_posts` 创建分类（category）文件夹，例如我可以把 `hexo-tips.md` 放在 `_posts/website`,方便管理文章。但 URL 中又不会包含 category，保持 URL 的简洁可爱。
+以上 2 种设定 permalink 的方法，都可以在 `_posts` 创建分类（category）文件夹，例如把 `hexo-tips.md` 放在 `_posts/website`，方便管理文章。但 URL 中又不会包含 category，保持 URL 的简洁可爱。
 
 不推荐使用插件 [hexo-abbrlink](https://github.com/rozbo/hexo-abbrlink) 生成唯一永久链接，一串无意义的数字让 URL 变得不可读且不方便记忆。而且每次分享文章时，都要打开博客才能把网址复制出来。
 
