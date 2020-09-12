@@ -557,7 +557,9 @@ Telegram 会记住你的操作习惯，下次发送图片时不必再次勾选�
 
 **如何查看创建日期**
 
-1. 在任意对话窗口（例如 Saved Messages）或浏览器输入 `https://t.me/` + `ID` + `1`，例如 https://t.me/tingtalk/1
+1. 在任意对话窗口（例如 Saved Messages）或浏览器输入：
+   - `https://t.me` / `ID` / `1`（唤醒客户端），例如 https://t.me/tingtalk/1
+   - `https://t.me` / `s` / `ID` / `1`（无需客户端），例如 https://t.me/s/tingtalk/1
 2. 发送
 3. 点击这个链接
 4. 就会跳转到该群组或频道（未删除的）第一条消息，在其上方，可以看到创建日期（Channel created）
