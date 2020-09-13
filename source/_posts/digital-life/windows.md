@@ -766,7 +766,7 @@ Awesome Windows：[Windows上优质 & 精选的最佳应用程序及工具列表
 
 ## 系统重装
 
-下面介绍如何安装纯净的 Windows 10 系统。
+下面介绍如何安装纯净的 Windows 10 系统。如果是较「老」的联想电脑，如 ThinkPad X220，不能通过以下方法重装系统，可用 [联想原厂系统镜像](https://okr.lenovo.com.cn/help.html) 在空白的 U 盘中制作 Windows 10 家庭中文版系统盘。
 
 ### 下载 Windows 10
 
