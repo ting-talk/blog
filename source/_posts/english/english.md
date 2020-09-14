@@ -114,6 +114,13 @@ We all know that we should never judge a book by its cover, but in reality peopl
 
 ## B
 
+### Bail
+
+bail on 放弃；失约
+
+He bailed on Mom when she was a kid! 他甩开了当时还是个小孩的妈妈！
+
+I mean, it's not like he's a hot girl. He can't just bail on his life and set up shop in someone else's. 他又不是漂亮妹子，挥霍完青春再找一长期饭票。
 
 
 ### Bargain
@@ -202,8 +209,7 @@ I'm sorry, morty. It's a bummer. In reality, you're as dumb as they come. 我很
 
 I locked my keys in the car - bummer! 我把钥匙锁在汽车里了——真糟糕！
 
-What a bummer! You set me up? 
-太遗憾了！拿我当猴耍吗？
+What a bummer! You set me up? 太遗憾了！拿我当猴耍吗？
 
 
 
@@ -2150,7 +2156,7 @@ The world is not beautiful. Therefore, it is.
 
 
 
-## References
+References
 
 | 公众号       | WeChat ID    | 作者        |
 | :----------- | :----------- | :---------- |

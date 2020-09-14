@@ -19,6 +19,8 @@ Shut up，直接 [在 AcFun 看《瑞克和莫蒂》](https://www.acfun.cn/bangu
 
 ## Season 1
 
+[每日 6 句口语学习合集 - 美少女青灵](https://www.bilibili.com/video/av82630329/)
+
 [瑞克与莫蒂第一季所有彩蛋、细节与秘密汇总 - 安迪视频](https://www.bilibili.com/video/BV16Q4y1K7Ay)
 
 [论嘴炮，姥爷谁都不服，《瑞克和莫蒂》第一季金句混剪 - 周扒片](https://www.bilibili.com/video/BV1Hb411q7g8)
@@ -42,6 +44,9 @@ Shut up，直接 [在 AcFun 看《瑞克和莫蒂》](https://www.acfun.cn/bangu
 David James Armsby 做了一个同人视频 Glenn the Gromflomite（[YouTube](https://www.youtube.com/watch?v=qYbtfzDr_Jw) | [哔哩哔哩](https://www.bilibili.com/video/av13478975/)），讲述了第一个被 Morty 射杀的海关外星人 Glenn 背后的家庭故事。
 
 **经典台词**
+
+
+Mm, there is no god, summer. You got to rip that band-aid（一个创可贴的牌子） off now. You'll thank me later. 世上没有上帝，Summer，你现在忍痛接受，以后会感谢我的。
 
 I don't like being told where to go and what to do. 我不喜欢让人指手画脚。
 
@@ -96,6 +101,10 @@ https://mp.weixin.qq.com/s/122SrHgmTGazYg-zQm2pwQ
 https://mp.weixin.qq.com/s/uM9vz9zoY1hrcXMrtfpIYg
 
 ### Episode 9
+
+[Learn English with Rick and Morty - EnglishRadar](https://www.bilibili.com/video/BV1YV411f7Zi)
+
+
 
 
 ### Episode 10
