@@ -8,7 +8,7 @@ tags: [英语, 佳句]
 
 ---
 
-![letter-a](english/letter-a.png)一本属于庭勃士的英语百科全书。
+![letter-a](english/letter-a.png)一本属于庭勃士的英语百科全书，大部分表达来自[《瑞克和莫蒂》](https://movie.douban.com/subject/11537954/)（*Rick and Morty*）。
 
 <!-- more -->
 
@@ -248,6 +248,27 @@ abominable [əˈbɑːmɪnəbl] 恶劣的
 
 鲶鱼；[照骗](https://www.urbandictionary.com/define.php?term=catfish)。
 
+
+
+### Chance
+
+
+You wouldn't by any chance have some sort of crazy science thing. You could whip up that might help make this dog a little smarter, would you? 你不会碰巧有什么能让这狗更聪明的科学发明吧？
+
+You, by any chance, recognize the jacket? 是不是有可能，你认得这件夹克？
+
+Do you by any chance have a car available? 或许你们这儿恰好有可以用的车？
+
+
+
+### Charismatic
+
+充满个人魅力的
+
+He could be charismatic, even mesmerizing, but also cold and brutal. 他有时候极富魅力，能让你着迷，但他也可以冷酷、残忍。by 《乔布斯传》
+
+
+
 ### Check it out
 
 看看这个：
@@ -262,11 +283,7 @@ abominable [əˈbɑːmɪnəbl] 恶劣的
 
 
 
-### Charismatic
 
-充满个人魅力的
-
-He could be charismatic, even mesmerizing, but also cold and brutal. 他有时候极富魅力，能让你着迷，但他也可以冷酷、残忍。by 《乔布斯传》
 
 
 
@@ -727,6 +744,15 @@ The first step is hardest.
 - Fishy? It couldn't be more obvious. 
    什么奇怪啊？这不明摆的吗。
 
+
+
+### Flip
+
+`flip out` / `flip your lid` 头盖（lid）骨都翻转过来了；炸开了锅；发怒；失控；抓狂
+
+If you like that.You're really going to flip your lid over this one. 如果你喜欢那玩意儿的话，这个一定能让你大吃一惊。
+
+
 ### Focuse
 
 Stop focusing on perfect, start focusing on done.  
@@ -921,6 +947,23 @@ I get what you're trying to say, Morty. 我知道你想说什么，莫蒂。
 I've never felt so good in my life. 我这辈字没觉得这么好过。
 
 I've never felt so dumb in my life. 从未感到如此废柴。
+
+
+
+### Grounded
+
+（孩子）受罚不许出门的
+
+
+You make that dog smart orMorty's grounded! 你不把狗弄聪明点，我就禁足 Morty。
+
+I stayed out til 1 am last night and now I'm grounded for a week. 昨天晚上我凌晨一点才回家，现在被罚一个星期不许出门。
+
+Listen up! Quit ditching class or you're grounded. No discussion. 听好了！别再翘课了，否则你会被禁足。没得商量。
+
+Julie Mayer, you get back here! You're grounded, remember? 朱莉·梅尔，你给我回来。你被禁足了，记得吗？
+
+
 
 ### Guy
 
@@ -1221,6 +1264,20 @@ Could you send me your literature on/about car insurance policies, please? 请�
 
 - Foreign journalists were manhandled by armed police, and told to leave.
   外国记者们遭到武警的肢体推撞，并被口头驱离。
+
+
+
+### Mean
+
+有意
+
+I didn't mean to hurt you. 我不是有意要伤害你。
+
+It's over, Elliot. I mean it. It's over. 完了，艾略特，我是认真的。
+
+She didn't mean it. She didn't mean any of this... 她不是有意的，不是有意造成这一切..……
+
+
 
 ### Ｍega
 
@@ -2033,9 +2090,9 @@ It was really thoughtful of you to remember my birthday.
 
 
 
-### Thanks
+I thought the whole point of having a dog was to feel superior, Jerry. If I were you, I wouldn't pull that thread. 养狗的目的不就是为了有优越感吗？Jerry。我要是你，就不会想做这事。
 
-- Thanks for your understanding.
+- Pull that thread：线头一拉，衣服分家。
 
 
 
@@ -2074,12 +2131,18 @@ Variety is the spice of life.
 
 ## W
 
+Wall 
+
+`up against a/the wall` 碰壁；走投无路
+You really got me up against a wall this time, Jerry. 那你真是让我别无他法了，Jerry。
+
+
+
 ### Walk
 
 `walk over` 苛刻对待
 
-- You mustn't let him walk over you like that.  
-  你不能让他那么欺负你。
+You mustn't let him walk over you like that. 你不能让他那么欺负你。
 
 
 
