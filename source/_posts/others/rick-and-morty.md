@@ -74,6 +74,16 @@ https://mp.weixin.qq.com/s/A9ym2BGfJ-rLE2km6X09gA
 
 
 
+Homework is stupid. The whole point is to get less of it. 作业有害智商，少做才是正解。
+
+Nice to wheat you! 吃我麦脆片！
+
+Don't be a baby! 怂什么！
+
+Because we're both rational adults that don't want anything bad to happen. 咱都是明白人，不想闹得最后没法收拾。
+
+
+
 
 ### Episode 3
 

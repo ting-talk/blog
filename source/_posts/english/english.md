@@ -65,13 +65,19 @@ tags: [英语, 佳句]
 
 [ˈeɪnl] 肛门的，直肠的
 
-anal sex 肛交
+`anal sex` 肛交
 
 You're young. You've got your whole life ahead of you, and your anal cavity is still taut, yet malleable. 你还有大好人生，肛门也紧致有弹性。
 
 - `cavity` 比 hole 正式，指实体内中或表面的空洞或空腔。
 - `taut` [tɔːt] 紧绷的
 - `malleable` [ˈmæliəbl] 可塑的
+
+### Anticipate
+
+预期，期望；预料
+
+Goldenfold's got more control here than I anticipated.  我没想到 Goldenfold 这么厉害。
 
 
 
@@ -172,6 +178,16 @@ I usually give people the benefit of the doubt.
    他会上钩的，给他打电话。
 
 
+
+### Blend
+
+侧重混合整体的统一性与和谐性。
+
+"Brunch" is a blend of "breakfast" and "lunch".  “早午餐”是“早餐”与“午餐”的混合词。
+
+Blend the butter with the sugar and beat until light and creamy. 把黄油和糖混合起来，快速搅拌成松软的糊状。
+
+`blender` 搅拌机；果汁机
 
 ### Bloated
 
@@ -414,6 +430,12 @@ We had a breakdown in communication.
 我们没沟通好。
 
 
+
+### Concise
+
+ [kənˈsaɪs]
+
+Pretty concise, Morty. 总结得真简练，Morty。
 
 ### Convenience 
 
@@ -1486,6 +1508,16 @@ There's no doubt who'll wear the pants in that house. 毫无疑问，谁会在�
 
 
 
+### Parachute
+
+[ˈpærəʃuːt] 降落伞；跳伞
+
+They fell 41,000 ft. before opening their parachutes. 他们下落了 41000 英尺才打开他们的降落伞。
+
+The plan is to parachute into the town. 计划是要跳伞进入该城。
+
+
+
 ### Pardon
 
 - I didn’t  (really / quite) catch that. 我没怎么听清楚。
@@ -1509,6 +1541,11 @@ There's no doubt who'll wear the pants in that house. 毫无疑问，谁会在�
   “你要乐意，可以加入我们。”布拉德摇了摇头。“下次吧，谢谢。”   
 
 
+
+### Pluck
+
+采摘；解救
+He's created a mechanical arm to pluck Mrs. Pancakes out of the air. 他造了个机械手臂来接住 Pancakes 太太。
 
 ### Pitch 
 
@@ -1584,6 +1621,17 @@ A take precedence over B：A 优先于 B
   在大学里尽情地玩，但别让玩乐优先于学习。
 - Business people often think that fluency and communication take precedence over grammar when speaking.  
   商界人士常认为说话时流利程度和表达能力比语法重要。
+
+
+
+### Prolong
+
+[prəˈlɔːŋ] 拖延
+
+Looks like we've merely prolonged the inevitable. 看来我们不过是把不可避免的事推迟了而已。
+
+- merely 仅仅，只不过；只是
+- inevitable [ɪnˈevɪtəbl] 必然发生的事
 
 
 
