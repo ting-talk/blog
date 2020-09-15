@@ -227,6 +227,14 @@ RSSHub Radar 是 [RSSHub](https://github.com/DIYgod/RSSHub) 的衍生项目，�
 
 
 
+### [下载管理 Pro 版](https://chrome.google.com/webstore/detail/%E4%B8%8B%E8%BD%BD%E7%AE%A1%E7%90%86pro%E7%89%88/fmgaogkbodhdhhbgkphhbokciiecllno)
+
+可以隐藏底部的下载项（下载进度条），这样我在使用 [HTML5 视频播放器增强脚本](https://greasyfork.org/zh-CN/scripts/381682-html5%E8%A7%86%E9%A2%91%E6%92%AD%E6%94%BE%E5%99%A8%E5%A2%9E%E5%BC%BA%E8%84%9A%E6%9C%AC)给《瑞克和莫蒂》截图（Shift + S）时，就不会有通知了。
+
+此功能需要在设置中开启。
+
+
+
 ### 需要时才启用的插件
 
 在性能不足的电脑上，启动过多的扩展程序会拖慢系统的运行速度。因此，临时关闭一些不常用的扩展程序，需要时再启用，是一个折衷的方法。
