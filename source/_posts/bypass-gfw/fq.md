@@ -65,12 +65,13 @@ Ting 我 Talk 一句：只要肉身在中国大陆，我们的一切行动听党
 
 ### 📧 注册
 
-用手机或者电脑的本机浏览器打开 [ssrcloud](https://ntt-co-jp.club/auth/register?code=iQuU)，或者复制下面这个网址，粘贴到浏览器的地址栏：
+用手机或者电脑的本机浏览器打开 [ssrcloud](https://邀请01.很有精神.com/auth/register?code=iQuU)，或者复制下面这个网址，粘贴到浏览器的地址栏：
 ```http
-  https://ntt-co-jp.club/#/auth/register?code=iQuU
+ https://邀请01.很有精神.com/auth/register?code=iQuU
 ```
 - 邀请码是 `iQuU`
-- 通过我的邀请链接注册，你可能会获得 ￥1 的初始出海资金
+- 通过我的邀请链接注册，你可能会获得 ￥1 的初始出海资金。
+- 备用注册链接：https://cnix-gov-cn.com/auth/register?code=iQuU
 
 注册后，登录。
 
@@ -113,6 +114,8 @@ Android 用户推荐使用 ShadowsocksR 客户端，但是也可以把 Clash for
 目前 ssrcloud 不支持自动续费，请在账号到期前重新购买套餐。如果觉得每月都要重复操作，可以购买季付或者年付套餐。
 
 对于不熟悉代理规则的用户，账号过期后，请退出番茄客户端/app，再登录官网续费。
+
+官网会被封锁，更新你的节点列表，最新的官网地址就会出现。
 
 购买新套餐后，无法通过订阅连接更新节点，怎么办：
 
