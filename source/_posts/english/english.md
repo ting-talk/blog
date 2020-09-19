@@ -1001,9 +1001,21 @@ I'm not that kind of guy, Morty. 我不是那种人，莫蒂。
 
 The dimension I visited was so advanced, they had also halted the aging process, and everyone there was young, Morty, and they had been forever. 我所访问的次元是如此的先进，他们也停止了衰老的过程，那里的每个人都很年轻，Morty，而且他们一直都很年轻。
 
+### Hang
 
+`hang up` 挂断电话
 
+`hang-up` 恐惧; 担忧; 难堪
 
+`sexual hang-ups` 性焦虑
+
+Sexual hang-ups in the pleasure chamber are punishable by death! 在快活屋扰乱色情秩序者可处死刑！
+
+- What you just did is `punishable by death`. 你刚才的行为足以判死刑。
+
+I don't have any hang-ups about my body. 我对自己的身体没有任何担忧。
+
+He's one of these men who went bald very young and has a terrible hang-up about it. 年纪轻轻就开始脱发，为此他十分烦恼。
 
 ### Happy
 
@@ -1540,6 +1552,11 @@ The plan is to parachute into the town. 计划是要跳伞进入该城。
 - "You can join us if you like." Brad shook his head. " I'll pass, thanks."   
   “你要乐意，可以加入我们。”布拉德摇了摇头。“下次吧，谢谢。”   
 
+### Pervy
+
+/ˈpəːvi/ 性变态
+including a pervy attraction to your underage sister. 包括对你未成年姐姐的变态遐想。
+
 
 
 ### Pluck
@@ -1621,6 +1638,14 @@ A take precedence over B：A 优先于 B
   在大学里尽情地玩，但别让玩乐优先于学习。
 - Business people often think that fluency and communication take precedence over grammar when speaking.  
   商界人士常认为说话时流利程度和表达能力比语法重要。
+
+### Predilection
+
+/ˌpriːdɪˈlɛkʃ(ə)n/
+
+Looks like Goldenfold has some predilections so shameful. 看来 Goldenfold 有一些他自己都不齿的癖好。
+
+Lady Arryn's predilections were her own affair. 艾林夫人的嗜好是她的私事。
 
 
 
@@ -2174,6 +2199,12 @@ Variety is the spice of life.
 
 - I consider it a violation.
   我认为这是对我的冒犯。
+
+### Vibe
+
+气氛；氛围
+
+You're kind of killing the vibe in here. 这儿的气氛都让你毁了。
 
 
 
