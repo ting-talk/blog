@@ -141,6 +141,16 @@ Actually I have to admit I'm hopeless at driving a hard bargain, and I know some
 
 Yeah, I know that. But at those places. the prices they ask you are ridiculously high, and if you don't bargain hard, you will get ripped-off. 是的，我知道。但是在那些地方，通常他们的要加都很高，要是你不还价的话，你就会被狠宰一顿。
 
+
+
+### Bedrock
+
+[ˈbedrɑːk] 基岩；根底
+
+Oh, man, it looks like we've hit dream bedrock here, Morty. 看来我们已经到了梦的底层了，Morty。
+
+
+
 ### Begin
 
 Well begun is half done.  
@@ -646,6 +656,20 @@ B: Through the door, duh. （废话，当然是从门进来的。）
 
 ## E
 
+### Endow
+
+[ɪnˈdaʊ] 赋予；捐赠；天生具有
+
+You can't endow a creature with sentience and then rip it away. 你不能给一个生物思想然后剥夺掉。
+
+- sentience ['sentɪəns] 感觉性；感觉能力；知觉
+
+
+
+
+
+
+
 
 
 ### Eon
@@ -839,6 +863,16 @@ I've learned that people will forget what you said, people will forget what you 
   免费感恩晚餐正式结束。
 - Everybody likes to get a freebie: something given to you to try for free. 
   大家都喜欢拿赠品。
+
+
+
+### From
+
+`from here on (out)` 从现在起
+
+Nothing but fear from here on out, bitch! 从此开始只有恐怖，贱人。
+
+From here on out, I'm making all the decisions.
 
 
 
@@ -1162,11 +1196,11 @@ This is insane! 这太疯狂了！/ 这简直疯了！
 
 It's insane what you miss in prison. 你根本想不到你在监狱里会想念什么。
 
+### Intense
 
+剧烈的; 极度的
 
-### Intimidating
-
-Listen to me, Morty. I know that new situations can be intimidating. 听我说，莫蒂。我知道人在新环境里会感到不安。
+Oh, wow. That's an intense line of questioning, Snuffles. 你这一连串问得有点咄咄逼人啊，嗅嗅。
 
 
 
@@ -1175,6 +1209,12 @@ Listen to me, Morty. I know that new situations can be intimidating. 听我说�
 This guy he doesn't understand interstellar currency. 
 
 这人根本不懂星际货币。
+
+
+
+### Intimidating
+
+Listen to me, Morty. I know that new situations can be intimidating. 听我说，莫蒂。我知道人在新环境里会感到不安。
 
 
 
@@ -1212,7 +1252,13 @@ Let's make kindness go viral.
 
 
 
+### Knock
 
+`knock-off` （非正式，贵重物品的）仿制品
+
+Looks like some sort of legally safe knock-off of an '80s horror character with miniature swords for fingers instead of knives.看起来像是某个没构成侵权的山寨版八十年代恐怖电影人物，只是小刀手变成了短剑手。
+
+- miniature /ˈmɪnɪtʃə/ 微型的
 
 ## L
 
@@ -1499,6 +1545,28 @@ If you want my two cents, I think you should just quit and look for a better job
 - **Packaging**：产品的包装，例如彩盒包装、气泡袋包装……
 - **Packing**：打包。有多少箱，每箱多少件。所以装箱单的英文是 Packing list。
 
+
+
+
+
+### Page
+
+Yeah, it's nice to be on the same page every once in a while. 偶尔能意见一致真是蛮好的。
+
+`(every) once in a while` ometimes but not often; from time to time
+
+Logically, everyone knows that failure is inevitable every once in awhile. 从逻辑上讲，每个人都知道失败是不可避免的。
+
+Every once in a while a revolutionary product comes along that changes everything. 每过一段时间，就会出现一个革命性产品，它将改变了一切。
+
+Some of us get dipped in flat, some in satin, some in gloss. But every once in a while you find someone who's iridescent, and when you do, nothing will ever compare. 有有人住高楼，有人处深沟，有人光万丈，有人一身锈。世人万千种，浮云莫去求，斯人若彩虹，遇上方知有。by 韩寒译自《怦然心动》
+
+- iridescent [ˌɪrɪˈdesnt] 色彩斑斓的；彩虹色的
+
+
+
+
+
 ### Pant
 
 You you really wear the pants around here. 这里毕竟你说了算。
@@ -1732,7 +1800,12 @@ Two roads diverged in a wood, and I took the one less traveled by, and that has 
 - Excellent. Which scientists are you rooting for?   
   太棒了。你支持哪个科学家？
 
+### Rub
 
+蹭；摩擦；搓；揉搓
+Jerry, come to rub my face in urine again? Jerry 又想来把我的脸摁进尿里吗？
+
+- urine [ˈjʊrɪn] 尿
 
 ### Rut
 
@@ -1779,14 +1852,22 @@ I'm pretty close to death, which the serum will prevent. 我快死了，血清�
 
 
 
-### Screwdriver
-
-螺丝刀
-
-- Now hand me that flat-head screwdriver.  
-  把扁头的螺丝刀递给我。  
 
 
+### Screw
+
+`screwed` 搞砸的；糟糕的
+
+We're so screwed! 我们完蛋啦！
+
+Calm down. Screw you! 冷静点。去你的！
+
+Screw this. I'm not playing his game. 去死，我不会玩他的游戏。
+
+`screwdriver` 螺丝刀
+
+Now hand me that flat-head screwdriver.  
+把扁头的螺丝刀递给我。  
 
 
 
@@ -1917,6 +1998,23 @@ I'm pretty close to death, which the serum will prevent. 我快死了，血清�
 
 
 
+### Sophisticated
+
+/səˈfɪstɪkeɪtɪd/ 精于世故的，老练的；久经世故的
+
+A sophisticated predator, nature's perfect killing machine, the vicious wolf stalks its prey with purpose and skill. It was only with years of selective breeding and genetic altering that this noble beast was transformed into man's subservient little buddy. 作为狡猾的猎食者，自然界的杀戮机器，凶恶的狼会有目的有技巧地跟踪猎物。只是经过一些年的人工选择和基因改变，这些高贵的野兽成为了人类顺从的小伙伴。
+
+- predator [ˈpredətər] 食肉动物；掠夺者
+- prey [preɪ] 猎物；受害者，牺牲品
+- vicious [ˈvɪʃəs] 邪恶的；恶毒的；凶暴的
+- genetic [dʒəˈnetɪk] 基因的；遗传的
+- alter [ˈɔːltər] （对局部的，表面的，轻微的）改变
+- subservient [səbˈsɜːrviənt] 恭顺的，屈从的；低声下气的
+
+Now predator and prey live in harmony. 现在猎食动物和猎物和睦相处。
+
+Countries like India and China where women, women's roles are often very subservient. 印度等国家存在男尊女卑的现象。
+
 
 
 ### Sorry
@@ -2030,7 +2128,20 @@ Can you be a little bit more specific? 能再具体点吗?
 
 
 
+### Stumpy
 
+[ˈstʌmpi] 短而粗的； 矮墩墩的
+
+Tell me, Summer, if a human was born with stumpy legs, would they breed it with another deformed human and put their children on display like the dachshund? Summer 要是一个人天生就是短腿，你们会让他和另外一个畸形配种，然后把他们的后代拿来像腊肠狗那样展览吗？
+
+- dachshund /ˈdakshʊnd,ˈdaks(ə)nd/ 达克斯猎狗（一种短腿长身的德国种猎犬）；腊肠狗
+
+
+
+
+Does this dress make my legs look too stumpy? 这条裙子会让我的腿看上去又短又粗吗?
+
+There was a large ring on each of her stumpy fingers. 她每根短粗的手指上都戴着一枚大戒指。
 
 ### Suffice
 
@@ -2092,6 +2203,16 @@ swing by/past （尤指在前往别处的路上）顺便快速访问某地
 ### Test
 
 You know what? That was all a test, Morty. Just an elaborate test to make you more assertive. 你知道吗？那只是个考验，莫蒂。只是精心的测试，可以使您更加自信。
+
+### Testicle
+
+[ˈtestɪkl] 睾丸
+
+Where are my testicles, Summer? 我的睾丸呢，Summer？
+
+That's why I will leave you with your testicles. 所以我可以让你把睾丸留着。
+
+He's got a giant testicle for a head. 他的脑袋是个大睾丸。
 
 
 
