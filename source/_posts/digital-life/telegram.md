@@ -1,5 +1,5 @@
 ---
-title: Telegram（电报）：新手指南、使用教程及频道推荐
+title: Telegram：新手指南、使用教程及频道推荐
 date: 2019-11-09  
 updated: 2020-09-08
 categories: 数字生活  
@@ -8,9 +8,11 @@ tags: [网上冲浪指南, 突破网络审查, Telegram]
 
 ![telegram](telegram/telegram.png)
 
-[TG](https://zh.wikipedia.org/zh/Telegram) 是迄今为止最棒的即时聊天软件（Instant Messaging）。在这个自由新世界，你不必自我审查（Freedom of speech）。缺点就是得 [翻墙](https://tingtalk.me/fq/) 后才能使用，但也不算是缺点，学会科学上网，才算真正打开了数字世界的大门。
+电报是迄今为止最棒的即时聊天软件，在这个自由新世界，不必自我审查（Freedom of speech）。如何善用 TG？且听我慢慢道来。
 
 <!-- more -->
+
+🧱 Telegram 在中国大陆必须 [翻墙](https://tingtalk.me/fq/) 后才能使用。学会科学上网，是当代数字公民的必备技能。
 
 💡 善用右侧的目录栏和查找功能（`Ctrl` + `F`），快速定位想要看到的内容。
 
@@ -20,7 +22,7 @@ tags: [网上冲浪指南, 突破网络审查, Telegram]
 
 ### 🗓️相遇故事
 
-2016 年春，[我刚开始学会科学上网](https://t.me/tingtalk/223)，下载了 Telegram。虽然我在上面找不到朋友和我聊天，但是我并没有卸载 Telegram，因为相比输入法和微信，Telegram 提供了丰富的 [Emoji](https://emojipedia.org/)。如此一来，买不起 iPhone 的我，也能在 Android 手机上自由地使用最新的 Emoji 与朋友在微信上交流和发朋友圈。可是，近些年来，天下苦微信久矣，随着言论审查力度的加大，任何「风吹草动」都要「斩草除根」：
+2016 年春，[我刚开始学会科学上网](https://t.me/tingtalk/223)，下载了 Telegram 这个 Instant Messaging app。虽然我在上面找不到朋友和我聊天，但是我并没有卸载 Telegram，因为相比输入法和微信，Telegram 提供了丰富的 [Emoji](https://emojipedia.org/)。如此一来，买不起 iPhone 的我，也能在 Android 手机上自由地使用最新的 Emoji 与朋友在微信上交流和发朋友圈。可是，近些年来，天下苦微信久矣，随着言论审查力度的加大，任何「风吹草动」都要「斩草除根」：
 
 - [Cyberspace Administration of China](http://www.cac.gov.cn/) 会因为我转发一个 Twitter 评论到 24 人的微信群，请我到最近的派出所「[喝茶](https://tingtalk.me/yum-cha/)」。
 - 微信上无法发送某些链接（不显示发送失败，只对你可见），例如纽约时报的文章。
