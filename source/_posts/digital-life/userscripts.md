@@ -114,6 +114,16 @@ tags: [Chrome, 网上冲浪指南]
 
 
 
+### [复制当前页面标题及网址](https://greasyfork.org/zh-CN/scripts/28056)
+
+截止 2020 年 9 月 21 日，不支持 Markdown 格式的超链接。
+
+脚本发现于 [小众软件](https://meta.appinn.net/t/html-markdown/19166)。
+
+
+
+
+
 ## 特定脚本
 
 只适用特定站点。

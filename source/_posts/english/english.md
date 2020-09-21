@@ -93,8 +93,14 @@ Goldenfold's got more control here than I anticipated.  我没想到 Goldenfold 
 
 ### Appearance
 
-We all know that we should never judge a book by its cover, but in reality people do.  
-我们都知道不应该以貌取人，但在现实生活中人们还是会这么做（Appearance doesn't tell you everything）。
+We all know that we should never judge a book by its cover, but in reality people do. 我们都知道不应该以貌取人，但在现实生活中人们还是会这么做（Appearance doesn't tell you everything）。
+
+### As
+
+`as it is` 已经
+You know, I mean, y-you're perfectly scary enough as it is. 你现在就已经非常吓人了。
+
+I'm not buying the children anything else today - I've spent far too much money as it is. 今天我不会再给孩子们买任何别的东西了——我花的钱已经太多了。
 
 
 
@@ -102,8 +108,7 @@ We all know that we should never judge a book by its cover, but in reality peopl
 
 `I have it on good authority` 我敢保证
 
-- I have it on very good authority that your life's in danger. 
-  我有可靠消息，你现在有生命危险。
+I have it on very good authority that your life's in danger. 我有可靠消息，你现在有生命危险。
 
 
 
@@ -270,6 +275,14 @@ abominable [əˈbɑːmɪnəbl] 恶劣的
 
 
 
+### Call it a day
+
+结束工作；到此为止；收工
+
+I'm getting a bit tired now - let's call it a day. 我有些累了——收工吧。
+
+
+
 ### Catfish
 
 鲶鱼；[照骗](https://www.urbandictionary.com/define.php?term=catfish)。
@@ -360,6 +373,107 @@ He could be charismatic, even mesmerizing, but also cold and brutal. 他有时�
 
 
 
+### Coitus
+
+/ˈkəʊɪtəs/ 尤指人类的）性交
+
+After a little scary coitus, they should be fast asleep and then we'll incept him. 再来场恐怖爱爱他们就要睡觉了 然后我们就到他的梦里去。
+
+He must be very skilled at coitus. 他的交媾技能肯定很强。
+
+
+
+### Colonize
+
+[ˈkɑːlənaɪz] 使殖民地化；将…建为殖民地
+
+Taking over the human's world will lead to nothing but more heartbreak, more cruelty. Instead, we will go to a new world and colonize it with a society of intelligent dogs. One that will not make the same mistakes as humanity and one where pet insurance will be mandatory. 占领人类世界只会造成更多的残忍与伤痛，所以我们决定去新世界建立一个智慧狗类的社会。我们不会再犯人类的错误，并且会有强制宠物保险。
+
+mandatory [ˈmændətɔːri] 强制的；必须履行的；法定的
+
+Mask-wearing is now mandatory in all indoor public places. 现在所有室内公共场所都必须佩戴口罩。
+
+
+
+### Communication
+
+We had a breakdown in communication.
+我们没沟通好。
+
+
+
+### Concise
+
+ [kənˈsaɪs]
+
+Pretty concise, Morty. 总结得真简练，Morty。
+
+### Convenience 
+
+Convenience store：便利店（特指 7 × 24）
+
+### Cook
+
+
+`I need to cook.`
+
+- 我要去做饭了。
+
+`Do you like to cook?`
+
+- 你喜欢做饭吗？
+
+`I do enjoy cooking.`
+
+- 我很喜欢做饭。
+
+`Cooking makes me feel relaxed.`
+
+- 做饭对我来说就是休息。
+
+`Are you good at cooking?`
+
+- 你做饭在行吗？   
+
+`What are we cooking?`
+
+- 咱们晚饭做什么？
+
+`I'm going to start making dinner.`
+
+- 我该准备晚饭了。
+
+`Can I take you out for dinner?`
+
+- 我可以请你吃晚饭吗？
+
+`My treat. It's on me.`
+
+- 我请客。
+
+
+`boxed meal`
+
+- （从餐厅买的）盒饭
+
+
+`My mom made me a packed lunch` / `My mom packed lunch`/ `My mom prepared me for a brown bag lunch` / `I just brown bag it`
+
+- 外带午餐（bento）
+- Have you finished eating?  
+  你吃完了吗？
+- I'll wash the dishes today, and you can wash them tomorrow.  
+  Fair enough. 好吧。
+- Warm up leftovers in the the microwave.
+
+
+
+### Coordinate
+
+坐标
+
+I need to type in the coordinates to our home world. 我得输入我们自己世界的坐标。
+
 ### Correct
 
 **当回答不完全正确时**
@@ -381,76 +495,6 @@ He could be charismatic, even mesmerizing, but also cold and brutal. 他有时�
 
 
 
-### Cook
-
-
-`I need to cook.`
-- 我要去做饭了。
-
-`Do you like to cook?`
-- 你喜欢做饭吗？
-
-`I do enjoy cooking.`
-- 我很喜欢做饭。
-
-`Cooking makes me feel relaxed.`
-- 做饭对我来说就是休息。
-
-`Are you good at cooking?`
-- 你做饭在行吗？   
-
-`What are we cooking?`
-- 咱们晚饭做什么？
-
-`I'm going to start making dinner.`
-- 我该准备晚饭了。
-
-`Can I take you out for dinner?`
-- 我可以请你吃晚饭吗？
-
-`My treat. It's on me.`
-- 我请客。
-
-
-`boxed meal`
-- （从餐厅买的）盒饭
-
-
-`My mom made me a packed lunch` / `My mom packed lunch`/ `My mom prepared me for a brown bag lunch` / `I just brown bag it`
-- 外带午餐（bento）
-- Have you finished eating?  
-  你吃完了吗？
-- I'll wash the dishes today, and you can wash them tomorrow.  
-  Fair enough. 好吧。
-- Warm up leftovers in the the microwave.
-
-
-
-### Coordinate
-
-坐标
-
-I need to type in the coordinates to our home world. 我得输入我们自己世界的坐标。
-
-
-
-### Communication
-
-We had a breakdown in communication.
-我们没沟通好。
-
-
-
-### Concise
-
- [kənˈsaɪs]
-
-Pretty concise, Morty. 总结得真简练，Morty。
-
-### Convenience 
-
-Convenience store：便利店（特指 7 × 24）
-
 
 
 ### Count
@@ -466,7 +510,7 @@ Convenience store：便利店（特指 7 × 24）
 
 
 
-
+`bean counter` （对金钱）善于算计的人
 
 ### Cry
 
@@ -906,7 +950,6 @@ From here on out, I'm making all the decisions.
 - Why don't you get off my back! I'm doing my best.
 - Get off my back, I didn't sleep last night. / can't you see how
   busy I am. / Don't you have anything better to do ?
-- 
 
 
 
@@ -1262,6 +1305,18 @@ Looks like some sort of legally safe knock-off of an '80s horror character with 
 
 ## L
 
+### Late
+
+Oh, no! I'm late to class, bitch! 哦不，我上课要迟到了，贱人！
+
+I'm almost never late to the bus. 我几乎从来不会赶公交车迟到。
+
+It's never too late to learn. 活到老，学到老。
+
+
+
+
+
 ### Latino
 
 [læˈtiːnoʊ] 拉丁美洲人；拉丁裔美国人（西班牙裔美国人）
@@ -1565,6 +1620,14 @@ Some of us get dipped in flat, some in satin, some in gloss. But every once in a
 
 
 
+### Pan
+
+Out of the frying pan into the fire. [把情况越来越糟比喻成放在平底锅上油煎的一条活蹦乱跳的鱼，跳出煎锅却掉进了熊熊炉火中](http://www.unsv.com/voanews/words-and-idioms/lessons/354/)；刚出油锅又入火坑；雪上加霜
+
+-  `frying pan` 煎锅；长柄平底锅
+
+Sure, you convinced Mom to stop those boring violin lessons! But that makes it easier for her to send us to Sunday school. Don't you realize we've jumped out of the frying pan into the fire? 你的确说服了妈不让我们上那些枯燥乏味的小提琴课了，但是这只会让她更有可能送我们去主日学。你难道不明白我们这是跳出了油锅却掉进火坑了吗?
+
 
 
 ### Pant
@@ -1627,9 +1690,16 @@ including a pervy attraction to your underage sister. 包括对你未成年姐�
 
 
 
+### Play
+
+No, no, no, I was just playing dead. 不不不，我只是装死。
+
+
+
 ### Pluck
 
 采摘；解救
+
 He's created a mechanical arm to pluck Mrs. Pancakes out of the air. 他造了个机械手臂来接住 Pancakes 太太。
 
 ### Pitch 
@@ -1732,14 +1802,36 @@ Looks like we've merely prolonged the inevitable. 看来我们不过是把不可
 
 You make me want to puke. 我看到你就想吐。
 
+
+
+### Pumpkin
+
+pumpkin pie 南瓜饼
+
+ pumpkin patch 南瓜田
+
+Quarter the pumpkin and remove the seeds. 把南瓜一切四块，把南瓜子取出来。
+
+Ah, well, Mr. Terry, why don't you tell the whole class the proper wordplay to use when one is chasing one's victim through a pumpkin patch? Terry 先生，你来告诉一下同学们，当你追人经过一片南瓜田的时候应该说什么啊？
+
+
+
+### Pun
+
+双关语，语义双关的俏皮话
+Oh, come on, Terry, you can't think of a pun involving pumpkins, bitch? 你就想不出什么和南瓜有关系的双关吗？贱人。
+
+Who cares what stupid pun you make when you kill someone?杀人的时候谁管你说什么双关呢。
+
+
+
 ### Pussy
 
 猫咪；阴门
 
 `pussy out` 怂了；打退堂鼓；（临阵）退缩
 
-- Don't pussy out on me now.   
-  你现在最好别惹恼我。 
+Don't pussy out on me now. 你现在最好别惹恼我。 
 
 ### 
 
@@ -1819,6 +1911,14 @@ Jerry, come to rub my face in urine again? Jerry 又想来把我的脸摁进尿�
 
 
 ## S
+
+### Sacred
+
+/ˈseɪkrɪd/ 神圣的
+
+Sex is sacred! 性是神圣的！
+
+
 
 ### Sauce
 
@@ -2065,7 +2165,7 @@ Countries like India and China where women, women's roles are often very subserv
 
 
 
-### Specific vs Specification
+### Specific
 
 - **Specific**：口述的参数或规格
 - **Specification**：成册的规格书或参数表
@@ -2143,6 +2243,16 @@ Does this dress make my legs look too stumpy? 这条裙子会让我的腿看上�
 
 There was a large ring on each of her stumpy fingers. 她每根短粗的手指上都戴着一枚大戒指。
 
+
+
+### Subjugation 
+
+/sʌbdʒʊˈɡeɪʃ(ə)n/ 征服；镇压；克制
+
+Well, it's possible that your dog became self-aware and made modifications on the cognition amplifier, then turned on Jerry, Beth, and Summer after learning about humanity's cruel subjugation of his species. 有可能你的狗狗有了自我意识，然后改进了认知增强装置，然后在认识到人类对他的种族压迫后，对 Jerry，Beth 和 Summer 动手了。
+
+
+
 ### Suffice
 
 [sə'faɪs] to be enough
@@ -2165,9 +2275,14 @@ There was a large ring on each of her stumpy fingers. 她每根短粗的手指�
 - We do not go to school on Sundays.
   星期天我们不上学。
 
+### Superiority
+
+[suːˌpɪriˈɔːrəti] 优越性，优势
+It appears clear at this time that the era of human superiority has come to a bitter end. 显然人类统治的纪元将迎来了苦涩的终结。
 
 
-### Supplier vs Vendor
+
+### Supplier
 
 
 **Supplier**
