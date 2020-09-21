@@ -27,8 +27,6 @@ Shut up，直接 [在 AcFun 看《瑞克和莫蒂》](https://www.acfun.cn/bangu
 
 ### Episode 1
 
-[瑞克和莫蒂 第一季 ：第 1 话 电波诚译版](https://www.acfun.cn/bangumi/aa5024874_36188_1723641)
-
 **英语学习**
 
 - [再看美剧](https://www.bilibili.com/video/BV1rt411F7an)
@@ -37,8 +35,6 @@ Shut up，直接 [在 AcFun 看《瑞克和莫蒂》](https://www.acfun.cn/bangu
 
 - [瞧这孙贼的最初探险！爷孙俩小命不保，老瑞差点被关进养老院！- 草泥泥影院](https://www.bilibili.com/video/BV1w4411b715)
 - [欲望，性幻想，下一代的教育，苏格拉底式哲学 - SuperY超级歪](https://www.youtube.com/watch?v=7mEtgmGRrVw)
-
-
 
 **番外片**
 David James Armsby 做了一个同人视频 Glenn the Gromflomite（[YouTube](https://www.youtube.com/watch?v=qYbtfzDr_Jw) | [哔哩哔哩](https://www.bilibili.com/video/av13478975/)），讲述了第一个被 Morty 射杀的海关外星人 Glenn 背后的家庭故事。
@@ -62,17 +58,18 @@ Morty: Aw, geez, dad.You know, that's a lot to drop on a kid all at once. 天啊
 
 ### Episode 2
 
-[再看美剧](https://www.bilibili.com/video/BV1DE411B7cf)
+**学英语**
 
-https://mp.weixin.qq.com/s/A9ym2BGfJ-rLE2km6X09gA
+- [再看美剧](https://www.bilibili.com/video/BV1DE411B7cf)
+- [阿骏英语](https://mp.weixin.qq.com/s/A9ym2BGfJ-rLE2km6X09gA) 
 
 **剧情解析**
 
 
-- 瑞克莫蒂上演盗梦空间，在老师梦里成了奴隶，诠释人心不如狗实诚  - [草泥泥影院](https://www.bilibili.com/video/BV1z4411b7yu)
+- [瑞克莫蒂上演盗梦空间，在老师梦里成了奴隶，诠释人心不如狗实诚  - 草泥泥影院](https://www.bilibili.com/video/BV1z4411b7yu)
 - [善待狗狗，等它统治世界你就幸福了，《瑞克和莫蒂》之人狗情未了 - 周扒片](https://www.bilibili.com/video/BV1Jt41197qh)
 
-
+**经典台词**
 
 Homework is stupid. The whole point is to get less of it. 作业有害智商，少做才是正解。
 
