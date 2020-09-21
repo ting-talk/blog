@@ -233,6 +233,30 @@ RSSHub Radar 是 [RSSHub](https://github.com/DIYgod/RSSHub) 的衍生项目，�
 
 此功能需要在设置中开启。
 
+### [Search to Play the Song](https://chrome.google.com/webstore/detail/search-to-play-the-song/anfmgjkkbagjfdejhbjdiapgkbhpigpm/related)
+
+初衷是为了快速搜歌，然后有了广播，有了片段播放，有了更多听众。保持纯爱好，尊重版权，不下载不破解不拉歌单评论。by [Leewei](https://leewei2020.com/sps.html)
+
+**听音乐**
+
+* 支持网易/虾米/QQ/咪咕/油管试听
+
+* 支持歌单导入导出
+
+* 支持 MV 搜索及快捷键
+
+* 虾米默认不展示，油管需 VPN
+
+**听播客**
+
+- 相当于一个泛用型播客客户端
+- 截止 2020 年 9 月 21 日，未集成 Show Notes 功能
+
+**听广播**
+
+- 相当于一个收音机
+- 可搜索大陆或者港台的电台节目
+
 
 
 ### 需要时才启用的插件
