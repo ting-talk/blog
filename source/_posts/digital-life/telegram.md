@@ -472,7 +472,7 @@ Telegram 会记住你的操作习惯，下次发送图片时不必再次勾选�
 
 📤 **如何导出电报上的表情包**
 
-1. 选择一个 Sticker to GIF Converter，例如 [@tgstogifbot](https://t.me/tgstogifbot)
+1. 选择一个 Sticker to GIF Converter，例如 [@tgstogifbot](https://t.me/tgstogifbot) 或 [@Sticker2GIFBot](https://t.me/Sticker2GIFBot)（可下载整套表情包）
 2. 发送 Stickers，Bots 就可以把 Telegram 上 tgs 格式的表情包转换为 gif 格式
 
 
@@ -788,6 +788,7 @@ https://rsshub.app/telegram/channel/tingtalk
 | [Fndroid 的日常](https://t.me/fndroid_news)        | Clash for Windows                                            |
 | [秋水逸冰](https://t.me/qiushuiyibing)             | [Teddysun](https://teddysun.com/about) 会不定期在此发布一些本人的作品。 |
 | [Shadowrocket News](https://t.me/ShadowrocketNews) | iOS 上小火箭                                                 |
+| [V2Fly](https://t.me/V2Fly)                        | Shadowsocks 是一个纯粹的代理工具，而 V2Ray 定位为一个平台，任何开发者都可以利用 V2Ray 提供的模块开发出新的代理软件。by [新 V2Ray 白话文指南](https://guide.v2fly.org/) |
 
 更多科学上网（翻墙）相关的优质频道，请在电报上联系 [@tingbot](https://t.me/tingbot) 添加到此列表。
 
@@ -1163,6 +1164,7 @@ https://rsshub.app/xiaoyuzhou
 | [@LivegramBot](https://t.me/LivegramBot)           | [不加好友也能私聊](https://telegra.ph/What-is-Livegram-Bot-03-17)，可用于收集反馈及绕开 `+86` 手机号码的限制。 |
 | [@sssoou_bot](https://t.me/sssoou_bot)             | Telegram 搜索，支持中文。                                    |
 | [@Stickers](https://t.me/Stickers)                 | 创建属于自己的表情包。                                       |
+| [@Sticker2GIFBot](https://t.me/Sticker2GIFBot)     | 下载单独的表情包或整套表情包。                               |
 | [@tweet_for_me_bot](https://t.me/tweet_for_me_bot) | 在 Telegram 上发布 Twitter 动态。                            |
 | [@tgstogifbot](https://t.me/tgstogifbot)           | 把 Telegram 上 tgs 格式的表情包转换为 gif 格式。             |
 | [@telegraph](https://t.me/telegraph)               | 登录和编辑 [Telegraph](https://telegra.ph/) 文章，并 [统计 telegra.ph 的浏览量](https://telegram.org/blog/telegraph#telegraph-api)。 |

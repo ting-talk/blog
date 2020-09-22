@@ -24,6 +24,17 @@ tags: 英语
 
 
 
+## 时态
+
+- 过去时：I had lunch already. 我吃过午饭。
+- 现在时：I am having lunch. 我正在吃午饭。
+- 未来时：I am going to have lunch. 我（将要）去吃饭了。
+- 现在完成时：I have had lunch. 我吃完午饭了。
+
+
+
+
+
 ## 陈述句的分类
 
 ### 简单句
@@ -278,7 +289,7 @@ e.g.
 
 倒装结构
 If I were a boy, I might be very handsome. = Were I a boy, I might be very handsome.  
-  
+
 be 动词因虚拟语气变为过去式时只会变为 were，而永远不会变成 was。
 
 混合时态会有一个明显的时间标识，例如 now：

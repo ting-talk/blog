@@ -65,6 +65,10 @@ tags: 英语
 
 
 
+[英语学习的一些经验 - 王垠](http://www.yinwang.org/blog-cn/2020/03/06/english-learning-tips)
+
+
+
 **打造英语环境**
 
 
@@ -371,6 +375,10 @@ tags: 英语
 
 
 
+[几个需要避免的美国英语习惯 - 王垠](http://www.yinwang.org/blog-cn/2020/05/23/american-english-problems)
+
+ 
+
 ## 学语法
 
 以《英语阅读参考手册》为主，点此下载 [电子书](https://github.com/xiaolai/a-new-english-reading-handbook)；《柯林斯 COBUILD 英语语法大全》为辅。
@@ -379,12 +387,7 @@ tags: 英语
 
 
 
-
-**时态**
-- 过去时：I had lunch already. 我吃过午饭。
-- 现在时：I am having lunch. 我正在吃午饭。
-- 未来时：I am going to have lunch. 我（将要）去吃饭了。
-- 现在完成时：I have had lunch. 我吃完午饭了。
+> 你分析的句子来源，最好是真正的，有良好风格的英文书籍，而不是来自中国人写的语法书。比如，你可以选一本通俗易懂的英文小说，比如《哈利波特》的第一部。或者你可以用英文杂志（比如《TIME》）上的文章。很有趣的是，中国人写的语法书里面，为了演示各种语法规则，经常是“没有困难，制造困难也要上”，造出一些外国人根本不会用的，容易让人误解的句子。这种句子，就算你分析清楚了，反而是有害的。这种丑陋的句子会破坏人的语感，而且让你觉得语法无比困难，打击你的信心。你受到影响之后，就会写出类似的，让外国人看了翻白眼的丑陋句子。by [解谜英语语法 - 王垠](http://www.yinwang.org/blog-cn/2018/11/23/grammar)
 
 
 

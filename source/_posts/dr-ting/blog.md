@@ -130,7 +130,7 @@ tags: [庭勃士, 写作, 博客]
 
 
 
-
+[我为什么写博客？](http://dapengde.com/archives/17808/)自古皆死，不朽者文。by 大鹏
 
 
 
