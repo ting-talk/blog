@@ -1,7 +1,7 @@
 ---
 title: Telegram：新手指南、使用教程及频道推荐
 date: 2019-11-09  
-updated: 2020-09-08
+updated: 2020-09-23
 categories: 数字生活  
 tags: [网上冲浪指南, 突破网络审查, Telegram]
 ---
@@ -240,23 +240,19 @@ Telegram 的中文搜索是以「词」为单位的，以标点符号或空格�
 
 要是对隐私有较高的要求，或者彻底解除 +86 开头的手机号码的私聊限制，可以把手机号码换绑到非中国区的手机号码，例如 Google Voice：
 
-**方法一**
-
-[自己注册 Google Voice](https://www.v2ex.com/t/662342)，比较麻烦，此法基本失效。
-
-**方法二**
-
 1. [注册 Google 账号](https://tingtalk.me/google-account/)。
-2. 在 Google 或淘宝上搜索 Google Voice，购买别人注册下来的号码。
+2. 在 Google 或淘宝上搜索关键词 `Google Voice` 或 `GV` ，购买别人注册下来的号码。
 3. 转移到自己的 Google 账号上。
 
 
 
 如果对隐私有更好的要求，这些还远远不够，例如：
 
-- 使用没有个人特征的头像（在 Telegram 设置里删除曾经使用过的头像）、昵称和用户名，确保不会碳基身份关联。
+- 使用没有个人特征的头像（在 Telegram 设置里删除曾经使用过的头像）、昵称和用户名，确保硅基身份不会和碳基身份产生关联。
+- 添加陌生人到通讯录，记得取消勾选 `Share my phone number`。
 - 不使用 Touch ID 或 Face ID 解锁你的手机，只以密码锁屏（数字 + 字母），以免被「执法人员」控制身体后强行解锁。
 - 使用 [Tor](https://www.torproject.org/)（The Onion Router、洋葱路由器）隐藏用户真实 IP 地址、避免网络监控及流量分析。
+- 开启 SIM（手机卡）密码，纵使别人捡到你的手机（卡），也不能启用 SIM，也就不能收到登录验证码。
 
 
 
@@ -743,12 +739,17 @@ https://rsshub.app/telegram/channel/tingtalk
 | [Solidot](https://t.me/solidot)                     | 奇客的资讯，重要的东西。                                     |
 | [Appinn Feed](https://t.me/appinnfeed)              | 分享免费、小巧、实用、有趣、绿色的软件。                     |
 | [Price Tag 应用推荐](https://t.me/appfans)          | 专注 iOS 和 macOS 上优质、限免应用推荐。                     |
+| [果核 Apple Nuts](https://t.me/AppleNuts)           | 一个果粉（[Hackl0us](https://hackl0us.com/)）的闲言碎语， 用来推送苹果（Apple） 相关的技术、新闻资讯、技巧、产品/软件心得体会等。 |
 | [Google Play 限免信息](https://t.me/playsales)      | 不定时推介 Play Store 上的限免游戏和 App。                   |
-| [反斗限免](https://t.me/apprcn)                     | 这里有反斗软件和反斗限免的文章更新。                         |
+| [反斗限免](https://t.me/apprcn)                     | 这里有反斗软件和反斗限免的文章更新。更新频繁高。             |
 | [科技爱好者周刊](https://t.me/scitech_fans)         | 记录每周值得分享的科技内容，周五发布；非官方频道。[科技爱好者周刊合集](https://www.yuque.com/ruanyf/weekly)。 |
-| [单向历](https://t.me/ows_calendar)                 | 给时光以生命（非官方频道）。                                 |
+| [单向历](https://t.me/ows_calendar)                 | 给时光以生命（非官方频道）。2020 年 7 月 5 日停止更新，希望能回来。 |
 | [iYouPort](https://t.me/iyouport)                   | IYP 不是过眼云烟的新闻网站，我们提供实战能力，这里是值得您反复回看的档案室。 |
 | [中国数字时代消息推送](https://t.me/cdtchinesefeed) | 致力于聚合「中国的社会与政治新闻，和它在世界上的新兴的角色」有关的报道和评论。 |
+| [即刻精选](https://t.me/jike_collection)            | 精选即刻 app 热门话题更新。                                  |
+| [TestFlight 科技花](https://t.me/TestFlightCN)      | 发布科技新闻、App 测试版链接、软件使用相关话题。中文         |
+| [如有乐享](https://t.me/ruyoblog)                   | 更新 [如有乐享博客](https://51.ruyo.net/) 的内容：云服务器、优惠活动、羊毛信息以及各种 Bug。 |
+| [微信搬运工](https://t.me/WeChatEssence)            | 有些微信的内容分享了之后就和谐了，本频道可以做个备份，以及丰富电报上的中文内容（不可否认还是有很多非政治的优质内容在微信公众号里）。 |
 
 
 
@@ -815,6 +816,7 @@ https://rsshub.app/telegram/channel/tingtalk
 | [不客观 Not Objective](https://t.me/notobjective) | 一档搭建在 Telegram 的简易播客，纯主观感受。by [郝海龙](https://haohailong.net/) |
 | [中文播客精选](https://t.me/greatpodcasts)        | 分享精选优质中文播客，目前推荐单期节目为主。                 |
 | [每日一歌](https://t.me/dailymusich)              | 愿你也能在这里找到属于你自己的共鸣。                         |
+| [音乐世界](https://t.me/lumingguandj)             | 温柔被我唱成了歌，伴你人山人海不停留。                       |
 
 
 
