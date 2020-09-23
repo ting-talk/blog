@@ -1,5 +1,4 @@
 ---
-
 title: Google Cloud Platform 注册和使用指南
 date: 2019-04-27  
 updated: 2020-05-08  
@@ -9,7 +8,7 @@ tags: [突破网络审查, VPS]
 
 ![google-cloud](gcp/google-cloud.png)
 
-感谢 Google Cloud Platform（GCP，谷歌云）赠予 $300 和 12 个月免费试用期。
+感谢 Google Cloud Platform（GCP，谷歌云）赠予 $300 和 12 个月（现在改为 90 天）免费试用期。
 
 <!-- more -->
 

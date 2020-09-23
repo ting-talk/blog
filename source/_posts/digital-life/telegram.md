@@ -711,6 +711,7 @@ https://rsshub.app/telegram/channel/tingtalk
 | [Trending Stickers](https://t.me/TrendingStickers) | Telegram 表情包合集。                                        |
 | [紙飛機](https://t.me/tgflight)                    | 欢迎搭乘纸飞机，Porsche 和你聊聊 Telegram 的大小事。[播客 RSS 订阅链接](https://feeds.buzzsprout.com/837646.rss)。 |
 | [TGgeek](https://t.me/TGgeek)                      | TG 极客：分享 Telegram 使用技巧、重要资讯、常见问答、中文汉化、版本更新等信息。 |
+| [Anti Revoke Plugin](https://t.me/AntiRevoke)      | Telegram 本地消息防撤回插件，安全性未知。[GitHub 项目地址](https://github.com/SpriteOvO/Telegram-Anti-Revoke/blob/master/README-CN.md)。 |
 
 
 
