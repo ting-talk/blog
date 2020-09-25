@@ -70,6 +70,7 @@ tags: [健康, 生活]
 - [别再花冤枉钱了，8 块钱和 78 块钱的牙膏到底有什么区别 - 柴知道](https://b23.tv/BZcAGt)
 - [如何护理好口腔健康？- 子不语Rex](https://sspai.com/post/53604)
 - [除了健康，都是小事 - 庭说](https://tingtalk.me/health/)
+- [用这些技巧保持你的口腔健康，别等到牙齿坏掉才后悔](https://sspai.com/post/62330) 
 
 
 

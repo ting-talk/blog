@@ -750,6 +750,9 @@ https://rsshub.app/telegram/channel/tingtalk
 | [TestFlight 科技花](https://t.me/TestFlightCN)      | 发布科技新闻、App 测试版链接、软件使用相关话题。中文         |
 | [如有乐享](https://t.me/ruyoblog)                   | 更新 [如有乐享博客](https://51.ruyo.net/) 的内容：云服务器、优惠活动、羊毛信息以及各种 Bug。 |
 | [微信搬运工](https://t.me/WeChatEssence)            | 有些微信的内容分享了之后就和谐了，本频道可以做个备份，以及丰富电报上的中文内容（不可否认还是有很多非政治的优质内容在微信公众号里）。 |
+| [cnBeta](https://t.me/cnbeta_com)                   | cnBeta.COM 中文业界资讯站是一个提供 IT 相关新闻资讯、技术文章和评论的观点的中文网站。 |
+| [煎蛋无聊图](https://t.me/jandan_pic)               | 自动抓取煎蛋首页推荐无聊图及其评论。                         |
+| [NF^2在播剧集频道](https://t.me/nfnfys)             | 在播的剧集。                                                 |
 
 
 
@@ -1289,10 +1292,10 @@ https://rsshub.app/xiaoyuzhou
 
 **通过 Bots 发布文章的好处**
 
-- 在任何一个设备（across any number of devices）都可以再次编辑文章的标题、作者和正文（除了文章链接）
+- 在任何一个设备（across any number of devices）都可以**再次编辑**文章的标题、作者和正文（除了文章链接）
   - `Log in as *** on this device`，然后反回到 @telegraph（也许不用操作这一步）
   - `My posts`
-  - 点击文章的标题（字体颜色和正文不一样）
+  - 点击文章的标题
     - 电脑：自动跳转到浏览器打开，然后在右上角找到 `EDIT`
     - 手机：点击界面的右上角 3 个点，选择 `Open in…` 用浏览器打开，滑倒文章底部即可看到 `EDIT`
 - 能看到你发了多少篇文章，多少人看了（但是读者依旧看不到作者是谁）
@@ -1309,7 +1312,7 @@ URL = `https://telegra.ph`/`首次输入的标题`-`首次发表的月`-`首次�
    - 把 the、a、an 等去掉：10 reasons to choose telegraph
    - 用连字符 `-` 代替标点和空格：10-reasons-to-choose-telegraph
    - 是否可以精简或者采用另外一种翻译：why-telegraph
-2. 再用 Edit 功能修改标题为中文
+2. 再用 `Edit` 功能修改标题为中文：选择电报的 10 个理由。
 
 
 
@@ -1317,7 +1320,7 @@ URL = `https://telegra.ph`/`首次输入的标题`-`首次发表的月`-`首次�
 
 1. 使用 [Markdown](https://tingtalk.me/markdown/) 写文章（例如 [Typora](https://typora.io/)）
 2. 复制
-3. 粘贴到 `telegra.ph`，即可快速排出精美的文章
+3. 粘贴到 `telegra.ph`，即可快速排出精美的文章（不支持某些格式，例如多级项目列表）
 
 
 
