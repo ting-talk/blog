@@ -727,32 +727,32 @@ https://rsshub.app/telegram/channel/tingtalk
 | 频道                                                 | 详情                                                         |
 | ---------------------------------------------------- | ------------------------------------------------------------ |
 | [看鉴中国 OutsightChina](https://t.me/OutsightChina) | 一个健康的社会，不该只有一种声音。看鉴中国，每天聚焦一则关于中国的新闻事件，带你对比来自中外不同媒体多元的、不一样的观点。 |
+| [中国数字时代消息推送](https://t.me/cdtchinesefeed)  | 致力于聚合「中国的社会与政治新闻，和它在世界上的新兴的角色」有关的报道和评论。 |
 
 
 
 ### 💾万象资讯
 
-| 频道                                                | 详情                                                         |
-| --------------------------------------------------- | ------------------------------------------------------------ |
-| [少数派](https://t.me/sspai)                        | 少数派致力于更好地运用数字产品或科学方法，帮助用户提升工作效率和生活品质。 |
-| [好奇心日报](https://t.me/qdaily)                   | 为您广播《好奇心日报》上最新的文章；非官方。                 |
-| [Solidot](https://t.me/solidot)                     | 奇客的资讯，重要的东西。                                     |
-| [Appinn Feed](https://t.me/appinnfeed)              | 分享免费、小巧、实用、有趣、绿色的软件。                     |
-| [Price Tag 应用推荐](https://t.me/appfans)          | 专注 iOS 和 macOS 上优质、限免应用推荐。                     |
-| [果核 Apple Nuts](https://t.me/AppleNuts)           | 一个果粉（[Hackl0us](https://hackl0us.com/)）的闲言碎语， 用来推送苹果（Apple） 相关的技术、新闻资讯、技巧、产品/软件心得体会等。 |
-| [Google Play 限免信息](https://t.me/playsales)      | 不定时推介 Play Store 上的限免游戏和 App。                   |
-| [反斗限免](https://t.me/apprcn)                     | 这里有反斗软件和反斗限免的文章更新。更新频繁高。             |
-| [科技爱好者周刊](https://t.me/scitech_fans)         | 记录每周值得分享的科技内容，周五发布；非官方频道。[科技爱好者周刊合集](https://www.yuque.com/ruanyf/weekly)。 |
-| [单向历](https://t.me/ows_calendar)                 | 给时光以生命（非官方频道）。2020 年 7 月 5 日停止更新，希望能回来。 |
-| [iYouPort](https://t.me/iyouport)                   | IYP 不是过眼云烟的新闻网站，我们提供实战能力，这里是值得您反复回看的档案室。 |
-| [中国数字时代消息推送](https://t.me/cdtchinesefeed) | 致力于聚合「中国的社会与政治新闻，和它在世界上的新兴的角色」有关的报道和评论。 |
-| [即刻精选](https://t.me/jike_collection)            | 精选即刻 app 热门话题更新。                                  |
-| [TestFlight 科技花](https://t.me/TestFlightCN)      | 发布科技新闻、App 测试版链接、软件使用相关话题。中文         |
-| [如有乐享](https://t.me/ruyoblog)                   | 更新 [如有乐享博客](https://51.ruyo.net/) 的内容：云服务器、优惠活动、羊毛信息以及各种 Bug。 |
-| [微信搬运工](https://t.me/WeChatEssence)            | 有些微信的内容分享了之后就和谐了，本频道可以做个备份，以及丰富电报上的中文内容（不可否认还是有很多非政治的优质内容在微信公众号里）。 |
-| [cnBeta](https://t.me/cnbeta_com)                   | cnBeta.COM 中文业界资讯站是一个提供 IT 相关新闻资讯、技术文章和评论的观点的中文网站。 |
-| [煎蛋无聊图](https://t.me/jandan_pic)               | 自动抓取煎蛋首页推荐无聊图及其评论。                         |
-| [NF^2在播剧集频道](https://t.me/nfnfys)             | 在播的剧集。                                                 |
+| 频道                                           | 详情                                                         |
+| ---------------------------------------------- | ------------------------------------------------------------ |
+| [少数派](https://t.me/sspai)                   | 少数派致力于更好地运用数字产品或科学方法，帮助用户提升工作效率和生活品质。 |
+| [好奇心日报](https://t.me/qdaily)              | 为您广播《好奇心日报》上最新的文章；非官方。                 |
+| [Solidot](https://t.me/solidot)                | 奇客的资讯，重要的东西。                                     |
+| [Appinn Feed](https://t.me/appinnfeed)         | 分享免费、小巧、实用、有趣、绿色的软件。                     |
+| [Price Tag 应用推荐](https://t.me/appfans)     | 专注 iOS 和 macOS 上优质、限免应用推荐。                     |
+| [果核 Apple Nuts](https://t.me/AppleNuts)      | 一个果粉（[Hackl0us](https://hackl0us.com/)）的闲言碎语， 用来推送苹果（Apple） 相关的技术、新闻资讯、技巧、产品/软件心得体会等。 |
+| [Google Play 限免信息](https://t.me/playsales) | 不定时推介 Play Store 上的限免游戏和 App。                   |
+| [反斗限免](https://t.me/apprcn)                | 这里有反斗软件和反斗限免的文章更新。更新频繁高。             |
+| [科技爱好者周刊](https://t.me/scitech_fans)    | 记录每周值得分享的科技内容，周五发布；非官方频道。[科技爱好者周刊合集](https://www.yuque.com/ruanyf/weekly)。 |
+| [单向历](https://t.me/ows_calendar)            | 给时光以生命（非官方频道）。2020 年 7 月 5 日停止更新，希望能回来。 |
+| [iYouPort](https://t.me/iyouport)              | IYP 不是过眼云烟的新闻网站，我们提供实战能力，这里是值得您反复回看的档案室。 |
+| [即刻精选](https://t.me/jike_collection)       | 精选即刻 app 热门话题更新。                                  |
+| [TestFlight 科技花](https://t.me/TestFlightCN) | 发布科技新闻、App 测试版链接、软件使用相关话题。中文         |
+| [如有乐享](https://t.me/ruyoblog)              | 更新 [如有乐享博客](https://51.ruyo.net/) 的内容：云服务器、优惠活动、羊毛信息以及各种 Bug。 |
+| [微信搬运工](https://t.me/WeChatEssence)       | 有些微信的内容分享了之后就和谐了，本频道可以做个备份，以及丰富电报上的中文内容（不可否认还是有很多非政治的优质内容在微信公众号里）。 |
+| [cnBeta](https://t.me/cnbeta_com)              | cnBeta.COM 中文业界资讯站是一个提供 IT 相关新闻资讯、技术文章和评论的观点的中文网站。 |
+| [煎蛋无聊图](https://t.me/jandan_pic)          | 自动抓取煎蛋首页推荐无聊图及其评论。                         |
+| [NF^2在播剧集频道](https://t.me/nfnfys)        | 在播的剧集。                                                 |
 
 
 
