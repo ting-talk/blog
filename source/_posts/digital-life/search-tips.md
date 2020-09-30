@@ -114,6 +114,12 @@ tags: 网上冲浪指南
 
 
 
+**搜索社交账号**
+
+加一个小老鼠，例如 [@tingtalk](https://www.google.com/search?q=@tingtalk)
+
+
+
 **Number Range（数值范围）**
 
 - The dot-dot symbol `..` includes a range of numbers in your search results.
@@ -125,12 +131,6 @@ tags: 网上冲浪指南
 
 - The tilde symbol `~` includes similar words in your search results.  
 - 例如：`~food ~store`
-
-
-
-
-
-
 
 
 

@@ -32,7 +32,7 @@ tags: [网上冲浪指南, 突破网络审查, Telegram]
 
 > 刚入狱的时候，你痛恨周围的高墙，慢慢地，你习惯了生活在其中，最终你发现，自己不得不依靠它而生存。by *The Shawshank Redemption*
 
-既然说不动认识我的人，但世界那么大，人口那么多，网络世界上一定有一群人，Ta 们和我一样，反感「温室园丁」不透明的做法，相信「自由价更高」。
+既然说不动认识我的人，但世界那么大，人口那么多，网络世界上一定有一群人，Ta 们和我一样，反感「温室园丁」不透明的做法，不想做一只数字农场里的电子绵羊，相信「自由价更高」。
 
 The devil's in the details，因此我熬夜无数，花了几个月，把 Telegram 官网的 [FAQ](https://telegram.org/faq) 和 [Blog](https://telegram.org/blog) 全部看完了（从 2013 年创立至今），结合 Google 搜索引擎，整理出这篇~~可能是~~中文互联网内容最详细排版最精美的《电报使用指南》，目的就是尽可能地为读者呈现 Telegram 的强大、私密以及友好的用户体验，Make Telegram great again。
 
@@ -419,6 +419,8 @@ Telegram 会记住你的操作习惯，下次发送图片时不必再次勾选�
 
 **内置视频播放器（[in-app media player](https://telegram.org/blog/share-preview#new-video-player)）**：直接在 app 内观看 YouTube 或 Vimeo 视频，不必跳转到浏览器或者相应的视频 app。
 
+与国外视频 App 的操作逻辑保持一致：双击左侧快退，双击右侧快进。
+
 **支持时间戳（[Timestamp](https://telegram.org/blog/silent-messages-slow-mode#timestamps-and-improved-scrubbing)）**：发送本地视频或 YouTube 视频时，在 `Add a caption`（添加标题）里标记你最喜欢的时刻（mark your favorite moments），例如：
 
 ```
@@ -747,12 +749,14 @@ https://rsshub.app/telegram/channel/tingtalk
 | [单向历](https://t.me/ows_calendar)            | 给时光以生命（非官方频道）。2020 年 7 月 5 日停止更新，希望能回来。 |
 | [iYouPort](https://t.me/iyouport)              | IYP 不是过眼云烟的新闻网站，我们提供实战能力，这里是值得您反复回看的档案室。 |
 | [即刻精选](https://t.me/jike_collection)       | 精选即刻 app 热门话题更新。                                  |
-| [TestFlight 科技花](https://t.me/TestFlightCN) | 发布科技新闻、App 测试版链接、软件使用相关话题。中文         |
+| [TestFlight 科技花](https://t.me/TestFlightCN) | 发布科技新闻、App 测试版链接、软件使用相关话题。             |
 | [如有乐享](https://t.me/ruyoblog)              | 更新 [如有乐享博客](https://51.ruyo.net/) 的内容：云服务器、优惠活动、羊毛信息以及各种 Bug。 |
 | [微信搬运工](https://t.me/WeChatEssence)       | 有些微信的内容分享了之后就和谐了，本频道可以做个备份，以及丰富电报上的中文内容（不可否认还是有很多非政治的优质内容在微信公众号里）。 |
 | [cnBeta](https://t.me/cnbeta_com)              | cnBeta.COM 中文业界资讯站是一个提供 IT 相关新闻资讯、技术文章和评论的观点的中文网站。 |
 | [煎蛋无聊图](https://t.me/jandan_pic)          | 自动抓取煎蛋首页推荐无聊图及其评论。                         |
 | [NF^2在播剧集频道](https://t.me/nfnfys)        | 在播的剧集。                                                 |
+
+
 
 
 
