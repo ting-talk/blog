@@ -74,7 +74,7 @@ The devil's in the details，因此我熬夜无数，花了几个月，把 Teleg
 
 - 每次扫码登录，心中万马奔腾：也许微信掌门人上辈子是一个无马（码）不欢的 [骑兵](https://baike.baidu.com/item/%E9%AA%91%E5%85%B5%E7%89%87/972384)。
 - 只能发送小于 100 MB 的文件；一次只能发送 9 张图片，而且每次都要勾选原图。
-- 占用巨大的存储空间，而且备份与同步的体验特别差，也不能换成欧盟号码到处用户数据。
+- 占用巨大的存储空间，而且备份与同步的体验特别差，也不能换成欧盟号码导出用户数据。
 
 > 注册微信的时候，用户会默认同意 [腾讯微信软件许可及服务协议](https://weixin.qq.com/agreement?lang=zh_CN) ，其中在 7.1.2 提到一个霸王条款：「微信帐号的所有权归腾讯公司所有，用户完成申请注册手续后，仅获得微信帐号的使用权，且该使用权仅属于初始申请注册人。……」。
 >
@@ -660,7 +660,7 @@ Telegram 会记住你的操作习惯，下次发送图片时不必再次勾选�
 - [Subscriber Privacy](https://telegram.org/tour/channels#subscriber-privacy)：关注者无法得知频道创建者（creator）是谁，也无法得知谁关注了这个频道。
 - [Hashtags](https://telegram.org/tour/channels#hashtags)：多用 `#` （标签）给消息分类，方便快速检索（instant search）。
 - 频道可以有无数个订阅者，但是创建者只能邀请前 200 个成员到你的频道。
-- [频道绑定群聊](https://telegram.org/blog/privacy-discussions-web-bots#broadcasts-meet-group-chats) 后，频道中的每条新帖子（new post）都会自动转发到该群组并被置顶（Pin）。通过 Bot [@areply_bot](https://t.me/areply_bot)，可以自动解除频道消息在群组的同步置顶。
+- [频道绑定群聊](https://telegram.org/blog/privacy-discussions-web-bots#broadcasts-meet-group-chats) 后，频道中的每条新帖子（new post）都会自动转发到该群组并被置顶（Pin）。
 - 支持 [Instant View](https://instantview.telegram.org/) 的文章会缓存在 Telegram 的服务器上。
 - [Post Widget](https://core.telegram.org/widgets/posts)：将频道或公共群组的消息嵌入到任何地方。You can embed messages from public groups and channels anywhere. 
 - 频道分析（[Channel Stats](https://telegram.org/blog/folders#channel-stats)）📈：订阅人数超过 500 人（之前是 1,000  人）的频道会有详细的统计数据分析报告（[Statistics](https://telegram.org/tour/channels#detailed-statistics)）。
@@ -681,10 +681,17 @@ https://rsshub.app/telegram/channel/tingtalk
 
 
 
-**在 Post 下添加按钮**
+**在 Post 下添加评论按钮**
 
 - [@LikeComBot](https://t.me/LikeComBot)：在频道消息下添加 Like、Comment 和 Emoji 按钮。
 - [@DiscussBot](https://t.me/discussbot)：在频道消息下添加评论按钮（[add comment buttons to all posts](https://telegram.org/blog#comments-widget)）。
+
+2020 年 9 月 30 开始，电报频道原生支持评论功能（[Channel Comments](https://telegram.org/blog/filters-anonymous-admins-comments#channel-comments)），以上两个按钮便不再推荐使用：
+
+1. 在频道的后台绑定一个群聊（Group）
+2. 频道发送消息后，有两个评论入口：
+   - 频道：点击 `Leave a comment` 即可进入留言板（此法无需加入讨论组）
+   - 群组：引用（Reply）回复对应的频道消息
 
 
 
@@ -784,6 +791,7 @@ https://rsshub.app/telegram/channel/tingtalk
 | [不求甚解](https://t.me/fakeye)                      | 设计师 [oooooohmygosh](https://space.bilibili.com/38053181) 的代言人。[设计本是艺术，何苦把自己活成软件操作员。](https://www.bilibili.com/video/BV1S741117d3) |
 | [每周一书](https://t.me/weekly_books)                | 人类的悲喜并不互通，但读书是走向共同理解的捷径。             |
 | [海龙说](https://t.me/haotalk)                       | 牢记梦想，自然生长。by [郝海龙的博客](https://haohailong.net/) |
+| [KAIX.IN](https://t.me/kaix_in)                      | 思考碎片，[博客](https://kaix.in/) 更新。                    |
 
 关联阅读：[中文独立博客列表](https://github.com/timqian/chinese-independent-blogs) by timqian
 
@@ -1194,13 +1202,14 @@ https://rsshub.app/xiaoyuzhou
 
 
 
-### 👮管理之道
+**👮管理之道**
 
 - 可删除成员的单条消息或全部消息。
 - [慢速模式（Slow Mode）](https://telegram.org/blog/silent-messages-slow-mode#slow-mode)：在 10 秒 / 30 秒 / 1 分钟 / 5 分钟 / 15 分钟 / 1 个小时内，成员只能发送一条消息，这样可以使小组中的对话更加有序，也可以提高每条信息的价值。
 - [群组权限](https://telegram.org/blog/permissions-groups-undo)：管理员可以限制所有成员或单个成员只能发送特定类型的内容（[Partial bans](https://telegram.org/tour/groups#partial-bans)），如此一来，你便可建立一个没有表情贴纸或者 gif 的高质量交流社区。或者甚至完全限制成员发送信息，让管理员彼此交谈，而群成员则默默地旁观。
 - 可对群主（creator）及管理员（administrators）设置 [自定义头衔（Custom title）](https://telegram.org/blog/silent-messages-slow-mode#admin-titles)。
 - 管理日志（[Recent Admin Actions](https://telegram.org/blog/admin-revolution#recent-admin-actions)）：当多个管理员在一起工作时，很容易搞不清楚哪个管理员或管理机器人，在什么时候做了什么。所以 Telegram 的管理员页面增加了「最近动作」功能。用于存储过去 48 小时内在组中执行的所有服务操作的日志，仅对管理员可见。
+- 2020 年 9 月 30 开始，管理员可以匿名发布消息了（[Anonymous Group Admins](https://telegram.org/blog/filters-anonymous-admins-comments#anonymous-group-admins)）。
 
 
 

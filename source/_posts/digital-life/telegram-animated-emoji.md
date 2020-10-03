@@ -154,7 +154,7 @@ tags: [Telegram, 网上冲浪指南]
 
 
 
-**发布记录**：[February 13, 2020](https://telegram.org/blog/new-profiles-people-nearby#new-animated-emoji)、[September 5, 2019](https://telegram.org/blog/scheduled-reminders-themes#more-animated-emoji)、[August 9, 2019](https://telegram.org/blog/silent-messages-slow-mode#animated-emoji)、[March 30, 2020](https://telegram.org/blog/folders#new-animated-emoji)、[April 24, 2020](https://telegram.org/blog/400-million#bullseye) 
+**发布记录**：[February 13, 2020](https://telegram.org/blog/new-profiles-people-nearby#new-animated-emoji)、[September 5, 2019](https://telegram.org/blog/scheduled-reminders-themes#more-animated-emoji)、[August 9, 2019](https://telegram.org/blog/silent-messages-slow-mode#animated-emoji)、[March 30, 2020](https://telegram.org/blog/folders#new-animated-emoji)、[April 24, 2020](https://telegram.org/blog/400-million#bullseye) 、[September 30, 2020](https://telegram.org/blog/filters-anonymous-admins-comments)
 
 **表情合集**：有人把以上 Animated Emojies 做成了一个表情包，比原版更大，且支持循环播放，[点此](https://t.me/addstickers/AnimatedEmojies) 添加。
 
