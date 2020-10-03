@@ -96,3 +96,10 @@ tags: [突破网络审查, Apple ID]
 - 安装完成之后，你有 2 个选择
   - 切换回以前 Apple ID
   - 把美区 Apple ID 作为主账号（在 iCloud 也登录）以躲避当局的审查。但是 app 是跟着 ID 走的，当时用哪个 ID 下载，升级 app 时也要用那个 ID，所以如果不想使用旧版 app，请使用新的非中国区 Apple ID 卸载重装。
+
+
+
+**关联阅读**
+
+- 图文教程：[如何注册并使用美区 Apple ID - 魅影极速](https://docs.maying.co/tutorial/appleid_us)（方法与本文略有不同）
+- 文字教程：[如何使用美区 Apple ID 购买付费 App - TARESKY](https://taresky.com/post/Apple-ID-US)
