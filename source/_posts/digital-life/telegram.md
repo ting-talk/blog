@@ -703,13 +703,13 @@ https://rsshub.app/telegram/channel/tingtalk
 
 **如何向我推荐优质频道**
 
-1. 在 Telegram 搜索 [@tingbot](https://t.me/tingbot) 
-2. 说明推荐理由
+1. 在 Telegram 搜索 [@tingbot](https://t.me/tingbot)
+2. 简单说明推荐理由
 3. 优质频道将会更新在这篇《电报教程》里
 
 
 
-以下是我目前收集的频道，但不要「贪杯」哦，「淹没」在信息洪流中，对有限的人生来说，是一种慢性自杀，请合理分配稀缺的注意力。
+以下是我目前收集的频道（不代表我同意以下频道的观点），但不要「贪杯」哦，「淹没」在信息洪流中，对有限的人生来说，是一种慢性自杀，请合理分配稀缺的注意力。
 
 
 
@@ -746,30 +746,37 @@ https://rsshub.app/telegram/channel/tingtalk
 
 
 
+### 🗄️ 存档备份
+
+| 频道                                      | 详情                                                         |
+| ----------------------------------------- | ------------------------------------------------------------ |
+| [你知道的太多了](https://t.me/uknow2much) | 不定期发布和转载各类不一定靠谱的内幕、流言蜚语、小知识等。   |
+| [微信搬运工](https://t.me/WeChatEssence)  | 有些微信的内容分享了之后就和谐了，本频道可以做个备份，以及丰富电报上的中文内容（不可否认还是有很多非政治的优质内容在微信公众号里）。 |
+
+
+
 ### 💾 万象资讯
 
-| 频道                                           | 详情                                                         |
-| ---------------------------------------------- | ------------------------------------------------------------ |
-| [少数派](https://t.me/sspai)                   | 少数派致力于更好地运用数字产品或科学方法，帮助用户提升工作效率和生活品质。 |
-| [好奇心日报](https://t.me/qdaily)              | 为您广播《好奇心日报》上最新的文章；非官方。                 |
-| [Solidot](https://t.me/solidot)                | 奇客的资讯，重要的东西。                                     |
-| [Appinn Feed](https://t.me/appinnfeed)         | 分享免费、小巧、实用、有趣、绿色的软件。                     |
-| [Price Tag 应用推荐](https://t.me/appfans)     | 专注 iOS 和 macOS 上优质、限免应用推荐。                     |
-| [果核 Apple Nuts](https://t.me/AppleNuts)      | 一个果粉（[Hackl0us](https://hackl0us.com/)）的闲言碎语， 用来推送苹果（Apple） 相关的技术、新闻资讯、技巧、产品/软件心得体会等。 |
-| [Google Play 限免信息](https://t.me/playsales) | 不定时推介 Play Store 上的限免游戏和 App。                   |
-| [反斗限免](https://t.me/apprcn)                | 这里有反斗软件和反斗限免的文章更新。更新频繁高。             |
-| [科技爱好者周刊](https://t.me/scitech_fans)    | 记录每周值得分享的科技内容，周五发布；非官方频道。[科技爱好者周刊合集](https://www.yuque.com/ruanyf/weekly)。 |
-| [单向历](https://t.me/ows_calendar)            | 给时光以生命（非官方频道）。2020 年 7 月 5 日停止更新，希望能回来。 |
-| [iYouPort](https://t.me/iyouport)              | IYP 不是过眼云烟的新闻网站，我们提供实战能力，这里是值得您反复回看的档案室。 |
-| [即刻精选](https://t.me/jike_collection)       | 精选即刻 app 热门话题更新。                                  |
-| [TestFlight 科技花](https://t.me/TestFlightCN) | 发布科技新闻、App 测试版链接、软件使用相关话题。             |
-| [如有乐享](https://t.me/ruyoblog)              | 更新 [如有乐享博客](https://51.ruyo.net/) 的内容：云服务器、优惠活动、羊毛信息以及各种 Bug。 |
-| [微信搬运工](https://t.me/WeChatEssence)       | 有些微信的内容分享了之后就和谐了，本频道可以做个备份，以及丰富电报上的中文内容（不可否认还是有很多非政治的优质内容在微信公众号里）。 |
-| [cnBeta](https://t.me/cnbeta_com)              | cnBeta.COM 中文业界资讯站是一个提供 IT 相关新闻资讯、技术文章和评论的观点的中文网站。 |
-| [煎蛋无聊图](https://t.me/jandan_pic)          | 自动抓取煎蛋首页推荐无聊图及其评论。                         |
-| [NF^2在播剧集频道](https://t.me/nfnfys)        | 在播的剧集。                                                 |
-
-
+| 频道                                                    | 详情                                                         |
+| ------------------------------------------------------- | ------------------------------------------------------------ |
+| [少数派](https://t.me/sspai)                            | 少数派致力于更好地运用数字产品或科学方法，帮助用户提升工作效率和生活品质。 |
+| [好奇心日报](https://t.me/qdaily)                       | 为您广播《好奇心日报》上最新的文章；非官方。                 |
+| [Solidot](https://t.me/solidot)                         | 奇客的资讯，重要的东西。                                     |
+| [Appinn Feed](https://t.me/appinnfeed)                  | 分享免费、小巧、实用、有趣、绿色的软件。                     |
+| [Price Tag 应用推荐](https://t.me/appfans)              | 专注 iOS 和 macOS 上优质、限免应用推荐。                     |
+| [果核 Apple Nuts](https://t.me/AppleNuts)               | 一个果粉（[Hackl0us](https://hackl0us.com/)）的闲言碎语， 用来推送苹果（Apple） 相关的技术、新闻资讯、技巧、产品/软件心得体会等。 |
+| [Google Play 限免信息](https://t.me/playsales)          | 不定时推介 Play Store 上的限免游戏和 App。                   |
+| [反斗限免](https://t.me/apprcn)                         | 这里有反斗软件和反斗限免的文章更新。更新频繁高。             |
+| [科技爱好者周刊](https://t.me/scitech_fans)             | 记录每周值得分享的科技内容，周五发布；非官方频道。[科技爱好者周刊合集](https://www.yuque.com/ruanyf/weekly)。 |
+| [单向历](https://t.me/ows_calendar)                     | 给时光以生命（非官方频道）。2020 年 7 月 5 日停止更新，希望能回来。 |
+| [iYouPort](https://t.me/iyouport)                       | IYP 不是过眼云烟的新闻网站，我们提供实战能力，这里是值得您反复回看的档案室。 |
+| [即刻精选](https://t.me/jike_collection)                | 精选即刻 app 热门话题更新。                                  |
+| [TestFlight 科技花](https://t.me/TestFlightCN)          | 发布科技新闻、App 测试版链接、软件使用相关话题。             |
+| [如有乐享](https://t.me/ruyoblog)                       | 更新 [如有乐享博客](https://51.ruyo.net/) 的内容：云服务器、优惠活动、羊毛信息以及各种 Bug。 |
+| [cnBeta](https://t.me/cnbeta_com)                       | cnBeta.COM 中文业界资讯站是一个提供 IT 相关新闻资讯、技术文章和评论的观点的中文网站。 |
+| [煎蛋无聊图](https://t.me/jandan_pic)                   | 自动抓取煎蛋首页推荐无聊图及其评论。                         |
+| [NF^2在播剧集频道](https://t.me/nfnfys)                 | 在播的剧集。                                                 |
+| [Rick Morty and Fans](https://t.me/Rick_Morty_and_Fans) | Wubba Lubba Dub Dub                                          |
 
 
 
@@ -802,18 +809,6 @@ https://rsshub.app/telegram/channel/tingtalk
 关联阅读：[中文独立博客列表](https://github.com/timqian/chinese-independent-blogs) by timqian
 
 
-
-### 🚀 机场广播
-
-| 频道                                               | 详情                                                         |
-| -------------------------------------------------- | ------------------------------------------------------------ |
-| [DivineEngine](https://t.me/DivineEngine)          | 神机规则                                                     |
-| [Fndroid 的日常](https://t.me/fndroid_news)        | Clash for Windows                                            |
-| [秋水逸冰](https://t.me/qiushuiyibing)             | [Teddysun](https://teddysun.com/about) 会不定期在此发布一些本人的作品。 |
-| [Shadowrocket News](https://t.me/ShadowrocketNews) | iOS 上小火箭                                                 |
-| [V2Fly](https://t.me/V2Fly)                        | Shadowsocks 是一个纯粹的代理工具，而 V2Ray 定位为一个平台，任何开发者都可以利用 V2Ray 提供的模块开发出新的代理软件。by [新 V2Ray 白话文指南](https://guide.v2fly.org/) |
-
-更多科学上网（翻墙）相关的优质频道，请在电报上联系 [@tingbot](https://t.me/tingbot) 添加到此列表。
 
 
 
@@ -848,6 +843,20 @@ https://rsshub.app/telegram/channel/tingtalk
 | [Word Power Made Easy](https://t.me/pieroots) | 利用词根（原始印欧语、拉丁语、古希腊语）学习英语单词。 |
 | [EnglishSlice](https://t.me/englishslice)     | 你可以在这获取英语零食。                               |
 | [中文社科讲座资讯](https://t.me/chwebinars)   | 一个讲座信息聚合和 PPT 共享平台。                      |
+
+
+
+### 🚀 机场广播
+
+| 频道                                               | 详情                                                         |
+| -------------------------------------------------- | ------------------------------------------------------------ |
+| [DivineEngine](https://t.me/DivineEngine)          | 神机规则                                                     |
+| [Fndroid 的日常](https://t.me/fndroid_news)        | Clash for Windows                                            |
+| [秋水逸冰](https://t.me/qiushuiyibing)             | [Teddysun](https://teddysun.com/about) 会不定期在此发布一些本人的作品。 |
+| [Shadowrocket News](https://t.me/ShadowrocketNews) | iOS 上小火箭                                                 |
+| [V2Fly](https://t.me/V2Fly)                        | Shadowsocks 是一个纯粹的代理工具，而 V2Ray 定位为一个平台，任何开发者都可以利用 V2Ray 提供的模块开发出新的代理软件。by [新 V2Ray 白话文指南](https://guide.v2fly.org/) |
+
+更多科学上网（翻墙）相关的优质频道，请在电报上联系 [@tingbot](https://t.me/tingbot) 添加到此列表。
 
 
 
