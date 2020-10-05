@@ -102,7 +102,9 @@ Telegram 的中文搜索是以「词」为单位的，以标点符号或空格�
 
 #### 📱 只能用手机号码注册
 
-大众化（降低注册门槛）和私密性，不可兼得。如何改善？购买 Google Voice 注册电报。
+大众化（降低注册门槛）和私密性，不可兼得。
+
+一个解决办法就是通过 Google Voice 注册电报。
 
 
 
@@ -137,7 +139,7 @@ Telegram 的中文搜索是以「词」为单位的，以标点符号或空格�
 
 请进入 [Telegram Apps 的官方下载页面](https://telegram.org/apps)，选择对应的平台，下载，安装，注册。
 
-自由开放的 Telegram 在各平台都有数十种客户端，各有哪些优缺点，又该如何选择呢？请查阅 [Telegram 客户端版本比较](https://tlgr.tw/)，但我不推荐使用第三方电报客户端。
+自由开放的 Telegram 在各平台都有数十种客户端，各有哪些优缺点，又该如何选择呢？请查阅 [Telegram 客户端版本比较](https://tlgr.tw/)，但我不推荐使用第三方电报客户端，安全性没有保证。
 
 
 
@@ -176,13 +178,16 @@ Telegram 的中文搜索是以「词」为单位的，以标点符号或空格�
 
 ### 👤 设置用户名
 
-你可以在 `Setting`（设置）里面填写一个 `Username`（用户名）。设置后，别人能够在不知道你的电话号码的情况下，通过此用户名找到你。此外：
+你可以在 `Setting`（设置）里面填写一个 `Username`（用户名）。设置后，别人能够在不知道你的电话号码的情况下，通过用户名找到你。此外：
 
 - 用户名可以随时更改或删除（用户名为空）。
 - 用户名不区分大小写（TingTalk = tingtalk），但 Telegram 会记住的大小写偏好。
-- 添加和删除联系人（Contacts）都是单向操作，双方的通讯录都是独立的（你中有我，我中可能没有你），也没有通知。
-- 点击左侧菜单栏 > `Contacts`（联系人）> `Find People Nearby`（寻找附近的人），比微信的面对面建群更快捷。
-- [转发消息时，长按联系人 / 群组 / 频道可多选。](https://telegram.org/blog#multi-sharing-from-other-apps)
+
+
+
+2020 年 7 月 26 日新增视频头像（[Profile Videos](https://telegram.org/blog/profile-videos-people-nearby-and-more#profile-videos)）功能。
+
+
 
 
 
@@ -194,16 +199,17 @@ Telegram 的中文搜索是以「词」为单位的，以标点符号或空格�
 
 
 
-### 😎 上传头像
+**联系人**
 
-- **删除以往头像**：Telegram 会默认保存用过的头像，以方便用户快速切换。如果用过的头像中包含敏感信息，记得去设置里删除。
-- **支持视频头像**：2020 年 7 月 26 日新增 [Profile Videos](https://telegram.org/blog/profile-videos-people-nearby-and-more#profile-videos) 功能。
+- 添加和删除联系人（Contacts）都是单向操作，双方的通讯录都是独立的（你中有我，我中可能没有你），也没有通知。
+- 点击左侧菜单栏 > `Contacts`（联系人）> `Find People Nearby`（寻找附近的人）。
+- [转发消息时，长按联系人 / 群组 / 频道可多选。](https://telegram.org/blog#multi-sharing-from-other-apps)
 
 
 
 ### 💢 解除私聊限制
 
-自由的土壤吸引了比特币、社工库、NSFW 等灰色产业到电报扎根，这些国产老鼠屎对电报的滥用，导致使用中国大陆的手机号码（+86）注册 Telegram 后，私聊 Ta 人时，可能会提示 `Sorry, you can only send messages to mutual contacts at the momet.`（对不起，你现在只能发送私信给双向联系人。），这表明此账号被判定为 Spam（垃圾信息）账号了。
+自由的土壤吸引了比特币、社工库、NSFW 等灰色产业到电报扎根，因为这些国产老鼠屎对电报的滥用，导致使用中国大陆的手机号码（+86）注册 Telegram 后，私聊 Ta 人时，可能会提示 `Sorry, you can only send messages to mutual contacts at the momet.`（对不起，你现在只能发送私信给双向联系人。），这表明此账号被判定为 Spam（垃圾信息）账号了。
 
 如何解除私聊限制：在 Telegram 搜索 [@SpamBot](https://t.me/SpamBot)，点击 `START`，然后依次回复以下话术（仅供参考）：
 
@@ -213,27 +219,7 @@ Telegram 的中文搜索是以「词」为单位的，以标点符号或空格�
 
 大概半小时之后，即可解除禁言。
 
-
-
-**短时间浏览大量群组和频道后，也会受限**
-
 若用户在 24 小时内访问超过 200 个群组或频道的链接（点击打开就算访问，不需要加入），就会被打入冷宫 24 小时。禁闭期间，无法通过链接访问新的群组或频道（点击链接一直转圈而无法访问）。
-
-
-
-### 💥 删除账户
-
-- **主动删除**：[不想使用此账号](https://telegram.org/faq#q-how-do-i-delete-my-account)，可 [永久删除账户（Delete Account）](https://my.telegram.org/auth?to=delete)
-- **自动删除**：电报自带账户自毁机制（[Account Self-Destruction](https://telegram.org/blog/android-2-0#account-self-destruction)）
-  - `Setting`（设置）
-  - `Privacy and Security`（隐私和安全）
-  - `Delete my account if away for 1 month/3 months/6 months/1 year `（删除我的帐户若离线时间达 1 个月 / 3 个月 / 6 个月 / 1 年）
-
-**为什么要给账户设置自毁机制**
-
-- Telegram 作为一个免费的非商业软件，没有任何收入来源，为了节约服务器的存储空间，Telegram 会自动删除长时间不上线的用户。再说了，Telegram 也不需要你的私人数据。
-- 如果不慎丢失了 SIM（手机卡），此前未开启 SIM 卡的 PIN 码（强烈建议开启）和 Telegram 账户的两步验证，新的「主人」就能把你的 Telegram 账号占为己有。但是假如你设置了 1 个月不上线就销户，坏人在第 32 天捡到你的手机，不过此时你的 Telegram 账号已经不存在了。
-
 
 
 
@@ -252,17 +238,17 @@ Telegram 的中文搜索是以「词」为单位的，以标点符号或空格�
 
 
 
-如果对隐私有更好的要求，这些还远远不够，例如：
+对隐私有更好的要求，还需要：
 
-- 使用没有个人特征的头像（在 Telegram 设置里删除曾经使用过的头像）、昵称和用户名，确保硅基身份不会和碳基身份产生关联。
+- 使用没有个人特征的头像（记得在设置里删除曾经使用过的头像）、昵称和用户名，确保硅基身份不会和碳基身份产生关联。
 - 添加陌生人到通讯录，记得取消勾选 `Share my phone number`。
 - 不使用 Touch ID 或 Face ID 解锁你的手机，只以密码锁屏（数字 + 字母），以免被「执法人员」控制身体后强行解锁。
 - 使用 [Tor](https://www.torproject.org/)（The Onion Router、洋葱路由器）隐藏用户真实 IP 地址、避免网络监控及流量分析。
-- 开启 SIM（手机卡）密码，纵使别人捡到你的手机（卡），也不能启用 SIM，也就不能收到登录验证码。
+- 开启 SIM（手机卡）密码（PIN 码），纵使别人捡到你的手机（卡），也不能启用 SIM，也就不能收到登录验证码。
 
 
 
-### ✌️ [开启两步验证](https://telegram.org/blog/sessions-and-2-step-verification#two-step-verification)
+### ✌️ [两步验证](https://telegram.org/blog/sessions-and-2-step-verification#two-step-verification)
 
 1. `Setting`（设置）
 2. `Privacy and Security`（隐私和安全）
@@ -285,47 +271,52 @@ Telegram 的中文搜索是以「词」为单位的，以标点符号或空格�
 
 
 
+### 💥 删除账户
+
+- **主动删除**：[不想使用此账号](https://telegram.org/faq#q-how-do-i-delete-my-account)，可 [永久删除账户（Delete Account）](https://my.telegram.org/auth?to=delete)
+- **自动删除**：电报自带账户自毁机制（[Account Self-Destruction](https://telegram.org/blog/android-2-0#account-self-destruction)）
+  - `Setting`（设置）
+  - `Privacy and Security`（隐私和安全）
+  - `Delete my account if away for 1 month/3 months/6 months/1 year `（删除我的帐户若离线时间达 1 个月 / 3 个月 / 6 个月 / 1 年）
+
+**为什么要给账户设置自毁机制**
+
+- Telegram 作为一个免费的非商业软件，没有任何收入来源，为了节约服务器的存储空间，Telegram 会自动删除长时间不上线的用户。再说了，Telegram 也不需要你的私人数据。
+- 如果不慎丢失了 SIM（手机卡），此前未开启 SIM 卡的 PIN 码（强烈建议开启）和 Telegram 账户的两步验证，新的「主人」就能把你的 Telegram 账号占为己有。但是假如你设置了 1 个月不上线就销户，坏人在第 32 天捡到你的手机，不过此时你的 Telegram 账号已经不存在了。
+
+
+
 
 ## 💬 对话界面
 
-Telegram 会记忆浏览进度，打开对话界面会自动跳转到未读消息 `Unread Messages`（The app restores your previous scroll position when you switch back to a chat）。没看完未读消息也没关系，下载回来，还是那个位置。
+Telegram 有一个非常人性化的特性：**记忆浏览进度**，打开对话界面会自动跳转到未读消息 `Unread Messages`（The app restores your previous scroll position when you switch back to a chat）。纵使重新安装 Telegram，没看完的消息，状态依旧是未读的。
 
 
 
-### ✏️ 消息更正
+### ✏️ 消息发送前
 
-在 Telegram，你可以编辑发出去的消息（[Edit your messages after posting](https://telegram.org/blog/edit)），包括文字、图片和视频，所以：
-
-
-- 文字出现 typos，不用删除，多久之前发的消息都可以更正（Edit）。
-- 图片忘记打马赛克，但因为有图片说明（配文），懒得撤回重输，可以当场抹除敏感信息，当场换（[Replace Media](https://telegram.org/blog/unread-replace-2x#replace-media-and-add-captions)）。
-- 视频发错了，善后方式与图片同理。
-- 图片换视频，视频换图片，Why not?
-
-如何替换图片或视频？长按或右击消息，选择 `Edit`：
-
-- 通用法：点击笔头图标 ✏️，弹出资源窗口，选择正确的图片和视频即可替换。
-- 桌面端：复制正确的图片和视频，回到 Telegram，粘贴即可替换。
+打上句号之前，检查一遍内容是否有误。
 
 
 
-### 🌅 发送原图
+#### ↩️ 引用消息
 
-先选择想要发送的图片（不止于 9 张）
+**手机**左滑 [Reply](https://telegram.org/tour/groups#replies) 该消息。**电脑**：
 
-- Android 设备：点击弹出窗口右上角的三个点，`Send without compression`
-- iOS 设备和 Windows 电脑：`Send as a file`
-- macOS 设备：`Send as a file`
+- 左键双击消息的空白处，例如时间附近。
+- 右击消息，在弹出的菜单中选择 Reply。
 
-⚠️ 原图不会压缩图片，但是会暴露文件名。
+点击引用的消息，就会向上滚动到原始消息（[If you tap on the quote, the app scrolls up to the original message](https://telegram.org/blog/replies-mentions-hashtags#replies)）。
 
-Telegram 会记住你的操作习惯，下次发送图片时不必再次勾选原图选项。
-
+假设从 `Unread Messages` 开始浏览动态，遇到新消息引用了旧消息，例如庭说频道的第 100 条消息 `https://t.me/tingtalk/100` 引用第 56 条消息 `https://t.me/tingtalk/56`，点击引用的消息，即可定位到第 56 条消息。如何回到第 100 条消息，点击右下角的 🔽 就会回到第 100 条消息，而不是回到最新的消息（shows an arrow button to go back to the previous location. This makes navigating conversations in groups easy even if you've been away for a while）。这是一个非常动人的细节，深深地被 Telegram Team 折服。
 
 
-### 📝 文本格式
 
-#### Desktop
+#### 📝 文本格式化
+
+学会在文本中插入链接，避免冗长的 URL 霸屏，是必备的网络沟通美德。
+
+##### Desktop
 
 1. 在编辑区输入文本
 2. 左键选择想要格式化的文本
@@ -341,13 +332,13 @@ Telegram 会记住你的操作习惯，下次发送图片时不必再次勾选�
 | [Create link](https://tingtalk.me/)（超链接） | `Ctrl` + `K`           |
 | Plain text（纯文本）                          | `Ctrl` + `Shift` + `N` |
 
-#### Android
+##### Android
 
 1. 在编辑区输入文本
 2. 长按选择想要格式化的文本
 3. 轻触界面右上角的三个点（顶栏右侧，大概在通知栏电量 🔋 的下方。非常刁钻的一个位置，我花了好几天才找到），即可看到文本格式化选项
 
-#### iOS
+##### iOS
 
 1. 在编辑区输入文本
 2. 长按选择想要格式化的文本，会弹出一些文字操作的选项
@@ -359,22 +350,57 @@ Telegram 会记住你的操作习惯，下次发送图片时不必再次勾选�
 
 
 
-### ↩️ 引用消息
-
-**手机**左滑 [Reply](https://telegram.org/tour/groups#replies) 该消息。**电脑**：
-
-- 左键双击消息的空白处，例如时间附近。
-- 右击消息，在弹出的菜单中选择 Reply。
-
-点击引用的消息，就会向上滚动到原始消息（[If you tap on the quote, the app scrolls up to the original message](https://telegram.org/blog/replies-mentions-hashtags#replies)）。
-
-假设从 `Unread Messages` 开始浏览动态，遇到新消息引用了旧消息，例如庭说频道的第 100 条消息 `https://t.me/tingtalk/100` 引用第 56 条消息 `https://t.me/tingtalk/56`，点击引用的消息，即可定位到第 56 条消息。如何回到第 100 条消息，点击右下角的 🔽 就会回到第 100 条消息，而不是回到最新的消息（shows an arrow button to go back to the previous location. This makes navigating conversations in groups easy even if you've been away for a while）。这是一个非常动人的细节，深深地被 Telegram Team 折服。
 
 
+#### 🌅 发送原图
+
+先选择想要发送的图片（不止于 9 张）
+
+- Android 设备：点击弹出窗口右上角的三个点，`Send without compression`
+- iOS 设备、macOS 设备和 Windows 设备：`Send as a file`
+
+⚠️ 原图不会压缩图片，但是会暴露文件名。
+
+Telegram 会记住你的操作习惯，下次发送图片时不必再次勾选原图选项。
 
 
 
-### 📡 消息发送
+#### 🎬 视频播放
+
+**支持时间戳（[Timestamp](https://telegram.org/blog/silent-messages-slow-mode#timestamps-and-improved-scrubbing)）**：发送本地视频或 YouTube 视频时，在 `Add a caption`（添加标题）里标记你最喜欢的时刻（mark your favorite moments），例如：
+
+```
+建议从 05:06 开始看。
+```
+
+`05:06` 会自动高亮显示为链接，观看者点击 `05:06`，视频就会从第 5 分 6 秒播放。其中 `05:06` 必填项，提示的话可以选填。
+
+你发现了吗？YouTube 和哔哩哔哩的评论区也是支持这种时间戳。
+
+**你也可以在视频链接中加入时间戳**
+
+- 哔哩哔哩：https://www.bilibili.com/video/av55857100?t=14m15s
+- YouTube：https://www.youtube.com/watch?v=SyM3jMFjess&t=05m06s
+
+**参数说明**
+
+- `?t=` / `&t=` 时间  time
+- `h` 时 hour
+- `m` 分 minute
+- `s` 秒 second
+
+**如何在 YouTube 中复制当前时间的视频网址**
+
+1. 右键点击进度条
+2. 在弹出的菜单中选择 `复制当前时间的视频网址`
+
+
+
+**Telegram 内置视频播放器（[in-app media player](https://telegram.org/blog/share-preview#new-video-player)）**：直接在 app 内观看 YouTube 或 Vimeo 视频，不必跳转到浏览器或者相应的视频 app。操作逻辑与国外视频 App 保持一致：双击左侧快退，双击右侧快进。
+
+
+
+### 📡 消息发送时
 
 手机上长按（电脑上右击）消息发送键：
 
@@ -394,7 +420,11 @@ Telegram 会记住你的操作习惯，下次发送图片时不必再次勾选�
 
 
 
-### ✔️ 消息状态
+### 🔙 消息发送后
+
+
+
+#### ✔️ 消息状态
 
 消息的读取状态（回执）分为两种
 
@@ -403,7 +433,24 @@ Telegram 会记住你的操作习惯，下次发送图片时不必再次勾选�
 
 
 
-### 👇 长按消息
+#### ✔️ 消息更正
+
+在 Telegram，可以编辑发出去的消息（[Edit your messages after posting](https://telegram.org/blog/edit)），包括文字、图片和视频，所以：
+
+
+- 文字出现 typos，不用删除，多久之前发的消息都可以更正（Edit）。
+- 图片忘记打马赛克，但因为有图片说明（配文），懒得撤回重输，可以当场抹除敏感信息，当场换（[Replace Media](https://telegram.org/blog/unread-replace-2x#replace-media-and-add-captions)）。
+- 视频发错了，善后方式与图片同理。
+- 图片换视频，视频换图片，Why not?
+
+如何替换图片或视频？长按或右击消息，选择 `Edit`：
+
+- 通用法：点击笔头图标 ✏️，弹出资源窗口，选择正确的图片和视频即可替换。
+- 桌面端：复制正确的图片和视频，回到 Telegram，粘贴即可替换。
+
+
+
+#### 👇 长按消息
 
 
 - [消息可以无限期撤回](https://telegram.org/faq#q-can-i-delete-my-messages)（`Delete` 删除），而且被删除的信息不会在双方的聊天记录中留下痕迹（可选）。
@@ -418,41 +465,6 @@ Telegram 会记住你的操作习惯，下次发送图片时不必再次勾选�
 - [记忆播放位置](https://telegram.org/blog#podcast-and-audiobook-support)：超过 20 分钟的音频文件，Telegram 会帮你记住最后的播放位置，以便中途中断后再次收听。
 
 此外，在 Telegram 上语音通话（打电话），需要手机在翻墙客户端上开启 UDP 转发。
-
-
-
-### 🎬 视频播放
-
-**内置视频播放器（[in-app media player](https://telegram.org/blog/share-preview#new-video-player)）**：直接在 app 内观看 YouTube 或 Vimeo 视频，不必跳转到浏览器或者相应的视频 app。
-
-与国外视频 App 的操作逻辑保持一致：双击左侧快退，双击右侧快进。
-
-**支持时间戳（[Timestamp](https://telegram.org/blog/silent-messages-slow-mode#timestamps-and-improved-scrubbing)）**：发送本地视频或 YouTube 视频时，在 `Add a caption`（添加标题）里标记你最喜欢的时刻（mark your favorite moments），例如：
-
-```
-建议从 05:06 开始看。
-```
-
-`05:06` 会自动高亮显示为链接，观看者点击 `05:06`，视频就会从第 5 分 6 秒播放。其中 `05:06` 必填项，提示的话可以选填。
-
-你发现了吗？YouTube 和哔哩哔哩的评论区也是支持这种时间戳。
-
-**如何在视频链接中加入时间戳**
-
-- 哔哩哔哩：https://www.bilibili.com/video/av55857100?t=14m15s
-- YouTube：https://www.youtube.com/watch?v=SyM3jMFjess&t=05m06s
-
-**参数说明**
-
-- `?t=` / `&t=` 时间  time
-- `h` 时 hour
-- `m` 分 minute
-- `s` 秒 second
-
-**如何在 YouTube 中复制当前时间的视频网址**
-
-1. 右键点击进度条
-2. 在弹出的菜单中选择 `复制当前时间的视频网址`
 
 
 
@@ -481,7 +493,7 @@ Telegram 会记住你的操作习惯，下次发送图片时不必再次勾选�
 
 
 
-🗜️ **在限制多多的微信 App 上，小于 1 MB 的 GIF 图片才会自动播放。 如何压缩**
+🗜️ **在限制多多的微信 App 上，小于 1 MB 的 GIF 图片才会自动播放。如何压缩：**
 
 1. 打开 [图贴式](https://www.tutieshi.com/compress/)（网站），选择 GIF 压缩
 2. 宽度设置为 `240`，压缩质量 70（默认）
@@ -514,12 +526,78 @@ Telegram 会记住你的操作习惯，下次发送图片时不必再次勾选�
 
 
 
-### 🖥️ 电脑版本
+### 🖥️ 电脑版
 
 - **快速多选**：在对话界面的空白位置，按着鼠标左键不放，即可多选信息，然后选择转发或者删除。
 - **链接直达**：按住 `Ctrl` 再点击 URL，直接打开链接，不必弹窗确认（Open this link? CANCEL / OPEN）。
 - **多用户切换**：不再是手机版的专属功能。
-- **置顶消息（Pin）**：这个功能只有在 Telegram Desktop（电脑版）才支持。
+
+
+
+## 📖 通用技巧
+
+### 🌐 互联开放
+
+公开（Public）的频道或群组，是可以被搜索引擎索引（The contents of public channels can be seen on the Web without a Telegram account and are indexed by search engines.）。并且不用注册 Telegram 账号也看到公开频道或群组中的内容，方法就是在在 Permanent link（永久链接）中加一个 `s`，例如 [t.me/s/tingtalk](https://t.me/s/tingtalk)，即可在浏览器查阅庭说频道的内容。
+
+
+
+### 📅 创建日期
+
+1. 在任意对话窗口（例如 Saved Messages）或浏览器输入：
+   - `https://t.me` / `ID` / `1`（唤醒客户端），例如 https://t.me/tingtalk/1
+   - `https://t.me` / `s` / `ID` / `1`（无需客户端），例如 https://t.me/s/tingtalk/1
+2. 发送
+3. 点击这个链接
+4. 就会跳转到该群组或频道（未删除的）第一条消息，在其上方，可以看到创建日期（Channel created）
+
+
+
+### 🔍 搜索秘技
+
+**去哪里找钟意的频道（Channel），群组（Group）和机器人（Bot）呢？**
+
+☝️ 在 Telegram 内直接搜索关键词，但中文搜索识别较差。例如，「庭说」的频道是 https://t.me/tingtalk
+
+- 搜索英文 `tingtalk`（`t.me/` 后面的字符就是 ID），可以准确识别
+- 搜索中文 `庭说`，可能无法识别
+
+✌️ 配合一些 [Google 搜索技巧](https://tingtalk.me/search-tips/)，在 [Google](https://www.google.com/search?q=site:tingtalk.me) 上搜索：
+
+- 关键词 + site:t.me，例如：`海贼王 OR one piece site:t.me`
+- 关键词 + telegram，例如：`Rick and Morty telegram OR 电报 OR TG`
+
+再次证明了 Telegram 的内容是可以被 Google 等搜索引擎抓取的。反观国内的互联网江湖，各自割据，搞得网民苦不堪言。就拿微信来说，你不能在 Google 或者百度搜到公众号文章。这也是庭说为什么有了公众号还要开一个独立博客的原因。
+
+👌 Telegram 频道搜索引擎（非官方）：[sssoou.com](http://www.sssoou.com/)。帮助大家搜 Telegram 频道里的资源，不用因为 Telegram 对中文支持不好，而找不到想要的资源。
+
+
+
+### ☁️ 多端同步
+
+你可以**同时**在所有的设备上使用 Telegram，这是我的设备列表：
+
+* 2 台 Windows 电脑（开机自启）
+* 1 部 Android 手机
+* 1 部 iPhone 手机
+* 1 个 [网页端](https://web.telegram.org/)
+* ……
+
+
+
+相比于微信：
+
+- 登录过的设备，下次登录时，不必再次扫描二维码或者输入密码。
+- 云草稿（[Cloud drafts](https://telegram.org/blog/drafts)）：除了消息可以在各个平台同步之外，连未完成编辑的消息（草稿）都可以跨设备同步。Now you can start typing on your phone, then continue on your computer – right where you left off.
+- 手机格式化之后，重新安装 App，一切都是原来的样子，未读消息还是未读状态，让人安心。
+- 手机下线 Telegram 后，其他设备的 Telegram 并不会退出，但是可以自由控制哪些设备退出。
+
+
+
+允许传送最大 2000 MiB 的文件，简直就是绝佳的「文件传输助手」，所以你可以：
+
+- 把 [Saved Messages](https://telegram.org/blog/albums-saved-messages#saved-messages)（收藏夹）当作是 [GTD](https://tingtalk.me/gtd) 中 Inbox。每条保存的消息都有一个 ▶️ 按钮，可以将你带到最初发布消息的位置。
+- 开很多私人频道，分类存放你的信息和资讯。你甚至可以在 Telegram 上传本地音乐或者录音到自己的频道，建立自己的云端音乐播放库（或者借助音乐 Bots）和播客（Podcast）。
 
 
 
@@ -553,70 +631,7 @@ Telegram 会记住你的操作习惯，下次发送图片时不必再次勾选�
 2. 依次点击 `Settings` > `Advanced` > `Export Telegram data`
 3. 选择要导出的数据类型
 
-## 📖通用技巧
 
-### 🌐 互联开放
-
-公开（Public）的频道或群组，不用注册 Telegram 账号也看到其间的内容，并可以被搜索引擎索引（The contents of public channels can be seen on the Web without a Telegram account and are indexed by search engines.），例如在浏览器输入 [t.me/s/tingtalk](https://t.me/s/tingtalk)。发现了吗？就是在 Permanent link（永久链接）中加一个 `s`。
-
-
-
-**如何查看创建日期**
-
-1. 在任意对话窗口（例如 Saved Messages）或浏览器输入：
-   - `https://t.me` / `ID` / `1`（唤醒客户端），例如 https://t.me/tingtalk/1
-   - `https://t.me` / `s` / `ID` / `1`（无需客户端），例如 https://t.me/s/tingtalk/1
-2. 发送
-3. 点击这个链接
-4. 就会跳转到该群组或频道（未删除的）第一条消息，在其上方，可以看到创建日期（Channel created）
-
-
-
-### 🔍 搜索秘技
-
-**去哪里找钟意的频道（Channel），群组（Group）和机器人（Bot）呢？**
-
-☝️ 在 Telegram 内直接搜索关键词，但中文搜索识别较差。例如，「庭说」的频道是 https://t.me/tingtalk
-
-- 搜索英文 `tingtalk`（`t.me/` 后面的字符就是 ID），可以准确识别
-- 搜索中文 `庭说`，可能无法识别
-
-✌️ 配合一些 [Google 搜索技巧](https://tingtalk.me/search-tips/)，在 [Google](https://www.google.com/search?q=site:tingtalk.me) 上搜索（添加或删减 `OR` 都会改变搜索结果，请多多尝试不同的关键词）：
-
-- 关键词 + site:t.me，例如：`海贼王 OR one piece site:t.me`
-- 关键词 + telegram，例如：`海贼王 OR one piece telegram OR 电报 OR TG`
-
-由此可得，Telegram 的内容是可以被 Google 等搜索引擎抓取的。反观国内的互联网江湖，各自割据，搞得网民苦不堪言。就拿微信来说，你不能在 Google 或者百度搜到公众号的文章。
-
-👌 Telegram 频道搜索引擎（非官方）：[sssoou.com](http://www.sssoou.com/)。帮助大家搜 Telegram 频道里的资源，不用因为 Telegram 对中文支持不好，而找不到想要的资源。
-
-
-
-### ☁️ 多端同步
-
-你可以**同时**在所有的设备上使用 Telegram，这是我的设备列表：
-
-* 2 台 Windows 电脑（开机自启）
-* 1 部 Android 手机
-* 1 部 iPhone 手机
-* 1 个 [网页端](https://web.telegram.org/)
-* ……
-
-
-
-相比于微信：
-
-- 登录过的设备，下次登录时，不必再次扫描二维码或者输入密码。
-- 云草稿（[Cloud drafts](https://telegram.org/blog/drafts)）：除了消息可以在各个平台同步之外，连未完成编辑的消息（草稿）都可以跨设备同步。Now you can start typing on your phone, then continue on your computer – right where you left off.
-- 手机格式化之后，重新安装 App，一切都是原来的样子，未读消息还是未读状态，让人安心。
-- 手机下线 Telegram 后，其他设备的 Telegram 并不会退出，但是可以自由控制哪些设备退出。
-
-
-
-允许传送最大 2000 MiB 的文件，简直就是绝佳的「文件传输助手」，所以你可以：
-
-- 把 [Saved Messages](https://telegram.org/blog/albums-saved-messages#saved-messages)（收藏夹）当作是 [GTD](https://tingtalk.me/gtd) 中 Inbox。每条保存的消息都有一个 ▶️ 按钮，可以将你带到最初发布消息的位置。
-- 开很多私人频道，分类存放你的信息和资讯。你甚至可以在 Telegram 上传本地音乐或者录音到自己的频道，建立自己的云端音乐播放库（或者借助音乐 Bots）和播客（Podcast）。
 
 
 
