@@ -292,32 +292,35 @@ Telegram 有一个非常人性化的特性：**记忆浏览进度**，打开对�
 
 ### ✏️ 消息发送前
 
-打上句号之前，检查一遍内容是否有误。
+打上句号之前，检查一遍内容是否有误，虽然 Telegram 支持无限期的（撤回）修改。
 
 
 
 #### ↩️ 引用消息
 
-**手机**左滑 [Reply](https://telegram.org/tour/groups#replies) 该消息。**电脑**：
+**手机**
+- 左滑 [Reply](https://telegram.org/tour/groups#replies) 消息。
+- 长按，在弹出的界面中选择 Reply。
 
+**电脑**
 - 左键双击消息的空白处，例如时间附近。
 - 右击消息，在弹出的菜单中选择 Reply。
 
 点击引用的消息，就会向上滚动到原始消息（[If you tap on the quote, the app scrolls up to the original message](https://telegram.org/blog/replies-mentions-hashtags#replies)）。
 
-假设从 `Unread Messages` 开始浏览动态，遇到新消息引用了旧消息，例如庭说频道的第 100 条消息 `https://t.me/tingtalk/100` 引用第 56 条消息 `https://t.me/tingtalk/56`，点击引用的消息，即可定位到第 56 条消息。如何回到第 100 条消息，点击右下角的 🔽 就会回到第 100 条消息，而不是回到最新的消息（shows an arrow button to go back to the previous location. This makes navigating conversations in groups easy even if you've been away for a while）。这是一个非常动人的细节，深深地被 Telegram Team 折服。
+假设从 `Unread Messages` 开始浏览动态（已发布 120 条 Post），遇到新消息引用了旧消息，例如庭说频道的第 100 条消息 https://t.me/tingtalk/100 引用第 56 条消息 https://t.me/tingtalk/56，点击引用的消息，即可定位到第 56 条消息。如何回到第 100 条消息，点击右下角的 🔽 就会回到第 100 条消息，而不是回到最新的消息（shows an arrow button to go back to the previous location. This makes navigating conversations in groups easy even if you've been away for a while）。这是一个非常动人的细节，深深地被 Telegram 折服。
 
 
 
 #### 📝 文本格式化
 
-学会在文本中插入链接，避免冗长的 URL 霸屏，是必备的网络沟通美德。
+学会插入超文本链接，避免冗长的 URL 霸屏（简短的网址例外），是一种网络美德。
 
-##### Desktop
+##### Desktop（桌面端）
 
-1. 在编辑区输入文本
-2. 左键选择想要格式化的文本
-3. 右击 > `Formatting`（格式选项）
+1. 在编辑区输入文本。
+2. 左键选择想要格式化的文本。
+3. 右击 > `Formatting`（格式选项）。
 
 | Formatting                                    | Shortcut (PC)          |
 | --------------------------------------------- | ---------------------- |
@@ -329,36 +332,35 @@ Telegram 有一个非常人性化的特性：**记忆浏览进度**，打开对�
 | [Create link](https://tingtalk.me/)（超链接） | `Ctrl` + `K`           |
 | Plain text（纯文本）                          | `Ctrl` + `Shift` + `N` |
 
-##### Android
+##### Android（安卓）
 
-1. 在编辑区输入文本
-2. 长按选择想要格式化的文本
-3. 轻触界面右上角的三个点（顶栏右侧，大概在通知栏电量 🔋 的下方。非常刁钻的一个位置，我花了好几天才找到），即可看到文本格式化选项
+1. 在编辑区输入文本。
+2. 长按选择想要格式化的文本。
+3. 轻触界面右上角的三个点（顶栏右侧，大概在通知栏电量 🔋 的下方。非常刁钻的一个位置，我花了好几天才找到），即可看到文本格式化选项。
 
-##### iOS
+##### iOS（iPhone & iPad）
 
-1. 在编辑区输入文本
-2. 长按选择想要格式化的文本，会弹出一些文字操作的选项
-3. 轻触 `BIU`（或许藏在 ▶️ 后面），即可看到文本格式化选项
-
-
-
-也可以在任意发送框输入 [@bold](https://telegram.me/bold)，使用 [Markdown](https://tingtalk.me/markdown/) 编辑消息（最多输入 256 字符）。
+1. 在编辑区输入文本。
+2. 长按选择想要格式化的文本，会弹出一些文字操作的选项。
+3. 轻触 `BIU`（或许藏在 ▶️ 后面），即可看到文本格式化选项。
 
 
+
+如果觉得以上格式化文本的方法太麻烦，打乱了输入节奏，可在任意聊天框输入 [@bold](https://telegram.me/bold)，接着使用 [Markdown](https://tingtalk.me/markdown/) 编辑消息（最多输入 256 字符），最后选择 `Custom markdown`。
 
 
 
 #### 🌅 发送原图
 
-先选择想要发送的图片（不止于 9 张）
+先选择想要发送的图片（不止于 9 张）：
 
-- Android 设备：点击弹出窗口右上角的三个点，`Send without compression`
-- iOS 设备、macOS 设备和 Windows 设备：`Send as a file`
+- Android：点击弹出窗口右上角的三个点，`Send without compression`
+- iOS、macOS 和 Windows：`Send as a file`
 
-⚠️ 原图不会压缩图片，但是会暴露文件名。
+请注意：
 
-Telegram 会记住你的操作习惯，下次发送图片时不必再次勾选原图选项。
+- 原图不会压缩图片，但是会暴露文件名。
+- Telegram 会记住你的操作习惯，下次发送图片时不必再次勾选原图选项。
 
 
 
@@ -407,7 +409,7 @@ Telegram 会记住你的操作习惯，下次发送图片时不必再次勾选�
   - 在 [Saved Messages](https://telegram.org/blog/albums-saved-messages#saved-messages)（我的收藏）也可以发送定时消息作为提醒（Set a reminder）。
   - `Send when * comes online`（[当对方上线时发送](https://telegram.org/blog#send-when-online)）：这样就可以排在对方聊天列表的前面（Put you right at the top of their chat list.）。
 
-接收者也可以对消息静音（[Mute Notifications](https://telegram.org/blog/shared-files#mute-notifications)）：可屏蔽联系人 / 群组 / 频道的消息通知：
+接收者可屏蔽联系人 / 群组 / 频道的消息通知（[Mute Notifications](https://telegram.org/blog/shared-files#mute-notifications)）：
 
 - 1 个小时
 - 4 个小时
@@ -517,7 +519,7 @@ Telegram 会记住你的操作习惯，下次发送图片时不必再次勾选�
 - 支持答题模式（ [Quiz Mode](https://telegram.org/blog#quiz-mode)）。
 - 但不支持修改发出的 Poll。
 
-**投票者/答题者**
+**投票者 / 答题者**
 
 - 不满意长按或右击投票（Poll）可以撤回投票（Retract vote）。
 
