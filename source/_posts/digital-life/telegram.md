@@ -178,16 +178,13 @@ Telegram 的中文搜索是以「词」为单位的，以标点符号或空格�
 
 ### 👤 设置用户名
 
-你可以在 `Setting`（设置）里面填写一个 `Username`（用户名）。设置后，别人能够在不知道你的电话号码的情况下，通过用户名找到你。此外：
+你可以在 `Setting`（设置）里面填写一个 `Username`（用户名）。设置后，别人能够在不知道你的电话号码的情况下，通过用户名找到你。
 
 - 用户名可以随时更改或删除（用户名为空）。
 - 用户名不区分大小写（TingTalk = tingtalk），但 Telegram 会记住的大小写偏好。
-
-
+- 最多可创建 10 个公开用户名（public usernames），包括公开的频道和群组。
 
 2020 年 7 月 26 日新增视频头像（[Profile Videos](https://telegram.org/blog/profile-videos-people-nearby-and-more#profile-videos)）功能。
-
-
 
 
 
@@ -1149,12 +1146,13 @@ URL = `https://telegra.ph`/`首次输入的标题`-`首次发表的月`-`首次�
 - [The Evolution of Telegram](https://telegram.org/evolution)：电报的演化（简史）。
 - [Articles about Telegram](https://telegram.org/press)：这些文章涵盖了 Telegram 及其赞助商、全球企业家帕维尔•杜罗夫（Pavel Durov）。
 - [Telegram Messenger - Twitter](https://twitter.com/telegram)：Keep evolving and stay in touch，官方推特会介绍各种 `#TelegramTips`。
+- [Telegram - reddit](https://www.reddit.com/r/Telegram/)
 - [Telegram logos](https://telegram.org/tour/screenshots)：Please feel free to use these Telegram logos.  Just make sure people understand you're not representing Telegram officially.
 - [A long way from Moscow](https://mashable.com/2015/05/18/russias-mark-zuckerberg-pavel-durov/)：'Russia's Mark Zuckerberg' took on the Kremlin - and lost his country by Christopher Miller
 -  [Telegram X 介绍视频](https://telegram.org/blog/telegram-x)：超级炫酷，一定要看。
 -  [给电报找 Bug](https://telegram.org/blog/cryptocontest)：欢迎安全研究人员将 Ta 们在 Telegram 应用程序或协议中发现 🧐 的任何问题提交到 `security@telegram.org`。 根据问题的严重程度，奖金从 500 美元到 10 万美元或更多。
 -  [Telegram 背后的故事](https://telegram.org/faq#q-who-are-the-people-behind-telegram)
--  [Telegram 传奇：一个关于俄罗斯富豪、黑客、极权和阴谋的创业故事 - 霍炬](https://jhuo.ca/post/telegram_russian_hacker/)，
+-  [Telegram 传奇：一个关于俄罗斯富豪、黑客、极权和阴谋的创业故事 - 霍炬](https://jhuo.ca/post/telegram_russian_hacker/)
 - [关于 Telegram 的一些事 - 守望的麦子](https://jsntn.com/software/2017/08/12/telegram.html)：我更加相信一定会有越来越多的理想主义者，他们相信 [平等](https://jsntn.com/equity.html) 和自由，坚守信念和价值观，每天充实地生活着。
 - [我为什么选择 Telegram 来运营粉丝社群 | 规则、经验和思考 - 罗磊](https://luolei.org/why-i-choose-telegram/)
 - [Telegram 教程全指南](https://www.notion.so/Telegram-95a6c23f0bb1466892b55f9ec8c755fd) by [TG极客](https://t.me/TGgeek)
