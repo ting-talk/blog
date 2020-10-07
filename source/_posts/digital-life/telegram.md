@@ -1,5 +1,5 @@
 ---
-title: Telegram：新手指南、使用教程及频道推荐
+title: Telegram（电报）：新手指南、使用教程及频道推荐
 date: 2019-11-09  
 updated: 2020-10-07
 categories: 数字生活  
