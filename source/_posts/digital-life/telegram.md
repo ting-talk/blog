@@ -1,7 +1,7 @@
 ---
 title: Telegram：新手指南、使用教程及频道推荐
 date: 2019-11-09  
-updated: 2020-10-08
+updated: 2020-10-07
 categories: 数字生活  
 tags: [网上冲浪指南, 突破网络审查, Telegram]
 ---
@@ -526,7 +526,7 @@ Telegram 有一个非常人性化的特性：**记忆浏览进度**，打开对�
 
 
 
-### 🖥️ 电脑版
+### 🖥️ 电脑版技巧
 
 - **快速多选**：在对话界面的空白位置，按着鼠标左键不放，即可多选信息，然后选择转发或者删除。
 - **链接直达**：按住 `Ctrl` 再点击 URL，直接打开链接，不必弹窗确认（Open this link? CANCEL / OPEN）。
@@ -546,12 +546,11 @@ Telegram 有一个非常人性化的特性：**记忆浏览进度**，打开对�
 
 ### 📅 创建日期
 
-1. 在任意对话窗口（例如 Saved Messages）或浏览器输入：
-   - `https://t.me` / `ID` / `1`（需要客户端），例如 https://t.me/tingtalk/1
-   - `https://t.me` / `s` / `ID` / `1`（无需客户端），例如 https://t.me/s/tingtalk/1
-2. 发送
-3. 点击这个链接
-4. 就会跳转到该群组或频道（未删除的）第一条消息，在其上方，可以看到创建日期（Channel created）
+在任意对话窗口（例如 Saved Messages）输入 `https://t.me` / `ID` / `1`，例如 https://t.me/tingtalk/1
+
+或者在浏览器的地址栏输入 `https://t.me` / `s` / `ID` / `1`，例如 https://t.me/s/tingtalk/1
+
+就会跳转到该群组或频道（未删除的）第一条消息，在其上方，可以看到创建日期（Channel created）
 
 
 
@@ -577,7 +576,7 @@ Telegram 有一个非常人性化的特性：**记忆浏览进度**，打开对�
 
 ### ☁️ 多端同步
 
-你可以**同时**在所有的设备上使用 Telegram，这是我的设备列表：
+ Telegram 可以在多个设备上**同时**使用。以下是我的设备列表：
 
 * 2 台 Windows 电脑（开机自启）
 * 1 部 Android 手机
@@ -587,67 +586,31 @@ Telegram 有一个非常人性化的特性：**记忆浏览进度**，打开对�
 
 
 
-相比于微信：
+并且具备以下优势：
 
 - 登录过的设备，下次登录时，不必再次扫描二维码或者输入密码。
-- 云草稿（[Cloud drafts](https://telegram.org/blog/drafts)）：除了消息可以在各个平台同步之外，连未完成编辑的消息（草稿）都可以跨设备同步。Now you can start typing on your phone, then continue on your computer – right where you left off.
-- 手机格式化之后，重新安装 App，一切都是原来的样子，未读消息还是未读状态，让人安心。
-- 手机下线 Telegram 后，其他设备的 Telegram 并不会退出，但是可以自由控制哪些设备退出。
+- 云草稿（[Cloud drafts](https://telegram.org/blog/drafts)）：除了消息可在各个平台同步之外，连未完成编辑的消息（草稿）都可以跨设备同步。Now you can start typing on your phone, then continue on your computer – right where you left off.
+- 与 WhatsApp 不同的是，手机下线 Telegram 后，其他设备的 Telegram 并不会退出。
 
 
 
-允许传送最大 2000 MiB 的文件，简直就是绝佳的「文件传输助手」，所以你可以：
+允许传送最大 2000 MiB 的文件，简直就是绝佳的「文件传输助手」：
 
-- 把 [Saved Messages](https://telegram.org/blog/albums-saved-messages#saved-messages)（收藏夹）当作是 [GTD](https://tingtalk.me/gtd) 中 Inbox。每条保存的消息都有一个 ▶️ 按钮，可以将你带到最初发布消息的位置。
-- 开很多私人频道，分类存放你的信息和资讯。你甚至可以在 Telegram 上传本地音乐或者录音到自己的频道，建立自己的云端音乐播放库（或者借助音乐 Bots）和播客（Podcast）。
-
-
-
-### 🧹 清除缓存
-
-此举只是暂时释放存储空间，因为媒体文件都会保留在 Telegram 云端，若你需要可以再次下载，例如翻看历史消息的时候。
-
-1. `Settings`（设置）
-2. `Data and Storage`（数据和存储）
-3. `Storage Usage`（存储使用情况）
-4. `Clear Telegram Cache`（清理缓存）
-
-
-
-### 🗃️ [导出对话](https://telegram.org/blog/export-and-more)
-
-⚠️此功能需在 [Telegram 电脑版](https://desktop.telegram.org/)上运行
-
-聊天历史会被存储在 Telegram 云端，也可以导出部分（或全部）聊天记录到电脑上离线回味，而且排版还是原来的样子。
-
-1. 打开 Telegram Desktop
-2. 选择某个对话
-3. 点击对话界面右上角的设置（三个点 ...）
-4. 导出聊天记录（Export chat history）
-
-
-
-你也可以导出 Telegram 的所有数据。对，是所有，不仅仅是聊天记录，还有帐户信息：
-
-1. 打开 Telegram Desktop
-2. 依次点击 `Settings` > `Advanced` > `Export Telegram data`
-3. 选择要导出的数据类型
-
-
+- 把 [Saved Messages](https://telegram.org/blog/albums-saved-messages#saved-messages)（收藏夹）当作是 [GTD](https://tingtalk.me/gtd) 中 Inbox。并且每条保存的消息都有一个 ▶️ 按钮，可以将你带到最初发布消息的位置。
+- 建立多个私人频道，分类存放你的信息和资讯。你甚至可以在 Telegram 上传本地音乐或者录音到自己的频道，建立自己的云端音乐播放库和播客（Podcast）。
 
 
 
 ### 📁 对话列表
 
-在对话列表长按某个对话
+在对话列表长按某个对话：
 
-- **删除对话（Delete chat）**：勾选 `Also delete for ***`，即可同时删除双方所有的聊天记录：
-  - 不用经过对方同意：如果你的朋友遭遇不测，你可以及时清除消息来保护自己和对方。
+- **删除对话（Delete chat）**：勾选 `Also delete for ***`，即可同时删除双方所有的聊天记录。
+  - 不用经过对方同意。如果你的朋友遭遇不测，你可以及时清除消息来保护自己和对方。
   - 反之，需要保留证据时，请及时截图或（在桌面端）导出聊天记录。
 - **归档对话（[Archive chat](https://telegram.org/blog/folders#archived-chats)）**：把不常用的群组和频道放到归档文件夹中，精简对话列表，[Everything in its place](https://telegram.org/blog/archive-and-new-design#everything-in-its-place)。
-  - 在移动端，从顶部下拉对话列表可看到「已归档对话」。
-  - [长按可标记全部归档对话为已读状态](https://telegram.org/blog#mark-archive-as-read)。
-  - 当存档对话收到通知时，它将从归档列表中返回到聊天列表，但是静音对话是永远存档的。
+  - 在移动端的对话列表里，从顶部往下拉，即可看到「已归档对话」，[长按可标记全部归档对话为已读状态](https://telegram.org/blog#mark-archive-as-read)。
+  - 当未设置静音的存档对话收到通知时，它将从归档列表中返回到聊天列表中。
 
 
 
@@ -660,34 +623,69 @@ Telegram 有一个非常人性化的特性：**记忆浏览进度**，打开对�
 
 
 
+### 🧹 清除缓存
+
+此举只是暂时释放存储空间，因为媒体文件都会保留在 Telegram 云端，若需要可以再次下载，例如翻看历史消息的时候。
+
+1. `Settings`（设置）
+2. `Data and Storage`（数据和存储）
+3. `Storage Usage`（存储使用情况）
+4. `Clear Telegram Cache`（清理缓存）
+
+
+
+### 🗃️ [导出数据](https://telegram.org/blog/export-and-more)
+
+⚠️此功能需在 [Telegram 电脑版](https://desktop.telegram.org/) 上运行。
+
+聊天历史会被存储在 Telegram 云端，但是也可以导出部分（或全部）聊天记录到电脑上离线回味，而且排版还是原来的样子。
+
+1. 打开 Telegram Desktop
+2. 选择某个对话
+3. 点击对话界面右上角的设置（三个点 ...）
+4. 导出聊天记录（Export chat history）
+
+
+
+你也可以导出 Telegram 的所有数据。对，是所有，不仅仅是聊天记录，还有账号信息：
+
+1. 打开 Telegram Desktop
+2. 依次点击 `Settings` > `Advanced` > `Export Telegram data`
+3. 选择要导出的数据类型
+
+
+
 ### 🔞 解锁敏感内容
 
 如何在 iOS 原生客户端查看敏感内容（例如 NSFW），即使频道或群组被封禁：
 
 1. 登录 [Telegram Web](https://web.telegram.org/)（网页版）或者下载并登录 [Telegram Desktop](https://desktop.telegram.org/)（客户端）。
 2. `Settings`（设置）> `Privacy and Security`（隐私和安全）。
-3. `Sensitive content`（敏感内容）：打开 `Disable filtering`（关闭过滤），网页版是打开 `Show Sensitive Content`，即可 `Display sensitive media in public channels on all your Telegram devices`（允许在您所有登录 Telegram 的设备上显示公共频道内的敏感内容）。
+3. `Sensitive content`（敏感内容）
+   - 客户端：打开 `Disable filtering`（关闭过滤）
+   - 网页版：打开 `Show Sensitive Content`
 
-操作完成后，重新启动 iOS / macOS 原生客户端，即可访问敏感群组或频道，但不推荐，过度沉溺于 NSFW 只会让你丧失对人生的主动权。虽然在生物学上，我们都是基因进化的工具（性快感只是讨好人类的手段），但人类之所以是高级动物（并没有贬低其它动物的意思），是因为我们看清事物本质后，依然热爱生活，而不是追求那一「哆嗦」，世界等着你去探索呢。
-
-2020 年 7 月 23 日发现，关闭内容过滤后，网页版和电脑版可以进入被屏蔽的群组，但是最新的 Android 版却无法进入，iOS 设备未测试。
-
-
+操作完成后，重新启动 iOS 原生客户端，即可 `Display sensitive media in public channels on all your Telegram devices`（允许在您所有登录 Telegram 的设备上显示公共频道内的敏感内容）。
 
 
 
 ## 📣 频道推荐
 
-[Channels](https://telegram.org/tour/channels) 是向大众传播信息的完美工具（[The perfect tool for broadcasting messages to the masses](https://telegram.org/blog/channels)）：
+[Channels](https://telegram.org/tour/channels) 是向大众传播信息的完美工具（[The perfect tool for broadcasting messages to the masses](https://telegram.org/blog/channels)）。通过 [Post Widget](https://core.telegram.org/widgets/posts)，你可以将频道或公共群组的任何消息嵌入到任何地方（You can embed messages from public groups and channels anywhere.）。
+
+
+
+**对于频道主**
+
+- [Hashtags](https://telegram.org/tour/channels#hashtags)：多用 `#` （标签）给消息分类，方便快速检索（instant search）。
+- 频道分析（[Channel Stats](https://telegram.org/blog/folders#channel-stats)）📈：订阅人数超过 500 人（之前是 1,000  人）的频道会有详细的统计数据分析报告（[Statistics](https://telegram.org/tour/channels#detailed-statistics)）。
+- 频道可以有无数个订阅者，但是创建者只能邀请前 200 个成员到你的频道。
+
+
+
+**对于订阅者**
 
 - [Subscriber Privacy](https://telegram.org/tour/channels#subscriber-privacy)：关注者无法得知频道创建者（creator）是谁，也无法得知谁关注了这个频道。
-- [Hashtags](https://telegram.org/tour/channels#hashtags)：多用 `#` （标签）给消息分类，方便快速检索（instant search）。
-- 频道可以有无数个订阅者，但是创建者只能邀请前 200 个成员到你的频道。
-- [频道绑定群聊](https://telegram.org/blog/privacy-discussions-web-bots#broadcasts-meet-group-chats) 后，频道中的每条新帖子（new post）都会自动转发到该群组并被置顶（Pin）。
-- 支持 [Instant View](https://instantview.telegram.org/) 的文章会缓存在 Telegram 的服务器上。
-- [Post Widget](https://core.telegram.org/widgets/posts)：将频道或公共群组的消息嵌入到任何地方。You can embed messages from public groups and channels anywhere. 
-- 频道分析（[Channel Stats](https://telegram.org/blog/folders#channel-stats)）📈：订阅人数超过 500 人（之前是 1,000  人）的频道会有详细的统计数据分析报告（[Statistics](https://telegram.org/tour/channels#detailed-statistics)）。
-- 编辑已发送消息（[Edit your messages after posting](https://telegram.org/blog/edit)），包括文字、图片和视频（[Replace Media](https://telegram.org/blog/unread-replace-2x#replace-media-and-add-captions)）。
 - 频道/超级群组的关注上限是 500 个（具体数字未得到官方的求证），但是限制是一定存在的，因为限制提示语出现在官方翻译页面：抱歉，您已加入太多频道/超级群组。请先退出一些频道/超级群组后再加入。（[Sorry, you have joined too many channels and supergroups. Please leave some before joining this one.](https://translations.telegram.org/zh-hans/tdesktop/groups_and_channels/lng_join_channel_error)）
 
 
@@ -704,53 +702,47 @@ https://rsshub.app/telegram/channel/tingtalk
 
 
 
-**在 Post 下添加评论按钮**
+**2020 年 9 月 30 开始，电报频道原生支持评论功能（[Channel Comments](https://telegram.org/blog/filters-anonymous-admins-comments#channel-comments)）**
 
-- [@LikeComBot](https://t.me/LikeComBot)：在频道消息下添加 Like、Comment 和 Emoji 按钮。
-- [@DiscussBot](https://t.me/discussbot)：在频道消息下添加评论按钮（[add comment buttons to all posts](https://telegram.org/blog#comments-widget)）。
-
-2020 年 9 月 30 开始，电报频道原生支持评论功能（[Channel Comments](https://telegram.org/blog/filters-anonymous-admins-comments#channel-comments)），以上两个按钮便不再推荐使用：
-
-1. 在频道的后台绑定一个群聊（Group）
+1. [在频道的设置里绑定一个群聊（Group）](https://telegram.org/blog/privacy-discussions-web-bots#broadcasts-meet-group-chats)，频道中的每条新帖子（new post）都会自动转发到该群组并被置顶（Pin）。
 2. 频道发送消息后，有两个评论入口：
-   - 频道：点击 `Leave a comment` 即可进入留言板（此法无需加入讨论组）
-   - 群组：引用（Reply）回复对应的频道消息
+   - 频道：点击 `Leave a comment` 即可进入留言板（无需加入讨论组）。
+   - 群组：引用（Reply）回复对应的频道消息。
 
 
 
-**如何向我推荐优质频道**
+以下就是我收集的一些频道（不代表同意以下频道的全部观点），大部分集中在科技互联网，**欢迎向我推荐其它领域的优质频道**：
 
 1. 在 Telegram 搜索 [@tingbot](https://t.me/tingbot)
 2. 简单说明推荐理由
-3. 优质频道将会更新在这篇《电报教程》里
+3. 优质频道将会更新在这篇《电报教程》里，让好内容得到更多的展现
+
+须知参差多态，乃是电报之福。
 
 
 
-以下是我目前收集的频道（不代表我同意以下频道的观点），但不要「贪杯」哦，「淹没」在信息洪流中，对有限的人生来说，是一种慢性自杀，请合理分配稀缺的注意力。
-
-
-
-### ✈️ 电报消息
+### ✈️ 电报动态
 
 | 频道                                               | 详情                                                         |
 | -------------------------------------------------- | ------------------------------------------------------------ |
-| [Telegram News](https://t.me/telegram)             | 电报官方频道：获得关于 Telegram 的更新通知。                 |
-| [ISIS Watch](https://t.me/ISISwatch)               | 电报官方频道：[每日汇报有多少恐怖组织相关的频道被封了](https://t.me/isiswatch/2)。 |
-| [Trending Stickers](https://t.me/TrendingStickers) | Telegram 表情包合集。                                        |
+| [Telegram News](https://t.me/telegram)             | 电报官方新闻频道。                                           |
+| [Durov's Channel](https://t.me/durov)              | 杜罗夫（Telegram 创始人和 CEO）的频道。                      |
+| [ISIS Watch](https://t.me/ISISwatch)               | 电报官方反恐频道：[每日汇报有多少恐怖组织相关的频道被封了](https://t.me/isiswatch/2)。 |
+| [Trending Stickers](https://t.me/TrendingStickers) | Telegram 又新增了哪些表情包。                                |
 | [紙飛機](https://t.me/tgflight)                    | 欢迎搭乘纸飞机，Porsche 和你聊聊 Telegram 的大小事。[播客 RSS 订阅链接](https://feeds.buzzsprout.com/837646.rss)。 |
 | [TGgeek](https://t.me/TGgeek)                      | TG 极客：分享 Telegram 使用技巧、重要资讯、常见问答、中文汉化、版本更新等信息。 |
 | [Anti Revoke Plugin](https://t.me/AntiRevoke)      | Telegram 本地消息防撤回插件，安全性未知。[GitHub 项目地址](https://github.com/SpriteOvO/Telegram-Anti-Revoke/blob/master/README-CN.md)。 |
 
 
 
-### 🦠 疫情相关
+### 🦠 疫情播报
 
 | 频道                                                         | 详情                                                         |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | [Coronavirus Info](https://t.me/corona)                      | 各国官方疫情通报频道列表（A list of official channels with information on COVID-19）。 |
-| [Financial Times: Coronavirus news](https://t.me/FinancialTimes) | 金融时报：新冠病毒新闻。                                     |
-| [2019-nCoV 疫情实时播报](https://t.me/nCoV2019)              | COVID-19 相关资讯实时播报                                    |
-| [2019 肺炎疫情新闻赛博坟场](https://t.me/wuhancensored)      | 记录消失的关于 COVID-19 的内容                               |
+| [Financial Times: Coronavirus news](https://t.me/FinancialTimes) | COVID-19 英文消息 by 金融时报。                              |
+| [2019-nCoV 疫情实时播报](https://t.me/nCoV2019)              | COVID-19 中文消息 by NFNF。                                  |
+
 
 
 
@@ -759,69 +751,62 @@ https://rsshub.app/telegram/channel/tingtalk
 | 频道                                                 | 详情                                                         |
 | ---------------------------------------------------- | ------------------------------------------------------------ |
 | [看鉴中国 OutsightChina](https://t.me/OutsightChina) | 一个健康的社会，不该只有一种声音。看鉴中国，每天聚焦一则关于中国的新闻事件，带你对比来自中外不同媒体多元的、不一样的观点。 |
+| [新闻实验室](https://t.me/newslab2020)               | 推荐订阅方可成老师的 [Newsletter](https://sibforms.com/serve/MUIEABj_H1nZN9Jj5HLcOE61NoO8So-r5phaSIn4ZUqqLv_WdJP-bpiAazMxwp2uOWb-aeF-hiOScIzPxwovvRjNYF6METjZVOafOAQANa9tnIeocTm6fv6RurLCTUVGzKrjBrhtIj9q2wVOmIYoltrV310MEOEi-vg3E0uPES0voX-FjBRHd4mPx0woiIsLiZ6-YXnI80PyhpUH)。[微信公众号文章备份](https://github.com/Newslab2020/Contents/blob/master/wechataccount.md)。 |
 | [中国数字时代消息推送](https://t.me/cdtchinesefeed)  | 致力于聚合「中国的社会与政治新闻，和它在世界上的新兴的角色」有关的报道和评论。 |
+| [多数派Masses](https://t.me/masses2020)              | 我们是一群反对资本主义、反对帝国主义、反对父权制、反对一切压迫和宰制的青年。[Matters 的创作空间站](https://matters.news/@masses2020)。 |
+| [即刻精选](https://t.me/jike_collection)             | 精选即刻 app 热门话题更新。我的即刻 ID 是 `Dr_Ting`。        |
 | [60 秒读懂世界](https://t.me/SharedResources)        | 来自 60 秒读懂世界公众号。                                   |
+| [突发新闻](https://t.me/breakingnews_t)              | 突发新闻推送服务（简体中文）。                               |
 
 
 
-### 🗄️ 存档备份
+### 💾 科技资讯
 
-| 频道                                      | 详情                                                         |
-| ----------------------------------------- | ------------------------------------------------------------ |
-| [你知道的太多了](https://t.me/uknow2much) | 不定期发布和转载各类不一定靠谱的内幕、流言蜚语、小知识等。   |
-| [微信搬运工](https://t.me/WeChatEssence)  | 有些微信的内容分享了之后就和谐了，本频道可以做个备份，以及丰富电报上的中文内容（不可否认还是有很多非政治的优质内容在微信公众号里）。 |
+| 频道                                                 | 详情                                                         |
+| ---------------------------------------------------- | ------------------------------------------------------------ |
+| [少数派](https://t.me/sspai)                         | 少数派致力于更好地运用数字产品或科学方法，帮助用户提升工作效率和生活品质。 |
+| [Solidot](https://t.me/solidot)                      | 奇客的资讯，重要的东西。                                     |
+| [Newlearnerの自留地](https://t.me/NewlearnerChannel) | 不定期推送 IT 相关资讯。                                     |
+| [Appinn Feed](https://t.me/appinnfeed)               | 分享免费、小巧、实用、有趣、绿色的软件。                     |
+| [科技爱好者周刊](https://t.me/scitech_fans)          | 记录每周值得分享的科技内容，周五发布；非官方频道。[科技爱好者周刊合集](https://www.yuque.com/ruanyf/weekly)。 |
+| [TestFlight 科技花](https://t.me/TestFlightCN)       | 发布科技新闻、App 测试版链接、软件使用相关话题。             |
+| [科技圈的日常](https://t.me/misakatech)              | 科技圈内的大事小事。                                         |
+| [如有乐享](https://t.me/ruyoblog)                    | 更新 [如有乐享博客](https://51.ruyo.net/) 的内容：云服务器、优惠活动、羊毛信息以及各种 Bug。 |
+| [cnBeta](https://t.me/cnbeta_com)                    | cnBeta.COM 中文业界资讯站是一个提供 IT 相关新闻资讯、技术文章和评论的观点的中文网站。 |
+| [果核 Apple Nuts](https://t.me/AppleNuts)            | 一个果粉（[Hackl0us](https://hackl0us.com/)）的闲言碎语， 用来推送苹果（Apple） 相关的技术、新闻资讯、技巧、产品/软件心得体会等。 |
+| [VPS 信号旗播报](https://t.me/vps_xhq)               | 关注 VPS 和通信自由。                                        |
 
 
 
-### 💾 万象资讯
+### 🆓 限免通知
 
 | 频道                                                    | 详情                                                         |
 | ------------------------------------------------------- | ------------------------------------------------------------ |
-| [少数派](https://t.me/sspai)                            | 少数派致力于更好地运用数字产品或科学方法，帮助用户提升工作效率和生活品质。 |
-| [好奇心日报](https://t.me/qdaily)                       | 为您广播《好奇心日报》上最新的文章；非官方。                 |
-| [Solidot](https://t.me/solidot)                         | 奇客的资讯，重要的东西。                                     |
-| [Appinn Feed](https://t.me/appinnfeed)                  | 分享免费、小巧、实用、有趣、绿色的软件。                     |
-| [Price Tag 应用推荐](https://t.me/appfans)              | 专注 iOS 和 macOS 上优质、限免应用推荐。                     |
-| [果核 Apple Nuts](https://t.me/AppleNuts)               | 一个果粉（[Hackl0us](https://hackl0us.com/)）的闲言碎语， 用来推送苹果（Apple） 相关的技术、新闻资讯、技巧、产品/软件心得体会等。 |
 | [Google Play 限免信息](https://t.me/playsales)          | 不定时推介 Play Store 上的限免游戏和 App。                   |
 | [反斗限免](https://t.me/apprcn)                         | 这里有反斗软件和反斗限免的文章更新。更新频繁高。             |
-| [科技爱好者周刊](https://t.me/scitech_fans)             | 记录每周值得分享的科技内容，周五发布；非官方频道。[科技爱好者周刊合集](https://www.yuque.com/ruanyf/weekly)。 |
-| [单向历](https://t.me/ows_calendar)                     | 给时光以生命（非官方频道）。2020 年 7 月 5 日停止更新，希望能回来。 |
-| [iYouPort](https://t.me/iyouport)                       | IYP 不是过眼云烟的新闻网站，我们提供实战能力，这里是值得您反复回看的档案室。 |
-| [即刻精选](https://t.me/jike_collection)                | 精选即刻 app 热门话题更新。                                  |
-| [TestFlight 科技花](https://t.me/TestFlightCN)          | 发布科技新闻、App 测试版链接、软件使用相关话题。             |
-| [如有乐享](https://t.me/ruyoblog)                       | 更新 [如有乐享博客](https://51.ruyo.net/) 的内容：云服务器、优惠活动、羊毛信息以及各种 Bug。 |
-| [cnBeta](https://t.me/cnbeta_com)                       | cnBeta.COM 中文业界资讯站是一个提供 IT 相关新闻资讯、技术文章和评论的观点的中文网站。 |
-| [煎蛋无聊图](https://t.me/jandan_pic)                   | 自动抓取煎蛋首页推荐无聊图及其评论。                         |
-| [NF^2在播剧集频道](https://t.me/nfnfys)                 | 在播的剧集。                                                 |
-| [Rick Morty and Fans](https://t.me/Rick_Morty_and_Fans) | Wubba Lubba Dub Dub                                          |
 
 
 
 ### 📚 独立博主
 
-| 频道                                                 | 详情                                                         |
-| ---------------------------------------------------- | ------------------------------------------------------------ |
-| [庭说](https://t.me/tingtalk)                        | 第一时间获取博客的更新通知以及碎片化思考。                   |
-| [Durov's Channel](https://t.me/durov)                | 杜罗夫（Telegram 创始人和 CEO）的频道。                      |
-| [小破不入渠](https://t.me/forwardlikehell)           | 科技评论人 Jesse Chan，博客是 [大破进击](https://jesor.me/)。 |
-| [一天世界](https://t.me/yitianshijie)                | [一天世界](https://yitianshijie.net/)，昆乱不挡。不鸟万如一主理。IPN 出品。 |
-| [caoz 的梦呓](https://t.me/caozsay)                  | 认识曹政之后，感觉互联网终于入门了。by Fenng                 |
-| [小道消息](https://t.me/WebNotes2)                   | 大道无形，小道消息；[公众号备份站点](https://hutu.me/)。     |
-| [卖桃者说](https://t.me/mactalk)                     | 博客是 [MacTalk](http://macshuo.com/)：池建强的随想录关注技术和人文。 |
-| [新闻实验室](https://t.me/newslab2020)               | [微信公众号文章备份](https://github.com/Newslab2020/Contents/blob/master/wechataccount.md)。 |
-| [数字移民](https://t.me/shuziyimin)                  | 无法肉身移民的情况下，在数字生活上追求一定的自由；[博客](https://blog.shuziyimin.org/)。 |
-| [Newlearnerの自留地](https://t.me/NewlearnerChannel) | 不定期推送 IT 相关资讯。                                     |
-| [亚马跌](https://t.me/amazondrop)                    | [一个选购参考网站](https://www.ymdie.com/)。                 |
-| [Real Spencer Woo](https://t.me/realSpencerWoo)      | 开发者 / 设计师 / 少数派 / 学生 / [博客](https://blog.spencerwoo.com/)。 |
-| [Sukka's Notebook](https://t.me/SukkaChannel)        | Belongs to [Hexo](https://github.com/hexojs) dev team / [博客](https://blog.skk.moe/)。 |
-| [扫地僧笔记](https://t.me/lover_links)               | 每天所见所闻所想，是个树洞。                                 |
-| [一方天地](https://t.me/world2us)                    | 心留一方天地，世界依旧美好。                                 |
-| [ZUOLUOTV](https://t.me/zuoluotvofficial)            | 科技 / 旅行 / 摄影 / 生活方式 / [博客](https://luolei.org/)  |
-| [湾区日报](https://t.me/wanqu_official)              | 关注创业与技术，不定期推送 5 篇优质英文文章。                |
-| [不求甚解](https://t.me/fakeye)                      | 设计师 [oooooohmygosh](https://space.bilibili.com/38053181) 的代言人。[设计本是艺术，何苦把自己活成软件操作员。](https://www.bilibili.com/video/BV1S741117d3) |
-| [海龙说](https://t.me/haotalk)                       | 牢记梦想，自然生长。by [郝海龙的博客](https://haohailong.net/) |
-| [KAIX.IN](https://t.me/kaix_in)                      | 思考碎片，[博客](https://kaix.in/) 更新。                    |
+| 频道                                            | 详情                                                         |
+| ----------------------------------------------- | ------------------------------------------------------------ |
+| [庭说](https://t.me/tingtalk)                   | 第一时间获取博客的更新通知以及碎片化思考。                   |
+| [小破不入渠](https://t.me/forwardlikehell)      | 科技评论人 Jesse Chan，博客是 [大破进击](https://jesor.me/)。 |
+| [一天世界](https://t.me/yitianshijie)           | [一天世界](https://yitianshijie.net/)，昆乱不挡。不鸟万如一主理。IPN 出品。 |
+| [caoz 的梦呓](https://t.me/caozsay)             | 认识曹政之后，感觉互联网终于入门了。by Fenng                 |
+| [小道消息](https://t.me/WebNotes2)              | 大道无形，小道消息；[公众号备份站点](https://hutu.me/)。     |
+| [卖桃者说](https://t.me/mactalk)                | 博客是 [MacTalk](http://macshuo.com/)：池建强的随想录关注技术和人文。 |
+| [数字移民](https://t.me/shuziyimin)             | 无法肉身移民的情况下，在数字生活上追求一定的自由；[博客](https://blog.shuziyimin.org/)。 |
+| [Real Spencer Woo](https://t.me/realSpencerWoo) | 开发者 / 设计师 / 少数派 / 学生 / [博客](https://blog.spencerwoo.com/)。 |
+| [Sukka's Notebook](https://t.me/SukkaChannel)   | Belongs to [Hexo](https://github.com/hexojs) dev team / [博客](https://blog.skk.moe/)。 |
+| [扫地僧笔记](https://t.me/lover_links)          | 每天所见所闻所想，是个树洞。                                 |
+| [一方天地](https://t.me/world2us)               | 心留一方天地，世界依旧美好。                                 |
+| [ZUOLUOTV](https://t.me/zuoluotvofficial)       | 科技 / 旅行 / 摄影 / 生活方式 / [博客](https://luolei.org/)  |
+| [湾区日报](https://t.me/wanqu_official)         | 关注创业与技术，不定期推送 5 篇优质英文文章。                |
+| [不求甚解](https://t.me/fakeye)                 | [Newlearnerの自留地](https://t.me/NewlearnerChannel) 编辑；设计师 [oooooohmygosh](https://space.bilibili.com/38053181) 的代言人。 |
+| [海龙说](https://t.me/haotalk)                  | 牢记梦想，自然生长。by [郝海龙的博客](https://haohailong.net/) |
+| [KAIX.IN](https://t.me/kaix_in)                 | 思考碎片，[博客](https://kaix.in/) 更新。                    |
 
 关联阅读：[中文独立博客列表](https://github.com/timqian/chinese-independent-blogs) by timqian
 
@@ -836,19 +821,26 @@ https://rsshub.app/telegram/channel/tingtalk
 
 
 
+### 🎞️ 影视资源
 
-### 🎙 视听盛宴
+| 频道                                            | 详情                                                 |
+| ----------------------------------------------- | ---------------------------------------------------- |
+| [远鉴字幕组发布频道](https://t.me/VisionarySub) | 本字幕组致力于非院线海外电影及海外剧集的译制与分享。 |
+| [NF^2在播剧集频道](https://t.me/nfnfys)         | 在播剧集资源。                                       |
+
+
+
+### 🎙 洗耳恭听
 
 | 频道                                              | 详情                                                         |
 | ------------------------------------------------- | ------------------------------------------------------------ |
 | [「利器x播客」计划](https://t.me/liqixpodcast)    | [官网](https://liqixpodcast.typlog.io/)                      |
-| [独立播客](https://t.me/indiepod)                 | 分享关于播客的一切。                                         |
+| [独立播客](https://t.me/indiepod)                 | 分享关于播客的一切。by Zac                                   |
+| [中文播客精选](https://t.me/greatpodcasts)        | 分享精选优质中文播客，目前推荐单期节目为主。by Stella        |
 | [交差点](https://t.me/jiaochadian)                | "Technology alone is not enough."                            |
 | [不客观 Not Objective](https://t.me/notobjective) | 一档搭建在 Telegram 的简易播客，纯主观感受。by [郝海龙](https://haohailong.net/) |
-| [中文播客精选](https://t.me/greatpodcasts)        | 分享精选优质中文播客，目前推荐单期节目为主。                 |
 | [每日一歌](https://t.me/dailymusich)              | 愿你也能在这里找到属于你自己的共鸣。                         |
 | [音乐世界](https://t.me/lumingguandj)             | 温柔被我唱成了歌，伴你人山人海不停留。                       |
-| [远鉴字幕组发布频道](https://t.me/VisionarySub)   | 本字幕组致力于非院线海外电影及海外剧集的译制与分享。         |
 
 
 
@@ -860,12 +852,13 @@ https://rsshub.app/telegram/channel/tingtalk
 | [中文社科讲座资讯](https://t.me/chwebinars)   | 一个讲座信息聚合和 PPT 共享平台。                            |
 | [什么书值得读](https://t.me/zreadpush)        | 仅推送某亚原版资源，可同时下载 `.azw3` `.epub` `.mobi` 的电子书。 |
 | [小声读书](https://t.me/weekly_books)         | 小声读书是一个探索数字阅读可能性和未来的开放项目，致力于打破信息茧房，挖掘价值信息。亦是一份杂志，一个博客，混搭不拘一格，时常荒腔走板。人类的悲喜并不互通，但读书是走向共同理解的捷径。 |
+| [值得一看的文章](https://t.me/readgoods)      | 阅读更少，收获更多。                                         |
 
 插播一个没有返利的广告：学英语，推荐购买郝海龙老师的[《英语自学手册》](https://sspai.com/series/77)（￥119）。
 
 
 
-### 🚀 机场广播
+### 🚀 科学上网
 
 | 频道                                               | 详情                                                         |
 | -------------------------------------------------- | ------------------------------------------------------------ |
@@ -875,7 +868,26 @@ https://rsshub.app/telegram/channel/tingtalk
 | [Shadowrocket News](https://t.me/ShadowrocketNews) | iOS 上小火箭                                                 |
 | [V2Fly](https://t.me/V2Fly)                        | Shadowsocks 是一个纯粹的代理工具，而 V2Ray 定位为一个平台，任何开发者都可以利用 V2Ray 提供的模块开发出新的代理软件。by [新 V2Ray 白话文指南](https://guide.v2fly.org/) |
 | [毒药机场评测](https://t.me/DuyaoSS)               | 由于大陆地区网络环境十分复杂，测速不代表推荐。               |
-| [VPS 信号旗播报](https://t.me/vps_xhq)             | 关注 VPS 和通信自由。                                        |
+
+
+
+### 🗄️ 存档备份
+
+| 频道                                      | 详情                                                         |
+| ----------------------------------------- | ------------------------------------------------------------ |
+| [iYouPort](https://t.me/iyouport)         | IYP 不是过眼云烟的新闻网站，我们提供实战能力，这里是值得您反复回看的档案室。 |
+| [你知道的太多了](https://t.me/uknow2much) | 不定期发布和转载各类不一定靠谱的内幕、流言蜚语、小知识等。   |
+| [微信搬运工](https://t.me/WeChatEssence)  | 有些微信的内容分享了之后就和谐了，本频道可以做个备份，以及丰富电报上的中文内容（不可否认还是有很多非政治的优质内容在微信公众号里）。 |
+
+
+
+### 😺 其它频道
+
+| 频道                                                    | 详情                                 |
+| ------------------------------------------------------- | ------------------------------------ |
+| [煎蛋无聊图](https://t.me/jandan_pic)                   | 自动抓取煎蛋首页推荐无聊图及其评论。 |
+| [Rick Morty and Fans](https://t.me/Rick_Morty_and_Fans) | Wubba Lubba Dub Dub                  |
+| [回形针PaperClip & 灵光灯泡](https://t.me/papercliphub) | 回形针内容推送。                     |
 
 
 
@@ -911,7 +923,7 @@ Bots 就像运行在 Telegram 内部的小程序。借助 [Telegram 开放的 AP
 
 
 
-### 🧱 专用机器人
+### 🧱 非内联机器人
 
 以下 Bots 不能在聊天窗口调取使用。
 
@@ -924,30 +936,26 @@ Bots 就像运行在 Telegram 内部的小程序。借助 [Telegram 开放的 AP
 相比于传统的 RSS 客户端，Telegram 上的 RSS 订阅器的优点是：
 
 - 自动记录上次浏览的位置
-- 支持 `⚡ INSTANT VIEW`
+- 某些 RSS Bots 支持 `⚡ INSTANT VIEW`
 
 
 
-我目前的资讯消化方案是：
+在 [All About RSS](https://github.com/AboutRSS/ALL-about-RSS#telegram-rss-bots) 里推荐了很多 RSS Bots：
+- [@FeedManBot](https://t.me/FeedManBot)
+- [@TheFeedReaderBot](https://t.me/TheFeedReaderBot)：不仅可以订阅 RSS 源，还可以在 Telegram 上浏览 Twitter。
+- [@Feed2Telegram_bot](https://t.me/Feed2Telegram_bot)：免费用户只有 5 条 Feeds；发送 Twitter（推特）链接，即可追踪。
+- [@el_monitorro_bot](https://t.me/el_monitorro_bot)
+- [@newlearner_rss_bot](https://t.me/newlearner_rss_bot)
+- [@NodeRSS_bot](https://t.me/NodeRSS_bot)
+- ……
 
-- 在 [All About RSS](https://github.com/AboutRSS/ALL-about-RSS#telegram-rss-bots) 里找一个 RSS Bots，订阅不想错过的源，在 Telegram 内阅读，以下 Bots 测试可用：
-  - [@FeedManBot](https://t.me/FeedManBot)
-  - [@TheFeedReaderBot](https://t.me/TheFeedReaderBot)：不仅可以订阅 RSS 源，还可以在 Telegram 上浏览 Twitter。
-  - [@Feed2Telegram_bot](https://t.me/Feed2Telegram_bot)：免费用户只有 5 条 Feeds；发送 Twitter（推特）链接，即可追踪。
-  - [@el_monitorro_bot](https://t.me/el_monitorro_bot)
-  - [@newlearner_rss_bot](https://t.me/newlearner_rss_bot)
-  - [@NodeRSS_bot](https://t.me/NodeRSS_bot)
-- [Inoreader](https://www.inoreader.com/) 订阅可以错过的源。
-  - Windows 电脑：创建一个 [虚拟桌面](https://sspai.com/post/43187)，打开 Inoreader 网页版，[开启浏览器通知权限](https://support.google.com/chrome/answer/3220216?co=GENIE.Platform%3DDesktop&hl=zh-Hans)（点击网址左边的锁头 `🔐` > `网站设置` > `通知`：`允许`），就能收到 RSS 的订阅更新了。
-  - Android 手机：偶尔看看。
-
-如果内容创作者同时开通了 Telegram Channel 和 RSS，推荐读者优先订阅 Channel。对于那些没有创建 Channel 的内容创作者，请订阅 Ta 们的 RSS源。作为 RSS 新人，目前订阅的内容比较乱，所以此部分的内容将会持续更新。
+以上大部分 Bots 都能免费使用，保不齐哪天服务器撑不住，就停止运营了，所以记得定期导出 OPML 文件作为备份。
 
 
 
 #### 🎵 音乐机器人
 
-[@ChinoNyanBot](https://t.me/ChinoNyanBot) 在 Telegram 上在线点歌。
+通过 [@ChinoNyanBot](https://t.me/ChinoNyanBot) 可以在 Telegram 上在线点歌。
 
 
 
@@ -960,7 +968,7 @@ Bots 就像运行在 Telegram 内部的小程序。借助 [Telegram 开放的 AP
 
 
 
-**小提示**
+**Tips**
 
 - 长按命令可复制
 - 点击顶部的音乐播放栏
@@ -968,7 +976,6 @@ Bots 就像运行在 Telegram 内部的小程序。借助 [Telegram 开放的 AP
   - 上一首 / 下一首
   - 单曲播放  / 顺序播放
   - 分享
-- 当恢复播放超过 20 分钟的音频文件（例如播客、有声读物）时，[Telegram 会记住最后播放进度]()。
 
 
 
@@ -976,66 +983,65 @@ Bots 就像运行在 Telegram 内部的小程序。借助 [Telegram 开放的 AP
 
 - [@vkm_bot](https://t.me/vkm_bot)
 - [@u2bu_mp3_bot](https://t.me/u2bu_mp3_bot)
-- [@spotifybot](https://t.me/spotifybot)：[目前全球最大的串流音乐服务商](https://zh.wikipedia.org/zh/Spotify)。
-- [@cctracks](https://t.me/cctracks)：免版权音乐（但不可商用），但频道已经停止更新，期待回归。
 
 
 
-**其它特定用途的机器人**
+#### 🎁 其它机器人
 
 | Bot                                                | Info                                                         |
 | -------------------------------------------------- | ------------------------------------------------------------ |
 | [@CorsaBot](https://telegram.me/CorsaBot)          | Make Instant View from any article. 快速把文章把文章备份到 [Telegraph](https://telegra.ph/)。 |
 | [@IFTTT](https://t.me/IFTTT)                       | [With this bot you can use IFTTT to link your Telegram groups or channels to more than 360 other services like Twitter and Instagram, or connected devices like Hue lights and Nest.](https://ifttt.com/telegram) |
 | [@githubbot](https://telegram.me/githubbot)        | 推送 GitHub 仓库的动态。                                     |
-| [@GmailBot](https://t.me/GmailBot)                 | 在 Telegram 上收发 📧 Gmail。                                 |
-| [@LivegramBot](https://t.me/LivegramBot)           | [不加好友也能私聊](https://telegra.ph/What-is-Livegram-Bot-03-17)，可用于收集反馈及绕开 `+86` 手机号码的限制。 |
+| [@GmailBot](https://t.me/GmailBot)                 | 在 Telegram 上收发 📧 Gmail。`编辑推荐`                       |
+| [@LivegramBot](https://t.me/LivegramBot)           | [不加好友也能私聊](https://telegra.ph/What-is-Livegram-Bot-03-17)，可用于收集反馈及绕开 `+86` 手机号码的限制。`编辑推荐` |
 | [@sssoou_bot](https://t.me/sssoou_bot)             | Telegram 搜索，支持中文。                                    |
 | [@Stickers](https://t.me/Stickers)                 | 创建属于自己的表情包。                                       |
 | [@Sticker2GIFBot](https://t.me/Sticker2GIFBot)     | 下载单独的表情包或整套表情包。                               |
 | [@tweet_for_me_bot](https://t.me/tweet_for_me_bot) | 在 Telegram 上发布 Twitter 动态。                            |
 | [@tgstogifbot](https://t.me/tgstogifbot)           | 把 Telegram 上 tgs 格式的表情包转换为 gif 格式。             |
-| [@telegraph](https://t.me/telegraph)               | 登录和编辑 [Telegraph](https://telegra.ph/) 文章，并 [统计 telegra.ph 的浏览量](https://telegram.org/blog/telegraph#telegraph-api)。 |
+| [@telegraph](https://t.me/telegraph)               | 登录和编辑 [Telegraph](https://telegra.ph/) 文章，并 [统计 telegra.ph 的浏览量](https://telegram.org/blog/telegraph#telegraph-api)。`编辑推荐` |
 | [@verifybot](https://t.me/verifybot)               | 加了官方认证后，名字后面有个 ✅（[verify a big andactive official channel, bot or public group](https://telegram.org/verify)）。 |
 
 更多 Bots 推荐，请参阅 [Raw 博客](https://blog.rawstack.co/post/telegram-bots/)。
 
 
 
-## 👥 群组设置
+## 👥 群组介绍
 
-[Groups](https://telegram.org/tour/groups) 一般超过 3 个人，有人就会开始沉默。因此，我很少在大群说话，但还是欢迎读者加入 [庭说的 Telegram 群组](https://t.me/tingtalk)：指出此文的疏漏，推荐优质内容，一起跨越数字鸿沟，共享信息自由。
+[Groups](https://telegram.org/tour/groups) 一般超过 3 个人，有人就会开始沉默。因此，我加入的群比较少。
 
 - 群组人数最高 20 万。
 - 静音群组只有在 `@` 提到你、 `Reply` 回复你和 `Pin` 管理员发布群通知时才会收到通知。
 - 新加入的成员可以看到全部的群聊历史记录（[New members can see the entire message history when they join](https://telegram.org/blog/supergroups#supergroups)）。
-- 加入群组之前，可看到（单向）好友是否在列。咳咳，加入 NSFW 群组之前推荐使用小号。
+- 加入群组之前，可看到（单向）好友是否在列。如果不想让好友知道你加入了某个群组，注册一个小号吧。
 
 
 
-**👮管理之道**
+**👮 管理之道**
 
 - 可删除成员的单条消息或全部消息。
 - [慢速模式（Slow Mode）](https://telegram.org/blog/silent-messages-slow-mode#slow-mode)：在 10 秒 / 30 秒 / 1 分钟 / 5 分钟 / 15 分钟 / 1 个小时内，成员只能发送一条消息，这样可以使小组中的对话更加有序，也可以提高每条信息的价值。
 - [群组权限](https://telegram.org/blog/permissions-groups-undo)：管理员可以限制所有成员或单个成员只能发送特定类型的内容（[Partial bans](https://telegram.org/tour/groups#partial-bans)），如此一来，你便可建立一个没有表情贴纸或者 gif 的高质量交流社区。或者甚至完全限制成员发送信息，让管理员彼此交谈，而群成员则默默地旁观。
-- 可对群主（creator）及管理员（administrators）设置 [自定义头衔（Custom title）](https://telegram.org/blog/silent-messages-slow-mode#admin-titles)。
+- 可对群主（creator）及管理员（administrators）设置自定义头衔[（Custom title）](https://telegram.org/blog/silent-messages-slow-mode#admin-titles)。
 - 管理日志（[Recent Admin Actions](https://telegram.org/blog/admin-revolution#recent-admin-actions)）：当多个管理员在一起工作时，很容易搞不清楚哪个管理员或管理机器人，在什么时候做了什么。所以 Telegram 的管理员页面增加了「最近动作」功能。用于存储过去 48 小时内在组中执行的所有服务操作的日志，仅对管理员可见。
 - 2020 年 9 月 30 开始，管理员可以匿名发布消息了（[Anonymous Group Admins](https://telegram.org/blog/filters-anonymous-admins-comments#anonymous-group-admins)）。
 
 
 
-**🔐管理机器人**
+**🔐 管理机器人**
 
-在管理后台搜索 Bots 名字，即可添加，注意只给最低权限。
+在群组设置里搜索 Bots 名字，即可添加，注意只给最低权限。
 
-[@policr_mini_bot](https://t.me/policr_mini_bot)：开源验证机器人；[官网](https://mini.telestd.me/)。权限只给 `Delete messages` 和 `Ban users`。
+[@policr_mini_bot](https://t.me/policr_mini_bot)：开源验证机器人；[官网](https://mini.telestd.me/)。
+赋予 `Delete messages` 和 `Ban users` 权限。
 
-[@DeleteEventsBot](https://t.me/DeleteEventsBot)：删除无关系统信息，例如谁加入了群组、谁离开了群组等。权限只给 `Delete messages。`
 
-[@areply_bot](https://t.me/areply_bot)：自动解除关联频道（Linked hannel）转发到群组的自动置顶消息，并恢复之前的置顶消息。拉入群组后，请赋予机器人以下权限：
+[@DeleteEventsBot](https://t.me/DeleteEventsBot)：删除无关系统信息，例如谁加入了群组、谁离开了群组等。
+赋予 `Delete messages` 权限。
 
-- 置顶消息（Pin messages）：必须打开。
-- 删除消息（Delete messages）：删除系统置顶提示，按需打开。
+[@areply_bot](https://t.me/areply_bot)：自动解除关联频道（Linked hannel）转发到群组的自动置顶消息，并恢复之前的置顶消息。
+赋予 `Pin messages` 和 `Delete messages` 权限。
 
 
 
@@ -1045,7 +1051,7 @@ Bots 就像运行在 Telegram 内部的小程序。借助 [Telegram 开放的 AP
 
 `客户端` -`服务器` / `服务器` - `客户端` 
 
-信息存储在 Telegram Cloud 中进行加密。 这使云消息既安全又可以立即从任何设备访问，即使完全丢失了设备。所以你不需要将所有的信息历史记录存储在手机上，当你需要的时候，你可以随时在 Telegram 下载（缓存）旧的信息和媒体，这为你节省了大量的磁盘空间和内存。
+信息存储在 Telegram Cloud 中进行加密，这使云消息既安全又可以立即从任何设备访问，即使丢失了设备。所以你不需要将所有的信息历史记录存储在手机上，当你需要的时候，你可以随时在 Telegram 下载（缓存）旧的信息和媒体，这为你节省了大量的磁盘空间和内存。
 
 
 
@@ -1063,31 +1069,6 @@ Bots 就像运行在 Telegram 内部的小程序。借助 [Telegram 开放的 AP
 - 不能编辑已发送的消息。
 - Android 设备不能截屏；iOS 设备可以截屏 ，但对方截屏时你会收到通知。不过，只建议与你信任的人分享敏感信息。 毕竟，对方可以用另外一台设备给屏幕拍照。
 - 删除发送方的消息，接收方那边也会强制删除。
-
-
-
-**💬对话守则**
-
-以下讨论原则可作为群规。
-
-1. 对话的目的是寻求真理，不是为了斗争。  
-   输赢不重要，重要的是我们能不能在对话中学到知识、理清思路。
-2. 不做人身攻击。  
-   不扣帽子，不要揣测对方身份与职业、收入、力量数据甚至三围。
-3. 保持主题。  
-   不要跑题、不要歪楼。
-4. 辩论时要用证据。  
-   要有足够支撑你提出的观点的证据，而且证据要确凿，有出处。
-5. 不要坚持错误不改。  
-   面子不重要，明知自己有错仍然死撑，只能说明不够大度。
-6. 要分清对话与只准自己讲话的区别。  
-   论坛上的参与者都是平等的，且辩论不是演说，大家都有充分表达自己观点的权利。不希望别人提出不同意见的话，请标明「不同意见者请绕行」。
-7. 对话要有记录。  
-   说过的话要认账，不要随意更改已经发过的动态 / 帖子。
-8. 尽量理解对方。  
-   看清楚对方的每一个字，理解清楚对方的意思，不要曲解。
-
-> 注释来自 [豆瓣用户【已注销】](https://www.douban.com/note/168489713/)
 
 
 
@@ -1109,21 +1090,28 @@ Bots 就像运行在 Telegram 内部的小程序。借助 [Telegram 开放的 AP
 
 ### ✌️ 用法二
 
+通过 Telegraph 机器人 [@telegraph](https://t.me/telegraph) 管理文章：
+- 能看到你发了多少篇文章，多少人看了（但是读者依旧看不到作者是谁）。
+- 在任意聊天窗口输入 [@telegraph](https://t.me/telegraph)，即可弹出你发布的所有文章。
+
+
+
+#### 📝 发布流程
+
 1. 在 Telegram 打开 Telegraph 的小管家 [@telegraph](https://t.me/telegraph)
 2. 根据提示配置 Account
 3. 写文章
 4. 发布（PUBLISH）
 
-**通过 Bots 发布文章的好处**
+#### ✍️ 修改流程
 
-- 在任何一个设备（across any number of devices）都可以**再次编辑**文章的标题、作者和正文（除了文章链接）
-  - `Log in as *** on this device`，然后反回到 @telegraph（也许不用操作这一步）
-  - `My posts`
-  - 点击文章的标题
-    - 电脑：自动跳转到浏览器打开，然后在右上角找到 `EDIT`
-    - 手机：点击界面的右上角 3 个点，选择 `Open in…` 用浏览器打开，滑倒文章底部即可看到 `EDIT`
-- 能看到你发了多少篇文章，多少人看了（但是读者依旧看不到作者是谁）
-- 在任意聊天窗口输入 [@telegraph](https://t.me/telegraph)，即可弹出你发布的所有文章，点选发送
+在任何一个设备（across any number of devices）都可以再次编辑文章的标题、作者和正文（除了文章链接）：
+
+1. `Log in as *** on this device`
+2. 返回 @telegraph
+3. `My posts`，点击文章的标题
+  - 电脑：自动跳转到浏览器打开，然后在右上角找到 `EDIT`
+  - 手机：点击界面的右上角 3 个点，选择 `Open in…` 用浏览器打开，滑倒文章底部即可看到 `EDIT`
 
 
 
@@ -1168,5 +1156,10 @@ URL = `https://telegra.ph`/`首次输入的标题`-`首次发表的月`-`首次�
 - [Telegram 频道：Newlearnerの自留地 导航页](https://www.newlearner.site/2019/12/15/newlearnerchannel.html/#Telegram)
 - [什么是数字移民及其基础教程 - TSBBLOG](https://tsb2blog.com/what-means-digital-immigrants-in-china.html)
 
-Stay home. Wash your hands. Be safe. And stay tuned for our next updates! It is already brewing in our dungeons! 呆在家，常洗手。敬请关注，更强大的 Telegram 已经在我们的地牢里酝酿中了！为什么是地牢？因为没人知道 Telegram 的开发者们在哪里秘密开发 Telegram？
+Stay home. Wash your hands. Be safe. And stay tuned for our next updates! It is already brewing in our dungeons! 呆在家，常洗手，敬请关注，更强大的 Telegram 已经在我们的地牢里酝酿中了！
 
+
+
+## 📞 与我联系
+
+欢迎读者在 Telegram 搜索 [@tingbot](https://t.me/tingbot) 与我取得联系：指出此文疏漏，推荐优质频道和机器人，一起跨越数字鸿沟，共享信息自由。

@@ -14,7 +14,7 @@ tags: 设计
 
 <!-- more -->
 
-推荐看 [oooooohmygosh](https://space.bilibili.com/38053181) 的视频，比看我这个有用多了。
+推荐看 [oooooohmygosh](https://space.bilibili.com/38053181) 的视频，比看我这个有用多了。其中已给视频是 [设计本是艺术，何苦把自己活成软件操作员。](https://www.bilibili.com/video/BV1S741117d3)。
 
 ## Logo
 
