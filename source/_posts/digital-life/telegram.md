@@ -16,6 +16,10 @@ tags: [网上冲浪指南, 突破网络审查, Telegram]
 
 💡 文章很长，善用右侧的目录栏和查找功能（`Ctrl` + `F`），助你定位想要看到的内容。
 
+📁 博客在 2020-04-04 被墙了，如需在墙内传阅，请前往 [蓝奏云](https://wwa.lanzous.com/b00twozof) 下载本文的 PDF。
+
+✍️ 如需下载可编辑的 Markdown 源文档，请访问 [庭说的 GitHub 仓库](https://raw.githubusercontent.com/ting-talk/blog/master/source/_posts/digital-life/telegram.md)。
+
 
 
 ## ✈️ 电报介绍
