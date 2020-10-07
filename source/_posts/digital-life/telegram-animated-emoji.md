@@ -2,7 +2,7 @@
 
 title: Telegram Animated Emoji List（电报动态大表情合集）
 date: 2020-03-01  
-updated: 2020-07-18  
+updated: 2020-10-08  
 categories: 数字生活  
 tags: [Telegram, 网上冲浪指南]
 
@@ -29,41 +29,86 @@ tags: [Telegram, 网上冲浪指南]
 
 | Animated Emoji | Emojipedia                                                   |
 | -------------- | ------------------------------------------------------------ |
-| 😁              | [Grinning Face with Smiling Eyes](https://emojipedia.org/grinning-face-with-smiling-eyes/) |
+| 😀              | [Grinning Face](https://emojipedia.org/grinning-face/)       |
+| 😃              | [Grinning Face with Big Eyes](https://emojipedia.org/grinning-face-with-big-eyes/) |
+| 😄              | [Grinning Face with Smiling Eyes](https://emojipedia.org/grinning-face-with-smiling-eyes/) |
+| 😁              | [Beaming Face with Smiling Eyes](https://emojipedia.org/beaming-face-with-smiling-eyes/) |
 | 😆              | [Grinning Squinting Face](https://emojipedia.org/grinning-squinting-face/) |
+| 😅              | [Grinning Face with Sweat](https://emojipedia.org/grinning-face-with-sweat/) |
 | 😂              | [Face with Tears of Joy](https://emojipedia.org/face-with-tears-of-joy/) |
+| 🤣              | [Rolling on the Floor Laughing](https://emojipedia.org/rolling-on-the-floor-laughing/) |
+| ☺️              | [Smiling Face](https://emojipedia.org/smiling-face/)         |
+| 😊              | [Smiling Face with Smiling Eyes](https://emojipedia.org/smiling-face-with-smiling-eyes/) |
+| 😇              | [Smiling Face with Halo](https://emojipedia.org/smiling-face-with-halo/) |
+| 🙂              | [Slightly Smiling Face](https://emojipedia.org/slightly-smiling-face/) |
+| 🙃              | [Upside-Down Face](https://emojipedia.org/upside-down-face/) |
+| 😉              | [Winking Face](https://emojipedia.org/winking-face/)         |
 | 😌              | [Relieved Face](https://emojipedia.org/relieved-face/)       |
 | 😍              | [Smiling Face with Heart-Eyes](https://emojipedia.org/smiling-face-with-heart-eyes/) |
 | 🥰              | [Smiling Face with Hearts](https://emojipedia.org/smiling-face-with-hearts/) |
 | 😘              | [Face Blowing a Kiss](https://emojipedia.org/face-blowing-a-kiss/) |
+| 😚              | [Kissing Face with Closed Eyes](https://emojipedia.org/kissing-face-with-closed-eyes/) |
+| 😋              | [Face Savoring Food](https://emojipedia.org/face-savoring-food/) |
+| 😛              | [Face with Tongue](https://emojipedia.org/face-with-tongue/) |
+| 😝              | [Squinting Face with Tongue](https://emojipedia.org/squinting-face-with-tongue/) |
+| 😜              | [Winking Face with Tongue](https://emojipedia.org/winking-face-with-tongue/) |
+| 🤪              | [Zany Face](https://emojipedia.org/zany-face/)               |
 | 🧐              | [Face with Monocle](https://emojipedia.org/face-with-monocle/) |
+| 😎              | [Smiling Face with Sunglasses](https://emojipedia.org/smiling-face-with-sunglasses/) |
 | 🥳              | [Partying Face](https://emojipedia.org/partying-face/)       |
+| 😏              | [Smirking Face](https://emojipedia.org/smirking-face/)       |
 | 😒              | [Unamused Face](https://emojipedia.org/unamused-face/)       |
+| 😞              | [Disappointed Face](https://emojipedia.org/disappointed-face/) |
 | 😔              | [Pensive Face](https://emojipedia.org/pensive-face/)         |
+| 😟              | [Worried Face](https://emojipedia.org/worried-face/)         |
+| 😕              | [Confused Face](https://emojipedia.org/confused-face/)       |
 | 😢              | [Crying Face](https://emojipedia.org/crying-face/)           |
+| 😭              | [Loudly Crying Face](https://emojipedia.org/loudly-crying-face/) |
+| 😤              | [Face with Steam From Nose](https://emojipedia.org/face-with-steam-from-nose/) |
 | 😡              | [Pouting Face](https://emojipedia.org/pouting-face/)         |
+| 🤬              | [Face with Symbols on Mouth](https://emojipedia.org/face-with-symbols-on-mouth/) |
+| 🤯              | [Exploding Head](https://emojipedia.org/exploding-head/)     |
 | 😳              | [Flushed Face](https://emojipedia.org/flushed-face/)         |
+| 🥵              | [Hot Face](https://emojipedia.org/hot-face/)                 |
+| 🥶              | [Cold Face](https://emojipedia.org/cold-face/)               |
+| 😱              | [Face Screaming in Fear](https://emojipedia.org/face-screaming-in-fear/) |
 | 😨              | [Fearful Face](https://emojipedia.org/fearful-face/)         |
 | 🤔              | [Thinking Face](https://emojipedia.org/thinking-face/)       |
 | 😐              | [Neutral Face](https://emojipedia.org/neutral-face/)         |
 | 🙄              | [Face with Rolling Eyes](https://emojipedia.org/face-with-rolling-eyes/) |
+| 😯              | [Hushed Face](https://emojipedia.org/hushed-face/)           |
+| 😦              | [Frowning Face with Open Mouth](https://emojipedia.org/frowning-face-with-open-mouth/) |
 | 😧              | [Anguished Face](https://emojipedia.org/anguished-face/)     |
 | 😮              | [Face with Open Mouth](https://emojipedia.org/face-with-open-mouth/) |
+| 😲              | [Astonished Face](https://emojipedia.org/astonished-face/)   |
+| 🥱              | [Yawning Face](https://emojipedia.org/yawning-face/)         |
+| 😴              | [Sleeping Face](https://emojipedia.org/sleeping-face/)       |
 | 🤢              | [Nauseated Face](https://emojipedia.org/nauseated-face/)     |
 | 🤮              | [Face Vomiting](https://emojipedia.org/face-vomiting/)       |
 | 🤧              | [Sneezing Face](https://emojipedia.org/sneezing-face/)       |
 | 😷              | [Face with Medical Mask](https://emojipedia.org/face-with-medical-mask/) |
 | 🤒              | [Face with Thermometer](https://emojipedia.org/face-with-thermometer/) |
 | 🤕              | [Face with Head-Bandage](https://emojipedia.org/face-with-head-bandage/) |
+| 😈              | [Smiling Face with Horns](https://emojipedia.org/smiling-face-with-horns/) |
+| 👿              | [Angry Face with Horns](https://emojipedia.org/angry-face-with-horns/) |
 | 💩              | [Pile of Poo](https://emojipedia.org/pile-of-poo/)           |
 | 👻              | [Ghost](https://emojipedia.org/ghost/)                       |
 | 💀              | [Skull](https://emojipedia.org/skull/)                       |
 | 🎃              | [Jack-O-Lantern](https://emojipedia.org/jack-o-lantern/)     |
+| 😺              | [Grinning Cat](https://emojipedia.org/grinning-cat/)         |
+| 😸              | [Grinning Cat with Smiling Eyes](https://emojipedia.org/grinning-cat-with-smiling-eyes/) |
+| 😹              | [Cat with Tears of Joy](https://emojipedia.org/cat-with-tears-of-joy/) |
 | 😻              | [Smiling Cat with Heart-Eyes](https://emojipedia.org/smiling-cat-with-heart-eyes/) |
+| 😼              | [Cat with Wry Smile](https://emojipedia.org/cat-with-wry-smile/) |
+| 😽              | [Kissing Cat](https://emojipedia.org/kissing-cat/)           |
+| 🙀              | [Weary Cat](https://emojipedia.org/weary-cat/)               |
+| 😿              | [Crying Cat](https://emojipedia.org/crying-cat/)             |
+| 😾              | [Pouting Cat](https://emojipedia.org/pouting-cat/)           |
 | 👏              | [Clapping Hands](https://emojipedia.org/clapping-hands/)     |
 | 👍              | [Thumbs Up](https://emojipedia.org/thumbs-up/)               |
 | 👎              | [Thumbs Down](https://emojipedia.org/thumbs-down/)           |
 | 👋              | [Waving Hand](https://emojipedia.org/waving-hand/)           |
+| 👌              | [OK Hand](https://emojipedia.org/ok-hand/)                   |
 | 💋              | [Kiss Mark](https://emojipedia.org/kiss-mark/)               |
 | 👩‍⚕️             | [Woman Health Worker](https://emojipedia.org/woman-health-worker/) |
 | 👨‍⚕️             | [Man Health Worker](https://emojipedia.org/man-health-worker/) |
@@ -77,13 +122,36 @@ tags: [Telegram, 网上冲浪指南]
 
 ## 🐱
 
-| Animated Emoji | Emojipedia                                                |
-| -------------- | --------------------------------------------------------- |
+| Animated Emoji | Emojipedia                                                   |
+| -------------- | ------------------------------------------------------------ |
 | 🙈              | [See-No-Evil Monkey](https://emojipedia.org/see-no-evil-monkey/) |
-| 🐣              | [Hatching Chick](https://emojipedia.org/hatching-chick/)  |
-| 🎄              | [Christmas Tree](https://emojipedia.org/christmas-tree/)  |
-| ☃️              | [Snowman](https://emojipedia.org/snowman/)                |
-| ⛄️              | [Snowman Without Snow](https://emojipedia.org/snowman-without-snow/)                |
+| 🙊              | [Speak-No-Evil Monkey](https://emojipedia.org/speak-no-evil-monkey/) |
+| 🐣              | [Hatching Chick](https://emojipedia.org/hatching-chick/)     |
+| 🎄              | [Christmas Tree](https://emojipedia.org/christmas-tree/)     |
+| 🌞              | [Sun with Face](https://emojipedia.org/sun-with-face/)       |
+| 🌝              | [Full Moon Face](https://emojipedia.org/full-moon-face/)     |
+| 🌚              | [New Moon Face](https://emojipedia.org/new-moon-face/)       |
+| 🌕              | [Full Moon](https://emojipedia.org/full-moon/)               |
+| 🌖              | [Waning Gibbous Moon](https://emojipedia.org/waning-gibbous-moon/) |
+| 🌗              | [Last Quarter Moon](https://emojipedia.org/last-quarter-moon/) |
+| 🌘              | [Waning Crescent Moon](https://emojipedia.org/waning-crescent-moon/) |
+| 🌑              | [New Moon](https://emojipedia.org/new-moon/)                 |
+| 🌒              | [Waxing Crescent Moon](https://emojipedia.org/waxing-crescent-moon/) |
+| 🌓              | [First Quarter Moon](https://emojipedia.org/first-quarter-moon/) |
+| 🌔              | [Waxing Gibbous Moon](https://emojipedia.org/waxing-gibbous-moon/) |
+| 🔥              | [Fire](https://emojipedia.org/fire/)                         |
+| ☃️              | [Snowman](https://emojipedia.org/snowman/)                   |
+| ⛄️              | [Snowman Without Snow](https://emojipedia.org/snowman-without-snow/) |
+
+
+
+## 🍎
+
+| Animated Emoji | Emojipedia                                             |
+| -------------- | ------------------------------------------------------ |
+| 🍑              | [Peach](https://emojipedia.org/peach/)                 |
+| 🍆              | [Eggplant](https://emojipedia.org/eggplant/)           |
+| 🎂              | [Birthday Cake](https://emojipedia.org/birthday-cake/) |
 
 
 
@@ -96,12 +164,11 @@ tags: [Telegram, 网上冲浪指南]
 
 
 
-
-
 ## 🚘
 
 | Animated Emoji | Emojipedia                                     |
 | -------------- | ---------------------------------------------- |
+| 🚕              | [Taxi](https://emojipedia.org/taxi/)           |
 | 🚑              | [Ambulance](https://emojipedia.org/ambulance/) |
 
 
@@ -122,6 +189,7 @@ tags: [Telegram, 网上冲浪指南]
 | 🧻              | [Roll of Paper](https://emojipedia.org/roll-of-paper/)       |
 | 🧼              | [Soap](https://emojipedia.org/soap/)                         |
 | 🧽              | [Sponge](https://emojipedia.org/sponge/)                     |
+| 🎊              | [Confetti Ball](https://emojipedia.org/confetti-ball/)       |
 | 🎉              | [Party Popper](https://emojipedia.org/party-popper/)         |
 | 💌              | [Love Letter](https://emojipedia.org/love-letter/)           |
 | 📬              | [Open Mailbox with Raised Flag](https://emojipedia.org/open-mailbox-with-raised-flag/) |
@@ -151,6 +219,7 @@ tags: [Telegram, 网上冲浪指南]
 | 💝              | [Heart with Ribbon](https://emojipedia.org/heart-with-ribbon/) |
 | 💱              | [Currency Exchange](https://emojipedia.org/currency-exchange/) |
 | 📣              | [Megaphone](https://emojipedia.org/megaphone/)               |
+| 🇧🇾             | [Flag: Belarus](https://emojipedia.org/flag-belarus/)        |
 
 
 
