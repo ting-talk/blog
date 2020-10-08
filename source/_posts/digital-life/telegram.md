@@ -756,6 +756,7 @@ https://rsshub.app/telegram/channel/tingtalk
 | ---------------------------------------------------- | ------------------------------------------------------------ |
 | [看鉴中国 OutsightChina](https://t.me/OutsightChina) | 一个健康的社会，不该只有一种声音。看鉴中国，每天聚焦一则关于中国的新闻事件，带你对比来自中外不同媒体多元的、不一样的观点。 |
 | [新闻实验室](https://t.me/newslab2020)               | 推荐订阅方可成老师的 [Newsletter](https://sibforms.com/serve/MUIEABj_H1nZN9Jj5HLcOE61NoO8So-r5phaSIn4ZUqqLv_WdJP-bpiAazMxwp2uOWb-aeF-hiOScIzPxwovvRjNYF6METjZVOafOAQANa9tnIeocTm6fv6RurLCTUVGzKrjBrhtIj9q2wVOmIYoltrV310MEOEi-vg3E0uPES0voX-FjBRHd4mPx0woiIsLiZ6-YXnI80PyhpUH)。[微信公众号文章备份](https://github.com/Newslab2020/Contents/blob/master/wechataccount.md)。 |
+| [南方周末](https://t.me/infzm)                       | 在这里，读懂中国。非官方。                                   |
 | [中国数字时代消息推送](https://t.me/cdtchinesefeed)  | 致力于聚合「中国的社会与政治新闻，和它在世界上的新兴的角色」有关的报道和评论。 |
 | [多数派Masses](https://t.me/masses2020)              | 我们是一群反对资本主义、反对帝国主义、反对父权制、反对一切压迫和宰制的青年。[Matters 的创作空间站](https://matters.news/@masses2020)。 |
 | [即刻精选](https://t.me/jike_collection)             | 精选即刻 app 热门话题更新。我的即刻 ID 是 `Dr_Ting`。        |
@@ -776,6 +777,7 @@ https://rsshub.app/telegram/channel/tingtalk
 | [TestFlight 科技花](https://t.me/TestFlightCN)       | 发布科技新闻、App 测试版链接、软件使用相关话题。             |
 | [科技圈的日常](https://t.me/misakatech)              | 科技圈内的大事小事。                                         |
 | [如有乐享](https://t.me/ruyoblog)                    | 更新 [如有乐享博客](https://51.ruyo.net/) 的内容：云服务器、优惠活动、羊毛信息以及各种 Bug。 |
+| [每日消费电子观察](https://t.me/CE_Observe)          | 不公正，不客观，不理性。                                     |
 | [cnBeta](https://t.me/cnbeta_com)                    | cnBeta.COM 中文业界资讯站是一个提供 IT 相关新闻资讯、技术文章和评论的观点的中文网站。 |
 | [果核 Apple Nuts](https://t.me/AppleNuts)            | 一个果粉（[Hackl0us](https://hackl0us.com/)）的闲言碎语， 用来推送苹果（Apple） 相关的技术、新闻资讯、技巧、产品/软件心得体会等。 |
 | [VPS 信号旗播报](https://t.me/vps_xhq)               | 关注 VPS 和通信自由。                                        |
@@ -891,6 +893,7 @@ https://rsshub.app/telegram/channel/tingtalk
 | 频道                                                    | 详情                                        |
 | ------------------------------------------------------- | ------------------------------------------- |
 | [煎蛋无聊图](https://t.me/jandan_pic)                   | 自动抓取煎蛋首页推荐无聊图及其评论。        |
+| [博海拾贝](https://t.me/bohaishibei)                    | [博海拾贝](https://bh.sb/) 的网站：bh.sb    |
 | [Rick Morty and Fans](https://t.me/Rick_Morty_and_Fans) | Wubba Lubba Dub Dub                         |
 | [回形针PaperClip & 灵光灯泡](https://t.me/papercliphub) | 回形针内容推送。                            |
 | [你不知道的内幕消息](https://t.me/inside1024)           | 同时抓取来自即刻 app 的 #大公司的负面新闻。 |
