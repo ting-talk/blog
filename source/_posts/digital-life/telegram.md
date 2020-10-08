@@ -231,7 +231,7 @@ Telegram 的中文搜索是以「词」为单位的，以标点符号或空格�
 3. `Phone number`（手机号码）
 4. `Who can see my phone number`（谁可以看到我的手机号码：`Nobody` 不允许任何人）
 
-要是对隐私有较高的要求，或者彻底解除 +86 开头的手机号码的私聊限制，可以把手机号码换绑到非中国区的手机号码，例如 Google Voice：
+如对隐私有要求，或者彻底解除 +86 开头的手机号码的私聊限制，可以把手机号码换绑到非中国区的手机号码，例如 Google Voice：
 
 1. [注册 Google 账号](https://tingtalk.me/google-account/)。
 2. 在 Google 或淘宝上搜索关键词 `Google Voice` 或 `GV` ，购买别人注册下来的号码。
@@ -239,7 +239,7 @@ Telegram 的中文搜索是以「词」为单位的，以标点符号或空格�
 
 
 
-对隐私有更好的要求，还需要：
+更高的要求：
 
 - 使用没有个人特征的头像（记得在设置里删除曾经使用过的头像）、昵称和用户名，确保硅基身份不会和碳基身份产生关联。
 - 添加陌生人到通讯录，记得取消勾选 `Share my phone number`。
@@ -1016,7 +1016,7 @@ Bots 就像运行在 Telegram 内部的小程序。借助 [Telegram 开放的 AP
 
 
 
-## 👥 群组介绍
+## 👥 群组管理
 
 [Groups](https://telegram.org/tour/groups) 一般超过 3 个人，有人就会开始沉默。因此，我加入的群比较少。
 
