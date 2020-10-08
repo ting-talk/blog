@@ -810,6 +810,7 @@ https://rsshub.app/telegram/channel/tingtalk
 | [湾区日报](https://t.me/wanqu_official)         | 关注创业与技术，不定期推送 5 篇优质英文文章。                |
 | [不求甚解](https://t.me/fakeye)                 | [Newlearnerの自留地](https://t.me/NewlearnerChannel) 编辑；设计师 [oooooohmygosh](https://space.bilibili.com/38053181) 的代言人。 |
 | [海龙说](https://t.me/haotalk)                  | 牢记梦想，自然生长。by [郝海龙的博客](https://haohailong.net/) |
+| [荔枝木](https://t.me/lychee_wood)              | 这个世界很复杂，我尝试着去理解它。                           |
 | [KAIX.IN](https://t.me/kaix_in)                 | 思考碎片，[博客](https://kaix.in/) 更新。                    |
 
 关联阅读：[中文独立博客列表](https://github.com/timqian/chinese-independent-blogs) by timqian
@@ -887,11 +888,12 @@ https://rsshub.app/telegram/channel/tingtalk
 
 ### 😺 其它频道
 
-| 频道                                                    | 详情                                 |
-| ------------------------------------------------------- | ------------------------------------ |
-| [煎蛋无聊图](https://t.me/jandan_pic)                   | 自动抓取煎蛋首页推荐无聊图及其评论。 |
-| [Rick Morty and Fans](https://t.me/Rick_Morty_and_Fans) | Wubba Lubba Dub Dub                  |
-| [回形针PaperClip & 灵光灯泡](https://t.me/papercliphub) | 回形针内容推送。                     |
+| 频道                                                    | 详情                                        |
+| ------------------------------------------------------- | ------------------------------------------- |
+| [煎蛋无聊图](https://t.me/jandan_pic)                   | 自动抓取煎蛋首页推荐无聊图及其评论。        |
+| [Rick Morty and Fans](https://t.me/Rick_Morty_and_Fans) | Wubba Lubba Dub Dub                         |
+| [回形针PaperClip & 灵光灯泡](https://t.me/papercliphub) | 回形针内容推送。                            |
+| [你不知道的内幕消息](https://t.me/inside1024)           | 同时抓取来自即刻 app 的 #大公司的负面新闻。 |
 
 
 
