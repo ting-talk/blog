@@ -227,8 +227,11 @@ tags: [Telegram, 网上冲浪指南]
 
 **表情合集**：有人把以上 Animated Emojies 做成了一个表情包，比原版更大，且支持循环播放，[点此](https://t.me/addstickers/AnimatedEmojies) 添加。
 
-**[表情搜索](https://telegram.org/blog/unsend-privacy-emoji#emoji-search-and-gifs)**：在消息框输入 [关键词](https://translations.telegram.org/zh-hans/emoji)，你会看到一些相关 Emoji 弹出。
+**[表情搜索](https://telegram.org/blog/unsend-privacy-emoji#emoji-search-and-gifs)**：在 Telegram 的消息框输入 [关键词](https://translations.telegram.org/zh-hans/emoji)，你会看到一些相关 Emoji 弹出。
 
 **最新动态**：关注 [Animated Emojis](https://t.me/AnimatedEmojis) 的 Telegram 频道。
 
-**关键阅读**：[Telegram（电报）：新手指南、使用教程及频道推荐](https://tingtalk.me/telegram/)
+**关键阅读**：
+
+- [Telegram（电报）：新手指南、使用教程及频道推荐](https://tingtalk.me/telegram/)
+- [emojiall.com](https://www.emojiall.com/zh-hans) 是一个支持中文的 Emoji 搜索网站
