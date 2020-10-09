@@ -36,15 +36,81 @@ tags: 网上冲浪指南
 
 假设 Baidu 和 Google 之间差了 1024 个 Bing，如果学会以下 Tips，少说得再加 1024 个 Bing（搜索效率翻番）。
 
+以下的 Google 搜索技巧，某些也适用于国内的搜索引擎。
+
+
+
+#### NCR
+
 强迫症患者请访问 `google.com/ncr`（ncr = no country redirect，禁止谷歌按照当前 IP 跳转到对应的国家或地区）。
 
-> 以下的 Google 搜索技巧，某些也适用于国内的搜索引擎。
 
-- **大小写**：英文的大小写不影响搜索结果：搜索 `TingTalk` 与 `tingtalk` 所得到的结果是相同的
-- **天气**：在「天气」后加上城市名，例如 `天气东京`
-- **定义**：在任意字词前加上 define（可用于查单词），例如 `define search`
-- **单位换算**：输入任何换算内容，例如 `1 usd to rmb` 或 `1 美元兑换人民币` 👍
-- 如果你想快速了解一个新事物是什么，一个简单的方法就是在这个词的后面加上 `vs`，谷歌会自动提示跟它最接近的事物。by [David Foster](https://medium.com/applied-data-science/the-google-vs-trick-618c8fd5359f)
+
+#### 大小写不敏感
+
+英文的大小写不影响搜索结果：搜索 [TingTalk](https://www.google.com/search?q=TingTalk) 与 [tingtalk](https://www.google.com/search?q=tingtalk) 所得到的结果是相同的。
+
+
+
+#### 查天气
+
+在「天气」后加上城市名，例如 [堪培拉 天气](https://www.google.com/search?q=%E5%A0%AA%E5%9F%B9%E6%8B%89%20%E5%A4%A9%E6%B0%94)
+
+
+
+#### 查定义
+
+查单词请加 define 或 meaning ，例如 [define curiosity](https://www.google.com/search?q=define%20curiosity)、[love meaning](https://www.google.com/search?q=love%20meaning)
+
+
+
+#### 查假期
+
+输入 [春节](https://www.google.com/search?q=%E6%98%A5%E8%8A%82)，看看离过年还有多久。
+
+
+
+#### 计算器
+
+输入 [计算器](https://www.google.com/search?q=%E8%AE%A1%E7%AE%97%E5%99%A8) 或者 [Calculator](https://www.google.com/search?q=Calculator)。
+
+或者直接输入算式：[5^5](https://www.google.com/search?q=5^5)（5 的 5 次方）
+
+
+
+#### 单位换算
+
+换算的介词用 to 或 in 表示，例如：
+- [1 usd to rmb](https://www.google.com/search?q=1%20usd%20to%20rmb)、[美元兑换人民币](https://www.google.com/search?q=%E7%BE%8E%E5%85%83%E5%85%91%E6%8D%A2%E4%BA%BA%E6%B0%91%E5%B8%81)
+- [1 inch in cm](https://www.google.com/search?q=1%20inch%20in%20cm)、[英寸 厘米](https://www.google.com/search?q=%E8%8B%B1%E5%AF%B8%20%E5%8E%98%E7%B1%B3)
+
+
+
+#### VS
+
+如果你想快速了解一个新事物是什么，一个简单的方法就是在这个词的后面加上 `vs`，谷歌会自动提示跟它最接近的事物。by [David Foster](https://medium.com/applied-data-science/the-google-vs-trick-618c8fd5359f)，例如 [telegram vs](https://www.google.com/search?q=telegram%20vs)
+
+
+
+#### 网站时光机
+
+查看网站在 Google 上的缓存（快照）：[cache:tingtalk.me](https://www.google.com/search?q=cache:tingtalk.me)
+
+
+
+#### 找歌
+
+[songs by Michael Jackson](https://www.google.com/search?q=songs%20by%20Michael%20Jackson)
+
+[刀郎的歌](https://www.google.com/search?q=%E5%88%80%E9%83%8E%E7%9A%84%E6%AD%8C)
+
+
+
+#### 日出日落
+
+[深圳 日出](https://www.google.com/search?q=%E6%B7%B1%E5%9C%B3%20%E6%97%A5%E5%87%BA)、[sunrise in Canberra](https://www.google.com/search?q=sunrise%20in%20Canberra)
+
+[东京 日落](https://www.google.com/search?q=%E4%B8%9C%E4%BA%AC%20%E6%97%A5%E8%90%BD)、[sunset in jakarta](https://www.google.com/search?q=sunset%20in%20jakarta)
 
 
 
@@ -57,7 +123,7 @@ tags: 网上冲浪指南
 **从搜索结果中排除特定字词**  
 
 - 在您要排除的字词前加上 `-`
-- 我想了解水果中的「苹果」：`苹果 -手机 -iPhone`（`-` 后面没有空格）
+- 我想了解水果中的「苹果」：[苹果 -手机 -iPhone](https://www.google.com/search?q=%E8%8B%B9%E6%9E%9C%20-%E6%89%8B%E6%9C%BA%20-iPhone)（`-` 后面没有空格）
 
 
 
@@ -65,7 +131,7 @@ tags: 网上冲浪指南
 
 - 在各个搜索查询之间加上 `OR`（一定要大写）
 - `OR` 可用 `|`（在 `Enter` 键上方）代替
-- 例如：`marathon OR race`、`curl OR straighten hair` 
+- 例如：[海贼王 OR One Piece](https://www.google.com/search?q=%E6%B5%B7%E8%B4%BC%E7%8E%8B%20OR%20One%20Piece)
 
 
 
@@ -78,7 +144,7 @@ tags: 网上冲浪指南
 **搜索完全匹配的结果**（我就是要搜这些）
 
 - 为字词或短语加上英文引号 `" "`
-- 例如：`"tallest building"`
+- 例如：["tallest building"](https://www.google.com/search?q=%22tallest%20building%22)
 - 字词的顺序也必须匹配，即 `"tallest building"` ≠ `"building tallest"` 
 
 
@@ -86,21 +152,21 @@ tags: 网上冲浪指南
 **搜索特定网站**
 
 - 在相应网站或域名前加上 `site:`（英文冒号后面没有空格）
-- 搜索某个网站，例如：`番茄 site:tingtalk.me`
-- 将搜索结果限制为特定的域名类型，例如：`关键词 site:.gov`
+- 搜索某个网站，例如：[电报 site:tingtalk.me](https://www.google.com/search?q=telegram%20site:tingtalk.me)
+- 将搜索结果限制为特定的域名类型，例如：[碳排放 site:.gov](https://www.google.com/search?q=%E7%A2%B3%E6%8E%92%E6%94%BE%20site:.gov)
 
 
 
 **搜索通配符或未知字词**
 
 - 在字词或短语中您要放置占位符的地方加上 `*`
-- 例如：某天不记得《七里香》的歌词「爽歪的麻雀在电线杆上裸睡」，就可以在 Google：`*的麻省在电线杆上*`
+- 例如：[最*的电影](https://www.google.com/search?q=%E6%9C%80*%E7%9A%84%E7%94%B5%E5%BD%B1)
 
 
 
 **指定文件类型**
 
-- 例如：`年终总结 filetype:ppt`、`公司名称 研报 filetype:pdf`
+- 例如：[年终总结 filetype:ppt](https://www.google.com/search?q=%E5%B9%B4%E7%BB%88%E6%80%BB%E7%BB%93%20filetype:ppt)、[特斯拉 研究报告 filetype:pdf](https://www.google.com/search?q=%E7%89%B9%E6%96%AF%E6%8B%89%20%E7%A0%94%E7%A9%B6%E6%8A%A5%E5%91%8A%20filetype:pdf)
 - `filetype:` 后面支持以下格式
   - pdf
   - ps
@@ -120,17 +186,18 @@ tags: 网上冲浪指南
 
 
 
-**Number Range（数值范围）**
+**查公司**
 
-- The dot-dot symbol `..` includes a range of numbers in your search results.
-- 例如：`academy awards 1965..1973`
+[founder telegram](https://www.google.com/search?q=founder%20telegram)
+
+[ceo tesla](https://www.google.com/search?q=ceo%20tesla)
 
 
 
 **Similar Words（相似搜索）**
 
 - The tilde symbol `~` includes similar words in your search results.  
-- 例如：`~food ~store`
+- 例如：[~food ~store](https://www.google.com/search?q=~food%20~store)
 
 
 
@@ -147,12 +214,15 @@ tags: 网上冲浪指南
 
 
 **关联阅读**
+- [举报网络垃圾、付费链接或恶意软件 - Search Console 帮助](https://support.google.com/webmasters/answer/93713)
 - [公开数据集搜索引擎 by Google](https://datasetsearch.research.google.com/)
 - [Google 搜索帮助](https://support.google.com/websearch)
 - [Google 搜索的运作方式（How Google Search works）](https://www.google.com/intl/zh-CN/search/howsearchworks/)：你每次进行搜索时，都会在搜索结果中看到成千上万个含有实用信息的网页，有时甚至是数百万个。早在你输入搜索内容之前，Google 就已开始算计要显示哪些结果，并秉持向你提供最佳信息的承诺（反观百度）。
+- [写在谷歌退出中国的第十个年头 - TSBBLOG](https://tsb2blog.com/google-chinese-results-blocklist)
 - [最详细的 Google 搜索指令大全 - 黑科技娃娃](https://www.cooltechdoll.com/google-search-commands/)
 - [15 个提高 Google 搜索效率的小技巧 - 子不语Rex](https://sspai.com/post/34150)
 - [Google Search Operators: The Complete List (42 Advanced Operators) by Joshua Hardwick](https://ahrefs.com/blog/google-advanced-search-operators/)
+- [40+ Google Search Hacks, Tricks & Tips for 2020 - Christian Eilers](https://zety.com/blog/google-search-hacks)
 
 
 
@@ -168,9 +238,6 @@ tags: 网上冲浪指南
 - 微信搜索：不可否认，微信已经聚集不少优质内容，可惜「封印」的搜索引擎的爬虫。
   - [App 内搜索](https://weixin.qq.com/)：打开微信，轻触右上角的 🔍（我经常拿来搜索表情）
   - [搜狗微信](https://weixin.sogou.com/)：独家收录订阅号及文章内容
-- [知乎搜索](https://zhihu.sogou.com/)
-
-
 
 
 

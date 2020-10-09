@@ -102,7 +102,23 @@ tags: [Chrome, 网上冲浪指南]
   - 另存为 txt 文件，右键 uBlock Origin > `选项` > `从文件还原`
   - 打开 `启用云端储存`
 
- 
+
+
+### [uBlacklist](https://chrome.google.com/webstore/detail/ublacklist/pncfbmialoiaghdehhbnbhkkgmjanfhe)
+
+帮你在 Google 搜索结果中屏蔽一些你不想看到的网站。
+
+订阅黑名单列表 by [eallion](https://github.com/eallion/uBlacklist-subscription-compilation)：
+
+```
+https://git.io/ublacklist
+```
+
+这是一个 uBlacklist 订阅地址合集，搜集了网上大部分的订阅地址合并成一个。通过 Github Actions 每周自动更新一次。
+
+
+
+
 
 ### 英文翻译
 
