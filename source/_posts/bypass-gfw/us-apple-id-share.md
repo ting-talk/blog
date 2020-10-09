@@ -46,6 +46,7 @@ tags: [突破网络审查, Apple ID]
 ### Telegram
 
 - [Shadowrocket 小火箭苹果  ID 免费分享](https://t.me/shadowrocketid)（@shadowrocketid）：较难找到可用 Apple ID。
+- [人人翻墙，则墙自倒！](https://t.me/cnhumanright99)
 
 
 

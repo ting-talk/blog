@@ -1,7 +1,7 @@
 ---
 title: Telegram（电报）：新手指南、使用教程及频道推荐
 date: 2019-11-09  
-updated: 2020-10-07
+updated: 2020-10-09
 categories: 数字生活  
 tags: [网上冲浪指南, 突破网络审查, Telegram]
 ---
@@ -16,7 +16,7 @@ tags: [网上冲浪指南, 突破网络审查, Telegram]
 
 💡 文章很长，善用右侧的目录栏和查找功能（`Ctrl` + `F`），助你定位想要看到的内容。
 
-📁 博客在 2020-04-04 被墙了，如需在墙内传阅，请前往 [蓝奏云](https://wwa.lanzous.com/b00twozof) 下载本文的 PDF。
+📁 tingtalk.me 在 2020-04-04 被墙了，如需在墙内传阅，请前往 [蓝奏云](https://wwa.lanzous.com/b00twozof) 下载本文的 PDF。
 
 ✍️ 如需下载可编辑的 Markdown 源文档，请访问 [庭说的 GitHub 仓库](https://raw.githubusercontent.com/ting-talk/blog/master/source/_posts/digital-life/telegram.md)。
 
@@ -715,13 +715,15 @@ https://rsshub.app/telegram/channel/tingtalk
 
 
 
-以下就是我收集的一些频道（不代表同意以下频道的全部观点），大部分集中在科技互联网，**欢迎向我推荐其它领域的优质频道**：
+须知参差多态，乃是电报之福。**欢迎向我推荐其它领域的优质频道**：
 
 1. 在 Telegram 搜索 [@tingbot](https://t.me/tingbot)
 2. 简单说明推荐理由
 3. 优质频道将会更新在这篇《电报教程》里，让好内容得到更多的展现
 
-须知参差多态，乃是电报之福。
+以下是我收集的一些频道，但不代表同意其观点。如果你发现某些频道开始「作恶」了，请联系 [我](https://t.me/tingbot) 从这个列表中删除。
+
+2020 年，你需要多运动，多吃蔬果，偶尔听 [播客](https://podcasts.cosmosrepair.com/)，放下手机早点睡觉，少看鸡零狗碎的消息。
 
 
 
@@ -729,8 +731,8 @@ https://rsshub.app/telegram/channel/tingtalk
 
 | 频道                                               | 详情                                                         |
 | -------------------------------------------------- | ------------------------------------------------------------ |
-| [Telegram News](https://t.me/telegram)             | 电报官方新闻频道。                                           |
-| [Durov's Channel](https://t.me/durov)              | 杜罗夫（Telegram 创始人和 CEO）的频道。                      |
+| [Telegram News](https://t.me/telegram)             | 👍 电报官方新闻频道。                                         |
+| [Durov's Channel](https://t.me/durov)              | 👍 杜罗夫（Telegram 创始人和 CEO）的频道。                    |
 | [ISIS Watch](https://t.me/ISISwatch)               | 电报官方反恐频道：[每日汇报有多少恐怖组织相关的频道被封了](https://t.me/isiswatch/2)。 |
 | [Trending Stickers](https://t.me/TrendingStickers) | Telegram 又新增了哪些表情包。                                |
 | [紙飛機](https://t.me/tgflight)                    | 欢迎搭乘纸飞机，Porsche 和你聊聊 Telegram 的大小事。[播客 RSS 订阅链接](https://feeds.buzzsprout.com/837646.rss)。 |
@@ -745,7 +747,7 @@ https://rsshub.app/telegram/channel/tingtalk
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | [Coronavirus Info](https://t.me/corona)                      | 各国官方疫情通报频道列表（A list of official channels with information on COVID-19）。 |
 | [Financial Times: Coronavirus news](https://t.me/FinancialTimes) | COVID-19 英文消息 by 金融时报。                              |
-| [2019-nCoV 疫情实时播报](https://t.me/nCoV2019)              | COVID-19 中文消息 by NFNF。                                  |
+| [2019-nCoV 疫情实时播报](https://t.me/nCoV2019)              | 👍 COVID-19 中文消息 by NFNF。                                |
 
 
 
@@ -754,12 +756,11 @@ https://rsshub.app/telegram/channel/tingtalk
 
 | 频道                                                 | 详情                                                         |
 | ---------------------------------------------------- | ------------------------------------------------------------ |
-| [看鉴中国 OutsightChina](https://t.me/OutsightChina) | 一个健康的社会，不该只有一种声音。看鉴中国，每天聚焦一则关于中国的新闻事件，带你对比来自中外不同媒体多元的、不一样的观点。 |
-| [新闻实验室](https://t.me/newslab2020)               | 推荐订阅方可成老师的 [Newsletter](https://sibforms.com/serve/MUIEABj_H1nZN9Jj5HLcOE61NoO8So-r5phaSIn4ZUqqLv_WdJP-bpiAazMxwp2uOWb-aeF-hiOScIzPxwovvRjNYF6METjZVOafOAQANa9tnIeocTm6fv6RurLCTUVGzKrjBrhtIj9q2wVOmIYoltrV310MEOEi-vg3E0uPES0voX-FjBRHd4mPx0woiIsLiZ6-YXnI80PyhpUH)。[微信公众号文章备份](https://github.com/Newslab2020/Contents/blob/master/wechataccount.md)。 |
+| [看鉴中国 OutsightChina](https://t.me/OutsightChina) | 👍 一个健康的社会，不该只有一种声音。看鉴中国，每天聚焦一则关于中国的新闻事件，带你对比来自中外不同媒体多元的、不一样的观点。 |
+| [新闻实验室](https://t.me/newslab2020)               | 👍 推荐订阅方可成老师的 [Newsletter](https://sibforms.com/serve/MUIEABj_H1nZN9Jj5HLcOE61NoO8So-r5phaSIn4ZUqqLv_WdJP-bpiAazMxwp2uOWb-aeF-hiOScIzPxwovvRjNYF6METjZVOafOAQANa9tnIeocTm6fv6RurLCTUVGzKrjBrhtIj9q2wVOmIYoltrV310MEOEi-vg3E0uPES0voX-FjBRHd4mPx0woiIsLiZ6-YXnI80PyhpUH)。[微信公众号文章备份](https://github.com/Newslab2020/Contents/blob/master/wechataccount.md)。 |
 | [南方周末](https://t.me/infzm)                       | 在这里，读懂中国。非官方。                                   |
 | [中国数字时代消息推送](https://t.me/cdtchinesefeed)  | 致力于聚合「中国的社会与政治新闻，和它在世界上的新兴的角色」有关的报道和评论。 |
 | [多数派Masses](https://t.me/masses2020)              | 我们是一群反对资本主义、反对帝国主义、反对父权制、反对一切压迫和宰制的青年。[Matters 的创作空间站](https://matters.news/@masses2020)。 |
-| [即刻精选](https://t.me/jike_collection)             | 精选即刻 app 热门话题更新。我的即刻 ID 是 `Dr_Ting`。        |
 | [60 秒读懂世界](https://t.me/SharedResources)        | 来自 60 秒读懂世界公众号。                                   |
 | [突发新闻](https://t.me/breakingnews_t)              | 突发新闻推送服务（简体中文）。                               |
 
@@ -769,12 +770,12 @@ https://rsshub.app/telegram/channel/tingtalk
 
 | 频道                                                 | 详情                                                         |
 | ---------------------------------------------------- | ------------------------------------------------------------ |
-| [少数派](https://t.me/sspai)                         | 少数派致力于更好地运用数字产品或科学方法，帮助用户提升工作效率和生活品质。 |
-| [Solidot](https://t.me/solidot)                      | 奇客的资讯，重要的东西。                                     |
-| [Newlearnerの自留地](https://t.me/NewlearnerChannel) | 不定期推送 IT 相关资讯。                                     |
+| [少数派](https://t.me/sspai)                         | 👍 少数派致力于更好地运用数字产品或科学方法，帮助用户提升工作效率和生活品质。 |
+| [Solidot](https://t.me/solidot)                      | 👍 奇客的资讯，重要的东西。                                   |
+| [Newlearnerの自留地](https://t.me/NewlearnerChannel) | 👍 不定期推送 IT 相关资讯。                                   |
 | [Appinn Feed](https://t.me/appinnfeed)               | 分享免费、小巧、实用、有趣、绿色的软件。                     |
-| [科技爱好者周刊](https://t.me/scitech_fans)          | 记录每周值得分享的科技内容，周五发布；非官方频道。[科技爱好者周刊合集](https://www.yuque.com/ruanyf/weekly)。 |
-| [TestFlight 科技花](https://t.me/TestFlightCN)       | 发布科技新闻、App 测试版链接、软件使用相关话题。             |
+| [科技爱好者周刊](https://t.me/scitech_fans)          | 👍 记录每周值得分享的科技内容，周五发布；非官方频道。[科技爱好者周刊合集](https://www.yuque.com/ruanyf/weekly)。 |
+| [TestFlight 科技花](https://t.me/TestFlightCN)       | 👍 发布科技新闻、App 测试版链接、软件使用相关话题。           |
 | [科技圈的日常](https://t.me/misakatech)              | 科技圈内的大事小事。                                         |
 | [如有乐享](https://t.me/ruyoblog)                    | 更新 [如有乐享博客](https://51.ruyo.net/) 的内容：云服务器、优惠活动、羊毛信息以及各种 Bug。 |
 | [每日消费电子观察](https://t.me/CE_Observe)          | 不公正，不客观，不理性。                                     |
@@ -797,10 +798,12 @@ https://rsshub.app/telegram/channel/tingtalk
 
 | 频道                                            | 详情                                                         |
 | ----------------------------------------------- | ------------------------------------------------------------ |
-| [庭说](https://t.me/tingtalk)                   | 第一时间获取博客的更新通知以及碎片化思考。                   |
-| [小破不入渠](https://t.me/forwardlikehell)      | 科技评论人 Jesse Chan，博客是 [大破进击](https://jesor.me/)。 |
-| [一天世界](https://t.me/yitianshijie)           | [一天世界](https://yitianshijie.net/)，昆乱不挡。不鸟万如一主理。IPN 出品。 |
-| [caoz 的梦呓](https://t.me/caozsay)             | 认识曹政之后，感觉互联网终于入门了。by Fenng                 |
+| [庭说](https://t.me/tingtalk)                   | 👍 第一时间获取博客的更新通知以及碎片化思考。                 |
+| [小破不入渠](https://t.me/forwardlikehell)      | 👍 科技评论人 Jesse Chan，博客是 [大破进击](https://jesor.me/)。 |
+| [一天世界](https://t.me/yitianshijie)           | 👍 [一天世界](https://yitianshijie.net/)，昆乱不挡。不鸟万如一主理。IPN 出品。 |
+| [caoz 的梦呓](https://t.me/caozsay)             | 👍 认识曹政之后，感觉互联网终于入门了。by Fenng               |
+| [ZUOLUOTV](https://t.me/zuoluotvofficial)       | 👍 科技 / 旅行 / 摄影 / 生活方式 / [博客](https://luolei.org/) |
+| [不求甚解](https://t.me/fakeye)                 | 👍 [Newlearnerの自留地](https://t.me/NewlearnerChannel) 编辑；设计师 [oooooohmygosh](https://space.bilibili.com/38053181) 的代言人。 |
 | [小道消息](https://t.me/WebNotes2)              | 大道无形，小道消息；[公众号备份站点](https://hutu.me/)。     |
 | [卖桃者说](https://t.me/mactalk)                | 博客是 [MacTalk](http://macshuo.com/)：池建强的随想录关注技术和人文。 |
 | [数字移民](https://t.me/shuziyimin)             | 无法肉身移民的情况下，在数字生活上追求一定的自由；[博客](https://blog.shuziyimin.org/)。 |
@@ -808,14 +811,13 @@ https://rsshub.app/telegram/channel/tingtalk
 | [Sukka's Notebook](https://t.me/SukkaChannel)   | Belongs to [Hexo](https://github.com/hexojs) dev team / [博客](https://blog.skk.moe/)。 |
 | [扫地僧笔记](https://t.me/lover_links)          | 每天所见所闻所想，是个树洞。                                 |
 | [一方天地](https://t.me/world2us)               | 心留一方天地，世界依旧美好。                                 |
-| [ZUOLUOTV](https://t.me/zuoluotvofficial)       | 科技 / 旅行 / 摄影 / 生活方式 / [博客](https://luolei.org/)  |
 | [湾区日报](https://t.me/wanqu_official)         | 关注创业与技术，不定期推送 5 篇优质英文文章。                |
-| [不求甚解](https://t.me/fakeye)                 | [Newlearnerの自留地](https://t.me/NewlearnerChannel) 编辑；设计师 [oooooohmygosh](https://space.bilibili.com/38053181) 的代言人。 |
 | [海龙说](https://t.me/haotalk)                  | 牢记梦想，自然生长。by [郝海龙的博客](https://haohailong.net/) |
 | [荔枝木](https://t.me/lychee_wood)              | 这个世界很复杂，我尝试着去理解它。                           |
 | [KAIX.IN](https://t.me/kaix_in)                 | 思考碎片，[博客](https://kaix.in/) 更新。                    |
+| [TSBBLOG](https://t.me/tsbblog)                 | [影子经纪人的博客](https://tsb2blog.com/)。                  |
 
-关联阅读：[中文独立博客列表](https://github.com/timqian/chinese-independent-blogs) by timqian
+[中文独立博客列表](https://github.com/timqian/chinese-independent-blogs) by timqian
 
 
 
@@ -823,7 +825,7 @@ https://rsshub.app/telegram/channel/tingtalk
 
 | 频道                                        | 详情                                                         |
 | ------------------------------------------- | ------------------------------------------------------------ |
-| [RSSHub 布告栏](https://t.me/awesomeRSSHub) | 万物皆可 RSS。                                               |
+| [RSSHub 布告栏](https://t.me/awesomeRSSHub) | 👍 万物皆可 RSS。                                             |
 | [All About RSS](https://t.me/aboutrss)      | 关于 RSS 技术的应用、周边、介绍、方法、教程、指南、讨论、观点。 |
 
 
@@ -861,7 +863,7 @@ https://rsshub.app/telegram/channel/tingtalk
 | [小声读书](https://t.me/weekly_books)         | 小声读书是一个探索数字阅读可能性和未来的开放项目，致力于打破信息茧房，挖掘价值信息。亦是一份杂志，一个博客，混搭不拘一格，时常荒腔走板。人类的悲喜并不互通，但读书是走向共同理解的捷径。 |
 | [值得一看的文章](https://t.me/readgoods)      | 阅读更少，收获更多。                                         |
 
-插播一个没有返利的广告：学英语，推荐购买郝海龙老师的[《英语自学手册》](https://sspai.com/series/77)（￥119）。
+插播一个免费的广告：学英语，推荐购买郝海龙老师的[《英语自学手册》](https://sspai.com/series/77)（￥119）。
 
 
 
@@ -869,8 +871,8 @@ https://rsshub.app/telegram/channel/tingtalk
 
 | 频道                                               | 详情                                                         |
 | -------------------------------------------------- | ------------------------------------------------------------ |
+| [Fndroid 的日常](https://t.me/fndroid_news)        | 👍 Clash for Windows                                          |
 | [DivineEngine](https://t.me/DivineEngine)          | 神机规则                                                     |
-| [Fndroid 的日常](https://t.me/fndroid_news)        | Clash for Windows                                            |
 | [秋水逸冰](https://t.me/qiushuiyibing)             | [Teddysun](https://teddysun.com/about) 会不定期在此发布一些本人的作品。 |
 | [Shadowrocket News](https://t.me/ShadowrocketNews) | iOS 上小火箭                                                 |
 | [V2Fly](https://t.me/V2Fly)                        | Shadowsocks 是一个纯粹的代理工具，而 V2Ray 定位为一个平台，任何开发者都可以利用 V2Ray 提供的模块开发出新的代理软件。by [新 V2Ray 白话文指南](https://guide.v2fly.org/) |
@@ -878,25 +880,32 @@ https://rsshub.app/telegram/channel/tingtalk
 
 
 
-### 🗄️ 存档备份
+### 🗄️ 存档搬运
 
-| 频道                                      | 详情                                                         |
-| ----------------------------------------- | ------------------------------------------------------------ |
-| [iYouPort](https://t.me/iyouport)         | IYP 不是过眼云烟的新闻网站，我们提供实战能力，这里是值得您反复回看的档案室。 |
-| [你知道的太多了](https://t.me/uknow2much) | 不定期发布和转载各类不一定靠谱的内幕、流言蜚语、小知识等。   |
-| [微信搬运工](https://t.me/WeChatEssence)  | 有些微信的内容分享了之后就和谐了，本频道可以做个备份，以及丰富电报上的中文内容（不可否认还是有很多非政治的优质内容在微信公众号里）。 |
+| 频道                                                       | 详情                                                         |
+| ---------------------------------------------------------- | ------------------------------------------------------------ |
+| [煎蛋无聊图](https://t.me/jandan_pic)                      | 自动抓取煎蛋首页推荐无聊图及其评论。                         |
+| [你知道的太多了](https://t.me/uknow2much)                  | 不定期发布和转载各类不一定靠谱的内幕、流言蜚语、小知识等。   |
+| [蛋挞报](https://t.me/pincongessence)                      | 分享阅读体验。                                               |
+| [微信搬运工](https://t.me/WeChatEssence)                   | 有些微信的内容分享了之后就和谐了，本频道可以做个备份，以及丰富电报上的中文内容（不可否认还是有很多非政治的优质内容在微信公众号里）。 |
+| [Twitter Subscription](https://t.me/twitter_subscriptions) | 搬运以下 Twitter 账号：BBC News 中文、DW 中文- 德国之声、国际特赦组织中文、纽约时报中文网。 |
+| [新闻播报 PDF](https://t.me/news_pdf)                      | 每天为大家送来 NYT 和 BBC 的新闻 PDF。                       |
+| [微博精选](https://t.me/weibo_read)                        | 来自微博的文章、资源和观点。                                 |
+| [豆瓣精选](https://t.me/douban_read)                       | 豆瓣书影音，以及相关讨论。                                   |
+| [即刻精选](https://t.me/jike_collection)                   | 精选即刻 app 热门话题更新。我的即刻 ID 是 `Dr_Ting`。        |
+| [你不知道的内幕消息](https://t.me/inside1024)           | 同时抓取来自即刻 app 的 #大公司的负面新闻。                  |
+| [Matters 閲讀精選](https://t.me/MattersHub)                | matters.news 一個自主、永續、有價的創作與公共討論空間。      |
 
 
 
 ### 😺 其它频道
 
-| 频道                                                    | 详情                                        |
-| ------------------------------------------------------- | ------------------------------------------- |
-| [煎蛋无聊图](https://t.me/jandan_pic)                   | 自动抓取煎蛋首页推荐无聊图及其评论。        |
-| [博海拾贝](https://t.me/bohaishibei)                    | [博海拾贝](https://bh.sb/) 的网站：bh.sb    |
-| [Rick Morty and Fans](https://t.me/Rick_Morty_and_Fans) | Wubba Lubba Dub Dub                         |
-| [回形针PaperClip & 灵光灯泡](https://t.me/papercliphub) | 回形针内容推送。                            |
-| [你不知道的内幕消息](https://t.me/inside1024)           | 同时抓取来自即刻 app 的 #大公司的负面新闻。 |
+| 频道                                                    | 详情                                                         |
+| ------------------------------------------------------- | ------------------------------------------------------------ |
+| [iYouPort](https://t.me/iyouport)                       | IYP 不是过眼云烟的新闻网站，我们提供实战能力，这里是值得您反复回看的档案室。 |
+| [博海拾贝](https://t.me/bohaishibei)                    | [博海拾贝](https://bh.sb/) 的网站：bh.sb                     |
+| [Rick Morty and Fans](https://t.me/Rick_Morty_and_Fans) | Wubba Lubba Dub Dub                                          |
+| [回形针PaperClip & 灵光灯泡](https://t.me/papercliphub) | 回形针内容推送。                                             |
 
 
 
@@ -913,7 +922,7 @@ Bots 就像运行在 Telegram 内部的小程序。借助 [Telegram 开放的 AP
 | Bot                                           | Info                                                         |
 | --------------------------------------------- | ------------------------------------------------------------ |
 | [@bing](https://telegram.me/bing)             | [图片搜索 by Bing](https://www.bing.com/images)（支持中英文）。 |
-| [@bold](https://telegram.me/bold)             | 使用 [Markdown](https://tingtalk.me/markdown/) 编辑消息。`编辑精选` |
+| [@bold](https://telegram.me/bold)             | 👍 使用 [Markdown](https://tingtalk.me/markdown/) 编辑消息。  |
 | [@coub](https://telegram.me/coub)             | [Coub](https://coub.com/oftheday) 是一个视频共享网站（时长十秒的循环视频）。 |
 | [@fanyi_bot](https://t.me/fanyi_bot)          | 为全世界语言提供中文翻译。                                   |
 | [@foursquare](https://telegram.me/foursquare) | 帮你找到附近的餐馆或附近的地方，并将其地址发送给朋友。       |
@@ -921,11 +930,11 @@ Bots 就像运行在 Telegram 内部的小程序。借助 [Telegram 开放的 AP
 | [@gif](https://t.me/gif)                      | GIF 动图搜索，支持中文。例如 `@gif 你好`。                   |
 | [@imdb](https://telegram.me/imdb)             | 查看影视作品在 [互联网电影资料库（IMDb）](https://www.imdb.com/)的评分。 |
 | [@letmebot](https://telegram.me/letmebot)     | 集合了各种搜索引擎：Google、DuckDuckGo、YouTube、Amazon、Uber Dictionary…… |
-| [@like](https://t.me/like)                    | 添加 emoji-based like buttons，例如 👍 / 👎。在搜索框输入 `@like`，预设一些喜欢的投票符号（最多 6 个），然后就可以在聊天框输入 `@like` 调用这些预设。 |
+| [@like](https://t.me/like)                    | 👍 添加 emoji-based like buttons，例如 👍 / 👎。在搜索框输入 `@like`，预设一些喜欢的投票符号（最多 6 个），然后就可以在聊天框输入 `@like` 调用这些预设。 |
 | [@music](https://telegram.me/music)           | 帮你找到动听的古典音乐。                                     |
 | [@pic](https://telegram.me/pic)               | [图片搜索 by Yandex](https://yandex.com/images/)（支持中英文）。 |
 | [@QuizBot](https://t.me/QuizBot)              | [答题机器人](https://telegram.org/blog#bot-api-and-quiz-bot)：创建一份只有单选题的考卷。[点此](https://t.me/QuizBot?start=TelegramHistory) 开始测试你对 Telegram 的了解程度。 |
-| [@sticker](https://t.me/sticker)              | 检索所有与 Emoji 相关表情包。例如 `@sticker 👍`。`编辑精选`   |
+| [@sticker](https://t.me/sticker)              | 👍 检索所有与 Emoji 相关表情包。例如 `@sticker 😎 `。          |
 | [@vid](https://telegram.me/vid)               | 帮你查找 YouTube 视频（支持中文搜索）。                      |
 | [@wiki](https://telegram.me/wiki)             | [维基百科](https://www.wikipedia.org/)。搜索中文条目 `@wiki zh 猫`；搜索英文条目 `@wiki en cat` |
 | [@youtube](https://telegram.me/youtube)       | 帮你查找 YouTube 视频（不支持中文搜索）。                    |
@@ -1002,14 +1011,14 @@ Bots 就像运行在 Telegram 内部的小程序。借助 [Telegram 开放的 AP
 | [@CorsaBot](https://telegram.me/CorsaBot)          | Make Instant View from any article. 快速把文章把文章备份到 [Telegraph](https://telegra.ph/)。 |
 | [@IFTTT](https://t.me/IFTTT)                       | [With this bot you can use IFTTT to link your Telegram groups or channels to more than 360 other services like Twitter and Instagram, or connected devices like Hue lights and Nest.](https://ifttt.com/telegram) |
 | [@githubbot](https://telegram.me/githubbot)        | 推送 GitHub 仓库的动态。                                     |
-| [@GmailBot](https://t.me/GmailBot)                 | 在 Telegram 上收发 📧 Gmail。`编辑推荐`                       |
-| [@LivegramBot](https://t.me/LivegramBot)           | [不加好友也能私聊](https://telegra.ph/What-is-Livegram-Bot-03-17)，可用于收集反馈及绕开 `+86` 手机号码的限制。`编辑推荐` |
+| [@GmailBot](https://t.me/GmailBot)                 | 👍 在 Telegram 上收发 📧 Gmail。``                             |
+| [@LivegramBot](https://t.me/LivegramBot)           | 👍 [不加好友也能私聊](https://telegra.ph/What-is-Livegram-Bot-03-17)，可用于收集反馈及绕开 `+86` 手机号码的限制。 |
 | [@sssoou_bot](https://t.me/sssoou_bot)             | Telegram 搜索，支持中文。                                    |
 | [@Stickers](https://t.me/Stickers)                 | 创建属于自己的表情包。                                       |
 | [@Sticker2GIFBot](https://t.me/Sticker2GIFBot)     | 下载单独的表情包或整套表情包。                               |
 | [@tweet_for_me_bot](https://t.me/tweet_for_me_bot) | 在 Telegram 上发布 Twitter 动态。                            |
 | [@tgstogifbot](https://t.me/tgstogifbot)           | 把 Telegram 上 tgs 格式的表情包转换为 gif 格式。             |
-| [@telegraph](https://t.me/telegraph)               | 登录和编辑 [Telegraph](https://telegra.ph/) 文章，并 [统计 telegra.ph 的浏览量](https://telegram.org/blog/telegraph#telegraph-api)。`编辑推荐` |
+| [@telegraph](https://t.me/telegraph)               | 👍 登录和编辑 [Telegraph](https://telegra.ph/) 文章，并 [统计 telegra.ph 的浏览量](https://telegram.org/blog/telegraph#telegraph-api)。 |
 | [@verifybot](https://t.me/verifybot)               | 加了官方认证后，名字后面有个 ✅（[verify a big andactive official channel, bot or public group](https://telegram.org/verify)）。 |
 
 更多 Bots 推荐，请参阅 [Raw 博客](https://blog.rawstack.co/post/telegram-bots/)。
