@@ -815,7 +815,7 @@ https://rsshub.app/telegram/channel/tingtalk
 | [海龙说](https://t.me/haotalk)                  | 牢记梦想，自然生长。by [郝海龙的博客](https://haohailong.net/) |
 | [荔枝木](https://t.me/lychee_wood)              | 这个世界很复杂，我尝试着去理解它。                           |
 | [KAIX.IN](https://t.me/kaix_in)                 | 思考碎片，[博客](https://kaix.in/) 更新。                    |
-| [TSBBLOG](https://t.me/tsbblog)                 | [影子经纪人的博客](https://tsb2blog.com/)。                  |
+| [TSBBLOG](https://t.me/tsbblog)                 | [影子经纪人的博客](https://tsb2blog.com/)：独立观察及记录。  |
 
 [中文独立博客列表](https://github.com/timqian/chinese-independent-blogs) by timqian
 

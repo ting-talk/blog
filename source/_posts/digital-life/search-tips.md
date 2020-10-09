@@ -235,6 +235,7 @@ tags: 网上冲浪指南
 
 **找电影**
 
+- Google 搜索：[美丽人生 类似电影](https://www.google.com/search?q=%E7%BE%8E%E4%B8%BD%E4%BA%BA%E7%94%9F+%E7%B1%BB%E4%BC%BC%E7%94%B5%E5%BD%B1)
 - [豆瓣电影 Top 250](https://movie.douban.com/top250) 配合 [油猴脚本](https://tingtalk.me/userscripts/)
 
 **下电影**
