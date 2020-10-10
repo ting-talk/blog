@@ -148,8 +148,10 @@ Telegram 的中文搜索是以「词」为单位的，以标点符号或空格�
 
 **如果你有注册或登录问题**
 
-- 方法一：请使用此 [表格](https://telegram.org/support) 与 Telegram 联系。
-- 方法二：在 Twitter 上联系 [Telegram Login Help](https://twitter.com/smstelegram)（@smstelegram）
+先从 [常见登录问题](https://telegra.ph/Common-Login-Problems-03-12) 中寻找方法，无果，联系 Telegram：
+
+- 途径一：请使用此 [表格](https://telegram.org/support) 与 Telegram 联系。
+- 途径二：在 Twitter 上联系 [Telegram Login Help](https://twitter.com/smstelegram)（@smstelegram）
 
 
 
