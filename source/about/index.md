@@ -1,63 +1,46 @@
 ---
-
 title: 关于  
-date: 2017-07-15 11:03:10 
-
+date: 2017-07-15 11:03:10
 ---
 
 
-## Who Am I
+
+
+
+## 了解我
 
 - [我是谁？](https://tingtalk.me/tim/)
 - [为什么叫「庭说」？](https://tingtalk.me/brand/)
 - [为什么要写博客？](https://tingtalk.me/blog/)
 
 
-## Blog
-
-> Blog = Book (书) + log (日志)，中文叫博客。
-
-为什么打开「庭说」的博客这么慢？
-
-因为国内的审查机制，`.me` 域名不支持在备案，所以网站数据是放在国外，因此首次访问速度不快，还请稍等片刻。
-
-不过这是一个悖论，因为一旦备案了，博客里的很多文章都要「下架」。
-
-2020 年 4 月 4 日清明节，博客被中国网信办「下架」了。
-
-如何改善？
-- 浏览器：借助 [SwitchyOmega](https://tingtalk.me/switchyomega/)，使用代理通道访问博客。
-- 番茄 App：绕过局域网和中国大陆地址。
-
-这样一来，纵使博客被封了，也能访问。
 
 
-
-
-## Contact
+## 联系我
 
 - Email：tingtalk.me(at)gmail.com
-- [Telegram](https://t.me/tingtalkme)：@tingtalkme
-- [Telegram 频道](https://t.me/tingtalk)：@tingtalk
-- [今日热榜](https://tophub.today/)：订阅 [庭说](https://tophub.today/n/KGoRRbNol6)
-- [Twitter](https://twitter.com/tingtalkme)：@tingtalkme
-- 微信号：`tingtalkme`。接头时说出暗号「博客 + 进群」，邀请你加入并不活跃的「庭说读者群」，
+- Telegram：[@tingtalkme](https://t.me/tingtalkme)
+- Telegram 频道：[@tingtalk](https://t.me/tingtalk)
+- Telegram 群组：[@tingtalk_group](https://t.me/tingtalk_group)
+- Twitter：[@tingtalkme](https://twitter.com/tingtalkme)
+- 微信号：`tingtalkme`。
+  - 接头暗号：`博客` ，通过好友申请后，可告诉我你是从哪里得知庭说的（非必须）。
+  - 接头暗号：`博客 + 进群`，邀请你加入不活跃且充满审查的「庭说读者群」。
 - 公众号：扫描下方的二维码，关注「庭说 TingTalk 」。
 
 ![wechat-mp-qr-code-white.jpg](https://i.loli.net/2020/04/16/Y9bCMpH3lojRaTG.jpg)
 
-## Reward
+## 赞赏
 
-写作是一个字斟句酌（Copy editing）的过程，若非反复查证（Fact-checking），不敢轻易说出口，给我带来不小的心理压力。
+写作是一个字斟句酌（Copy editing）的过程，若非反复查证（Fact-checking），不敢轻易说出口，所以随着访问量的上升，给我带来不小的心理压力。
 
 为了维持博客的内容输出：
 
-- `tingtalk.me` 的域名费用是每年一百多元左右。
-- 灵感稍纵即逝，随时随地，保持写作状态。
+- 域名费用大概是每年一百多元。
 - 挤占了娱乐的时间：看电影、看连续剧、玩游戏、打篮球等。
 - 挤占了挣钱的时间：这些时间本可以做一些有经济收益的工作或者副业。
 
-我相信只有「 非功利写作」，才能做到毫无保留。你的点滴捐赠，会鼓励我持续地写下去。
+不过，我相信只有「 非功利写作」，才能做到毫无保留。我也相信每个时代都会悄悄犒赏，那些爱学习爱分享的人。你的点滴捐赠，会鼓励我持续地写下去。
 
 
 
@@ -77,15 +60,21 @@ date: 2017-07-15 11:03:10
 
 [NameSilo](https://www.namesilo.com/?rid=d1eaf64se )：`tingtalk.me` 就是一个域名。
 
-#### 外贸网站服务器
+#### 服务器
 
-备受好评的 [SiteGround](https://www.siteground.com/recommended?referrer_id=8435056)。
+备受好评的外贸站空间 [SiteGround](https://www.siteground.com/recommended?referrer_id=8435056)。
 
 
 
 ### 直接鼓励我
 
-#### 赞赏
+#### 爱发电
+
+将创作的自由，还给创作者，点击进入 [庭说的爱发电](https://afdian.net/@tingtalk) 主页。
+
+
+
+#### 赞赏码
 
 若是文章对你有帮助，微信 / 支付宝扫描下方赞赏码，给予**小额**鼓励：
 
@@ -93,16 +82,12 @@ date: 2017-07-15 11:03:10
 
 ![alipay-reward.jpg](https://i.loli.net/2020/04/30/FI8bTwv5tuhBarg.jpg)
 
-或者通过 [PayPal](https://paypal.me/WeitingZhong?locale.x=zh_XC) 激励我。
-
-
-
-通过博客赞赏码，我收到了以下读者最直接的鼓励。这会激励我保持创作的动力，纵使年纪轻轻，已经长满了白头发，博客和公众号都在国内被封杀了。但是我相信：每个时代都会悄悄犒赏，那些爱学习爱分享的人。
+或者通过 [PayPal](https://paypal.me/WeitingZhong?locale.x=zh_XC) 给我加鸡腿 🍗。
 
 | 赞赏时间         | 赞赏者   |    金额 | 留言                                                         |
 | ---------------- | -------- | ------: | ------------------------------------------------------------ |
 | 2020-02-15 14:08 | WTF   |  ￥8.88 |                                                              |
-| 2028-02-25 17:07 | `*雪` | ￥10.00 | 赏你个鸡腿！? |
+| 2020-02-25 17:07 | `*雪` | ￥10.00 | 赏你个鸡腿！? |
 | 2020-03-01 22:57 | LY     | ￥10.00 | 棒棒哒！！                                                   |
 | 2020-03-23 16:23 | ZXW    |  ￥5.00 | 搜电报找到你，现在还是登录不了，收不到短信。<br />但看到你的信仰那篇…… |
 | 2020-03-23 22:31 | GJL    | ￥20.00 |                                                              |
@@ -123,13 +108,4 @@ date: 2017-07-15 11:03:10
 | 2020-09-19 12:39 | **富 | ￥10.24 | 你明天的早操我包了，请你吃个豪华的。 |
 | 2020-10-02 20:21 | CancerGary | ￥10.00 | 写得好。 |
 
-
-
-
-#### 爱发电
-
-将创作的自由，还给创作者，点击进入 [庭说的爱发电](https://afdian.net/@tingtalk) 主页。
-
-#### 工作机会
-
-或者向我引荐科技互联网相关的 [工作机会](https://tingtalk.me/tim/#%E5%B7%A5%E4%BD%9C%E7%BB%8F%E5%8E%86)。
+由衷地感谢以上赞赏者 💚。
