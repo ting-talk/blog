@@ -14,7 +14,7 @@ tags: [网上冲浪指南, 突破网络审查, Telegram]
 
 🧱 TG 在中国大陆必须 [翻墙](https://tingtalk.me/fq/) 后才能使用。不过，学会科学上网，难道不是当代数字公民的必备技能吗？
 
-💡 文章很长，善用右侧的目录栏和查找功能（`Ctrl` + `F`），助你定位想要看到的内容。
+💡 全文有一万五千多字，善用右侧的目录栏和查找功能（`Ctrl` + `F`），助你定位想要看到的内容。
 
 📁 tingtalk.me 在 2020-04-04 被墙了，如需在墙内传阅，请前往 [蓝奏云](https://wwa.lanzous.com/b00twozof) 下载本文的 PDF。
 
@@ -44,7 +44,7 @@ tags: [网上冲浪指南, 突破网络审查, Telegram]
 
 ### 👍 近乎完美
 
-- **[高度加密](https://telegram.org/faq#q-what-are-your-thoughts-on-internet-privacy)**：迄今为止最安全的大众化沟通软件，使用独有的网络传输协议 [MTProto](https://core.telegram.org/mtproto)。
+- **[高度加密](https://telegram.org/faq#q-what-are-your-thoughts-on-internet-privacy)**：安全性极高的大众化即时沟通软件，使用独有的网络传输协议 [MTProto](https://core.telegram.org/mtproto)。
 - **[没有审查](https://telegram.org/faq#q-wait-0-o-do-you-process-take-down-requests-from-third-parties)**：不用担心被封号，[除非执法调查单位能证明用户是恐怖分子](https://telegram.org/faq#q-there-39s-illegal-content-on-telegram-how-do-i-take-it-down)。
 - **云端同步**：聊天历史无缝同步到所有的设备上（Cloud Storage）。纵使设备损坏，但数据固若金汤（Secret Chat 除外）。
 - **[不占内存](https://telegram.org/blog/cache-and-stickers)**：不必在设备上存储所有的聊天记录，因为数据一直保存在云端，你随时可以取回来，你也可以完全删除。
@@ -779,6 +779,7 @@ https://rsshub.app/telegram/channel/tingtalk
 | [科技爱好者周刊](https://t.me/scitech_fans)          | 👍 记录每周值得分享的科技内容，周五发布；非官方频道。[科技爱好者周刊合集](https://www.yuque.com/ruanyf/weekly)。 |
 | [TestFlight 科技花](https://t.me/TestFlightCN)       | 👍 发布科技新闻、App 测试版链接、软件使用相关话题。           |
 | [科技圈的日常](https://t.me/misakatech)              | 科技圈内的大事小事。                                         |
+| [Telegram 中文 NEWS](https://t.me/YinxiangBiji_News) | [聪聪](hhttps://congcong0806.github.io/2018/04/24/Telegram/) 的频道：提供印象笔记、Telegram、科学上网等新闻。 |
 | [如有乐享](https://t.me/ruyoblog)                    | 更新 [如有乐享博客](https://51.ruyo.net/) 的内容：云服务器、优惠活动、羊毛信息以及各种 Bug。 |
 | [每日消费电子观察](https://t.me/CE_Observe)          | 不公正，不客观，不理性。                                     |
 | [cnBeta](https://t.me/cnbeta_com)                    | cnBeta.COM 中文业界资讯站是一个提供 IT 相关新闻资讯、技术文章和评论的观点的中文网站。 |
