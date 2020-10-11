@@ -3,7 +3,7 @@
 title: 宠物成长日志
 date: 2020-03-08  
 updated: 2020-08-19
-categories: 萌宠相伴
+categories: 生活百科
 tags: [宠物, 随手记] 
 ---
 

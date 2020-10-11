@@ -80,11 +80,13 @@ category_map:
   写作技巧: writing
   翻墙方法: bypass-gfw
 tag_map: 
-  宠物: pets
+  博客: blog
+  宠物: pet
   动画: animation
   工作: work
   佳句: nice-quote
-  技能: skills
+  技能: skill
+  健康: health
   口语: speaking
   排版: typography
   人物: people
@@ -98,6 +100,7 @@ tag_map:
   庭勃士: dr-ting
   英语: english
   外贸: foreign-trade
+  网站: website
   微信公众号: mp
   祝福: wishes
   Apple ID: apple-id
