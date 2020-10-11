@@ -73,11 +73,31 @@ You're young. You've got your whole life ahead of you, and your anal cavity is s
 - `taut` [tɔːt] 紧绷的
 - `malleable` [ˈmæliəbl] 可塑的
 
+
+
+### Anatomy
+
+/əˈnatəmi/ 身体；解剖学
+
+Anatomy park! 人体公园
+
+The ball hit him in the most sensitive part of his anatomy. 这个球打中了他身体的最敏感部位。
+
+We already know that the way we give birth influences our anatomy. 我们已知分娩方式影响着我们的身体结构。
+
 ### Anticipate
 
 预期，期望；预料
 
 Goldenfold's got more control here than I anticipated.  我没想到 Goldenfold 这么厉害。
+
+
+
+### Apron
+
+/ˈeɪpr(ə)n/ 围裙
+
+
 
 
 
@@ -214,6 +234,18 @@ Blend the butter with the sugar and beat until light and creamy. 把黄油和糖
 ### Bound
 
 I do not overstep my bounds with Morty. 我和 Morty 的关系保持得很有分寸。
+
+
+
+### Brush
+
+擦肩而过；和……的小冲突；与……的摩擦
+
+After your father's brush with cancer and losing your uncle, we looked at life and wondered, how have we spent it, and how do we spend the rest of it? What are we going to be when we die? a list of fears and questions or a collection of real experiences? 你爸和癌症擦肩而过，你叔叔也走了，所以我们决定重新审视我们过去的人生和剩下的时光，我们死的时候会是什么样的？是充满了恐惧和怀疑？还是过了充实的一生？
+
+Jim had a brush with death (= was nearly killed) on the motorway. 吉姆在高速公路上差点丧命。
+
+Was that your first brush with the law (= experience of being in trouble with the police)? 那是你第一次和警察打交道吗？
 
 
 
@@ -468,6 +500,16 @@ Convenience store：便利店（特指 7 × 24）
 
 
 
+
+
+cook up 策划；编造
+
+It's a little business venture I've been cooking up on the side with Dr. Bloom. An amusement park inside a human body. 这是我和Bloom博士一起搞的一个小副业——人体内的主题公园。
+
+He makes a little money on the side by cleaning windows in his spare time. 他靠业余时间兼职清洗窗户赚些零用钱。
+
+
+
 ### Coordinate
 
 坐标
@@ -593,6 +635,18 @@ I can't simply switch off my curiosity.
 - How dare you defy your masters! 
   胆敢反抗你的主人！
 
+### Dent
+
+凹痕
+
+make/put a dent in sth 取得初步进展；产生影响；支出；花费
+
+The holiday made a big dent in our savings. 度假花去了我们很大一部分的存款。
+
+We're here to put a dent in the universe. 我们存在，只为改变世界。by Steve Jobs
+
+Science isn't cheap, Morty. This should really help put a dent in the overhead. 搞科学很费钱的，这玩意多多少少能补贴一点。overheads：（公司的）经常性开支，营运费用，经费
+
 
 
 ### Disclosure
@@ -601,15 +655,23 @@ I can't simply switch off my curiosity.
 
 Full disclosure, it's a piece of crap. 坦白说就是一堆废铁。
 
-We need full disclosure. 我们需要你毫无保留。
-
 Full disclosure, I've never been a big fan of your stuff. 坦白说 我从来都不是你节目的粉丝。
 
-So in the spirit of full disclosure, 所以本着坦诚的精神
+We need full disclosure. 我们需要你毫无保留。
+
+So in the spirit of full disclosure… 所以本着坦诚的精神……
 
 ### Dissolve
 
 Temporary superintelligence is just a side effect of the mega seeds dissolving in your rectal cavity. 暂时的超常智力只是奇异种**溶解**在你肠道里的副作用。
+
+
+
+### Distress
+
+/dɪˈstrɛs/ 受苦；遇难；遇险
+
+I'm picking up a distress signal in the liver. 我在肝脏发现了求救信号。
 
 
 
@@ -810,8 +872,14 @@ to discover the exact reason why a situation is the way it is, especially when s
 
 ### First
 
-The first step is hardest.   
-万事开头难。
+The first step is hardest. 万事开头难。
+
+**first and foremost 首先也是最重要的；首要的是；首先**
+
+In spite of being elected to office, she remains first and foremost a writer. 尽管被选担任公职，但首先她仍然是名作家。
+
+
+
 
 
 
@@ -1376,6 +1444,16 @@ Could you send me your literature on/about car insurance policies, please? 请�
 
 ## M
 
+
+
+### Maintenance
+
+[ˈmeɪntənəns] 检修；养护（保持道路、建筑、机器设备等状态良好的工作）
+
+under maintenance 正在维护中
+
+
+
 ### Man
 
 有足够的勇气（或能力）
@@ -1704,26 +1782,33 @@ He's created a mechanical arm to pluck Mrs. Pancakes out of the air. 他造了�
 
 ### Pitch 
 
-推销（说辞）
+**推销（说辞）**
 
-- She made a pitch for the job but she didn't get it.
-  她竭力争取这份工作，但却未得到。
-- She pitched her idea to me over a business lunch.
-  她在一次吃工作午餐时竭力向我游说她的想法。
-- Another client, another sales pitch, another moment of feeling disconnected from people. 
-  又是一个客户，又是一通兜揽生意的套话（推销说辞），又是一阵脱离人群的空虚。
+She made a pitch for the job but she didn't get it. 她竭力争取这份工作，但却未得到。
+
+She pitched her idea to me over a business lunch. 她在一次吃工作午餐时竭力向我游说她的想法。
+
+Another client, another sales pitch, another moment of feeling disconnected from people.  又是一个客户，又是一通兜揽生意的套话（推销说辞），又是一阵脱离人群的空虚。
+
+Hey, honey, crazy idea bad pitch let's put your dad here. 亲爱的。突发奇想，咱把你爸送进去吧。
+
+**支，搭（帐篷）**
+
+I got a lot of pushback when I pitched it. 我建这个的时候遇到了不少阻力。
+
+We pitched camp/our tent in the shade. 我们在阴凉处安营／搭起帐篷。
 
 
 
-Hey, honey, crazy idea bad pitch let's put your dad here. 
+### Point
 
-亲爱的。突发奇想，咱把你爸送进去吧。
+We can go into detail later, son. Now, wait. Th-there's no point to secrecy. Let's all live and die honestly. 细节我们待会儿再说。没什么可隐瞒的，无论生死都要坦诚。
 
 
 
-### Pointy
 
-有尖头的
+
+**Pointy 有尖头的**
 
 
 
@@ -1967,7 +2052,20 @@ Screw this. I'm not playing his game. 去死，我不会玩他的游戏。
 `screwdriver` 螺丝刀
 
 Now hand me that flat-head screwdriver.  
-把扁头的螺丝刀递给我。  
+把扁头的螺丝刀递给我。
+
+
+
+### Shape  
+
+(身体、物体) 处于（良好/不良）状况
+
+He's in bad shape. 他伤得不轻。/ 他快不行了。
+
+North Korea's economy is in bad shape. 朝鲜的经济状况十分糟糕。
+
+He was still in better shape than many young men. 他依然比许多年轻人都健康。
+
 
 
 
@@ -2165,6 +2263,14 @@ Countries like India and China where women, women's roles are often very subserv
 
 
 
+### Speak
+
+**speak for yourself 那是你自己的看法，我不是那样想的；别替我们做主**
+
+"We had a really boring trip." "Speak for yourself! I had a wonderful time!" “我们的旅行可真没劲。”“我可不这么想！我玩得很开心！”
+
+
+
 ### Specific
 
 - **Specific**：口述的参数或规格
@@ -2200,9 +2306,11 @@ Can you be a little bit more specific? 能再具体点吗?
 - Embryonic stem cells are particularly powerful.
   胚胎干细胞尤其强大。
 
+### Stow
 
+/stəʊ/ 储存，储藏
 
-
+Can we stow the gadgets and look alive? 咱能把手里的玩意儿都收了，有点生气吗？
 
 ### Straw
 
@@ -2405,6 +2513,12 @@ I thought the whole point of having a dog was to feel superior, Jerry. If I were
 
 
 
+
+
+### Time
+
+Morty, a moment of your time? Morty，能过来一下吗？/占用你一点时间？/你有时间吗？
+
 ### Tug
 
  You're tugging me too hard. 你把我拽得太紧了。
@@ -2534,7 +2648,21 @@ The world is not beautiful. Therefore, it is.
 
 
 
-References
+### Wrap
+
+wrap one's `head/walnut` around `it/something/everything` 理解；绞尽脑汁；认真考虑某事
+
+I still can't wrap my head around why she would do that. 我还是想不明白他为什么那样做。
+
+
+
+
+
+---
+
+
+
+**References**
 
 | 公众号       | WeChat ID    | 作者        |
 | :----------- | :----------- | :---------- |
