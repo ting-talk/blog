@@ -15,7 +15,7 @@ tags: [网站, Hexo, 博客]
 
 
 
-## 🤖[YAML 教程](http://www.ruanyifeng.com/blog/2016/07/yaml.html)
+## 🤖 [YAML 教程](http://www.ruanyifeng.com/blog/2016/07/yaml.html)
 
 YAML 语言（/ˈjæməl/ ）的基本规则：
 - 大小写敏感。
@@ -27,7 +27,7 @@ YAML 语言（/ˈjæməl/ ）的基本规则：
 
 
 
-## 🔧优化 URL
+## 🔧 优化 URL
 
 默认的 URL 是 `https://tingtalk.me/2019/08/17/Hexo使用技巧`
 
@@ -36,7 +36,7 @@ YAML 语言（/ˈjæməl/ ）的基本规则：
 
 URL 很重要，确立 URL 之前要深思熟虑，一旦新文章发出后，请不要随意修改。
 
-### 📂以文件名称为 URL
+### 📂 以文件名称为 URL
 
 1. 修改站点配置文件 `_config.yml` 的 `permalink`（永久链接）为 `:name/ `。
 
@@ -73,7 +73,7 @@ URL 很重要，确立 URL 之前要深思熟虑，一旦新文章发出后，�
 
 
 
-### ⚙在 Front Matter 定义
+### ⚙ 在 Front Matter 定义
 
 1. 不用修改站点配置文件 `_config.yml` 的 `permalink`（永久链接）`permalink: :year/:month/:day/:title/`。
 
@@ -100,14 +100,14 @@ URL 很重要，确立 URL 之前要深思熟虑，一旦新文章发出后，�
 
 不推荐使用插件 [hexo-abbrlink](https://github.com/rozbo/hexo-abbrlink) 生成唯一永久链接，一串无意义的数字让 URL 变得不可读且不方便记忆。而且每次分享文章时，都要打开博客才能把网址复制出来。
 
-**🔗关联阅读**
+**🔗 关联阅读**
 
 - [Clean URL - Wikipedia](https://en.wikipedia.org/wiki/Clean_URL)
 - [永久链接（Permalinks）| Hexo](https://hexo.io/zh-cn/docs/permalinks.html)
 
 
 
-## 🔧优化分类
+## 🔧 优化分类
 
 
 1. 在 `站点 _config.yml` 的 `category_map` 增加一个 `博客: blog ` 的分类
@@ -142,7 +142,7 @@ URL 很重要，确立 URL 之前要深思熟虑，一旦新文章发出后，�
 
 
 
-## 🐞半角标点
+## 🐞 半角标点
 
 如何显示正确的英文半角标点符号，不被错误显示成中文全角标点符号，请在站点配置文件加上如下语句：
 
@@ -155,7 +155,7 @@ marked:
 
 
 
-## 🔒文章加密
+## 🔒 文章加密
 
 你可能需要写一些私密的博客，通过密码验证的方式让人不能随意浏览。为了解决这个问题, 让我们有请 [hexo-blog-encrypt](https://github.com/MikeCoder/hexo-blog-encrypt/blob/master/ReadMe.zh.md)。
 
@@ -163,9 +163,21 @@ marked:
 
 
 
-## 👉Netlify 重定向
+## 托管服务器
 
-在 hexo 分支 `source` 下新建 `netlify.toml` 文件：
+
+
+### 🔺 Vercel
+
+注册前，请把 GitHub 的 `Primary email address`  改为非 QQ 邮箱，GitLab 或 Bitbucket 同理，否则 `Error:Sorry, we are unable to complete your signup.` 
+
+
+
+### 👉 Netlify
+
+2020 年 10 月超限了，只好切换到 Vercel。
+
+重定向：在 hexo 分支 `source` 下新建 `netlify.toml` 文件：
 
 ```
 [[redirects]]
@@ -179,21 +191,21 @@ marked:
 
 
 
-## 🗺️站点地图
+## 🗺️ 站点地图
 
 1. 安装 [hexo-generator-seo-friendly-sitemap](https://github.com/ludoviclefevre/hexo-generator-seo-friendly-sitemap)
 2. 向 [Google Search Console](https://search.google.com/search-console/) 提交找点地图：https://tingtalk.me/`sitemap.xml`
 
 
 
-## 🔍Local Search
+## 🔍 Local Search
 
 [hexo-generator-searchdb](https://github.com/theme-next/hexo-generator-searchdb): Seach data generator plugin for Hexo.
 
 
 
 
-## 📰RSS
+## 📰 RSS
 
 [hexo-generator-feed](https://github.com/hexojs/hexo-generator-feed): Feed generator for Hexo.
 
@@ -201,7 +213,7 @@ marked:
 
 
 
-## 🖼️把图片放在 `_posts`
+## 🖼️ 把图片放在 `_posts`
 
 [hexo-asset-link](https://github.com/liolok/hexo-asset-link): Convert base-relative asset links to root-relative ones, so that user can insert assets like images in markdown way. 
 
@@ -210,11 +222,11 @@ marked:
 
 
 
-## 💚修改 NexT
+## 💚 修改 NexT
 
-### 🖼️图片居中
+### 🖼️ 图片居中
 
-最新的版本（Mimi）已默认居中。
+最新的版本（Mimi）已默认居中，不必做以下设置。
 
 1. 在 `hexo-site\source` 新建一个名为 `_data` 的文件夹。
 2. 把 `hexo-site\themes/next/source/css/_schemes/Mist` 的 `_posts-expand.styl` 复制到 `_data`，并把名字修改为 `styles.styl`。
@@ -241,13 +253,13 @@ marked:
 
 
 
-### 📖阅读时长 
+### 📖 阅读时长 
 
 [hexo-symbols-count-time](https://github.com/theme-next/hexo-symbols-count-time): Symbols count and time to read of articles plugin for Hexo.
 
 
 
-### ⚡️quicklink
+### ⚡️ quicklink
 
 [quicklink](https://github.com/GoogleChromeLabs/quicklink): Faster subsequent page-loads by prefetching in-viewport links during idle time
 
@@ -259,7 +271,7 @@ quicklink: enable
 
 
 
-## 📡连接 GitHub
+## 📡 连接 GitHub
 
 `Win` + `S` 打开搜索，输入 `Git Bash`，或者在电脑任意位置右键打开 `Git Bash`，然后根据 GitHub 账号，修改下面的命令并复制到 `Git Bash`，Enter：
 
@@ -343,7 +355,7 @@ Hi ting-talk! You've successfully authenticated, but GitHub does not provide she
 
 如果有你的 GitHub 用户名（`Hi ting-talk!`），则代表与 GitHub 连接成功。
 
-## 🚀推送到 GitHub
+## 🚀 推送到 GitHub
 
 在博客文件夹，右键打开 `Git Bash`，复制以下命令（可能要删除主题的 `.git`）：
 
@@ -379,14 +391,14 @@ git push origin master --force
 
 
 
-## 🎸博客搭建
+## 🎸 博客搭建
 
-### 🍊[Gridea](https://gridea.dev/)
+### 🍊 [Gridea](https://gridea.dev/)
 
 一个静态博客写作客户端：适合喜欢安安静静写博客的人。
 
 
 
-### 👨‍💻[Easy Hexo](https://easyhexo.com/)
+### 👨‍💻 [Easy Hexo](https://easyhexo.com/)
 
 轻松入门 Hexo：适合喜欢折腾博客的人。
