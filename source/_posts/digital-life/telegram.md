@@ -897,8 +897,8 @@ https://rsshub.app/telegram/channel/tingtalk
 | [新闻播报 PDF](https://t.me/news_pdf)                      | 每天为大家送来 NYT 和 BBC 的新闻 PDF。                       |
 | [微博精选](https://t.me/weibo_read)                        | 来自微博的文章、资源和观点。                                 |
 | [豆瓣精选](https://t.me/douban_read)                       | 豆瓣书影音，以及相关讨论。                                   |
-| [即刻精选](https://t.me/jike_collection)                   | 精选即刻 app 热门话题更新。我的即刻 ID 是 `Dr_Ting`。        |
-| [你不知道的内幕消息](https://t.me/inside1024)           | 同时抓取来自即刻 app 的 #大公司的负面新闻。                  |
+| [即刻精选](https://t.me/jike_collection)                   | 精选即刻 app 热门话题更新。我的即刻 ID 是 [Dr_Ting](https://m.okjike.com/users/Zhong_Waiting)。 |
+| [你不知道的内幕消息](https://t.me/inside1024)              | 同时抓取来自即刻 app 的 #大公司的负面新闻。                  |
 | [Matters 閲讀精選](https://t.me/MattersHub)                | matters.news 一個自主、永續、有價的創作與公共討論空間。      |
 
 

@@ -203,6 +203,14 @@ I usually give people the benefit of the doubt.
 
 
 
+### Biased
+
+[ˈbaɪəst] 有偏见的
+
+Obviously I'm biased, but I think it's great, Morty.  很明显我不太客观，但我觉得真的超级棒。
+
+
+
 ### Bite
 
 上钩；咬钩；吞饵
@@ -439,6 +447,18 @@ We had a breakdown in communication.
  [kənˈsaɪs]
 
 Pretty concise, Morty. 总结得真简练，Morty。
+
+### Constrict
+
+收缩
+
+The body is beginning to constrict and fill with gas. We're inside a corpse, my boy. Anatomy park is doomed. 尸体开始收缩并且产生气体了，我们在一具死尸里面啊。人体公园完蛋了。
+
+" I don't want to talk to you, " she said in a constricted voice. “我不想跟你说话。”她声音哽咽地说。
+
+
+
+
 
 ### Convenience 
 
@@ -825,6 +845,16 @@ All men are created equal.
 
 - Run an errand for me, will you? Go find Roger for me.
   替我跑跑腿好吗？帮我去找一下罗杰。
+
+
+
+### Evacuation
+
+[ɪˌvækjuˈeɪʃn] 疏散；撤离；排泄
+
+The digestive tract is the evacuation route. 消化道就是疏散（排泄）通道。
+
+
 
 ## F
 
@@ -1821,6 +1851,14 @@ We can go into detail later, son. Now, wait. Th-there's no point to secrecy. Let
 
 
 
+### Pop
+
+pop by 突然来访；顺道
+
+You're trapped in a dead man. Listen, if the situation keeps darkening, do yourself a favor. And pop by pirates of the pancreas. 你们被困在一死人的身体里了。如果情况继续恶化，对自己好点，去胰之海盗玩玩。
+
+I hope you don't mind me popping by like this. 希望你不介意我冒昧打扰。
+
 
 
 ### [Present 🆚 Gift](https://www.youtube.com/watch?v=E8CEEWM3i9k)
@@ -1939,9 +1977,7 @@ It's beyond your reasoning. 这些超出你们的理解范围的
 
 [ˈrektəm] 直肠
 
-These seeds aren't gonna get through customs unless they're in someone's rectum, Morty.
-
-这些种子只有在别人的直肠里才能通过海关，莫蒂。
+These seeds aren't gonna get through customs unless they're in someone's rectum, Morty. 这些种子只有在别人的直肠里才能通过海关，莫蒂。
 
 `rectal` 直肠的
 
@@ -2598,7 +2634,11 @@ Once those seeds `wear off`, you're gonna lose most of your motor Skills. 一旦
 
  
 
+### Whitewash
 
+洗白；粉饰
+
+Critics say the classes whitewash the history of the Communist party. 批评家称这些课程粉饰了某党的历史，
 
 ### Wordplay
 
