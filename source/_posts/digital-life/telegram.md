@@ -243,7 +243,7 @@ Telegram 的中文搜索是以「词」为单位的，以标点符号或空格�
 
 更高的要求：
 
-- 使用没有个人特征的头像（记得在设置里删除曾经使用过的头像）、昵称和用户名，确保硅基身份不会和碳基身份产生关联。
+- 使用没有个人特征的头像（记得在个人资料里删除历史头像）、昵称和用户名，确保硅基身份不会和碳基身份产生关联。
 - 添加陌生人到通讯录，记得取消勾选 `Share my phone number`。
 - 不使用 Touch ID 或 Face ID 解锁你的手机，只以密码锁屏（数字 + 字母），以免被「执法人员」控制身体后强行解锁。
 - 使用 [Tor](https://www.torproject.org/)（The Onion Router、洋葱路由器）隐藏用户真实 IP 地址、避免网络监控及流量分析。
@@ -731,15 +731,16 @@ https://rsshub.app/telegram/channel/tingtalk
 
 ### ✈️ 电报动态
 
-| 频道                                               | 详情                                                         |
-| -------------------------------------------------- | ------------------------------------------------------------ |
-| [Telegram News](https://t.me/telegram)             | 👍 电报官方新闻频道。                                         |
-| [Durov's Channel](https://t.me/durov)              | 👍 杜罗夫（Telegram 创始人和 CEO）的频道。                    |
-| [ISIS Watch](https://t.me/ISISwatch)               | 电报官方反恐频道：[每日汇报有多少恐怖组织相关的频道被封了](https://t.me/isiswatch/2)。 |
-| [Trending Stickers](https://t.me/TrendingStickers) | Telegram 又新增了哪些表情包。                                |
-| [紙飛機](https://t.me/tgflight)                    | 欢迎搭乘纸飞机，Porsche 和你聊聊 Telegram 的大小事。[播客 RSS 订阅链接](https://feeds.buzzsprout.com/837646.rss)。 |
-| [TGgeek](https://t.me/TGgeek)                      | TG 极客：分享 Telegram 使用技巧、重要资讯、常见问答、中文汉化、版本更新等信息。 |
-| [Anti Revoke Plugin](https://t.me/AntiRevoke)      | Telegram 本地消息防撤回插件，安全性未知。[GitHub 项目地址](https://github.com/SpriteOvO/Telegram-Anti-Revoke/blob/master/README-CN.md)。 |
+| 频道                                                  | 详情                                                         |
+| ----------------------------------------------------- | ------------------------------------------------------------ |
+| [Telegram News](https://t.me/telegram)                | 👍 电报官方新闻频道。                                         |
+| [Durov's Channel](https://t.me/durov)                 | 👍 杜罗夫（Telegram 创始人和 CEO）的频道。                    |
+| [Telegram APKs for Android](https://t.me/TAndroidAPK) | Official channel for Telegram Android APKs. You can also download them [here](https://telegram.org/dl/android/apk). |
+| [ISIS Watch](https://t.me/ISISwatch)                  | 电报官方反恐频道：[每日汇报有多少恐怖组织相关的频道被封了](https://t.me/isiswatch/2)。 |
+| [Trending Stickers](https://t.me/TrendingStickers)    | Telegram 又新增了哪些表情包。                                |
+| [紙飛機](https://t.me/tgflight)                       | 欢迎搭乘纸飞机，Porsche 和你聊聊 Telegram 的大小事。[播客 RSS 订阅链接](https://feeds.buzzsprout.com/837646.rss)。 |
+| [TGgeek](https://t.me/TGgeek)                         | TG 极客：分享 Telegram 使用技巧、重要资讯、常见问答、中文汉化、版本更新等信息。 |
+| [Anti Revoke Plugin](https://t.me/AntiRevoke)         | Telegram 本地消息防撤回插件，安全性未知。[GitHub 项目地址](https://github.com/SpriteOvO/Telegram-Anti-Revoke/blob/master/README-CN.md)。 |
 
 
 
@@ -1023,6 +1024,7 @@ Bots 就像运行在 Telegram 内部的小程序。借助 [Telegram 开放的 AP
 | [@tweet_for_me_bot](https://t.me/tweet_for_me_bot) | 在 Telegram 上发布 Twitter 动态。                            |
 | [@tgstogifbot](https://t.me/tgstogifbot)           | 把 Telegram 上 tgs 格式的表情包转换为 gif 格式。             |
 | [@telegraph](https://t.me/telegraph)               | 👍 登录和编辑 [Telegraph](https://telegra.ph/) 文章，并 [统计 telegra.ph 的浏览量](https://telegram.org/blog/telegraph#telegraph-api)。 |
+| [@utubebot](https://t.me/utubebot)                 | 同时下载 YouTube 的视频和音频，不过会推送一些广告。          |
 | [@verifybot](https://t.me/verifybot)               | 加了官方认证后，名字后面有个 ✅（[verify a big andactive official channel, bot or public group](https://telegram.org/verify)）。 |
 
 更多 Bots 推荐，请参阅 [Raw 博客](https://blog.rawstack.co/post/telegram-bots/)。

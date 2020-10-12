@@ -30,7 +30,7 @@ date: 2017-07-15 11:03:10
 
 ![wechat-mp-qr-code-white.jpg](https://i.loli.net/2020/04/16/Y9bCMpH3lojRaTG.jpg)
 
-## 赞赏
+## 鼓励我
 
 写作是一个字斟句酌（Copy editing）的过程，若非反复查证（Fact-checking），不敢轻易说出口，所以随着访问量的上升，给我带来不小的心理压力。
 
