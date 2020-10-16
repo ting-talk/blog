@@ -710,10 +710,14 @@ https://rsshub.app/telegram/channel/tingtalk
 
 **2020 年 9 月 30 开始，电报频道原生支持评论功能（[Channel Comments](https://telegram.org/blog/filters-anonymous-admins-comments#channel-comments)）**
 
-1. [在频道的设置里绑定一个群聊（Group）](https://telegram.org/blog/privacy-discussions-web-bots#broadcasts-meet-group-chats)，频道中的每条新帖子（new post）都会自动转发到该群组并被置顶（Pin）。
-2. 频道发送消息后，有两个评论入口：
-   - 频道：点击 `Leave a comment` 即可进入留言板（无需加入讨论组）。
-   - 群组：引用（Reply）回复对应的频道消息。
+首先要 [在频道的设置里绑定一个群聊（Group）](https://telegram.org/blog/privacy-discussions-web-bots#broadcasts-meet-group-chats)，频道中的每条新帖子（new post）都会自动转发到该群组并被置顶（Pin）。
+
+频道发送消息后，有两个评论入口：
+- 频道：点击 `Leave a comment` 即可进入留言板（无需加入讨论组）。
+- 群组：
+  - 第一层评论：引用（Reply）回复对应的频道消息。
+  - 第二层评论：接龙引用第一层评论。
+  - 第 N 层评论：以此类推。
 
 
 
