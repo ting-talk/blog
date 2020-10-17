@@ -115,5 +115,5 @@ tags: 设计
 
 ## 修图
 
-剪影用 Snapseed 局部调整功能
+剪影用 Snapseed 局部调整功能。
 

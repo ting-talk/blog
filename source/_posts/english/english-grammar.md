@@ -301,10 +301,6 @@ I could have caught that bus, only that I forgot to get any money out.
 
 
 
-
-
-
-
 ## 特殊结构
 
 - She was the only person to survive the air crash.
