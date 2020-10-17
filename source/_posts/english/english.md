@@ -725,16 +725,25 @@ I'm done being the voice of reason. 我真受够了一直做个理智的人。
 
 ### Duck
 
-（快速低头或弓身以）躲闪
+**（快速低头或弓身以）躲闪**
 
 - Duck! Down! Hold on, hold on. 
   快趴下！快趴下！抓紧！抓紧！
 - He ducked in time to avoid a blow. 
   他及时地弯下身，躲开了一击。
 
+**sitting duck 活靶子；易被击中的目标；易受攻击的对象**
 
+一只正在飞的鸭子可不容易打到它；然而一只浮在水面上的鸭子（或煮熟的鸭子）却是一个很容易击中的目标。
 
+- We're sitting ducks! 
+  我们现在就是活靶子啊!
 
+- With their bullets all gone, the soldiers were sitting ducks for the enemy.
+  子弹全打光了，战士们成了敌人的活靶子。
+
+- You don't want to be a sitting duck when the shooter gets here. 
+  枪手来时，你可不想成为显眼目标。
 
 ### Dump
 

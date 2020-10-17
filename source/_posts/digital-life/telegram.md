@@ -133,6 +133,10 @@ Telegram 的中文搜索是以「词」为单位的，以标点符号或空格�
 
 欢迎各位读者逃离微信（[Escape from the WeChat](https://theinitium.com/article/20200619-technology-escape-from-wechat/)），转移到没有监控和审查的地方 ，一起在这片乐土上过上~~没羞没臊~~体面的数字生活。
 
+![reply-by-durov](telegram/reply-by-durov.png)
+
+> 在 [Durov's Chat](https://t.me/durovschat) 用中式英语给教程做推广，受到 [Pavel 的肯定](https://t.me/durovschat/283)。
+
 
 
 
@@ -459,7 +463,7 @@ Telegram 有一个非常人性化的特性：**记忆浏览进度**，打开对�
 
 
 - 消息可以无限期撤回（[Delete Messages](https://telegram.org/faq#q-can-i-delete-my-messages)）：删除信息时，勾选 `Also delete for ***`，聊天记录就可以双向删除。
-- 选择部分消息（[Select Parts of Messages](https://telegram.org/blog/verifiable-apps-and-more#select-parts-of-messages)）：长按 2 次消息，可选择部分文字，而不是复制全文。
+- 选择部分消息（[Select Parts of Messages](https://telegram.org/blog/verifiable-apps-and-more#select-parts-of-messages)）：长按 2 次消息，可选择部分文字，而不是复制全文（Copy Selected Text）。
 
 
 
@@ -536,7 +540,6 @@ Telegram 有一个非常人性化的特性：**记忆浏览进度**，打开对�
 
 - **快速多选**：在对话界面的空白位置，按着鼠标左键不放，即可多选信息，然后选择转发或者删除。
 - **链接直达**：按住 `Ctrl` 再点击 URL，直接打开链接，不必弹窗确认（Open this link? CANCEL / OPEN）。
-- **多用户切换**：不再是手机版的专属功能。
 
 
 
@@ -740,6 +743,7 @@ https://rsshub.app/telegram/channel/tingtalk
 | [Telegram News](https://t.me/telegram)                | 👍 电报官方新闻频道。                                         |
 | [Durov's Channel](https://t.me/durov)                 | 👍 杜罗夫（Telegram 创始人和 CEO）的频道。                    |
 | [Telegram APKs for Android](https://t.me/TAndroidAPK) | Official channel for Telegram Android APKs. You can also download them [here](https://telegram.org/dl/android/apk). |
+| [Telegram Designers](https://t.me/designers)          | 向电报提你想要的功能 [@design_bot](https://t.me/design_bot)  |
 | [ISIS Watch](https://t.me/ISISwatch)                  | 电报官方反恐频道：[每日汇报有多少恐怖组织相关的频道被封了](https://t.me/isiswatch/2)。 |
 | [Trending Stickers](https://t.me/TrendingStickers)    | Telegram 又新增了哪些表情包。                                |
 | [紙飛機](https://t.me/tgflight)                       | 欢迎搭乘纸飞机，Porsche 和你聊聊 Telegram 的大小事。[播客 RSS 订阅链接](https://feeds.buzzsprout.com/837646.rss)。 |
@@ -1036,9 +1040,9 @@ Bots 就像运行在 Telegram 内部的小程序。借助 [Telegram 开放的 AP
 
 
 
-## 👥 群组管理
+## 👥 [群组管理](https://telegram.org/tour/groups)
 
-[Groups](https://telegram.org/tour/groups) 一般超过 3 个人，有人就会开始沉默。因此，我加入的群比较少。
+庭说的群组是 [@tingtalk_group](https://t.me/tingtalk_group)
 
 - 群组人数最高 20 万。
 - 静音群组只有在 `@` 提到你、 `Reply` 回复你和 `Pin` 管理员发布群通知时才会收到通知。

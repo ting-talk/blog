@@ -15,17 +15,22 @@ date: 2017-07-15 11:03:10
 
 
 
-
 ## 联系我
+
+### 沟通
 
 - Email：tingtalk.me(at)gmail.com
 - Telegram：[@tingtalkme](https://t.me/tingtalkme)
-- Telegram 频道：[@tingtalk](https://t.me/tingtalk)
 - Telegram 群组：[@tingtalk_group](https://t.me/tingtalk_group)
-- Twitter：[@tingtalkme](https://twitter.com/tingtalkme)
-- 微信号：`tingtalkme`。
-  - 接头暗号：`博客` ，通过好友申请后，可告诉我你是从哪里得知庭说的（非必须）。
+- 微信号：`tingtalkme`
+  - 接头暗号：`博客` ，通过好友申请后，可以告诉我是从哪里得知庭说的（非必须）。
   - 接头暗号：`博客 + 进群`，邀请你加入不活跃且充满审查的「庭说读者群」。
+
+### 订阅
+
+- Telegram 频道：[@tingtalk](https://t.me/tingtalk)
+- Newsletter：[tingtalk.substack.com](https://tingtalk.substack.com/)
+- Twitter：[@tingtalkme](https://twitter.com/tingtalkme)
 - 公众号：扫描下方的二维码，关注「庭说 TingTalk 」。
 
 ![wechat-mp-qr-code-white.jpg](https://i.loli.net/2020/04/16/Y9bCMpH3lojRaTG.jpg)

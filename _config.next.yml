@@ -273,7 +273,8 @@ reward:
 follow_me:
   #Twitter: https://twitter.com/username || fab fa-twitter
   Telegram: https://t.me/tingtalk || fab fa-telegram
-  WeChat: /images/wechat_channel.jpg || fab fa-weixin
+  Newsletter: https://tingtalk.substack.com/ || fab fa-envelope
+  #WeChat: /images/wechat_channel.jpg || fab fa-weixin
   RSS: /atom.xml || fa fa-rss
 
 # Related popular posts
