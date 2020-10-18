@@ -18,21 +18,9 @@ tags: 突破网络审查
 
 番茄是一种恶魔果实，可以让食用者得到一种特殊的能力：越过长城，走向世界，访问任何一个网站（例如 Google、YouTube、Twitter 等）。但是，如果在中国大陆吃番茄，请注意以下事项。
 
-### 🚫 远离国产流氓软件
-
-它们不仅会上报给网管（城管）谁在吃番茄，还会偷偷地在你的番茄里下毒。如果你打不开本文中的链接，很可能就是它们搞的鬼。
-
-| ✔️                                                      | ❌                        |
-| :----------------------------------------------------------- | :------------------------------ |
-| [火绒安全](https://www.huorong.cn/) <br/>Windows 10 自带的安全中心 | 360 安全卫士<br />腾讯电脑管家<br />金山毒霸<br />…… |
-| [Google Chrome](https://www.google.cn/chrome/)（谷歌浏览器）<br/>[Firefox](https://www.mozilla.org/zh-CN/firefox/)（火狐浏览器）<br/>[Microsoft Edge](https://www.microsoftedgeinsider.com/en-us/)（Windows 10 自带） | 360 浏览器<br />QQ 浏览器<br />搜狗浏览器<br />UC 浏览器<br />…… |
-| Windows 10 自带的拼音 / 五笔输入法 | 搜狗输入法 <br/>QQ 输入法 <br/>百度输入法<br/>…… |
-
-关联阅读：[Windows 电脑佳软推荐](https://tingtalk.me/windows/)。
 
 
-
-### 🙊 审查就在你的身边
+**🙊 审查就在你的身边**
 
 出海冲浪（Surfing the internet）是为了工作、学习、娱乐和提高网络生活质量，请勿违反法律法规，发布违反国家相关法律法规及「九不准」管理规定的信息，如：
 - 反对宪法所确定的基本原则危害国家安全；
@@ -59,7 +47,7 @@ Ting 我 Talk 一句：只要肉身在中国大陆，我们的一切行动听党
 
 [点击这里](https://tingtalk.me/fq-free/) 查看免费的番茄商（推荐使用迷雾通） ，如果本文中提供的番茄购买链接被封了，可以作为临时的备用访问途径，不推荐长期使用。因为时间宝贵，请对自己好一点。
 
-我目前的主力出海工具是 ssrcloud，多年老机场，节点不少，价格适中，还行。
+我目前的主力出海工具是 ssrcloud，多年老机场，节点不少，价格适中，目前还行。
 
 
 
@@ -72,6 +60,7 @@ Ting 我 Talk 一句：只要肉身在中国大陆，我们的一切行动听党
 - 邀请码是 `iQuU`
 - 通过我的邀请链接注册，你可能会获得 ￥1 的初始出海资金。
 - 备用注册链接：https://cnix-gov-cn.com/auth/register?code=iQuU
+- 官网不是一成不变的，最新的官网，刷新订阅，即可看到某个节点中看到。
 
 注册后，登录。
 
@@ -109,6 +98,8 @@ Android 用户推荐使用 ShadowsocksR 客户端，但是也可以把 Clash for
 - Telegram 群组（备用）：https://t.me/mikucloud
 - Telegram 通知频道：https://t.me/googlessrr
 
+
+
 ### 🔁 续费
 
 目前 ssrcloud 不支持自动续费，请在账号到期前重新购买套餐。如果觉得每月都要重复操作，可以购买季付或者年付套餐。
@@ -128,15 +119,14 @@ Android 用户推荐使用 ShadowsocksR 客户端，但是也可以把 Clash for
 
 ## 🍅 吃番茄
 
-先按照番茄商提供的教程食用番茄，本章节是进阶文字教程，作为补充。
+先按照番茄商提供的教程食用番茄，本章节是纯文字教程，作为官方指南的补充。
 
 **图文教程请参阅**
 
 - [rixCloud 帮助文档](https://rixcloudkb.io/)
 - [Dler Cloud 文档中心](https://docs.dler.io/black-hole/)
+- [全球互联交互 - 帮助中心](https://world.crisp.help/zh/)
 - [使用教程汇总 - 神奇海螺](https://wiki.kache.moe/2019/12/17/%E6%95%99%E7%A8%8B%E6%B1%87%E6%80%BB/)
-
-
 
 
 
@@ -182,6 +172,20 @@ Android 用户推荐使用 ShadowsocksR 客户端，但是也可以把 Clash for
 
 - [订阅链接转换 API](https://bianyuan.xyz/)
 - [ClashR News](https://telegra.ph/ClashR-03-06)
+
+
+
+**🚫 远离国产流氓软件**
+
+它们不仅会上报给网管（城管）谁在吃番茄，还会偷偷地在你的番茄里下毒。如果你打不开本文中的链接，很可能就是它们搞的鬼。
+
+| ✔️                                                            | ❌                                                            |
+| :----------------------------------------------------------- | :----------------------------------------------------------- |
+| [火绒安全](https://www.huorong.cn/) <br/>Windows 10 自带的安全中心 | 360 安全卫士<br />腾讯电脑管家<br />金山毒霸<br />……         |
+| [Google Chrome](https://www.google.cn/chrome/)（谷歌浏览器）<br/>[Firefox](https://www.mozilla.org/zh-CN/firefox/)（火狐浏览器）<br/>[Microsoft Edge](https://www.microsoftedgeinsider.com/en-us/)（Windows 10 自带） | 360 浏览器<br />QQ 浏览器<br />搜狗浏览器<br />UC 浏览器<br />…… |
+| Windows 10 自带的拼音 / 五笔输入法                           | 搜狗输入法 <br/>QQ 输入法 <br/>百度输入法<br/>……             |
+
+关联阅读：[Windows 电脑佳软推荐](https://tingtalk.me/windows/)。
 
 
 
