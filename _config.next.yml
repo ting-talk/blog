@@ -172,13 +172,15 @@ site_state: true
 # Key is the link label showing to end users.
 # Value before `||` delimiter is the target permalink, value after `||` delimiter is the name of Font Awesome icon.
 social:
-  Telegram: https://t.me/tingtalk || fab fa-telegram
-  #GitHub: https://github.com/yourname || fab fa-github
-  E-Mail: mailto:tingtalk.me(at)gmail.com || fa fa-envelope
+  Telegram: https://t.me/tingtalkme || fab fa-telegram
+  Email: mailto:tingtalk.me(at)gmail.com || fa fa-envelope
   RSS: https://tingtalk.me/atom.xml || fa fa-rss
+  Newsletter: https://tingtalk.substack.com/ || far fa-newspaper
+  公众号: /images/wechat_channel.jpg || fab fa-weixin
+  Twitter: https://twitter.com/tingtalkme || fab fa-twitter
+  #GitHub: https://github.com/yourname || fab fa-github
   #Weibo: https://weibo.com/yourname || fab fa-weibo
   #Google: https://plus.google.com/yourname || fab fa-google
-  #Twitter: https://twitter.com/tingtalkme || fab fa-twitter
   #FB Page: https://www.facebook.com/yourname || fab fa-facebook
   #StackOverflow: https://stackoverflow.com/yourname || fab fa-stack-overflow
   #YouTube: https://youtube.com/yourname || fab fa-youtube
