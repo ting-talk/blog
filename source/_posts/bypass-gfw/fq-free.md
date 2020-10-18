@@ -72,4 +72,17 @@ tags: 突破网络审查
 
 
 
+## V2.FREEOK.XYZ
+
+https://cnplus.xyz/
+
+https://v2.freeok.xyz/
+
+- 首家免费 V2Ray 服务，支持 SS、SR 和 V2Ray。
+- 提供百+节点和G口带宽。
+- 所有捐赠全部用于网站建设，非营利站点。
+  
+
+
+
 > 🔗关联阅读：[零基础的小白到底如何翻墙？- TSBBLOG](https://tsb2blog.com/contingency-plan-for-internet-censorship-circumvention.html)

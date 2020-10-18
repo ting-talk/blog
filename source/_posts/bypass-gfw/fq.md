@@ -92,11 +92,19 @@ Android 用户推荐使用 ShadowsocksR 客户端，但是也可以把 Clash for
 
 ### 💁 售后
 
-有问题，加入 [Telegram](https://tingtalk.me/telegram/) 群组，呼叫管理员：
+**公告**
+
+- Telegram 通知频道：https://t.me/googlessrr
+
+**客服**
+
+- 在 Telegram 上联系售后客服：[@cnix01](https://t.me/cnix01)
+- 无法私聊时，请联系 [@cnix_support_pm_bot](https://t.me/cnix_support_pm_bot)
+
+**群组**
 
 - Telegram 群组（主群）：https://t.me/ssrcloud
 - Telegram 群组（备用）：https://t.me/mikucloud
-- Telegram 通知频道：https://t.me/googlessrr
 
 
 

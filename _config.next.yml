@@ -174,10 +174,10 @@ site_state: true
 social:
   Telegram: https://t.me/tingtalkme || fab fa-telegram
   Email: mailto:tingtalk.me(at)gmail.com || fa fa-envelope
+  Twitter: https://twitter.com/tingtalkme || fab fa-twitter
   RSS: https://tingtalk.me/atom.xml || fa fa-rss
   Newsletter: https://tingtalk.substack.com/ || far fa-newspaper
   公众号: /images/wechat_channel.jpg || fab fa-weixin
-  Twitter: https://twitter.com/tingtalkme || fab fa-twitter
   #GitHub: https://github.com/yourname || fab fa-github
   #Weibo: https://weibo.com/yourname || fab fa-weibo
   #Google: https://plus.google.com/yourname || fab fa-google

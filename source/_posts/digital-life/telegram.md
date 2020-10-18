@@ -16,7 +16,7 @@ tags: [网上冲浪指南, 突破网络审查, Telegram]
 
 💡 全文有一万五千多字，善用右侧的目录栏和查找功能（`Ctrl` + `F`），助你定位想要看到的内容。
 
-📁 tingtalk.me 在 2020-04-04 被墙了，如需在墙内传阅，请前往 [蓝奏云](https://wwa.lanzous.com/b00twozof) 下载本文的 PDF。
+📁 tingtalk.me 在 2020-04-04 被墙了，如需在墙内传阅，请访问 [IPFS](https://ipfs.eternum.io/ipfs/QmNoPwZ7nBaptCcwC2eTFBfNJjNdwwEAbK7LufkSvXL9Pk) 或前往 [蓝奏云](https://wwa.lanzous.com/b00twozof) 下载本文的 PDF。
 
 ✍️ 如需下载可编辑的 Markdown 源文档，请访问 [庭说的 GitHub 仓库](https://raw.githubusercontent.com/ting-talk/blog/master/source/_posts/digital-life/telegram.md)。
 
@@ -750,6 +750,7 @@ https://rsshub.app/telegram/channel/tingtalk
 | [紙飛機](https://t.me/tgflight)                       | 欢迎搭乘纸飞机，Porsche 和你聊聊 Telegram 的大小事。[播客 RSS 订阅链接](https://feeds.buzzsprout.com/837646.rss)。 |
 | [TGgeek](https://t.me/TGgeek)                         | TG 极客：分享 Telegram 使用技巧、重要资讯、常见问答、中文汉化、版本更新等信息。 |
 | [Anti Revoke Plugin](https://t.me/AntiRevoke)         | Telegram 本地消息防撤回插件，安全性未知。[GitHub 项目地址](https://github.com/SpriteOvO/Telegram-Anti-Revoke/blob/master/README-CN.md)。 |
+| [SCP-079-INFO](https://t.me/SCP_079_INFO)             | 免费并开源的群组管理机器人，需 [申请](https://scp-079.org/ApplyForUse/) 通过后才能使用。[查看项目介绍](https://scp-079.org/readme/)。 |
 
 
 
@@ -1106,7 +1107,7 @@ Bots 就像运行在 Telegram 内部的小程序。借助 [Telegram 开放的 AP
 
 
 
-## 🤿 Telegraph
+## 😎 Telegraph
 
 [Telegraph](https://telegra.ph/) 一个极简的匿名内容发布工具（[Minimalist publishing tool](https://telegram.org/blog/telegraph)）。
 
