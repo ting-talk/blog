@@ -45,14 +45,39 @@ tags: [网上冲浪指南, 突破网络审查, Telegram]
 ### 👍 近乎完美
 
 - **[高度加密](https://telegram.org/faq#q-what-are-your-thoughts-on-internet-privacy)**：安全性极高的大众化即时沟通软件，使用独有的网络传输协议 [MTProto](https://core.telegram.org/mtproto)。
-- **[没有审查](https://telegram.org/faq#q-wait-0-o-do-you-process-take-down-requests-from-third-parties)**：不用担心被封号，[除非执法调查单位能证明用户是恐怖分子](https://telegram.org/faq#q-there-39s-illegal-content-on-telegram-how-do-i-take-it-down)。
-- **云端同步**：聊天历史无缝同步到所有的设备上（Cloud Storage）。纵使设备损坏，但数据固若金汤（Secret Chat 除外）。
-- **[不占内存](https://telegram.org/blog/cache-and-stickers)**：不必在设备上存储所有的聊天记录，因为数据一直保存在云端，你随时可以取回来，你也可以完全删除。
-- **超大群聊**：封顶 20 万人，配合各种管理工具（例如限制发言间隔），让大型申请群的交流井井有条。
-- **[表情贴纸](https://telegram.org/blog/animated-stickers)**：采用 [矢量](https://tingtalk.me/raster-to-vector/) 格式，高清而富有趣味；支持自制表情包（[Custom Sticker Sets](https://telegram.org/blog/stickers-revolution)）并用 Emoji 调用。
-- **中文搜索**：🎉 从 2020 年 10 月 18 日起，Telegram 终于支持部分中文搜索了。
 
-不过还是只能用手机号码注册 Telegram：
+- **[没有审查](https://telegram.org/faq#q-wait-0-o-do-you-process-take-down-requests-from-third-parties)**：不用担心被封号，[除非执法调查单位能证明用户是恐怖分子](https://telegram.org/faq#q-there-39s-illegal-content-on-telegram-how-do-i-take-it-down)。
+
+- **云端同步**：聊天历史无缝同步到所有的设备上（Cloud Storage）。纵使设备损坏，但数据固若金汤（Secret Chat 除外）。
+
+- **[不占内存](https://telegram.org/blog/cache-and-stickers)**：不必在设备上存储所有的聊天记录，因为数据一直保存在云端，你随时可以取回来，你也可以完全删除。
+
+- **超大群聊**：封顶 20 万人，配合各种管理工具（例如限制发言间隔），让大型申请群的交流井井有条。
+
+- **[表情贴纸](https://telegram.org/blog/animated-stickers)**：采用 [矢量](https://tingtalk.me/raster-to-vector/) 格式，高清而富有趣味；支持自制表情包（[Custom Sticker Sets](https://telegram.org/blog/stickers-revolution)）并用 Emoji 调用。
+
+  
+
+**中文搜索体验差**
+
+Telegram 的中文搜索是以「词」为单位的，以标点符号或空格作为词的间隔。如何改善：
+
+辜鸿铭说过：`真正的自由，并不意味着可以随心所欲，而是可以自由地做正确的事情。` 
+
+在搜索框输入：
+
+- `真正的自由`
+- `并不意味着可以随心所欲`
+- `而是可以自由地做正确的事情`
+
+都可搜到这条历史信息，因为标点符号充当了分词符。
+
+> 关联阅读：[为什么 Telegram 不能搜索中文讯息 - 翁君牧](https://medium.com/@nevik.w39/%E7%82%BA%E4%BB%80%E9%BA%BC-telegram-%E4%B8%8D%E8%83%BD%E6%90%9C%E5%B0%8B%E4%B8%AD%E6%96%87%E8%A8%8A%E6%81%AF-6b7d07690e6f)
+
+
+
+**能用手机号码注册 Telegram**
+
 - 国外：手机号不用实名制，相对安全。
 - 国内：通过 Google Voice 注册电报，也可以绕开私聊限制。
 
