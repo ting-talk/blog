@@ -1,8 +1,8 @@
 ---
 
-title: 如何注册 Google（谷歌）帐号
+title: 如何注册 Google（谷歌）账号
 date: 2020-06-11  
-updated: 2020-06-11
+updated: 2020-10-11
 categories: 数字生活   
 tags: 网上冲浪指南
 ---
@@ -13,10 +13,15 @@ tags: 网上冲浪指南
 
 <!-- more -->
 
+如果以下方法失效了，请前往 YouTube 搜索最新的 [谷歌账号注册方法](https://www.youtube.com/results?search_query=%E6%B3%A8%E5%86%8C+%E8%B0%B7%E6%AD%8C&sp=EgIIBA%253D%253D)。
 
-## 方法一（百试百灵）
 
-`2020-04-02`
+
+## 亲测成功的方法
+
+### 通过 Google 框架注册
+
+2020 4 月 2 日亲测。
 
 1. 在 Android 手机上下载 [Go 谷歌安装器](https://www.coolapk.com/apk/com.goplaycn.googleinstall)。
 2. 借助「Go 谷歌安装器」安装 Google 三件套（Google 服务框架、Google Play 服务、Google Play 商店 ）。
@@ -27,9 +32,10 @@ tags: 网上冲浪指南
 手动安装 Google 三件套的方法：[小米 9 安装谷歌商店（Google Play Store）与相关配置 - jdhao](https://jdhao.github.io/2019/05/04/mi9_google_play_configure/)
 
 
-## 方法二（亲测成功）
 
-`2020-06-11`
+### 通过 YouTube 注册
+
+2020 6 月 11 日亲测。
 
 1. 打开手机 / 电脑上浏览器，例如 Chrome 。
 2. 打开无痕模式。
@@ -37,21 +43,24 @@ tags: 网上冲浪指南
 4. 注册 Google 帐号。
 
 
-## 方法三（暂未测试）
 
-通过 Chrome（谷歌浏览器）注册 Google 帐号。
+### 通过 Microsoft Edge 注册
 
+[青平散人](https://ccafder.com/) 亲测。
 
-
-## 方法四（暂未测试）
-
-不使用美国的节点访问谷歌，改用香港等地区线路试试。
-
+1. 使用 Microsoft Edge 浏览器
+2. 把 google.com 的语言切换为 English
+3. 注册
 
 
-## 方法五（暂未测试）
 
-在电话号码验证界面，地区保持 `美国` 不变，不要更改为 `中国`，直接在手机号前加上 `+86`。
+## 暂未亲测的方法
+
+- 通过 Chrome（谷歌浏览器）注册 Google 帐号。
+- 不使用美国的节点访问谷歌，改用香港等地区线路试试。
+- 在电话号码验证界面，地区保持 `美国` 不变，不要更改为 `中国`，直接在手机号前加上 `+86`。
+
+
 
 
 

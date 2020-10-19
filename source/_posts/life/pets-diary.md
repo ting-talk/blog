@@ -33,6 +33,10 @@ tags: [宠物, 随手记]
 | 2020-07-18 | 全价幼猫粮 5.4 kg         | 网易严选   | ￥227.98 | 京东     |
 | 2020-08-09 | 自动饮水器 3.8 L          | 迈仕       |  ￥15.90 | 天猫     |
 
+[如何跟猫猫建立良好的关系](https://archive-stage.sussex.ac.uk/news/press-releases/id/53423)：慢速地朝它眨眼，并靠近它。
+
+
+
 **关联阅读**
 
 - [三花猫（Calico Cat）花色形成的原因（上）](https://highscope.ch.ntu.edu.tw/wordpress/?p=1168)
