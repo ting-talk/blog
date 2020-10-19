@@ -50,7 +50,7 @@ tags: [网上冲浪指南, 突破网络审查, Telegram]
 - **[不占内存](https://telegram.org/blog/cache-and-stickers)**：不必在设备上存储所有的聊天记录，因为数据一直保存在云端，你随时可以取回来，你也可以完全删除。
 - **超大群聊**：封顶 20 万人，配合各种管理工具（例如限制发言间隔），让大型申请群的交流井井有条。
 - **[表情贴纸](https://telegram.org/blog/animated-stickers)**：采用 [矢量](https://tingtalk.me/raster-to-vector/) 格式，高清而富有趣味；支持自制表情包（[Custom Sticker Sets](https://telegram.org/blog/stickers-revolution)）并用 Emoji 调用。
-- **中文搜索**：🎉 从 2020 年 10 月 18 日起，Telegram 终于支持中文搜索了。
+- **中文搜索**：🎉 从 2020 年 10 月 18 日起，Telegram 终于支持部分中文搜索了。
 
 不过还是只能用手机号码注册 Telegram：
 - 国外：手机号不用实名制，相对安全。
