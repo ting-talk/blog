@@ -115,7 +115,7 @@ Telegram 的中文搜索是以「词」为单位的，以标点符号或空格�
 
 既然说不动认识我的人，但世界那么大，人口那么多，网络世界上一定有一群人，Ta 们和我一样，反感「温室园丁」不透明的做法，不愿做一只数字农场里的电子绵羊，相信「自由价更高」。
 
-我要当一个 [踹车轮](https://kenengba.com/post/3393.html) 的人，为我心中的理想世界投票。因此我熬了几个月，把 Telegram 官网的 [FAQ](https://telegram.org/faq) 和 [Blog](https://telegram.org/blog) 全部看完了（从 2013 年创立至今），结合 Google 搜索引擎，整理出这篇~~可能是~~中文互联网内容最详细排版最精美的《电报指南》，目的就是尽可能地为读者呈现 Telegram 的强大、私密以及友好的用户体验，Make Telegram great again。
+我要当一个 [踹车轮](https://kenengba.com/post/3393.html) 的人，为我心中的理想世界投票。因此我熬了几个月，把 Telegram 官网的 [FAQ](https://telegram.org/faq) 和 [Blog](https://telegram.org/blog) 全部看完了（从 2013 年创立至今），结合 Google 搜索引擎旁征博引，整理出这篇~~可能是~~中文互联网内容最翔实，排版最精美的《电报指南》，目的就是尽可能地为读者呈现 Telegram 的强大、私密以及友好的用户体验，Make Telegram great again。
 
 > 2016 年国庆，我花了一周时间看完了「即刻 app」的所有主题（圈子），写了一篇三千多字文章：《即刻 App - 不再错过你感兴趣的资讯》([图文版](https://wemp.app/posts/6e4830bc-845d-4f2c-ad78-959c9a89e4eb) | [文字版](https://tingtalk.me/mp-archives/)）。~~即刻已经没有复活的可能了~~（[即刻 App](https://m.okjike.com/download) 居然在 2020 年 6 月 10 日回来了，但是缺失了话题追踪功能），Telegram 顺势成了新的资讯中心。
 
