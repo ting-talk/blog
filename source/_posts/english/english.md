@@ -919,6 +919,13 @@ In spite of being elected to office, she remains first and foremost a writer. �
 
 
 
+### Fish
+
+`have bigger fish to fry` 另有要事要办
+
+- Relax, darling. Our problem is soon to be solved, but now we’ve got bigger fish to fry.
+  放心好了，亲爱的。我们的问题不久就会解决的，但是现在我们另有重要的事要办。
+
 
 
 
@@ -926,20 +933,11 @@ In spite of being elected to office, she remains first and foremost a writer. �
 
 可疑的
 
-- There seems to be something fishy going on. 
-  好像有可疑的事情发生。
-
 - There's something fishy going on here. 
   这儿的情况有点不大对头。
 
 - Something is fishy, don't you think so?
   有点可疑啊，你不觉得吗？
-
-- Well, it does look a little fishy. 
-  看着 有点奇怪。
-
-- Fishy? It couldn't be more obvious. 
-   什么奇怪啊？这不明摆的吗。
 
 
 
@@ -1411,6 +1409,18 @@ Looks like some sort of legally safe knock-off of an '80s horror character with 
 - miniature /ˈmɪnɪtʃə/ 微型的
 
 ## L
+
+### Lame
+
+瘸的；站不住脚的；无说服力的
+
+- This party was lame. 
+  这派对糟透了。
+
+- " Limited seating" . That's such a lame excuse. 
+  「座位有限」那真是个烂借口。
+
+
 
 ### Late
 
@@ -2008,10 +2018,24 @@ Okay. Let's not rehash that fight.  好吧，这个问题咱别再吵了。
 
 
 
+### Revolve
+
+旋转；转动；环绕；围绕
+
+- The earth revolves around the sun.
+  地球围绕太阳转。
+
+`revolve around` 以…为中心
+
+- The world doesn't revolve around you, bitch. 
+  世界又不是光绕着你一个人转 贱人。
+
+
+
 ### Road
 
-Two roads diverged in a wood, and I took the one less traveled by, and that has made all the difference.
-一片树林里分出两条路，而我选择了人迹更少的一条，从此决定了我一生的道路。by Robert Frost
+- Two roads diverged in a wood, and I took the one less traveled by, and that has made all the difference.
+  一片树林里分出两条路，而我选择了人迹更少的一条，从此决定了我一生的道路。by Robert Frost
 
 
 
