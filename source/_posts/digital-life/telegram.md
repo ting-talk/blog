@@ -809,26 +809,27 @@ https://rsshub.app/telegram/channel/tingtalk
 
 ### 📚 独立博主
 
-| 频道                                            | 详情                                                         |
-| ----------------------------------------------- | ------------------------------------------------------------ |
-| [庭说](https://t.me/tingtalk)                   | 👍 第一时间获取博客的更新通知以及碎片化思考。                 |
-| [小破不入渠](https://t.me/forwardlikehell)      | 👍 科技评论人 Jesse Chan，博客是 [大破进击](https://jesor.me/)。 |
-| [一天世界](https://t.me/yitianshijie)           | 👍 [一天世界](https://yitianshijie.net/)，昆乱不挡。不鸟万如一主理。IPN 出品。 |
-| [caoz 的梦呓](https://t.me/caozsay)             | 👍 认识曹政之后，感觉互联网终于入门了。by Fenng               |
-| [ZUOLUOTV](https://t.me/zuoluotvofficial)       | 👍 科技 / 旅行 / 摄影 / 生活方式 / [博客](https://luolei.org/) |
-| [不求甚解](https://t.me/fakeye)                 | 👍 [Newlearnerの自留地](https://t.me/NewlearnerChannel) 编辑；设计师 [oooooohmygosh](https://space.bilibili.com/38053181) 的代言人。 |
-| [小道消息](https://t.me/WebNotes2)              | 大道无形，小道消息；[公众号备份站点](https://hutu.me/)。     |
-| [卖桃者说](https://t.me/mactalk)                | 博客是 [MacTalk](http://macshuo.com/)：池建强的随想录关注技术和人文。 |
-| [数字移民](https://t.me/shuziyimin)             | 无法肉身移民的情况下，在数字生活上追求一定的自由；[博客](https://blog.shuziyimin.org/)。 |
-| [Real Spencer Woo](https://t.me/realSpencerWoo) | 开发者 / 设计师 / 少数派 / 学生 / [博客](https://blog.spencerwoo.com/)。 |
-| [Sukka's Notebook](https://t.me/SukkaChannel)   | Belongs to [Hexo](https://github.com/hexojs) dev team / [博客](https://blog.skk.moe/)。 |
-| [扫地僧笔记](https://t.me/lover_links)          | 每天所见所闻所想，是个树洞。                                 |
-| [一方天地](https://t.me/world2us)               | 心留一方天地，世界依旧美好。                                 |
-| [湾区日报](https://t.me/wanqu_official)         | 关注创业与技术，不定期推送 5 篇优质英文文章。                |
-| [海龙说](https://t.me/haotalk)                  | 牢记梦想，自然生长。by [郝海龙的博客](https://haohailong.net/) |
-| [荔枝木](https://t.me/lychee_wood)              | 这个世界很复杂，我尝试着去理解它。                           |
-| [KAIX.IN](https://t.me/kaix_in)                 | 思考碎片，[博客](https://kaix.in/) 更新。                    |
-| [TSBBLOG](https://t.me/tsbblog)                 | [影子的博客](https://tsb2blog.com/)：独立观察及记录。        |
+| 频道                                                      | 详情                                                         |
+| --------------------------------------------------------- | ------------------------------------------------------------ |
+| [庭说](https://t.me/tingtalk)                             | 👍 第一时间获取博客的更新通知以及碎片化思考。                 |
+| [小破不入渠](https://t.me/forwardlikehell)                | 👍 科技评论人 Jesse Chan，博客是 [大破进击](https://jesor.me/)。 |
+| [一天世界](https://t.me/yitianshijie)                     | 👍 [一天世界](https://yitianshijie.net/)，昆乱不挡。不鸟万如一主理。IPN 出品。 |
+| [caoz 的梦呓](https://t.me/caozsay)                       | 👍 认识曹政之后，感觉互联网终于入门了。by Fenng               |
+| [ZUOLUOTV](https://t.me/zuoluotvofficial)                 | 👍 科技 / 旅行 / 摄影 / 生活方式 / [博客](https://luolei.org/) |
+| [不求甚解](https://t.me/fakeye)                           | 👍 [Newlearnerの自留地](https://t.me/NewlearnerChannel) 编辑；设计师 [oooooohmygosh](https://space.bilibili.com/38053181) 的代言人。 |
+| [小道消息](https://t.me/WebNotes2)                        | 大道无形，小道消息；[公众号备份站点](https://hutu.me/)。     |
+| [卖桃者说](https://t.me/mactalk)                          | 博客是 [MacTalk](http://macshuo.com/)：池建强的随想录关注技术和人文。 |
+| [数字移民](https://t.me/shuziyimin)                       | 无法肉身移民的情况下，在数字生活上追求一定的自由；[博客](https://blog.shuziyimin.org/)。 |
+| [Real Spencer Woo](https://t.me/realSpencerWoo)           | 开发者 / 设计师 / 少数派 / 学生 / [博客](https://blog.spencerwoo.com/)。 |
+| [Sukka's Notebook](https://t.me/SukkaChannel)             | Belongs to [Hexo](https://github.com/hexojs) dev team / [博客](https://blog.skk.moe/)。 |
+| [扫地僧笔记](https://t.me/lover_links)                    | 每天所见所闻所想，是个树洞。                                 |
+| [一方天地](https://t.me/world2us)                         | 心留一方天地，世界依旧美好。                                 |
+| [湾区日报](https://t.me/wanqu_official)                   | 关注创业与技术，不定期推送 5 篇优质英文文章。                |
+| [海龙说](https://t.me/haotalk)                            | 牢记梦想，自然生长。by [郝海龙的博客](https://haohailong.net/) |
+| [荔枝木](https://t.me/lychee_wood)                        | 这个世界很复杂，我尝试着去理解它。                           |
+| [KAIX.IN](https://t.me/kaix_in)                           | 思考碎片，[博客](https://kaix.in/) 更新。                    |
+| [TSBBLOG](https://t.me/tsbblog)                           | [影子的博客](https://tsb2blog.com/)：独立观察及记录。        |
+| [AK 讲废话](https://t.me/joinchat/AAAAAEWbURDTisztrTcwqA) | 科普视频系列：[无线技术](https://www.youtube.com/watch?v=JVh6sUHRxjg&list=PLqybz7NWybwULxQ2xMyUND_x2ziMLbn7R)、[显示技术](https://www.youtube.com/watch?v=MVVQl0gJH-U&list=PLqybz7NWybwWcl_s-VLB_tXqbbBww6nbK)、[翻墙技术](https://www.youtube.com/watch?v=XKZM_AjCUr0&list=PLqybz7NWybwUgR-S6m78tfd-lV4sBvGFG)…… |
 
 [中文独立博客列表](https://github.com/timqian/chinese-independent-blogs) by timqian
 
