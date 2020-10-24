@@ -793,6 +793,7 @@ https://rsshub.app/telegram/channel/tingtalk
 | [每日消费电子观察](https://t.me/CE_Observe)          | 不公正，不客观，不理性。                                     |
 | [cnBeta](https://t.me/cnbeta_com)                    | cnBeta.COM 中文业界资讯站是一个提供 IT 相关新闻资讯、技术文章和评论的观点的中文网站。 |
 | [果核 Apple Nuts](https://t.me/AppleNuts)            | 一个果粉（[Hackl0us](https://hackl0us.com/)）的闲言碎语， 用来推送苹果（Apple） 相关的技术、新闻资讯、技巧、产品/软件心得体会等。 |
+| [APPDO 数字生活指南](https://t.me/appdodo)           | 优质数字生活指南，传递数码生活和设计理念。                   |
 | [AppPie](https://t.me/AppPieChannel)                 | Apple 相关的资讯和使用技巧。                                 |
 | [VPS 信号旗播报](https://t.me/vps_xhq)               | 关注 VPS 和通信自由。                                        |
 
