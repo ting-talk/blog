@@ -116,7 +116,7 @@ tags: 网上冲浪指南
 
 ### 运算符
 
-不想记以下指令，直接访问 [Google 高级搜索](https://www.google.com/advanced_search)。
+不想记以下指令，直接访问 [Google 高级搜索](https://www.google.com/advanced_search) 或者借助 [Funnel Search](https://chrome.google.com/webstore/detail/funnel-search/moncnfejkabmlhblomihhdoifkgpgkhh/related) 这个浏览器插件。
 
 
 

@@ -225,7 +225,7 @@ Telegram 的中文搜索是以「词」为单位的，以标点符号或空格�
 3. `Phone number`（手机号码）
 4. `Who can see my phone number`（谁可以看到我的手机号码：`Nobody` 不允许任何人）
 
-如对隐私有要求，或者彻底解除 +86 开头的手机号码的私聊限制，可以把手机号码换绑到非中国区的手机号码，例如 Google Voice：
+对隐私有要求，或者彻底解除 +86 开头的手机号码的私聊限制，可以把手机号码换绑到非中国区的手机号码，例如 Google Voice：
 
 1. [注册 Google 账号](https://tingtalk.me/google-account/)。
 2. 在 Google 或淘宝上搜索关键词 `Google Voice` 或 `GV` ，购买别人注册下来的号码。
@@ -233,13 +233,21 @@ Telegram 的中文搜索是以「词」为单位的，以标点符号或空格�
 
 
 
-更高的要求：
+对隐私有更高的要求：
 
 - 使用没有个人特征的头像（记得在个人资料里删除历史头像）、昵称和用户名，确保硅基身份不会和碳基身份产生关联。
+
 - 添加陌生人到通讯录，记得取消勾选 `Share my phone number`。
+
 - 不使用 Touch ID 或 Face ID 解锁你的手机，只以密码锁屏（数字 + 字母），以免被「执法人员」控制身体后强行解锁。
+
 - 使用 [Tor](https://www.torproject.org/)（The Onion Router、洋葱路由器）隐藏用户真实 IP 地址、避免网络监控及流量分析。
+
 - 开启 SIM（手机卡）密码（PIN 码），纵使别人捡到你的手机（卡），也不能启用 SIM，也就不能收到登录验证码。
+
+- 根据 Lawrence Abrams 的测试（[英文原文](https://www.bleepingcomputer.com/news/security/telegram-leaks-ip-addresses-by-default-when-initiating-calls/) | [嘶吼 RoarTalk 翻译](https://zhuanlan.zhihu.com/p/46210819)），当 Telegram 用户拨打 P2P 网络电话时，将会泄露 IP 地址。你可以通过如下设置禁用点对点通话：`Settings` > `Private and Security` > `Voice Calls` > `Peer-To-Peer` 为 Nobody来，或者仅选择你所信任的联系人。你依然可以使用电报通话，只是由于经过 Telegram 的服务器，通话质量会有所降低。
+
+  
 
 
 
