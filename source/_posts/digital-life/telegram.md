@@ -167,7 +167,7 @@ Telegram 的中文搜索是以「词」为单位的，以标点符号或空格�
 2. 选择 `CHANGE`（更改）
 3. 即可把界面语言替换为简体中文
 
-截至 2020 年 6 月 28 日，翻译已完成 87% 了，但不妨碍日常使用。
+截至 2020 年 11 月 01 日，翻译已完成 95% 了，但不妨碍日常使用。
 
 
 
@@ -634,6 +634,41 @@ Telegram 有一个非常人性化的特性：**记忆浏览进度**，打开对�
 
 
 
+### 📂[对话分组](https://telegram.org/blog/folders)
+
+从 `Settings` > `Folders` 进入 [分组管理](tg://settings/folders) 设置：
+
+- 最多创建 10 个分组。
+- 每个分组都能置顶无数个对话（[Unlimited Pins](https://telegram.org/blog/folders#unlimited-pins)）。
+
+默认分组：
+
+- Unread：未读消息组，快速消灭未读红点。
+- Personal：个人私聊组。
+
+Creat New Folder（新建分组）时有以下筛选条件可选：
+- Contacts（联系人） 
+- Non Contacts（非联系人）
+- Groups（群组）
+- Channels（频道）
+- Bots（机器人）
+- ……
+
+操作技巧：
+
+- 在对话列表界面，长按或者右击分组名可进行 Reorder（排序）、Edit（重命名）、Delete（删除）和 Mark ad read（标记为已读）等操作。
+- 在 Desktop 客户端中，切换分组的键盘快捷键是：
+  - Ctrl / Command + 1（对应第一个分组）
+  - Ctrl / Command + 2（第二分组）
+  - Ctrl / Command + 3（第三分组）
+  - ……
+
+
+
+
+
+
+
 ### 🔴 关闭通知
 
 1. `Settings`（设置）> `Notifications and Sounds`（通知和声音）。
@@ -905,7 +940,7 @@ https://rsshub.app/telegram/channel/tingtalk
 | [秋水逸冰](https://t.me/qiushuiyibing)             | [Teddysun](https://teddysun.com/about) 会不定期在此发布一些本人的作品。 |
 | [Shadowrocket News](https://t.me/ShadowrocketNews) | iOS 上小火箭                                                 |
 | [V2Fly](https://t.me/V2Fly)                        | Shadowsocks 是一个纯粹的代理工具，而 V2Ray 定位为一个平台，任何开发者都可以利用 V2Ray 提供的模块开发出新的代理软件。by [新 V2Ray 白话文指南](https://guide.v2fly.org/) |
-| [毒药机场评测](https://t.me/DuyaoSS)               | 由于大陆地区网络环境十分复杂，测速不代表推荐。               |
+| [毒药机场评测](https://t.me/DuyaoSS)               | 由于大陆地区网络环境十分复杂，测速不代表推荐。另外，有些机场会泄露个人信息，选购时多加搜索或者进入机场用户群打探打探。 |
 
 
 
@@ -997,6 +1032,8 @@ Bots 就像运行在 Telegram 内部的小程序。借助 [Telegram 开放的 AP
 - ……
 
 以上大部分 Bots 都能免费使用，保不齐哪天服务器撑不住，就停止运营了，所以记得定期导出 OPML 文件作为备份。
+
+如果有 VPS，[自己搭一个专用的 RSS Bot](https://www.google.com/search?q=telegram+rss+bot) 也是不错的选择。
 
 
 
