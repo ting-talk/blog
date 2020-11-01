@@ -948,6 +948,7 @@ IOC（International Olympic Committee，国际奥林匹克委员会）。这样�
 
 ## 参考资料
 
+- [中文技术文档写作风格指南 - yikeke](https://zh-style-guide.readthedocs.io/zh_CN/latest/)：比本篇写得更详细，推荐阅读。
 - [写作风格手册 - 好奇心日报](https://www.qdaily.com/articles/1397.html)
 - [中文技术文档的写作规范 - 阮一峰](https://github.com/ruanyf/document-style-guide)
 - [中文文案排版指北（简体中文版）](https://mazhuang.org/wiki/chinese-copywriting-guidelines/)
