@@ -2,7 +2,7 @@
 
 title: Telegram Animated Emoji List（电报动态大表情合集）
 date: 2020-03-01  
-updated: 2020-10-06  
+updated: 2020-10-31  
 categories: 数字生活  
 tags: [Telegram, 网上冲浪指南]
 
@@ -22,8 +22,7 @@ tags: [Telegram, 网上冲浪指南]
 - 🎯：扔飞镖 [darts](https://telegram.org/blog/400-million#bullseye) 
 - 🏀：投篮 basketball
 - ⚽：射门 [football](https://macos.telegram.org/#v6-3-1-2020-07-31)
-
-
+- 🎰：老虎机 [Jackpot](https://telegram.org/blog/pinned-messages-locations-playlists#jackpot)
 
 ## 😀
 
@@ -113,6 +112,12 @@ tags: [Telegram, 网上冲浪指南]
 | 👩‍⚕️             | [Woman Health Worker](https://emojipedia.org/woman-health-worker/) |
 | 👨‍⚕️             | [Man Health Worker](https://emojipedia.org/man-health-worker/) |
 | 👨‍🏫             | [Man Teacher](https://emojipedia.org/man-teacher/)           |
+| 🧛‍♀             | [Woman Vampire](https://emojipedia.org/woman-vampire/)       |
+| 🧛              | [Vampire](https://emojipedia.org/vampire/)                   |
+| 🧛‍♂️             | [Man Vampire](https://emojipedia.org/man-vampire/)           |
+| 🧟‍♀             | [Woman Zombie](https://emojipedia.org/woman-zombie/)         |
+| 🧟              | [Zombie](https://emojipedia.org/zombie/)                     |
+| 🧟‍♂             | [Man Zombie](https://emojipedia.org/man-zombie/)             |
 | 🤷‍♀️             | [Woman Shrugging](https://emojipedia.org/woman-shrugging/)   |
 | 🤷‍♂️             | [Man Shrugging](https://emojipedia.org/man-shrugging/)       |
 | 💑              | [Couple with Heart](https://emojipedia.org/couple-with-heart/) |
@@ -127,9 +132,14 @@ tags: [Telegram, 网上冲浪指南]
 | 🙈              | [See-No-Evil Monkey](https://emojipedia.org/see-no-evil-monkey/) |
 | 🙊              | [Speak-No-Evil Monkey](https://emojipedia.org/speak-no-evil-monkey/) |
 | 🐣              | [Hatching Chick](https://emojipedia.org/hatching-chick/)     |
+| 🦇              | [Bat](https://emojipedia.org/bat/)                           |
+| 🕷              | [Spider](https://emojipedia.org/spider/)                     |
+| 🕸              | [Spider Web](https://emojipedia.org/spider-web/)             |
 | 🎄              | [Christmas Tree](https://emojipedia.org/christmas-tree/)     |
 | 🌞              | [Sun with Face](https://emojipedia.org/sun-with-face/)       |
 | 🌝              | [Full Moon Face](https://emojipedia.org/full-moon-face/)     |
+| 🌛              | [First Quarter Moon Face](https://emojipedia.org/first-quarter-moon-face/) |
+| 🌜              | [Last Quarter Moon Face](https://emojipedia.org/last-quarter-moon-face/) |
 | 🌚              | [New Moon Face](https://emojipedia.org/new-moon-face/)       |
 | 🌕              | [Full Moon](https://emojipedia.org/full-moon/)               |
 | 🌖              | [Waning Gibbous Moon](https://emojipedia.org/waning-gibbous-moon/) |
@@ -157,10 +167,13 @@ tags: [Telegram, 网上冲浪指南]
 
 ## 🏀
 
-| Animated Emoji | Emojipedia                                                   |
-| -------------- | ------------------------------------------------------------ |
-| 🎲              | [Game Die](https://emojipedia.org/game-die/)（每次点数都不一样） |
-| 🎯              | [Direct Hit](https://emojipedia.org/direct-hit/)（飞镖游戏） |
+| Animated Emoji | Emojipedia                                           |
+| -------------- | ---------------------------------------------------- |
+| ⚽️              | [Soccer Ball](https://emojipedia.org/soccer-ball/)   |
+| 🏀              | [Basketball](https://emojipedia.org/basketball/)     |
+| 🎲              | [Game Die](https://emojipedia.org/game-die/)         |
+| 🎯              | [Direct Hit](https://emojipedia.org/direct-hit/)     |
+| 🎰              | [Slot Machine](https://emojipedia.org/slot-machine/) |
 
 
 
@@ -170,6 +183,7 @@ tags: [Telegram, 网上冲浪指南]
 | -------------- | ---------------------------------------------- |
 | 🚕              | [Taxi](https://emojipedia.org/taxi/)           |
 | 🚑              | [Ambulance](https://emojipedia.org/ambulance/) |
+| 🗿              | [Moai](https://emojipedia.org/moai/)           |
 
 
 
@@ -183,6 +197,7 @@ tags: [Telegram, 网上冲浪指南]
 | 💡              | [Light Bulb](https://emojipedia.org/light-bulb/)             |
 | 💸              | [Money with Wings](https://emojipedia.org/money-with-wings/) |
 | 💎              | [Gem Stone](https://emojipedia.org/gem-stone/)               |
+| ⚰️              | [Coffin](https://emojipedia.org/coffin/)                     |
 | 💊              | [Pill](https://emojipedia.org/pill/)                         |
 | 💉              | [Syringe](https://emojipedia.org/syringe/)                   |
 | 🦠              | [Microbe](https://emojipedia.org/microbe/)                   |
@@ -223,7 +238,7 @@ tags: [Telegram, 网上冲浪指南]
 
 
 
-**发布记录**：[February 13, 2020](https://telegram.org/blog/new-profiles-people-nearby#new-animated-emoji)、[September 5, 2019](https://telegram.org/blog/scheduled-reminders-themes#more-animated-emoji)、[August 9, 2019](https://telegram.org/blog/silent-messages-slow-mode#animated-emoji)、[March 30, 2020](https://telegram.org/blog/folders#new-animated-emoji)、[April 24, 2020](https://telegram.org/blog/400-million#bullseye) 、[September 30, 2020](https://telegram.org/blog/filters-anonymous-admins-comments)
+**发布记录**：[February 13, 2020](https://telegram.org/blog/new-profiles-people-nearby#new-animated-emoji)、[September 5, 2019](https://telegram.org/blog/scheduled-reminders-themes#more-animated-emoji)、[August 9, 2019](https://telegram.org/blog/silent-messages-slow-mode#animated-emoji)、[March 30, 2020](https://telegram.org/blog/folders#new-animated-emoji)、[April 24, 2020](https://telegram.org/blog/400-million#bullseye) 、[September 30, 2020](https://telegram.org/blog/filters-anonymous-admins-comments)、[October 30, 2020](https://telegram.org/blog/pinned-messages-locations-playlists#and-ghoulishly-delightful-animated-emoji)
 
 **表情合集**：有人把以上 Animated Emojies 做成了一个表情包，比原版更大，且支持循环播放，[点此](https://t.me/addstickers/AnimatedEmojies) 添加。
 

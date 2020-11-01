@@ -56,9 +56,9 @@ tags: [网上冲浪指南, 突破网络审查, Telegram]
 
 - **[表情贴纸](https://telegram.org/blog/animated-stickers)**：采用 [矢量](https://tingtalk.me/raster-to-vector/) 格式，高清而富有趣味；支持自制表情包（[Custom Sticker Sets](https://telegram.org/blog/stickers-revolution)）并用 Emoji 调用。
 
-  
+### 👎 瑕不掩瑜
 
-**中文搜索体验差**
+#### 🐼 中文搜索体验差
 
 Telegram 的中文搜索是以「词」为单位的，以标点符号或空格作为词的间隔。如何改善：
 
@@ -76,7 +76,7 @@ Telegram 的中文搜索是以「词」为单位的，以标点符号或空格�
 
 
 
-**能用手机号码注册 Telegram**
+#### 📱 只能用手机号码注册
 
 - 国外：手机号不用实名制，相对安全。
 - 国内：通过 Google Voice 注册电报，也可以绕开私聊限制。
@@ -442,6 +442,8 @@ Telegram 有一个非常人性化的特性：**记忆浏览进度**，打开对�
 
 ### 🔙 消息发送后
 
+点击消息，选择 `Pin`，即可在频道、群组或私聊界面中置顶多个消息（[Multiple Pinned Messages](https://telegram.org/blog/pinned-messages-locations-playlists#multiple-pinned-messages)）。
+
 
 
 #### ✔️ 消息状态
@@ -665,10 +667,6 @@ Creat New Folder（新建分组）时有以下筛选条件可选：
 
 
 
-
-
-
-
 ### 🔴 关闭通知
 
 1. `Settings`（设置）> `Notifications and Sounds`（通知和声音）。
@@ -733,7 +731,7 @@ Creat New Folder（新建分组）时有以下筛选条件可选：
 **对于频道主**
 
 - [Hashtags](https://telegram.org/tour/channels#hashtags)：多用 `#` （标签）给消息分类，方便快速检索（instant search）。
-- 频道分析（[Channel Stats](https://telegram.org/blog/folders#channel-stats)）📈：订阅人数超过 500 人（之前是 1,000  人）的频道会有详细的统计数据分析报告（[Statistics](https://telegram.org/tour/channels#detailed-statistics)）。
+- 频道分析（[Channel Stats](https://telegram.org/blog/folders#channel-stats)）📈：订阅人数超过 50 人（之前是 1,000  人）的频道会有详细的统计数据分析报告（[Statistics](https://telegram.org/tour/channels#detailed-statistics)）。
 - 频道可以有无数个订阅者，但是创建者只能邀请前 200 个成员到你的频道。
 
 
@@ -879,6 +877,7 @@ https://rsshub.app/telegram/channel/tingtalk
 | [KAIX.IN](https://t.me/kaix_in)                           | 思考碎片，[博客](https://kaix.in/) 更新。                    |
 | [TSBBLOG](https://t.me/tsbblog)                           | [影子的博客](https://tsb2blog.com/)：独立观察及记录。        |
 | [AK 讲废话](https://t.me/joinchat/AAAAAEWbURDTisztrTcwqA) | 科普视频系列：[无线技术](https://www.youtube.com/watch?v=JVh6sUHRxjg&list=PLqybz7NWybwULxQ2xMyUND_x2ziMLbn7R)、[显示技术](https://www.youtube.com/watch?v=MVVQl0gJH-U&list=PLqybz7NWybwWcl_s-VLB_tXqbbBww6nbK)、[翻墙技术](https://www.youtube.com/watch?v=XKZM_AjCUr0&list=PLqybz7NWybwUgR-S6m78tfd-lV4sBvGFG)…… |
+| [P3TERX ZONE](https://t.me/P3TERX_ZONE)                   | `P3TERX` 读作 Peter X。                                      |
 
 [中文独立博客列表](https://github.com/timqian/chinese-independent-blogs) by timqian
 
