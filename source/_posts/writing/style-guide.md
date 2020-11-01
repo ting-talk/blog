@@ -52,8 +52,6 @@ tags: [写作, 排版]
 
 
 
-
-
 ### 英文拼写错误
 
 ❗ ️大写有突出强调的作用，意味着这个单词或者句子很重要。
@@ -321,8 +319,6 @@ l
 
 
 
-
-
 **⌨️ 如何输入省略号**
 
 - Android（安卓手机）：你肯定能找到它
@@ -404,6 +400,7 @@ l
 
 - [The Punctuation Guide](https://www.thepunctuationguide.com/)（美式标点符号使用指南）
 - [英文标点要如何排版？- 壹坊AWORKZON](https://mp.weixin.qq.com/s/76-zx6gorTcQoPeJzVjd8A)
+- [17 rules for using commas correctly without looking like a fool - Juliana Kaplan](https://www.businessinsider.com/a-guide-to-proper-comma-use-2013-9)
 
 
 
@@ -779,6 +776,8 @@ l
 
 
 不使用「温馨提示」一词。
+
+不推荐只有特定人群才了解的语词等，例如魔改（即做特殊的优化）。或者插入行话时，列出必要的解释。
 
 
 

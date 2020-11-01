@@ -1077,7 +1077,7 @@ Bots 就像运行在 Telegram 内部的小程序。借助 [Telegram 开放的 AP
 | [@IFTTT](https://t.me/IFTTT)                       | [With this bot you can use IFTTT to link your Telegram groups or channels to more than 360 other services like Twitter and Instagram, or connected devices like Hue lights and Nest.](https://ifttt.com/telegram) |
 | [@githubbot](https://telegram.me/githubbot)        | 推送 GitHub 仓库的动态。                                     |
 | [@GmailBot](https://t.me/GmailBot)                 | 👍 在 Telegram 上收发 📧 Gmail。``                             |
-| [@LivegramBot](https://t.me/LivegramBot)           | 👍 [不加好友也能私聊](https://telegra.ph/What-is-Livegram-Bot-03-17)，可用于收集反馈及绕开 `+86` 手机号码的限制。 |
+| [@LivegramBot](https://t.me/LivegramBot)           | 👍 [不加好友也能私聊](https://telegra.ph/What-is-Livegram-Bot-03-17)，可用于收集反馈及绕开 `+86` 手机号码的限制。<br />因为经过一层转发，消息一旦发送，便无法删除，但有个短暂的修改期。 |
 | [@sssoou_bot](https://t.me/sssoou_bot)             | Telegram 搜索，支持中文。                                    |
 | [@Stickers](https://t.me/Stickers)                 | 创建属于自己的表情包。                                       |
 | [@Sticker2GIFBot](https://t.me/Sticker2GIFBot)     | 下载单独的表情包或整套表情包。                               |
