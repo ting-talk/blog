@@ -297,7 +297,7 @@ l
 
 
 
-在某些 *Style Guide* 中（例如 Apple），纵使在中文语境下，也会将（中文）全角括号替换为 (英文) 半角括号，并在括号外添加半角空格（两个连续的标点之间不添加空格）：
+在某些 *Style Guide* 中，纵使在中文语境下，也会将（中文）全角括号替换为 (英文) 半角括号，并在括号外添加半角空格（两个连续的标点之间不添加空格）：
 
 > iPhone SE 可防溅、抗水、防尘，在受控实验室条件下经测试，其效果在 IEC 60529 标准下达到 IP67 级别 (在最深 1 米的水下停留时间最长可达 30 分钟)。by [Apple](https://www.apple.com.cn/iphone-se/)
 
@@ -648,11 +648,10 @@ l
 - ✔️ [如何输入「直角引号」？](https://www.zhihu.com/question/19755746)
 - ❌ [如何输入“直角引号”？](https://www.zhihu.com/question/19755746)
 
-  
-
-**例外**
+**注意**
 
 - 当引号表示讽刺、反语暗示时，使用弯引号：工作使我“快乐”。
+- `『』` 为二级引号，即 `「」` 是最外层的引号。
 
 
 
@@ -677,13 +676,6 @@ l
 ### 少用<u>下划线</u>
 
 下划线是打字机时代的产物。在当代，它作为 [超链接（URL）](https://tingtalk.me/) 的标识，不作为强调。
-
-
-
-### 斜线 `/` 前后空一格
-
-- ✔️ 开 / 关
-- ❌ 开/关
 
 
 
@@ -949,6 +941,7 @@ IOC（International Olympic Committee，国际奥林匹克委员会）。这样�
 ## 参考资料
 
 - [中文技术文档写作风格指南 - yikeke](https://zh-style-guide.readthedocs.io/zh_CN/latest/)：比本篇写得更详细，推荐阅读。
+- [文风指南 - 泛化智能（gi）](https://github.com/generalized-intelligence/gi-Chinese-Style-Guide/blob/master/%E6%B3%9B%E5%8C%96%E6%99%BA%E8%83%BD%EF%BC%88gi%EF%BC%89%E6%96%87%E9%A3%8E%E6%8C%87%E5%8D%97.md)
 - [写作风格手册 - 好奇心日报](https://www.qdaily.com/articles/1397.html)
 - [中文技术文档的写作规范 - 阮一峰](https://github.com/ruanyf/document-style-guide)
 - [中文文案排版指北（简体中文版）](https://mazhuang.org/wiki/chinese-copywriting-guidelines/)
@@ -966,6 +959,7 @@ IOC（International Olympic Committee，国际奥林匹克委员会）。这样�
 
 
 **关联阅读**
+
 - [公众号排版指南](https://mp.weixin.qq.com/s/7TX2e_1_AmH9aP7z0Io-qQ)
 - [Markdown 入门教程及书写风格指南](https://tingtalk.me/markdown/)
 - [可能是深色模式下最好的公众号阅读体验 - eBooksPlan](https://mp.weixin.qq.com/s/ofcxNict6NG-9bolB5ORPw)
