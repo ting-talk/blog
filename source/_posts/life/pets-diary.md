@@ -1659,5 +1659,5 @@ Tinkle 把吃的狗粮和包子皮吐出来了。`09:47`
 - 乱咬东西
 - 护食（抢吃的）
 
-养狗 171 天，今天给狗子洗澡时，才学会如何挤
- [肛门腺](https://mp.weixin.qq.com/s/Lll1nIXCH09ogsRlFqFP3g)。
+养狗 171 天，今天给狗子洗澡时，才学会如何挤 [肛门腺](https://mp.weixin.qq.com/s/Lll1nIXCH09ogsRlFqFP3g)。
+
