@@ -655,6 +655,21 @@ I can't simply switch off my curiosity.
 - How dare you defy your masters! 
   胆敢反抗你的主人！
 
+
+
+### Decay
+
+/dɪˈkeɪ/ 腐蚀；（使）衰败，（使）衰弱
+
+- Sugar makes your teeth decay.
+  糖能引起蛀牙。
+
+- What caused the Roman Empire to decay? 
+  是什么促使罗马帝国衰落的？
+
+
+
+
 ### Dent
 
 凹痕
@@ -786,6 +801,15 @@ Uh, yeah. Duh. What did you think? 是啊 废话 你以为呢？
 
 A: How did you get in here? （你怎么进来的？）
 B: Through the door, duh. （废话，当然是从门进来的。）
+
+
+
+### Dynamite
+
+/ˈdʌɪnəmʌɪt/ 炸药
+
+- The issue of unemployment is political dynamite (= could cause big political problems).
+  失业问题是政府的一颗政治炸弹。
 
 
 
@@ -2071,6 +2095,18 @@ Jerry, come to rub my face in urine again? Jerry 又想来把我的脸摁进尿�
 /ˈseɪkrɪd/ 神圣的
 
 Sex is sacred! 性是神圣的！
+
+
+
+### Sane
+
+心智健全的，神智正常的；头脑清醒的；明智的
+
+- Right now, you're my sanest relative. 
+  你现在是我最正常的亲戚了。
+
+- We aren't sane enough to be in relationships. 
+  在恋爱生活中，我们不会足够理智。
 
 
 

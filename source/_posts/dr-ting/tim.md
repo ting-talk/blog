@@ -48,7 +48,7 @@ tags: [庭勃士]
 - 目前在 ~~努力~~ [学英语](https://tingtalk.me/categories/english/)，争取有朝一日可以肉翻出国。
 - I'm into the design（[平面设计](https://tingtalk.me/categories/design/)），并设计了 [庭说的 Logo](https://tingtalk.me/brand/)。喜欢 [摄影](https://tingtalk.me/photography/)，反感过度美颜。喜欢看科幻电影，特别是太空片。
 - I'm a big fan of basketball，但是从来不看 NBA。
-- [海贼王（One Piece）](https://tingtalk.me/one-piece-english/) 十年铁杆粉（目前只看动漫）。
+- 海贼王（One Piece）十年铁杆粉（目前只看动漫）。
 - 也许人生本来就没有任何意义，我们只是 [自私的基因](https://www.bilibili.com/video/av49769417/) 的奴隶。明白这个生物学本质之后，变得更没有野心，日子越过越禅，随时随地随遇而安，每天都睡得很香。
 
 
@@ -80,16 +80,32 @@ tags: [庭勃士]
 **整体**
 - 很多词可以形容我，帅气可不在其中。
 - 我就是个荔枝。外面看起来很难看，坑坑洼洼的，但里面还挺甜的。但是最里面，又有很硬的东西。by 李志
-- Not good-looking，自卑到几乎不照镜子，所以房间里没有镜子。直到2019 年，才买了人生的第一面镜子。
+- Not good-looking，自卑到几乎不照镜子，所以房间里没有镜子。直到 2019 年，才买了人生的第一面镜子。
 
 
 
-## 钟爱数字
+## 钟爱之物
+
+### 幸运数字
 
 - 之前是 `15`，高二我跟初恋表白的日子（4 月 15 日），但是未能如愿走到最后，但我非常感激她，让我在最美好的年纪，体验了最纯粹的生命悸动。By the way, I am single and available. 
 - 现在是 `56`，《海贼王》路飞（Luffy）某件 T 恤上的号码，日文 56 和橡胶同音。
 
 ![luffy-kid-56](https://i.loli.net/2019/12/19/pz37SZubxwaRPNo.jpg)
+
+### 爱吃的水果
+
+- 冬枣
+- 榴莲
+- 黑布林
+
+
+
+### 爱吃的菜式
+
+- 酿苦瓜、酿茄子 🍆
+- 荷包蛋（鸡蛋 + 肉末）
+
 
 
 ## 高光时刻
