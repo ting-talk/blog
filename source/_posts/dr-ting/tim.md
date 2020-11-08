@@ -34,6 +34,7 @@ tags: [庭勃士]
 - I never want things to be dull. 我永远不希望事情变得单调乏味。by [Pavel Durov（帕维尔·杜洛夫）](https://zh.wikipedia.org/zh-hans/%E4%BF%9D%E7%BE%85%C2%B7%E6%9D%9C%E6%B4%9B%E5%A4%AB)
 - I am focused, intense even.
 - 一想到锋利的刀锋，心里就会戈登一下。
+- 我从未长大，但从未停止成长。
 
 
 

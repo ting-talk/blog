@@ -25,9 +25,9 @@ tags: [生活, 技能]
 
 - [好好吃饭，天天学习——两小时完成一周的备餐 - VictoriaY](https://sspai.com/post/59197)
 
-- 
+- [番茄汁肉末烧豆角](https://www.youtube.com/watch?v=caPNJZwyeOo)
 
-  [番茄汁肉末烧豆角](https://www.youtube.com/watch?v=caPNJZwyeOo)
+- [拒绝难吃的减脂餐！超好吃一周减脂便当一次搞定 - 曼食慢语](https://www.youtube.com/watch?v=JiUyIdTBP6M)
 
   
 

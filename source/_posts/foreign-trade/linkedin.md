@@ -199,7 +199,10 @@ tags: 外贸
 ## 参考资料
 
 - [我是如何把Linkedin个人账号 做到 22,533 个粉丝的 （详细步骤）](https://mp.weixin.qq.com/s/sND9e8zO0EzeXzGa7h60Kg)
+- [学生党领英漫游指南 The Student Hitchhiker's Guide to LinkedIn](https://sspai.com/post/63377)
 - 关注领英的 [微信公众号](https://business.linkedin.com/zh-cn/talent-solutions/c/b2c/LinkedIn-Wechat)（ID：LinkedIn-China）
+
+
 
 
 

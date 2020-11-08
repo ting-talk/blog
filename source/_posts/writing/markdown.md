@@ -481,6 +481,24 @@ print "Hello, Python!"
 print "Hello, Python!"
 ```
 
+**[diff 代码对比](https://blog.alispit.tel/create-a-git-diff-in-markdown/)**
+
+<pre>
+```diff
+function addTwoNumbers (num1, num2) {
+-  return 1 + 2
++  return num1 + num2
+}
+```
+<pre>
+**预览**
+
+```diff
+function addTwoNumbers (num1, num2) {
+-  return 1 + 2
++  return num1 + num2
+}
+```
 
 
 
