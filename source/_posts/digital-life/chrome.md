@@ -277,6 +277,27 @@ RSSHub Radar 是 [RSSHub](https://github.com/DIYgod/RSSHub) 的衍生项目，�
 
 
 
+### YouTube 双字幕
+
+
+
+☝️ [YouTube™双字幕](https://chrome.google.com/webstore/detail/youtube-dual-subtitles/hkbdddpiemdeibjoknnofflfgbgnebcm) ☝️
+
+- 安装即用
+- 仅支持 YouTube
+
+最佳实践
+1. 浏览器语言设置为你的母语
+2. YouTube 的默认字幕设置为「自动」
+
+✌️ [Dualsub](https://chrome.google.com/webstore/detail/dualsub/gnlibmlfpencglodjpgnalbdebfhpmfp) ✌️
+
+- 支持中文注音、日语注音和词性标注
+- 功能强大，[官网网站](https://dualsub.netlify.app/zh-cn/quickstart) 提供了详细的新手指南和设置帮助
+- 支持 YouTube、Netflix、Hulu、HBO Max、爱奇艺国际版、哔哩哔哩、网易云音乐、QQ 音乐等 16 个视频/音频网站
+
+
+
 ### 需要时才启用的插件
 
 在性能不足的电脑上，启动过多的扩展程序会拖慢系统的运行速度。因此，临时关闭一些不常用的扩展程序，需要时再启用，是一个折衷的方法。
