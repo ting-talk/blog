@@ -164,8 +164,8 @@ feed:
   content: true
   content_limit: 140
   content_limit_delim: ' '
-  order_by: -date
-  icon: icon.png
+  order_by: -updated
+  icon: https://tingtalk.me/images/avatar.png
   autodiscovery: true
   template:
 
