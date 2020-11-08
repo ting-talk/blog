@@ -969,6 +969,7 @@ https://rsshub.app/telegram/channel/tingtalk
 | [博海拾贝](https://t.me/bohaishibei)                    | [博海拾贝](https://bh.sb/) 的网站：bh.sb                     |
 | [Rick Morty and Fans](https://t.me/Rick_Morty_and_Fans) | Wubba Lubba Dub Dub                                          |
 | [回形针PaperClip & 灵光灯泡](https://t.me/papercliphub) | 回形针内容推送。                                             |
+| [Donald J. Trump](https://t.me/trump)                   | 45th President of the United States of America.              |
 
 
 
