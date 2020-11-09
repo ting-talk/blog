@@ -879,6 +879,18 @@ All men are created equal.
 - Run an errand for me, will you? Go find Roger for me.
   替我跑跑腿好吗？帮我去找一下罗杰。
 
+### Erection
+
+[ɪˈrekʃn] （阴茎）勃起；建造；竖立
+
+- Do you have an erection? 
+  你是不是勃起了？
+- How long have you had the erection?
+  挺了多久了？
+- I've got an erection the size of an east coast lighthouse, and I'm coming home to share it with my beautiful wife. I'm going to make love to my wife!
+  我已经像东海岸灯塔一样一柱擎天了，我正要回家来和我美丽的老婆一起分享呢。我就要去和我老婆做爱了
+
+
 
 
 ### Evacuation
@@ -1462,9 +1474,17 @@ It's never too late to learn. 活到老，学到老。
 
 [læˈtiːnoʊ] 拉丁美洲人；拉丁裔美国人（西班牙裔美国人）
 
-There's no evidence that a latino student did it! 
+There's no evidence that a latino student did it! 没有任何证据表明是拉丁裔的学生干的！
 
-没有任何证据表明是拉丁裔的学生干的！
+
+
+### Leash
+
+[liːʃ] （拴狗等动物用的）绳索，链子
+
+ Please keep your dog on a leash when on the beach. 在海滩上请牵住你的狗。
+
+I'm gonna take off this leash. 我要解开这遛狗绳了。
 
 
 
@@ -1664,6 +1684,22 @@ I have no time. = I don't have any time.
 
  [nuːˈtriːnoʊ] 【核物理学】中微子（微小的电中性粒子）
 
+
+
+### Nudity
+
+[ˈnuːdəti] N-UNCOUNT 
+
+**裸露**
+- They're also really uncomfortable with nudity. 
+  他们没法直视裸体。
+
+- WouId you mind distracting them with some nudity? 
+  你介不介意露个点 分散下他们的注意力？
+
+**裸戏**
+- Your agent said you're okay with nudity. 
+  你经纪人说你对裸戏没问题。
 
 
 ### Number
@@ -2269,6 +2305,12 @@ He was still in better shape than many young men. 他依然比许多年轻人都
 
 
 
+### Sloppy
+
+慵懒的; 马虎的
+
+sloppy/bad craftsmanship 做工渣/技术烂
+
 
 
 ### Snap
@@ -2368,6 +2410,22 @@ Countries like India and China where women, women's roles are often very subserv
 
 
 
+### Sophisticated
+
+/səˈfistəˌkādəd/ 
+
+**精密的，复杂的；高级的**
+
+His penis will be replaced with a sophisticated prosthetic. 我们会给他的阴茎装一个高级义肢。
+
+**精于世故的，老练的；见多识广的；很有品位的**
+
+He was older than me and from London and I thought him very sophisticated. 他比我大，而且来自伦敦，我觉得他为人很老练。
+
+
+
+
+
 ### Speak
 
 **speak for yourself 那是你自己的看法，我不是那样想的；别替我们做主**
@@ -2396,6 +2454,11 @@ Can you be a little bit more specific? 能再具体点吗?
 - Let's split the difference, and then I'll take it.  
   我们折中一下，我就买。
 
+### Spout
+
+spout off 信口开河；大放厥词；滔滔不绝
+
+I shouldn't go around spouting off about his science and stuff. 我不可以随便告诉别人他的科学研究之类的。
 
 
 
