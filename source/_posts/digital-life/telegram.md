@@ -1116,17 +1116,22 @@ Bots 就像运行在 Telegram 内部的小程序。借助 [Telegram 开放的 AP
 
 **🔐 管理机器人**
 
-在群组设置里搜索 Bots 名字，即可添加，注意只给最低权限。
+在群组设置里搜索 Bots 名字，即可添加。注意只给最低权限。
 
-[@policr_mini_bot](https://t.me/policr_mini_bot)：开源验证机器人；[官网](https://mini.telestd.me/)。
-赋予 `Delete messages` 和 `Ban users` 权限。
+[@policr_mini_bot](https://t.me/policr_mini_bot)
 
+- 开源验证机器人，详情参见 [官网](https://mini.telestd.me/)。
+- 赋予 `Delete messages` 和 `Ban users` 权限。
 
-[@DeleteEventsBot](https://t.me/DeleteEventsBot)：删除无关系统信息，例如谁加入了群组、谁离开了群组等。
-赋予 `Delete messages` 权限。
+[@DeleteEventsBot](https://t.me/DeleteEventsBot)
 
-[@areply_bot](https://t.me/areply_bot)：自动解除关联频道（Linked hannel）转发到群组的自动置顶消息，并恢复之前的置顶消息。
-赋予 `Pin messages` 和 `Delete messages` 权限。
+- 删除冗余的事件通知，例如谁加入了群组。强烈建议群组管理员装备上这个 Bot，减少信息噪音。
+- 赋予 `Delete messages` 权限。
+
+[@areply_bot](https://t.me/areply_bot)
+
+- 自动解除关联频道（Linked hannel）转发到群组的自动置顶消息，并恢复之前的置顶消息。
+- 赋予 `Pin messages` 和 `Delete messages` 权限。
 
 
 
