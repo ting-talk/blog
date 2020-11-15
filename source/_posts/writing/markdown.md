@@ -2,7 +2,7 @@
 
 title: Markdown 入门教程及书写风格指南    
 date: 2016-03-15    
-updated: 2020-06-29    
+updated: 2020-11-10    
 categories: 写作技巧
 tags: [排版, 写作]
 
@@ -502,24 +502,75 @@ function addTwoNumbers (num1, num2) {
 
 
 
-### 强制换行
-
-在行末使用空格（两个以上） + 换行（Enter）。
 
 
+### 换行
+
+> 以下键盘快捷键（语法）可能仅支持 Typora。
+
+`Enter` = 换行 + 空行 = (`Shift` + `Enter`) × 2。
+
+即按下回车键创建一个新段落（段与段之间加入空行）。
+
+
+
+#### 软换行
+
+`Shift` + `Enter` = 换行（但是不会产生空行）。
+
+
+```markdown
+`enticing` [ɪn'taɪsɪŋ] （事物）诱人的，有吸引力的；迷人的
+- Her neck was short but rounded and her arms plump and enticing. `Shift` + `Enter`
+  她的脖子短，但浑圆可爱；两臂丰腴，也很动人。by 《飘》 `Enter`
+
+- This was enticing to Wozniak, even more than any prospect of getting rich. `Shift` + `Enter`
+  这句话对沃兹尼亚克的诱惑太大了，比变成富人的诱惑还要大。by 《乔布斯传》 `Enter`
 ```
-`enticing` [ɪn'taɪsɪŋ] 
-- Her neck was short but rounded and her arms plump and enticing.（两个以上的空格）  
+
+`enticing` [ɪn'taɪsɪŋ] （事物）诱人的，有吸引力的；迷人的
+
+- Her neck was short but rounded and her arms plump and enticing.
   她的脖子短，但浑圆可爱；两臂丰腴，也很动人。by 《飘》
-- This was enticing to Wozniak, even more than any prospect of getting rich.（两个以上的空格）  
+
+- This was enticing to Wozniak, even more than any prospect of getting rich.
   这句话对沃兹尼亚克的诱惑太大了，比变成富人的诱惑还要大。by 《乔布斯传》
+
+
+
+
+#### 硬换行
+
+在行末使用空格（两个以上） + 换行（Enter），就可以实现强制换行，此语法适用于大部分 Markdown 编辑器。
+
+硬换行在文档被导出时将被保留，且没有换段的段后距。
+
+```markdown
+假如生活欺骗了你，  （2 个空格）
+不要悲伤，不要心急！  （2 个空格）
+忧郁的日子里须要镇静：  （2 个空格）（2 个空格）
+相信吧，快乐的日子将会来临！  （2 个空格）
+心儿永远向往着未来；  （2 个空格）
+现在却常是忧郁。  （2 个空格）
+一切都是瞬息，一切都将会过去；  （2 个空格）
+而那过去了的，就会成为亲切的怀恋。   （2 个空格）
+by 普希金
 ```
 
-`enticing` [ɪn'taɪsɪŋ] 
-- Her neck was short but rounded and her arms plump and enticing.   
-  她的脖子短，但浑圆可爱；两臂丰腴，也很动人。by 《飘》
-- This was enticing to Wozniak, even more than any prospect of getting rich.  
-  这句话对沃兹尼亚克的诱惑太大了，比变成富人的诱惑还要大。by 《乔布斯传》
+
+
+假如生活欺骗了你，  
+不要悲伤，不要心急！  
+忧郁的日子里须要镇静：  
+相信吧，快乐的日子将会来临！  
+心儿永远向往着未来；  
+现在却常是忧郁。  
+一切都是瞬息，一切都将会过去；  
+而那过去了的，就会成为亲切的怀恋。   
+by 普希金
+
+
+
 
 
 

@@ -1482,9 +1482,11 @@ There's no evidence that a latino student did it! 没有任何证据表明是拉
 
 [liːʃ] （拴狗等动物用的）绳索，链子
 
- Please keep your dog on a leash when on the beach. 在海滩上请牵住你的狗。
+- Please keep your dog on a leash when on the beach. 
+  在海滩上请牵住你的狗。
 
-I'm gonna take off this leash. 我要解开这遛狗绳了。
+- I'm gonna take off this leash. 
+  我要解开这遛狗绳了。
 
 
 
@@ -1497,6 +1499,8 @@ I'm gonna take off this leash. 我要解开这遛狗绳了。
 - Better luck next time.
 - Any luck? / No luck?   
   怎么样 / 成功了吗？
+- What a lucky break for me. 
+  那我真走运。
 
 
 
@@ -1597,15 +1601,15 @@ She didn't mean it. She didn't mean any of this... 她不是有意的，不是�
 
 床垫
 
-The mattress is too hard for him. 那个床垫对他来说太硬了。
+- The mattress is too hard for him. 
+  那个床垫对他来说太硬了。
 
 
 
 ### Mind
 
-The smaller the mind, the greater the conceit.  
-思想越狭隘，自负越膨胀。
-
+- The smaller the mind, the greater the conceit.  
+  思想越狭隘，自负越膨胀。
 
 
 ### Millennia
@@ -1717,22 +1721,31 @@ I have no time. = I don't have any time.
 
 ## O
 
+### Obsession
+
+[əbˈseʃn] 痴迷;困扰；无法摆脱的念头；念念不忘的事（或人）
+
+- Romantic love is an obsession, it possesses you. 
+  爱情萦绕于心，占据着你。
+
+
+
 ### Of course
 
 回答一些理所当然的问题时才能用 Of course，隐含的意思是「还用说吗」。
 
 **错误用法**  
 
-> Do you hear what the boss said?   
-> 你有听到老板说什么吗？  
-> Of course!   
-> 当然（隐含：我怎么可能没听到！）  
+> - Do you hear what the boss said?   
+>   你有听到老板说什么吗？  
+> - Of course!   
+>   当然（隐含：我怎么可能没听到！）  
 
 
-> Do you speak English?   
-> 你会说英文吗?  
-> Of course!    
-> 当然（隐含：我怎么不会讲！）
+> - Do you speak English?   
+>   你会说英文吗?  
+> - Of course!    
+>   当然（隐含：我怎么不会讲！）
 
 
 
@@ -1869,6 +1882,22 @@ The plan is to parachute into the town. 计划是要跳伞进入该城。
   我想远足的事下次再说吧。
 - "You can join us if you like." Brad shook his head. " I'll pass, thanks."   
   “你要乐意，可以加入我们。”布拉德摇了摇头。“下次吧，谢谢。”   
+
+
+
+### Peel
+
+除去，剥去（水果、蔬菜的）皮
+
+keep one's eyes peeled for （剥开眼皮、睁大眼睛）保持警惕；谨慎小心
+
+- Keep your eyes peeled for pigs. 
+  但是你注意观察有没有警察。
+
+- I'll be keeping my eyes peeled for you. 
+  我会一直关注的。
+
+
 
 ### Pervy
 
