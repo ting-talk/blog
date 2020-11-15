@@ -155,6 +155,13 @@ l
 
 
 
+**排版工具**
+
+- [Chrome 扩展程序：为什么你们就是不能加个空格呢？](https://chrome.google.com/webstore/detail/%E7%82%BA%E4%BB%80%E9%BA%BC%E4%BD%A0%E5%80%91%E5%B0%B1%E6%98%AF%E4%B8%8D%E8%83%BD%E5%8A%A0%E5%80%8B%E7%A9%BA%E6%A0%BC%E5%91%A2%EF%BC%9F/paphcfdffjnbcgkokihcdjliihicmbpd?hl=zh-CN)
+- [空格派](http://www.panjiayu333.cn/)：中英文混排自动空格并自动调整部分英文名称的书写规范。
+
+
+
 ## 标点符号
 
 > 长文本中穿插的符号就像湖面上泛起的波澜、绸缎上镶嵌的装饰，为版面带来节奏和纹理。对我来说，这一个理由便足够了——美本身就是值得追求的。by [PlatyHsu](https://type.cyhsu.xyz/)
@@ -964,15 +971,6 @@ IOC（International Olympic Committee，国际奥林匹克委员会）。这样�
 
 
 > [为什么文件名要小写？by 阮一峰](https://www.ruanyifeng.com/blog/2017/02/filename-should-be-lowercase.html)
-
-
-
-## 排版工具
-
-- [Chrome 扩展程序：为什么你们就是不能加个空格呢？](https://chrome.google.com/webstore/detail/%E7%82%BA%E4%BB%80%E9%BA%BC%E4%BD%A0%E5%80%91%E5%B0%B1%E6%98%AF%E4%B8%8D%E8%83%BD%E5%8A%A0%E5%80%8B%E7%A9%BA%E6%A0%BC%E5%91%A2%EF%BC%9F/paphcfdffjnbcgkokihcdjliihicmbpd?hl=zh-CN)
-- [空格派](http://www.panjiayu333.cn/)：中英文混排自动空格并自动调整部分英文名称的书写规范。
-
-
 
 ## 参考资料
 
