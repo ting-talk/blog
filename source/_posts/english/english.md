@@ -1460,13 +1460,14 @@ Looks like some sort of legally safe knock-off of an '80s horror character with 
 
 ### Late
 
-Oh, no! I'm late to class, bitch! 哦不，我上课要迟到了，贱人！
+- Oh, no! I'm late to class, bitch! 
+  哦不，我上课要迟到了，贱人！
 
-I'm almost never late to the bus. 我几乎从来不会赶公交车迟到。
+- I'm almost never late to the bus. 
+  我几乎从来不会赶公交车迟到。
 
-It's never too late to learn. 活到老，学到老。
-
-
+- It's never too late to learn. 
+  活到老，学到老。
 
 
 
