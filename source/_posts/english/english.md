@@ -222,6 +222,17 @@ Obviously I'm biased, but I think it's great, Morty.  很明显我不太客观�
 
 
 
+### Bitch
+
+**bitch about 说坏话；发牢骚；抱怨**
+
+- If your adventure sucks and we bail halfway through it, you lose the right to bitch about all future adventures. Plus, you have to do my laundry for a month.
+  如果你的冒险很烂，我们半路放弃了，那以后的冒险你都不准抱怨，还有，你得帮我洗一个月的衣服。
+- I plan to get drunk and bitch about my boss. 
+  我打算喝的烂醉，说我老板的坏话。
+
+
+
 ### Blend
 
 侧重混合整体的统一性与和谐性。
@@ -315,11 +326,25 @@ abominable [əˈbɑːmɪnəbl] 恶劣的
 
 
 
-### Call it a day
+**call it a day 结束工作；到此为止；收工**
 
-结束工作；到此为止；收工
+- I'm getting a bit tired now, let's call it a day. 
+  我有些累了——收工吧。
 
-I'm getting a bit tired now - let's call it a day. 我有些累了——收工吧。
+
+
+ **call the shots 军官下令部队开枪，引申为：作最后决定、下命令**
+
+- You must do what I tell you because I'm calling the shots around here.
+  你必须听我的话，因为我是这里负责的人。
+
+- To be a leader, you should know how to call the shots.
+  作为领导，你应该知道怎么做决断。
+
+- Who calls the shots here? 
+  这里当家作主的是谁?
+
+
 
 
 
@@ -1886,6 +1911,17 @@ The plan is to parachute into the town. 计划是要跳伞进入该城。
 
 
 
+### Pay
+
+pay top dollar 花大价钱
+
+- I'm paying top dollar. We'll find them. 
+  重赏之下必有勇夫。
+
+
+
+
+
 ### Peel
 
 除去，剥去（水果、蔬菜的）皮
@@ -2720,6 +2756,17 @@ Morty, a moment of your time? Morty，能过来一下吗？/占用你一点时�
 ### Tug
 
  You're tugging me too hard. 你把我拽得太紧了。
+
+
+
+### Traumatize
+
+/ˈtrɑː.mə.taɪz/ 受到精神创伤
+
+- She was completely traumatized by the death of her mother.
+  母亲的死令她痛苦万分。
+
+
 
 
 
