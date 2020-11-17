@@ -1,7 +1,7 @@
 ---
-title: Telegram（电报）：新手指南、使用教程及频道推荐
+title: Telegram：新手指南、使用教程及频道推荐
 date: 2019-11-09  
-updated: 2020-11-01
+updated: 2020-11-17
 categories: 数字生活  
 tags: [网上冲浪指南, 突破网络审查, Telegram]
 ---
@@ -878,6 +878,7 @@ https://rsshub.app/telegram/channel/tingtalk
 | [TSBBLOG](https://t.me/tsbblog)                           | [影子的博客](https://tsb2blog.com/)：独立观察及记录。        |
 | [AK 讲废话](https://t.me/joinchat/AAAAAEWbURDTisztrTcwqA) | 科普视频系列：[无线技术](https://www.youtube.com/watch?v=JVh6sUHRxjg&list=PLqybz7NWybwULxQ2xMyUND_x2ziMLbn7R)、[显示技术](https://www.youtube.com/watch?v=MVVQl0gJH-U&list=PLqybz7NWybwWcl_s-VLB_tXqbbBww6nbK)、[翻墙技术](https://www.youtube.com/watch?v=XKZM_AjCUr0&list=PLqybz7NWybwUgR-S6m78tfd-lV4sBvGFG)…… |
 | [P3TERX ZONE](https://t.me/P3TERX_ZONE)                   | `P3TERX` 读作 Peter X。                                      |
+| [值物志](https://t.me/zhiwuzhi)                           | 分享各种值得尝试的事物：值得读的书、值得用的软件、值得看的电视剧…… |
 
 [中文独立博客列表](https://github.com/timqian/chinese-independent-blogs) by timqian
 
