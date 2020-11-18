@@ -39,7 +39,6 @@ tags: [突破网络审查, Apple ID]
 ### Website
 
 - [苹果帝](https://appledi.com/)：2020-06-05 亲测可用。
-- [网络跳跃](https://www.hijk.pw/external-apple-id-summary/)
 
 
 
@@ -47,8 +46,6 @@ tags: [突破网络审查, Apple ID]
 
 - [Shadowrocket 小火箭苹果  ID 免费分享](https://t.me/shadowrocketid)（@shadowrocketid）：较难找到可用 Apple ID。
 - [人人翻墙，则墙自倒！](https://t.me/cnhumanright99)
-
-
 
 
 
