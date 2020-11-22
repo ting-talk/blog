@@ -1,7 +1,7 @@
 ---
 title: Telegram：新手指南、使用教程及频道推荐
 date: 2019-11-09  
-updated: 2020-11-17
+updated: 2020-11-22
 categories: 数字生活  
 tags: [网上冲浪指南, 突破网络审查, Telegram]
 ---
@@ -842,6 +842,7 @@ https://rsshub.app/telegram/channel/tingtalk
 | [APPDO 数字生活指南](https://t.me/appdodo)           | 优质数字生活指南，传递数码生活和设计理念。                   |
 | [AppPie](https://t.me/AppPieChannel)                 | Apple 相关的资讯和使用技巧。                                 |
 | [VPS 信号旗播报](https://t.me/vps_xhq)               | 关注 VPS 和通信自由。                                        |
+| [硬核小卒](https://t.me/yinghexiaozu)                | 分享优质的科技/商业资讯。                                    |
 
 
 
