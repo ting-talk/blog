@@ -1465,9 +1465,15 @@ Let's make kindness go viral.
 
 `knock-off` （非正式，贵重物品的）仿制品
 
-Looks like some sort of legally safe knock-off of an '80s horror character with miniature swords for fingers instead of knives.看起来像是某个没构成侵权的山寨版八十年代恐怖电影人物，只是小刀手变成了短剑手。
+- Looks like some sort of legally safe knock-off of an '80s horror character with miniature swords for fingers instead of knives. 
+  看起来像是某个没构成侵权的山寨版八十年代恐怖电影人物，只是小刀手变成了短剑手。
 
 - miniature /ˈmɪnɪtʃə/ 微型的
+
+**knock yourself out 别客气；随便点，把这当自己的家**
+
+- I think I take nap now. Yeah, sure, knock yourself out. 
+  我现在想小睡一下。当然，请自便。
 
 ## L
 
