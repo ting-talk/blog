@@ -1,8 +1,8 @@
 ---
 
-title: Telegram Animated Emoji List（电报动态大表情合集）
+title: Telegram 动态大表情合集
 date: 2020-03-01  
-updated: 2020-10-31  
+updated: 2020-11-19  
 categories: 数字生活  
 tags: [Telegram, 网上冲浪指南]
 
@@ -10,19 +10,25 @@ tags: [Telegram, 网上冲浪指南]
 
 ![see-no-evil-monkey](telegram-animated-emoji/see-no-evil-monkey.png)
 
-静态的 Emoji，在被 Telegram 注入灵魂之后，一个个变得鲜活起来了。
+静态的 Emoji，在被 Telegram 注入灵魂之后，一个个变得鲜活（Animated）起来了。
 
 <!-- more -->
 
-发送**单个** ❤️ 并碰它一下，手机会震动，那是 Telegram Team  赋予 Emoji 的心跳（If your emoji has a heart, we'll give it a beat or unleash their spirit in motion）。还有一个更好玩的 Animated Emoji 是 🙈，真是萌到不行。
+发送**单个** ❤️ 并碰它一下，手机会震动，那是 Telegram Team  赋予 Emoji 的心跳（If your emoji has a heart, we'll give it a beat or unleash their spirit in motion）。
 
-除此之外，还可以玩游戏（单个 Emoji 才能触发）：
+还有一个好玩的 Animated Emoji 是 See-No-Evil Monkey 🙈，纵使见到了你也当作没看到（非礼勿视）。
 
-- 🎲：掷骰子 [dice](https://telegram.org/blog/folders#and-one-more-thing)
-- 🎯：扔飞镖 [darts](https://telegram.org/blog/400-million#bullseye) 
-- 🏀：投篮 basketball
-- ⚽：射门 [football](https://macos.telegram.org/#v6-3-1-2020-07-31)
-- 🎰：老虎机 [Jackpot](https://telegram.org/blog/pinned-messages-locations-playlists#jackpot)
+除此之外，还可以在电报上玩游戏（ Emoji 才能触发）：
+
+| 发送单个 | 触发效果                                                     |
+| -------- | ------------------------------------------------------------ |
+| 🎲        | 掷骰子 [dice](https://telegram.org/blog/folders#and-one-more-thing) |
+| 🎯        | 扔飞镖 [darts](https://telegram.org/blog/400-million#bullseye) |
+| 🏀        | 投篮 basketball                                              |
+| ⚽        | 射门 [football](https://macos.telegram.org/#v6-3-1-2020-07-31) |
+| 🎰        | 老虎机 [Jackpot](https://telegram.org/blog/pinned-messages-locations-playlists#jackpot) |
+
+
 
 ## 😀
 
@@ -61,6 +67,7 @@ tags: [Telegram, 网上冲浪指南]
 | 😔              | [Pensive Face](https://emojipedia.org/pensive-face/)         |
 | 😟              | [Worried Face](https://emojipedia.org/worried-face/)         |
 | 😕              | [Confused Face](https://emojipedia.org/confused-face/)       |
+| 🥺              | [Pleading Face](https://emojipedia.org/pleading-face/)       |
 | 😢              | [Crying Face](https://emojipedia.org/crying-face/)           |
 | 😭              | [Loudly Crying Face](https://emojipedia.org/loudly-crying-face/) |
 | 😤              | [Face with Steam From Nose](https://emojipedia.org/face-with-steam-from-nose/) |
@@ -72,6 +79,7 @@ tags: [Telegram, 网上冲浪指南]
 | 🥶              | [Cold Face](https://emojipedia.org/cold-face/)               |
 | 😱              | [Face Screaming in Fear](https://emojipedia.org/face-screaming-in-fear/) |
 | 😨              | [Fearful Face](https://emojipedia.org/fearful-face/)         |
+| 🤗              | [Hugging Face](https://emojipedia.org/hugging-face/)         |
 | 🤔              | [Thinking Face](https://emojipedia.org/thinking-face/)       |
 | 😐              | [Neutral Face](https://emojipedia.org/neutral-face/)         |
 | 🙄              | [Face with Rolling Eyes](https://emojipedia.org/face-with-rolling-eyes/) |
@@ -82,12 +90,14 @@ tags: [Telegram, 网上冲浪指南]
 | 😲              | [Astonished Face](https://emojipedia.org/astonished-face/)   |
 | 🥱              | [Yawning Face](https://emojipedia.org/yawning-face/)         |
 | 😴              | [Sleeping Face](https://emojipedia.org/sleeping-face/)       |
+| 🥴              | [Woozy Face](https://emojipedia.org/woozy-face/)             |
 | 🤢              | [Nauseated Face](https://emojipedia.org/nauseated-face/)     |
 | 🤮              | [Face Vomiting](https://emojipedia.org/face-vomiting/)       |
 | 🤧              | [Sneezing Face](https://emojipedia.org/sneezing-face/)       |
 | 😷              | [Face with Medical Mask](https://emojipedia.org/face-with-medical-mask/) |
 | 🤒              | [Face with Thermometer](https://emojipedia.org/face-with-thermometer/) |
 | 🤕              | [Face with Head-Bandage](https://emojipedia.org/face-with-head-bandage/) |
+| 🤠              | [Face with Cowboy Hat](https://emojipedia.org/cowboy-hat-face/ "🤠 Face with Cowboy Hat Emoji") |
 | 😈              | [Smiling Face with Horns](https://emojipedia.org/smiling-face-with-horns/) |
 | 👿              | [Angry Face with Horns](https://emojipedia.org/angry-face-with-horns/) |
 | 💩              | [Pile of Poo](https://emojipedia.org/pile-of-poo/)           |
@@ -108,6 +118,7 @@ tags: [Telegram, 网上冲浪指南]
 | 👎              | [Thumbs Down](https://emojipedia.org/thumbs-down/)           |
 | 👋              | [Waving Hand](https://emojipedia.org/waving-hand/)           |
 | 👌              | [OK Hand](https://emojipedia.org/ok-hand/)                   |
+| 🦾              | [Mechanical Arm](https://emojipedia.org/mechanical-arm/)     |
 | 💋              | [Kiss Mark](https://emojipedia.org/kiss-mark/)               |
 | 👩‍⚕️             | [Woman Health Worker](https://emojipedia.org/woman-health-worker/) |
 | 👨‍⚕️             | [Man Health Worker](https://emojipedia.org/man-health-worker/) |
