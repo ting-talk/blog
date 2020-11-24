@@ -889,7 +889,7 @@ https://rsshub.app/telegram/channel/tingtalk
 
 | 频道                                        | 详情                                                         |
 | ------------------------------------------- | ------------------------------------------------------------ |
-| [RSSHub 布告栏](https://t.me/awesomeRSSHub) | 👍 万物皆可 RSS。                                             |
+| [RSSHub 布告栏](https://t.me/awesomeRSSHub) | 万物皆可 RSS。                                               |
 | [All About RSS](https://t.me/aboutrss)      | 关于 RSS 技术的应用、周边、介绍、方法、教程、指南、讨论、观点。 |
 
 
@@ -903,7 +903,7 @@ https://rsshub.app/telegram/channel/tingtalk
 
 
 
-### 🎙 洗耳恭听
+### 🎙 播客推荐
 
 | 频道                                                         | 详情                                                         |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
@@ -913,8 +913,19 @@ https://rsshub.app/telegram/channel/tingtalk
 | [Your Daily Dose of Podcast](https://t.me/daily_dose_podcast) | 每天推荐一集让人心潮澎湃、若有所思、打开新世界大门的播客节目。by 穿堂风<br />推荐的播客会同步更新在 [Medium](https://medium.com/@chuantangfeng)<br />[我在豆瓣上分享了 400 集播客节目，有什么用？](https://www.douban.com/note/776029208/) |
 | [交差点](https://t.me/jiaochadian)                           | "Technology alone is not enough."                            |
 | [不客观 Not Objective](https://t.me/notobjective)            | 一档搭建在 Telegram 的简易播客，纯主观感受。by [郝海龙](https://haohailong.net/) |
-| [每日一歌](https://t.me/dailymusich)                         | 愿你也能在这里找到属于你自己的共鸣。                         |
-| [音乐世界](https://t.me/lumingguandj)                        | 温柔被我唱成了歌，伴你人山人海不停留。                       |
+
+
+
+### 🎵 音乐分享
+
+| 频道                                  | 详情                                   |
+| ------------------------------------- | -------------------------------------- |
+| [知音](https://t.me/Musiccnchannel)   | 👍 发一些关于音乐的东西。               |
+| [音乐世界](https://t.me/lumingguandj) | 温柔被我唱成了歌，伴你人山人海不停留。 |
+| [落网单曲](https://t.me/luoo_music)   |                                        |
+| [每日一歌](https://t.me/dailymusich)  | 愿你也能在这里找到属于你自己的共鸣。   |
+
+下载音乐，见下文中的音乐机器人。
 
 
 
@@ -1054,21 +1065,15 @@ Bots 就像运行在 Telegram 内部的小程序。借助 [Telegram 开放的 AP
 
 
 
-**Tips**
-
-- 长按命令可复制
-- 点击顶部的音乐播放栏
-  - 倒序排列 / 随机排列
-  - 上一首 / 下一首
-  - 单曲播放  / 顺序播放
-  - 分享
-
-
-
 **其它点歌（下歌）机器人**
 
 - [@vkm_bot](https://t.me/vkm_bot)
+- [@vkmusic_bot](https://t.me/vkmusic_bot)
+- [@haoyybot](https://t.me/haoyybot)
 - [@u2bu_mp3_bot](https://t.me/u2bu_mp3_bot)
+- [@SongIDbot](https://t.me/SongIDbot)：听歌识曲。
+- [@getmediabot](https://t.me/getmediabot)：下载音乐、歌词、视频等媒体。
+- [@YTAudioBot](https://t.me/YTAudioBot)：下载 YouTube 音频。
 
 
 
@@ -1078,9 +1083,10 @@ Bots 就像运行在 Telegram 内部的小程序。借助 [Telegram 开放的 AP
 | -------------------------------------------------- | ------------------------------------------------------------ |
 | [@CorsaBot](https://telegram.me/CorsaBot)          | Make Instant View from any article. 快速把文章把文章备份到 [Telegraph](https://telegra.ph/)。 |
 | [@IFTTT](https://t.me/IFTTT)                       | [With this bot you can use IFTTT to link your Telegram groups or channels to more than 360 other services like Twitter and Instagram, or connected devices like Hue lights and Nest.](https://ifttt.com/telegram) |
-| [@githubbot](https://telegram.me/githubbot)        | 推送 GitHub 仓库的动态。                                     |
+| [@githubbot](https://t.me/githubbot)               | 推送 GitHub 仓库的动态。                                     |
 | [@GmailBot](https://t.me/GmailBot)                 | 👍 在 Telegram 上收发 📧 Gmail。``                             |
 | [@LivegramBot](https://t.me/LivegramBot)           | 👍 [不加好友也能私聊](https://telegra.ph/What-is-Livegram-Bot-03-17)，可用于收集反馈及绕开 `+86` 手机号码的限制。<br />因为经过一层转发，消息一旦发送，便无法删除，但有个短暂的修改期。 |
+| [@MakeQrBot](https://t.me/MakeQrBot)               | 发送文字，生成对应的二维码。                                 |
 | [@sssoou_bot](https://t.me/sssoou_bot)             | Telegram 搜索，支持中文。                                    |
 | [@Stickers](https://t.me/Stickers)                 | 创建属于自己的表情包。                                       |
 | [@Sticker2GIFBot](https://t.me/Sticker2GIFBot)     | 下载单独的表情包或整套表情包。                               |
