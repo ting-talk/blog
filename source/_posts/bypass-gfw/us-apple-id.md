@@ -16,7 +16,7 @@ tags: [突破网络审查, Apple ID]
 
 不想折腾的用户：
 
-- 够买一个 Apple ID，例如 istore.app（本人没有购买经历，也没有利益关系）。购买成功后请立即修改邮箱和密保。
+- 购买一个 Apple ID，例如 istore.app（本人没有购买经历，也没有利益关系）。购买成功后请立即修改邮箱和密保。
 - 我收集了一些 [免费的共享 Apple ID（非中国区 ）](https://tingtalk.me/us-apple-id-share/)供读者享用（但 Apple 正在大力封杀共享 Apple ID） ，但找到可用 Apple ID 需要运气和时间。
 
 
