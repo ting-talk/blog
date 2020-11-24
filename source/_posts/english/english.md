@@ -8,7 +8,9 @@ tags: [英语, 佳句]
 
 ---
 
-![letter-a](english/letter-a.png)一本属于庭勃士的英语百科全书，大部分表达来自[《瑞克和莫蒂》](https://movie.douban.com/subject/11537954/)（*Rick and Morty*）。
+![letter-a](english/letter-a.png)
+
+一本属于庭勃士的英语百科全书，大部分表达来自[《瑞克和莫蒂》](https://movie.douban.com/subject/11537954/)（*Rick and Morty*）。
 
 <!-- more -->
 
@@ -607,11 +609,33 @@ Cool it, honey! 冷静一点儿，别发那么大的火，亲爱的。
 
 
 
+### Custody
+
+照管，监护；（尤指对父母离异或去世的孩子的）监护权
+
+- The court awarded/granted/gave custody of the child to the father.
+  法庭将孩子的监护权判给了父亲。
+- The mother got/received custody of the child.
+  母亲得到了孩子的监护权。
+- The parents were given joint custody.
+  孩子的父母获取了共同监护权。
+
+
+
+**（尤指等候法庭审判期间的）监禁，拘留**
+
+- Authorities say a suspect is in custody. 
+  有关部门表示，嫌疑人已被逮捕。
+
 
 
 ### Cut-throat
 
 Cut-throat competition：恶性竞争
+
+
+
+
 
 
 
@@ -922,8 +946,19 @@ All men are created equal.
 
 [ɪˌvækjuˈeɪʃn] 疏散；撤离；排泄
 
-The digestive tract is the evacuation route. 消化道就是疏散（排泄）通道。
+- The digestive tract is the evacuation route. 
+  消化道就是疏散（排泄）通道。
 
+### Eye
+
+wide-eyed 无经验的; 天真的
+
+- This generation has lost a lot of its wide-eyed innocence.
+  这代人已经失去了许多单纯和天真的品质。
+
+- I'm just saying, somewhere along the way, I lost that wide-eyed girl from Muskegon.
+  我只是想说，时过境迁，那个天真烂漫的马斯基根少女已经不复存在了。
+  
 
 
 ## F
@@ -1384,9 +1419,24 @@ holy crap = holy shit = holy cow 我的天哪；我的妈呀；该死;不会吧
 
 
 
+### Humble
+
+谦虚的，谦逊的
+
+- He's very humble about his success.
+  他对自己的成功十分谦虚。
+
+- Defeat and failure may make people humble. 
+  挫折与失败会使人变得谦卑。
+
+- In my humble opinion (= I want to emphasize that I think that) we should never have bought the car in the first place.
+  依拙见，首先我们就不应该买这辆汽车。
+
+
+
+
+
 ## I
-
-
 
 ### Input 
 
@@ -2109,6 +2159,16 @@ Don't pussy out on me now. 你现在最好别惹恼我。
 
 ### 
 
+## Q
+
+###  Quest
+
+- We're going on a quest. 
+  我们是来探险的。
+
+- The quest for knowledge and understanding never gets dull. 
+  对知识的渴望不会让你生活乏味
+
 
 
 ## R
@@ -2782,6 +2842,19 @@ Morty, a moment of your time? Morty，能过来一下吗？/占用你一点时�
 
 - I didn't (really / quite) understand that. 我不是很懂。
 - I didn't (really / quite) get that. 我不懂你的意思。
+
+
+
+### Untold
+
+（数量或水平）难以形容的；无数的；不可计量的；巨大的
+
+- This village is terribly poor, yet the giant that lives in the clouds above has untold treasures! 
+  这个村太穷了，但是住在云端的巨人却私藏了数不清的财富
+
+- Landmines have caused untold misery to thousands of innocent people.
+  地雷已给成千上万无辜的人带来了不可名状的苦难。
+
 
 
 
