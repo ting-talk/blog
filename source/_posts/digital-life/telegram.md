@@ -833,6 +833,7 @@ https://rsshub.app/telegram/channel/tingtalk
 | [Appinn Feed](https://t.me/appinnfeed)               | 👍 分享免费、小巧、实用、有趣、绿色的软件。                   |
 | [科技爱好者周刊](https://t.me/scitech_fans)          | 👍 记录每周值得分享的科技内容，周五发布；非官方频道。[科技爱好者周刊合集](https://www.yuque.com/ruanyf/weekly)。 |
 | [TestFlight 科技花](https://t.me/TestFlightCN)       | 👍 发布科技新闻、App 测试版链接、软件使用相关话题。           |
+| [Hacker News](https://t.me/hacker_news_feed)         | Top stories from news.ycombinator.com (with 100+ score).     |
 | [科技圈的日常](https://t.me/misakatech)              | 科技圈内的大事小事。                                         |
 | [Telegram 中文 NEWS](https://t.me/YinxiangBiji_News) | [聪聪](hhttps://congcong0806.github.io/2018/04/24/Telegram/) 的频道：提供印象笔记、Telegram、科学上网等新闻。 |
 | [如有乐享](https://t.me/ruyoblog)                    | 更新 [如有乐享博客](https://51.ruyo.net/) 的内容：云服务器、优惠活动、羊毛信息以及各种 Bug。 |
