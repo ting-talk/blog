@@ -1,8 +1,8 @@
 ---
 
-title: SwitchyOmega：在浏览器上轻松快捷地管理和切换多个代理
+title: SwitchyOmega：在浏览器上轻松管理代理规则
 date: 2019-09-18
-updated: 2019-10-15  
+updated: 2020-11-15  
 categories: 翻墙方法   
 tags: [突破网络审查, Chrome] 
 
@@ -49,18 +49,46 @@ SwitchyOmega 不提供代理服务，它只是一个桌面浏览器插件（手�
 
 - 代理协议：`SOCKS5`
 - 代理服务器：`127.0.0.1`
-- 代理端口：`1080`
+- 代理端口：`1080`（Clash 是 `7890`）
 
 ### auto switch
 
+- **白名单**：告诉代理工具，白名单（大陆没墙的网站）里面的网站直接连接，其余使用代理（会消耗更多的翻墙流量）。
+- **黑名单**：告诉代理工具，黑名单（大陆被墙的网站）里面的网站要使用代理。
+
+随着墙越来越高，黑名单难以收录不断被墙的网站（年久失修，无人维护），例如 tingtalk.me，因此就需要经常添加新规则，所以使用白名单模式，绕开局域网和大陆未墙网址，也许更实用。
+
+> 关联阅读：[是时候使用 PAC 白名单了 - 落格博客](https://www.logcg.com/archives/1292.html)
+
+#### 白名单模式
+
+**切换规则**
+
+- 勾选 `规则列表规则（按照规则列表匹配请求）`：`直接连接`（国内白名单网站）
+- 默认情景模式：`proxy`
+
+**规则列表设置**
+
+- 规则列表格式：`AutoProxy`
+- 规则列表网址：`https://raw.githubusercontent.com/aglent/autoproxy/master/whitelist.pac`
+- `立即更新情景模式`
+
+
+
+#### 黑名单模式
+
+**切换规则**
+
+- 勾选 `规则列表规则（按照规则列表匹配请求）`：`proxy`（被墙的网站）
+- 默认情景模式：`直接连接`
+
 **导入在线规则列表**
+
 - 规则列表格式：`AutoProxy`
 - 规则列表网址：`https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt`
 - `立即更新情景模式`
 
-**切换规则**
-- 规则列表规则（按照规则列表匹配请求）：`proxy`
-- 默认情景模式：`直接连接`
+
 
 
 ## 启用
@@ -77,4 +105,7 @@ SwitchyOmega 不提供代理服务，它只是一个桌面浏览器插件（手�
 
 ---
 
-关联阅读：[谷歌浏览器（Google Chrome)：插件（扩展程序）清单及使用技巧 - 庭说](https://tingtalk.me/chrome/)
+**关联阅读**
+
+- [Proxy SwitchyOmega 配置教程（非官方）](https://proxy-switchyomega.com/settings/)
+- [谷歌浏览器（Google Chrome)：插件（扩展程序）清单及使用技巧 - 庭说](https://tingtalk.me/chrome/)

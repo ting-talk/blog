@@ -630,6 +630,15 @@ Markdown 的用途很广。Write once, export everywhere：写博客、写邮件
 
 
 
+### 导出漂亮的 Markdown 源代码图片
+
+1. 打开 carbon.now.sh
+2. 语言选择 `Markdown`
+3. 书写或者粘贴 Markdown 源代码
+4. 导出 PNG 像素图或者 SVG 矢量图
+
+
+
 **参考**
 
 - [Markdown 完全入门（上）](https://sspai.com/post/36610)
