@@ -81,7 +81,10 @@ Telegram 的中文搜索是以「词组」为单位的，以标点符号或空�
 
 都可以找到这句话。
 
-> 关联阅读：[为什么 Telegram 不能搜索中文讯息 - 翁君牧](https://medium.com/@nevik.w39/%E7%82%BA%E4%BB%80%E9%BA%BC-telegram-%E4%B8%8D%E8%83%BD%E6%90%9C%E5%B0%8B%E4%B8%AD%E6%96%87%E8%A8%8A%E6%81%AF-6b7d07690e6f)
+> 关联阅读：
+>
+> - [为什么 Telegram 不能搜索中文讯息 - 翁君牧](https://medium.com/@nevik.w39/%E7%82%BA%E4%BB%80%E9%BA%BC-telegram-%E4%B8%8D%E8%83%BD%E6%90%9C%E5%B0%8B%E4%B8%AD%E6%96%87%E8%A8%8A%E6%81%AF-6b7d07690e6f)
+> - [Telegram 中文搜索方案探索 - Newlearner](https://www.newlearner.site/2020/04/25/telegram-search.html)
 
 
 
@@ -609,7 +612,14 @@ Telegram 有一个非常人性化的特性：**记忆浏览进度**，打开对�
 
 这也再次证明了 Telegram 的内容是可以被 Google 等搜索引擎抓取的。反观国内的互联网江湖，各自割据，搞得网民苦不堪言。就拿微信来说，你不能在 Google 或者百度搜到公众号文章，这也是庭说另开一个独立博客的原因。
 
-👌 Telegram 频道搜索引擎（非官方）：[sssoou.com](http://www.sssoou.com/)。帮助大家搜 Telegram 频道里的资源，不用因为 Telegram 对中文支持不好，而找不到想要的资源。
+👌 Telegram 频道搜索引擎（非官方）
+
+- 网页版
+  - [名刀电报搜索](https://xtea.io/ts.html#gsc.tab=0)
+  - [sssoou.com](http://www.sssoou.com/)
+- 机器人
+  - [@hao1234bot](http://t.me/hao1234bot)
+  - [@hao6bot](http://t.me/hao6bot)
 
 
 
