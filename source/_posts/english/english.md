@@ -629,11 +629,14 @@ Cool it, honey! 冷静一点儿，别发那么大的火，亲爱的。
 
 
 
-### Cut-throat
+### Cut
 
-Cut-throat competition：恶性竞争
+cut-throat competition 恶性竞争
 
+cut your losses 及时放弃无利可图之事；知难而退，及早撒手
 
+- Let's cut our losses and sell the business before prices drop even further.
+  我们趁早收手，在价格继续下跌之前把店卖掉吧。
 
 
 
@@ -1273,11 +1276,28 @@ I'm not that kind of guy, Morty. 我不是那种人，莫蒂。
 
 ## H
 
+
+
+### Hairy
+
+惊险的；刺激的
+
+- His driving was a bit hairy. 
+  他开起车来有点儿令人胆战心惊。
+
+- I like going on the back of Pedro's motorbike, though it can get a bit hairy.
+  我喜欢坐在佩德罗的摩托车后座上兜风，虽然有时有些惊险。
+
+
+
 ### Halt
 
 侧重突然地、决定性地终止、停止某一活动。
 
-The dimension I visited was so advanced, they had also halted the aging process, and everyone there was young, Morty, and they had been forever. 我所访问的次元是如此的先进，他们也停止了衰老的过程，那里的每个人都很年轻，Morty，而且他们一直都很年轻。
+- The dimension I visited was so advanced, they had also halted the aging process, and everyone there was young and they had been forever. 
+  我所访问的次元是如此的先进，他们也停止了衰老的过程，那里的每个人都很年轻，Morty，而且他们一直都很年轻。
+
+
 
 ### Hang
 
@@ -1931,15 +1951,24 @@ There's no doubt who'll wear the pants in that house. 毫无疑问，谁会在�
 
 
 
+### Paradox
+
+自相矛盾的情况；似非而是的说法；悖论
+
+- It's a curious paradox that drinking a lot of water can often make you feel thirsty.
+  大量喝水经常会让人感觉口渴，这是看似矛盾而正确的奇怪说法。
+
 
 
 ### Parachute
 
 [ˈpærəʃuːt] 降落伞；跳伞
 
-They fell 41,000 ft. before opening their parachutes. 他们下落了 41000 英尺才打开他们的降落伞。
+- They fell 41,000 ft. before opening their parachutes. 
+  他们下落了 41000 英尺才打开他们的降落伞。
 
-The plan is to parachute into the town. 计划是要跳伞进入该城。
+- The plan is to parachute into the town. 
+  计划是要跳伞进入该城。
 
 
 
