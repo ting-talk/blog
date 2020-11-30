@@ -795,13 +795,13 @@ https://rsshub.app/telegram/channel/tingtalk
 
 
 
-须知参差多态，乃是电报之福。**欢迎向我推荐其它领域的优质频道**：
+须知参差多态，乃是电报之福。术业有专攻，**欢迎向我推荐其它领域的优质频道**：
 
 1. 在 Telegram 搜索 [@tingbot](https://t.me/tingbot)
 2. 简单说明推荐理由
 3. 优质频道将会更新在这篇《电报教程》里，让好内容得到更多的展现
 
-以下是我收集的一些频道，但不代表同意其观点。如果你发现某些频道开始「作恶」了，请联系 [我](https://t.me/tingbot) 从这个列表中删除。
+以下是我收集的频道，不代表同意其观点。如果你发现某些频道开始「作恶」了，请联系我从这个列表中删除。
 
 2020 年，你需要多运动，多吃蔬果，偶尔听 [播客](https://podcasts.cosmosrepair.com/)，放下手机早点睡觉，少看鸡零狗碎的消息。
 
@@ -1245,7 +1245,7 @@ Bots 就像运行在 Telegram 内部的小程序。借助 [Telegram 开放的 AP
 URL = `https://telegra.ph`/`首次输入的标题`-`首次发表的月`-`首次发表的日`
 
 1. 要想得到一个 friendlier-looking link，首次编辑请使用英文标题：
-   - 英文单词全部小写：10 reasons to choose the telegraph（选择电报的 10 个理由）
+   - 英文单词全部小写：10 reasons to choose the telegraph（选择 Telegraph 的 10 个理由）
    - 把 the、a、an 等去掉：10 reasons to choose telegraph
    - 用连字符 `-` 代替标点和空格：10-reasons-to-choose-telegraph
    - 是否可以精简或者采用另外一种翻译：why-telegraph
