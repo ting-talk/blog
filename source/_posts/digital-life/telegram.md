@@ -950,10 +950,9 @@ https://rsshub.app/telegram/channel/tingtalk
 | ------------------------------------- | -------------------------------------- |
 | [知音](https://t.me/Musiccnchannel)   | 👍 发一些关于音乐的东西。               |
 | [音乐世界](https://t.me/lumingguandj) | 温柔被我唱成了歌，伴你人山人海不停留。 |
-| [落网单曲](https://t.me/luoo_music)   |                                        |
 | [每日一歌](https://t.me/dailymusich)  | 愿你也能在这里找到属于你自己的共鸣。   |
 
-下载音乐，见下文中的音乐机器人。
+下载音乐，请看下文中的音乐机器人。
 
 
 
