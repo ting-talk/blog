@@ -939,8 +939,10 @@ https://rsshub.app/telegram/channel/tingtalk
 | [独立播客](https://t.me/indiepod)                            | 分享关于播客的一切。by Zac                                   |
 | [中文播客精选](https://t.me/greatpodcasts)                   | 分享精选优质中文播客，目前推荐单期节目为主。by [白昼电台](https://day.pcast.me/) 的主播 Stella |
 | [Your Daily Dose of Podcast](https://t.me/daily_dose_podcast) | 每天推荐一集让人心潮澎湃、若有所思、打开新世界大门的播客节目。by 穿堂风<br />推荐的播客会同步更新在 [Medium](https://medium.com/@chuantangfeng)<br />[我在豆瓣上分享了 400 集播客节目，有什么用？](https://www.douban.com/note/776029208/) |
-| [交差点](https://t.me/jiaochadian)                           | "Technology alone is not enough."                            |
+| [交差点](https://t.me/jiaochadian)                           | Technology alone is not enough.                              |
 | [不客观 Not Objective](https://t.me/notobjective)            | 一档搭建在 Telegram 的简易播客，纯主观感受。by [郝海龙](https://haohailong.net/) |
+| [白昼电台 The Day](https://t.me/baizhoutheday)               | 黑夜已深，白昼将近，我们就当脱去暗昧的行为，带上光明的兵器。 |
+| [维生素 E](https://t.me/vitamineEpodcast)                    | 经济学与哲学知识分享。                                       |
 
 
 
