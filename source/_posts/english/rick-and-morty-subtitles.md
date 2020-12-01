@@ -19,8 +19,18 @@ tags: [英语, 口语]
 
 **导出配音**
 
-- 📽️ [QQ 影音](https://player.qq.com/)：播放视频，右键视频 > `工具` > `转码压缩`：选择最高码率的纯音频 mp3。
-- 📣 [Audacity](https://www.audacityteam.org/)：打开音频 ，`Ctrl` + `A` 全选，`效果` > `增幅（放大）`> `确定`，即可增大音量。
+- 📽️ [QQ 影音](https://player.qq.com/)：播放视频，右键视频 > `工具` > `转码压缩`
+  - `格式`：`纯音频`，`mp3`
+  - `码率`：`320 kbps`
+- 📣 [Audacity](https://www.audacityteam.org/)：打开音频 ，`Ctrl` + `A` 全选
+  - 增大音量：`效果` > `增幅（放大）`> `确定`
+  - 导出为 mp3
+    - `比特率模式`：`预设`
+    - `质量`：`发狂，320 kbps`
+    - `可变速率`：`快速`
+    - `声道模式`：`合并立体声`
+    - `艺术家名字`：`Rick and Morty`
+    - `轨道标题`：`S1E1 Pilot`
 - ✈️ [Telegram](https://tingtalk.me/telegram/)：上传音频到电报私人群组或频道，随时随地，手机电脑，想听就听。
 
 
