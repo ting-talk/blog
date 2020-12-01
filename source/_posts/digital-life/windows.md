@@ -287,7 +287,7 @@ CertUtil -hashfile D:\Downloads\Shadowsocks-4.1.9.3.zip SHA512
 
 #### [科学上网](https://tingtalk.me/fq/)
 
-提升互联网生活质量的第一步是打通全球网络，访问 `tingtalk.me/fq` 开启数字世界的另一扇大门。
+提升互联网生活质量的第一步是打通全球网络，访问 tingtalk.me/fq 开启数字世界的另一扇大门。
 
 
 
@@ -756,13 +756,9 @@ Windows 的默认图片浏览器非常难用。而 qimgv 是一款开源的图�
 
 **关联阅读**
 
-Awesome Windows：[Windows上优质 & 精选的最佳应用程序及工具列表。](https://github.com/Awesome-Windows/Awesome/blob/master/README-cn.md)
+[Awesome Windows](https://github.com/Awesome-Windows/Awesome/blob/master/README-cn.md)：Windows上优质 & 精选的最佳应用程序及工具列表，其/中包含这篇文章没讲的 [数据恢复软件](https://github.com/Awesome-Windows/Awesome/blob/master/README-cn.md#%E6%95%B0%E6%8D%AE%E6%81%A2%E5%A4%8D)（因为我有良好的备份习惯）。
 
 [FXXKMAKEDING](https://node4.mkdmirror.workers.dev/0:/)：Fuck 思杰马克丁，来这里下载「绿色」软件吧。
-
-
-
-
 
 ## 系统重装
 
