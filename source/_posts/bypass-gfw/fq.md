@@ -75,7 +75,7 @@ Ting 我 Talk 一句：只要肉身在中国大陆，我们的一切行动听党
 
 ### 🛒 购买
 
-在左侧菜单栏往下滑，找到 `套餐购买`：为了保险起见，不管是买哪一家的番茄，我都推荐先买一个月的量试用一下，觉得好用（周末高峰期也能稳定使用），再季付，年付可以等敏感期（6 月份）过了之后再买。为什么：
+在左侧菜单栏往下滑，找到 `套餐购买`：为了保险起见，不管是买哪一家的番茄，我都推荐先买一个月的量试用一下，觉得好用（周末高峰期也能稳定使用），再季付（也要慎重），年付（做好跑路无悔的准备）可以等敏感期（6 月份）过了之后再买。为什么：
 
 - 每个用户所在的地理位置不一样，选用的运营商也不相同，所以网速和稳定性是因人而异的。
 - 道高一次，魔高一丈，中国的网管可不是吃素的（可怕的食肉动物），对番茄这种水果极其厌恶。万一发飙，种植技术一般的番茄商可能就 Game Over 了，所以我也不敢保证我现在用的这家机场会不会跑路。
@@ -86,7 +86,7 @@ Windows 用户推荐使用 Clash，教程在下面「吃番茄」的章节。
 
 Android 用户推荐使用 ShadowsocksR 客户端，但是也可以把 Clash for Windows 订阅链接用在 Clash for Android 上，教程在下面「吃番茄」的章节。
 
-使用苹果
+苹果用户，选择很多，挑一个顺手的即可。
 
 
 
@@ -94,17 +94,16 @@ Android 用户推荐使用 ShadowsocksR 客户端，但是也可以把 Clash for
 
 **公告**
 
-- Telegram 通知频道：https://t.me/googlessrr
+- Telegram 通知频道：https://t.me/airkoryochannel
 
 **客服**
 
-- 在 Telegram 上联系售后客服：[@cnix01](https://t.me/cnix01)
+- 在 Telegram 上联系**售后**客服：[@cnix01](https://t.me/cnix01)
 - 无法私聊时，请联系 [@cnix_support_pm_bot](https://t.me/cnix_support_pm_bot)
 
 **群组**
 
-- Telegram 群组（主群）：https://t.me/ssrcloud
-- Telegram 群组（备用）：https://t.me/mikucloud
+- Telegram 群组：https://t.me/airkoryo
 
 
 
@@ -131,7 +130,6 @@ Android 用户推荐使用 ShadowsocksR 客户端，但是也可以把 Clash for
 
 **图文教程请参阅**
 
-- [rixCloud 帮助文档](https://rixcloudkb.io/)
 - [Dler Cloud 文档中心](https://docs.dler.io/black-hole/)
 - [全球互联交互 - 帮助中心](https://world.crisp.help/zh/)
 - [使用教程汇总 - 神奇海螺](https://wiki.kache.moe/2019/12/17/%E6%95%99%E7%A8%8B%E6%B1%87%E6%80%BB/)
@@ -321,14 +319,6 @@ Android 用户推荐使用 ShadowsocksR 客户端，但是也可以把 Clash for
 1. 在顶部输入框粘贴订阅配置链接，然后点击 `Download` 按钮。Clash for Windows 会自动下载远程配置文，如果一切顺利，你应当可以看到绿色提示信息。`Success!`，并且可以看到一个新的配置文件（如果弹出 `Could not switch to this profile! `，关闭软件，以 `管理员身份运行`。）。
 2. 点击新的配置文件，就能切换到该配置。
 3. 点击配置文件的 ℹ️（Change information），在 `Update Interval (hour)` 填入 `24`，即 24 小时自动更新一次配置文件。
-
-
-
-免费 Clash 节点 via [proxypool](https://github.com/zu1k/proxypool)，配置文件如下：
-
-```http
-https://proxy.tgbot.co/clash
-```
 
 
 

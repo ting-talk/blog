@@ -12,6 +12,8 @@ tags: [排版, 写作]
 
 <!-- more -->
 
+请注意，Markdown 不要写成 MarkDown。
+
 ## 优势
 
 掐指一算，使用 Markdown 写文章三年有余了。它的好，目前谁都比不了。
@@ -655,12 +657,3 @@ Markdown 的用途很广。Write once, export everywhere：写博客、写邮件
 **关联阅读**
 
 - [文案风格及排版指南](https://tingtalk.me/style-guide/)
-
-
-```
-
-```
-
-```
-
-```
