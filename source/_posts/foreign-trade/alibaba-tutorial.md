@@ -20,9 +20,17 @@ tags: 外贸
 
 
 
-## 有问题找小何
+## 有问题先找官方
 
-输入 `找拍档`，快速接入人工客户。
+找小何，输入 `找拍档`，快速接入人工客户。
+
+
+
+**官方建议**
+
+- [商品信息滥发处罚规则解读](https://activity.alibaba.com/pc/02ade148.html) 
+- [国际站图片质量规范](https://activity.alibaba.com/pc/588125f6.html)
+- [产品视频拍摄建议](https://activity.alibaba.com/pc/video_regulations.html)
 
 
 
@@ -58,6 +66,12 @@ tags: 外贸
 - 找词方法四：`营销中心` - `外贸直通车` - `关键词工具` 重点关注同行推词和行业词表
 - 找词方法五：参考亚马逊卖家
 - 找词方法六：Alibaba 搜索框联想词和搜索页底部的相关推荐
+
+[全自动收集阿里国际站关键词插件 Instant Data Scraper - 小朱笔记](https://www.zhudc.com/b2b/3156/)
+
+
+
+
 
 
 ## 发布产品
@@ -120,6 +134,10 @@ tags: 外贸
   - 合作客户
   - 证书（必须是自己的，不然后患无穷）
   - FAQ
+
+
+
+
 
 
 

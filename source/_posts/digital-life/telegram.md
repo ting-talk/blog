@@ -767,7 +767,7 @@ Creat New Folder（新建分组）时有以下筛选条件可选：
 
 **对于订阅者**
 
-- [Subscriber Privacy](https://telegram.org/tour/channels#subscriber-privacy)：关注者无法得知频道创建者（creator）是谁，也无法得知谁关注了这个频道。
+- [Subscriber Privacy](https://telegram.org/tour/channels#subscriber-privacy)：关注者无法得知频道创建者（creator）是谁，也无法得知谁关注了这个频道，但是频道主知道谁关注了频道。
 - 频道/超级群组的关注上限是 500 个（具体数字未得到官方的求证），但是限制是一定存在的，因为限制提示语出现在官方翻译页面：抱歉，您已加入太多频道/超级群组。请先退出一些频道/超级群组后再加入。（[Sorry, you have joined too many channels and supergroups. Please leave some before joining this one.](https://translations.telegram.org/zh-hans/tdesktop/groups_and_channels/lng_join_channel_error)）
 
 
@@ -1209,11 +1209,11 @@ Bots 就像运行在 Telegram 内部的小程序。借助 [Telegram 开放的 AP
 
 此法不需要注册账号与下载软件。
 
-1. 在手机或电脑的浏览器的地址栏输入 `telegra.ph`
+1. 在手机或电脑的浏览器的地址栏输入 [telegra.ph](https://telegra.ph/)
 2. 写文章
 3. 发布（PUBLISH）
 
-⚠️ 内容发布之后，只要清除浏览器的缓存，便无法再编辑文章，也不能追溯到文章作者。
+⚠️ 内容发布之后，只要清除浏览器缓存，便无法再编辑文章，也不能追溯到文章作者。
 
 
 
@@ -1246,10 +1246,16 @@ Bots 就像运行在 Telegram 内部的小程序。借助 [Telegram 开放的 AP
 
 ### 🔗 如何让文章链接更美观
 
-URL = `https://telegra.ph`/`首次输入的标题`-`首次发表的月`-`首次发表的日`
+URL = `https://telegra.ph`/`首次输入的标题`-`首次发表时的月份` -`首次发表时的日期`
+
+如果你用中文撰写标题，例如《选择 Telegraph 的 10 个理由》，那么文章链接会变得又臭又长，且不能从链接或者文章主题：
+
+```
+https://telegra.ph/%E9%80%89%E6%8B%A9-Telegraph-%E7%9A%84-10-%E4%B8%AA%E7%90%86%E7%94%B1-12-04
+```
 
 1. 要想得到一个 friendlier-looking link，首次编辑请使用英文标题：
-   - 英文单词全部小写：10 reasons to choose the telegraph（选择 Telegraph 的 10 个理由）
+   - 英文单词全部小写：10 reasons to choose the telegraph
    - 把 the、a、an 等去掉：10 reasons to choose telegraph
    - 用连字符 `-` 代替标点和空格：10-reasons-to-choose-telegraph
    - 是否可以精简或者采用另外一种翻译：why-telegraph
@@ -1260,7 +1266,7 @@ URL = `https://telegra.ph`/`首次输入的标题`-`首次发表的月`-`首次�
 ### 📝 如何让文章排版更美观
 
 1. 使用 [Markdown](https://tingtalk.me/markdown/) 写文章（例如 [Typora](https://typora.io/)）
-2. 复制
+2. 复制 Markdown 预览（不是源代码）
 3. 粘贴到 `telegra.ph`，即可快速排出精美的文章（不支持某些格式，例如多级项目列表）
 
 
