@@ -2295,6 +2295,21 @@ Sex is sacred! 性是神圣的！
 
 
 
+### Sale
+
+**On sale vs For sale**
+
+- On sale = Special offer 特价中
+- For sale 有出售（not for sale 非卖品）
+
+> - Do you have the latest iPhone for sale?
+>   你们有卖最新的iPhone吗?
+>
+> - Yes, we do. It’s on sale for $100 this weekend.
+>   有啊，这周末在做特价，只要一百块。
+
+
+
 ### Sane
 
 心智健全的，神智正常的；头脑清醒的；明智的

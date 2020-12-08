@@ -185,6 +185,13 @@ l
 
 
 
+**关联阅读**
+
+- 图文 | [孔雀计划：中文字体排印的思路 -  The Type](https://www.thetype.com/kongque/)
+- 视频 | [设计师与标点符号 - 𝒐𝒐𝒐𝒐𝒐𝒐𝒉𝒎𝒚𝒈𝒐𝒔𝒉](https://www.bilibili.com/video/BV1AX4y1u7Ag)
+
+
+
 ### 中文符号
 
 #### 感叹号 `！`

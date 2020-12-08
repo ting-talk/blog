@@ -14,9 +14,9 @@ tags: [网上冲浪指南, 突破网络审查, Telegram]
 
 🧱 TG 在中国大陆必须 [翻墙](https://tingtalk.me/fq/) 后才能使用。不过，学会科学上网，难道不是当代数字公民的必备技能吗？
 
-💡 全文有一万五千多字，善用右侧的目录栏和查找功能（`Ctrl` + `F`），助你定位想要看到的内容。
+📁 tingtalk.me 也在 2020-04-04 被墙了，如需在墙内传阅，请访问 [IPFS](https://ipfs.eternum.io/ipfs/QmNoPwZ7nBaptCcwC2eTFBfNJjNdwwEAbK7LufkSvXL9Pk) 或前往 [蓝奏云](https://wwa.lanzous.com/b00twozof) 下载本文的 PDF。
 
-📁 tingtalk.me 在 2020-04-04 被墙了，如需在墙内传阅，请访问 [IPFS](https://ipfs.eternum.io/ipfs/QmNoPwZ7nBaptCcwC2eTFBfNJjNdwwEAbK7LufkSvXL9Pk) 或前往 [蓝奏云](https://wwa.lanzous.com/b00twozof) 下载本文的 PDF。
+💡 全文有一万五千多字，善用右侧的目录栏和查找功能（`Ctrl` + `F`），助你定位想要看到的内容。
 
 ✍️ 如需下载可编辑的 Markdown 源文档，请访问 [庭说的 GitHub 仓库](https://raw.githubusercontent.com/ting-talk/blog/master/source/_posts/digital-life/telegram.md)。
 
@@ -81,10 +81,12 @@ Telegram 的中文搜索是以「词组」为单位的，以标点符号或空�
 
 都可以找到这句话。
 
-> 关联阅读：
->
+嫌手动分词太麻烦了？那就在电脑上导出 HTML 或 JSON 格式的聊天记录，想怎么搜就怎么搜。
+
+**关联阅读**
+
 > - [为什么 Telegram 不能搜索中文讯息 - 翁君牧](https://medium.com/@nevik.w39/%E7%82%BA%E4%BB%80%E9%BA%BC-telegram-%E4%B8%8D%E8%83%BD%E6%90%9C%E5%B0%8B%E4%B8%AD%E6%96%87%E8%A8%8A%E6%81%AF-6b7d07690e6f)
-> - [Telegram 中文搜索方案探索 - Newlearner](https://www.newlearner.site/2020/04/25/telegram-search.html)
+>- [Telegram 中文搜索方案探索 - Newlearner](https://www.newlearner.site/2020/04/25/telegram-search.html)
 
 
 
@@ -573,8 +575,11 @@ Telegram 有一个非常人性化的特性：**记忆浏览进度**，打开对�
 
 ### 🖥️ 电脑版技巧
 
+Windows 的 `Ctrl` 等于 macOS 中 `Command` ⌘。
+
 - **快速多选**：在对话界面的空白位置，按着鼠标左键不放，即可多选信息，然后选择转发或者删除。
 - **链接直达**：按住 `Ctrl` 再点击 URL，直接打开链接，不必弹窗确认（Open this link? CANCEL / OPEN）。
+- **缩放图片**：按住 `Ctrl` 再旋转鼠标的滚轮，即可放大或缩小图片。
 
 
 
@@ -870,7 +875,7 @@ https://rsshub.app/telegram/channel/tingtalk
 | [cnBeta](https://t.me/cnbeta_com)                    | cnBeta.COM 中文业界资讯站是一个提供 IT 相关新闻资讯、技术文章和评论的观点的中文网站。 |
 | [果核 Apple Nuts](https://t.me/AppleNuts)            | 一个果粉（[Hackl0us](https://hackl0us.com/)）的闲言碎语， 用来推送苹果（Apple） 相关的技术、新闻资讯、技巧、产品/软件心得体会等。 |
 | [APPDO 数字生活指南](https://t.me/appdodo)           | 优质数字生活指南，传递数码生活和设计理念。                   |
-| [AppPie](https://t.me/AppPieChannel)                 | Apple 相关的资讯和使用技巧。                                 |
+| [AppPie](https://t.me/AppPie)                        | Apple 相关的数字生活指南。                                   |
 | [VPS 信号旗播报](https://t.me/vps_xhq)               | 关注 VPS 和通信自由。                                        |
 | [硬核小卒](https://t.me/yinghexiaozu)                | 分享优质的科技/商业资讯。                                    |
 
