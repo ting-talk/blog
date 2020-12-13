@@ -60,6 +60,7 @@ tags: [Telegram, 网上冲浪指南]
 | 🤪              | [Zany Face](https://emojipedia.org/zany-face/)               |
 | 🧐              | [Face with Monocle](https://emojipedia.org/face-with-monocle/) |
 | 😎              | [Smiling Face with Sunglasses](https://emojipedia.org/smiling-face-with-sunglasses/) |
+| 🤩              | [Star-Struck](https://emojipedia.org/star-struck/)           |
 | 🥳              | [Partying Face](https://emojipedia.org/partying-face/)       |
 | 😏              | [Smirking Face](https://emojipedia.org/smirking-face/)       |
 | 😒              | [Unamused Face](https://emojipedia.org/unamused-face/)       |
@@ -81,6 +82,9 @@ tags: [Telegram, 网上冲浪指南]
 | 😨              | [Fearful Face](https://emojipedia.org/fearful-face/)         |
 | 🤗              | [Hugging Face](https://emojipedia.org/hugging-face/)         |
 | 🤔              | [Thinking Face](https://emojipedia.org/thinking-face/)       |
+| 🤭              | [Face with Hand Over Mouth](https://emojipedia.org/face-with-hand-over-mouth/) |
+| 🤫              | [Shushing Face](https://emojipedia.org/shushing-face/)       |
+| 🤥              | [Lying Face](https://emojipedia.org/lying-face/)             |
 | 😐              | [Neutral Face](https://emojipedia.org/neutral-face/)         |
 | 🙄              | [Face with Rolling Eyes](https://emojipedia.org/face-with-rolling-eyes/) |
 | 😯              | [Hushed Face](https://emojipedia.org/hushed-face/)           |
@@ -97,12 +101,14 @@ tags: [Telegram, 网上冲浪指南]
 | 😷              | [Face with Medical Mask](https://emojipedia.org/face-with-medical-mask/) |
 | 🤒              | [Face with Thermometer](https://emojipedia.org/face-with-thermometer/) |
 | 🤕              | [Face with Head-Bandage](https://emojipedia.org/face-with-head-bandage/) |
+| 🤑              | [Money-Mouth Face](https://emojipedia.org/money-mouth-face/) |
 | 🤠              | [Face with Cowboy Hat](https://emojipedia.org/cowboy-hat-face/ "🤠 Face with Cowboy Hat Emoji") |
 | 😈              | [Smiling Face with Horns](https://emojipedia.org/smiling-face-with-horns/) |
 | 👿              | [Angry Face with Horns](https://emojipedia.org/angry-face-with-horns/) |
 | 💩              | [Pile of Poo](https://emojipedia.org/pile-of-poo/)           |
 | 👻              | [Ghost](https://emojipedia.org/ghost/)                       |
 | 💀              | [Skull](https://emojipedia.org/skull/)                       |
+| ☠️              | [Skull and Crossbones](https://emojipedia.org/skull-and-crossbones/) |
 | 🎃              | [Jack-O-Lantern](https://emojipedia.org/jack-o-lantern/)     |
 | 😺              | [Grinning Cat](https://emojipedia.org/grinning-cat/)         |
 | 😸              | [Grinning Cat with Smiling Eyes](https://emojipedia.org/grinning-cat-with-smiling-eyes/) |
@@ -118,6 +124,7 @@ tags: [Telegram, 网上冲浪指南]
 | 👎              | [Thumbs Down](https://emojipedia.org/thumbs-down/)           |
 | 👋              | [Waving Hand](https://emojipedia.org/waving-hand/)           |
 | 👌              | [OK Hand](https://emojipedia.org/ok-hand/)                   |
+| 💪              | [Flexed Biceps](https://emojipedia.org/flexed-biceps/)       |
 | 🦾              | [Mechanical Arm](https://emojipedia.org/mechanical-arm/)     |
 | 💋              | [Kiss Mark](https://emojipedia.org/kiss-mark/)               |
 | 👩‍⚕️             | [Woman Health Worker](https://emojipedia.org/woman-health-worker/) |
@@ -160,6 +167,9 @@ tags: [Telegram, 网上冲浪指南]
 | 🌒              | [Waxing Crescent Moon](https://emojipedia.org/waxing-crescent-moon/) |
 | 🌓              | [First Quarter Moon](https://emojipedia.org/first-quarter-moon/) |
 | 🌔              | [Waxing Gibbous Moon](https://emojipedia.org/waxing-gibbous-moon/) |
+| ⭐️              | [Star](https://emojipedia.org/star/)                         |
+| ✨              | [Sparkles](https://emojipedia.org/sparkles/)                 |
+| ⚡️              | [High Voltage](https://emojipedia.org/high-voltage/)         |
 | 🔥              | [Fire](https://emojipedia.org/fire/)                         |
 | ☃️              | [Snowman](https://emojipedia.org/snowman/)                   |
 | ⛄️              | [Snowman Without Snow](https://emojipedia.org/snowman-without-snow/) |
@@ -223,6 +233,8 @@ tags: [Telegram, 网上冲浪指南]
 | 📂              | [Open File Folder](https://emojipedia.org/open-file-folder/) |
 | 🧮              | [Abacus](https://emojipedia.org/abacus/)                     |
 | 📝              | [Memo](https://emojipedia.org/memo/)                         |
+| 🔍              | [Magnifying Glass Tilted Left](https://emojipedia.org/magnifying-glass-tilted-left/) |
+| 🔎              | [Magnifying Glass Tilted Right](https://emojipedia.org/magnifying-glass-tilted-right/) |
 | 🔐              | [Locked with Key](https://emojipedia.org/locked-with-key/)   |
 
 
@@ -243,6 +255,7 @@ tags: [Telegram, 网上冲浪指南]
 | 💔              | [Broken Heart](https://emojipedia.org/broken-heart/)         |
 | 💘              | [Heart with Arrow](https://emojipedia.org/heart-with-arrow/) |
 | 💝              | [Heart with Ribbon](https://emojipedia.org/heart-with-ribbon/) |
+| 💤              | [Zzz](https://emojipedia.org/zzz/)                           |
 | 💱              | [Currency Exchange](https://emojipedia.org/currency-exchange/) |
 | 📣              | [Megaphone](https://emojipedia.org/megaphone/)               |
 | 🇧🇾             | [Flag: Belarus](https://emojipedia.org/flag-belarus/)        |
