@@ -204,6 +204,7 @@ tags: 网上冲浪指南
 - [方方格子](http://www.ffcell.com/index.aspx)：一个专注 Excel 学习交流、资源下载的网站。
 - [小恐龙公文排版助手 for Word/WPS](https://gw.xkonglong.com/#/)
 - [人事星球](https://www.rsxq.com)，为 HR 提供各类专业的人力资源文档模板，所有资料均可免费下载。
+- 如果获取微信公众号的二维码：https://open.weixin.qq.com/qr/code?username=Ting_Talk
 
 
 
