@@ -39,7 +39,7 @@ tags: [英语, 口语]
 
 ### E1 Pilot
 
-电波诚译
+[电波诚译](www.dbfansub.com)
 
 - 翻译: 朽
 - 校对: 史努比嘟
@@ -1933,7 +1933,7 @@ www.100timesrickandmorty.Com.
 
 ### E2 Lawnmower Dog
 
-电波诚译
+[电波诚译](www.dbfansub.com)
 
 - 翻译: 朽
 - 校对: 史努比嘟 Kimmu
@@ -3320,7 +3320,7 @@ This is how you dream, bitch.
 
 ### E3 Anatomy Park
 
-电波诚译
+[电波诚译](www.dbfansub.com)
 
 - 翻译: 朽
 - 校对: 史努比嘟 死不睡觉斯基
@@ -4813,7 +4813,7 @@ And who pays me?
 
 ### E4 M. Night Shaym-Aliens!
 
-电波诚译
+[电波诚译](www.dbfansub.com)
 
 - 翻译: 大岛优子一生推  Gaby
 - 校对: 史努比史酷比
@@ -6441,7 +6441,7 @@ What a life.
 
 ### E5 Meeseeks and Destroy
 
-电波诚译
+[电波诚译](www.dbfansub.com)
 
 - 翻译: 为爱人爆肝的Kimuu
 - 校对: 被爱人感动的阿朽
@@ -7837,3 +7837,1475 @@ than from the Jelly Bean he actually was.
 
 
 
+### E6 Rick Potion #9
+
+[电波诚译](www.dbfansub.com)
+
+- 翻译: 阿朽
+- 校对: 阿朽
+- 后期: 小萌
+- 压制: 凯撒
+
+
+
+我是阴道校长 别被我的名字骗了
+Principal Vagina here don't let the name fool you.
+
+我在此提醒你们
+I'm very much in charge reminding you
+
+今晚是我们的年度流感舞会
+that tonight is our annual flu season dance.
+
+我不知道这句话还要说几遍
+I don't know how many times I have to say this,
+
+得了流感的同学请待在家里
+but if you have the flu, stay home.
+
+嗨
+Hey.
+
+举办流感舞会是为了提高防范意识 不是为了庆祝
+The flu season dance is about awareness, not celebration.
+
+不会有人带着死掉的婴儿过逾越节
+you don't bring dead babies to passover.
+
+犹太教逾越节的传说中上帝杀死了埃及所有头胎的牲畜和婴儿
+
+好吧 加油
+okay. Here we go.
+
+嗨 Jessica
+H-hey, Jessica. Uh...
+
+怎么了 Morty
+What's up, Morty?
+
+你想干嘛
+what are you doing?
+
+呃
+um...
+
+慢着 你不会是打算和她说话吧
+Wait, wait. Were you about to talk... to her?
+
+我是想来着
+well... I mean, I was thinking about it.
+
+哥们儿 别瞎想了
+Dude, stay in your league.
+
+瞧她多美
+Look at how hot she is.
+
+你也没见我跑到更有钱的片区里更大的学校
+You don't see me going to a bigger school in a wealthier district
+
+去泡那儿最漂亮的妹子吧
+and hitting on their prettiest girl.
+
+噢 谢谢 Brad
+Gee, thanks, Brad.
+
+这些傻屌别想靠近你
+I throw balls far.
+
+想听好听的 去谈个话家啊(并没有languaer这个词)
+You want good words? Date a languager.
+
+别多想 Morty
+try not to worry about it, Morty.
+
+你是个好孩子 虽然现在还没有什么优势
+You're a good kid, and there's not a premium on that right now,
+
+但等Brad发福以后 你就也能找到妹子啦
+but you'll be getting girls sometime after Brad's out of shape.
+
+爸 你搞错重点了
+You're missing the point, dad.
+
+我不要妹子 我要Jessica
+I don't want girls. I want Jessica.
+
+我以前也对某个人有过这样的感觉呢
+ah, well, I remember feeling that way about
+
+这个人叫做"你妈"
+a young lady named "Your mom,"
+
+这不是在骂人啊
+And that's not an urban diss.
+
+你妈妈就是我的Jessica
+Your mom was my Jessica.
+
+我还记得我第一次看到她的时候 我就在想
+I remember the first time I saw her. I thought
+
+"把她搞怀孕 她就得嫁给我了"
+"I should get her pregnant, and then she'll have to marry me."
+
+Rick 你这话不太合适吧
+I beg your pardon, Rick inappropriate.
+
+抱歉 请接着讲
+Sorry, please proceed with your story
+
+你高中时候搞我女儿的事迹吧
+about banging my daughter in high school.
+
+感情方面的事儿你最好别听他的 Morty
+I'm not sure you want to take romantic advice from this guy, Morty.
+
+他的婚姻已经悬于一线了
+His marriage is hanging from a thread.
+
+我的婚姻好的很 谢谢你啊
+My marriage is fine, thank you.
+
+Jerry 这儿是你家
+Jerry, it's your house
+
+你说是什么就是什么吧
+whatever you say it is is how it is
+
+但我觉得瞎子都能看出来
+but I think a blind man could see that
+
+Beth想结束这段婚姻
+Beth is looking for the door.
+
+这事儿我根本不在乎 也都发现了
+I barely have a reason to care, and even I noticed.
+
+Rick 别这样说我的父母啊
+Come on, Rick! Don't talk about my parents like that.
+
+听着 Morty 我也不想这么直白地告诉你
+Listen, Morty, I hate to break it to you,
+
+但所谓的爱情
+but what people call "Love"
+
+不过是让动物繁衍后代的化学反应罢了
+Is just a chemical reaction that compels animals to breed.
+
+开始时让人头昏脑热 然后就慢慢消退
+It hits hard, Morty, then it slowly fades,
+
+只留给你一段失败的婚姻
+leaving you stranded in a failing marriage.
+
+我是这样
+I did it.
+
+你父母也会是这样
+Your parents are gonna do it.
+
+别重蹈覆辙 Morty
+Break the cycle, Morty.
+
+升华自我 专注科学
+Rise above. Focus on science.
+
+好吧 我去换舞会的衣服了
+All right, well, I'm gonna go get dressed for the dance.
+
+我去 看看你妈妈
+Yeah, I'm just going to... check on your mom.
+
+Morty 把螺丝刀递给我
+Morty, hand me that screwdriver, huh?
+
+我的离子除颤器就要完成了
+I'm almost finished making my ionic defibulizer, Morty.
+
+会很棒的
+It's gonna be great.
+
+那个 Rick
+Hey, listen, Rick.
+
+你之前不是说
+Y-y-you know how you said that,
+
+爱情是一种化学反应什么的嘛
+you know, love is a chemical and all that stuff from earlier?
+
+我在想
+Well, I was thinking, you know,
+
+你能不能让Jessica的脑子里
+w-w could you make some sort of chemical thing
+
+起点什么化学反应
+happen inside of Jessica's mind, you know,
+
+让她爱上我什么的
+so where she falls in love with me and all that sort of thing?
+
+比如什么爱情药水之类的东西
+You know, like, maybe make some sort of love potion or something?
+
+完全是浪费我的时间
+Morty, that's such a poor use of my time.
+
+我不屑做这种事
+It's beneath me.
+
+把螺丝刀递给我
+Hand me the screwdriver.
+
+不 Rick
+you know what? No, Rick!
+
+别想我把螺丝刀递给你
+I'm not gonna hand you the screwdriver.
+
+别想我再给你递任何东西
+I-I'm not gonna hand you anything ever again, Rick!
+
+我老是帮你做这个帮你做那个
+I'm always helping you with this and that and the other thing.
+
+那那那那我呢 Rick
+W-w-w-w-w-what about me, Rick?
+
+你怎怎怎么就不能帮我一次呢 就一次
+W-w-w-w-why can't you just help me out once once, for once?
+
+你还真是长大了啊 Morty
+You're growing up fast, Morty.
+
+已经长成一个烦人的大麻烦了
+You're growing into a real big thorn straight up into my ass.
+
+这个叫后叶催产素
+listen, this is called oxytocin.
+
+我从田鼠的身体里提取的
+I extracted it from a vole.
+
+知道田鼠吗 Morty
+Do you know what a vole is, Morty?
+
+知道不
+You know what a vole is?
+
+一种会结为终生伴侣的啮齿动物
+It's a it's a rodent that mates for life, Morty.
+
+这是在哺乳动物大脑里分泌的一种激素
+This is the chemical released in a mammal's brain, you know,
+
+让它坠入爱河
+that makes it fall in love.
+
+Morty 我只需要把它和你的DNA混合起来
+All right, Morty, I just got to combine it with some of your DNA.
+
+噢 好的
+oh, well, okay.
+
+一根头发就行 Morty
+a hair, Morty.
+
+就要一根头发
+I need one of your hairs.
+
+又不是《权利的游戏》(大尺度剧集)
+This isn't "Game of thrones."
+
+好了 Morty
+all right, Morty.
+
+只要你把这个抹在别人身上
+Whoever you smear this stuff on
+
+这人就会爱上你 永远只爱你一个
+will fall in love with you, and only you, forever.
+
+开心了 Morty
+Are you happy now, Morty?
+
+恩
+heck, yeah!
+
+谢谢 Rick外公
+Thank you, grandpa Rick.
+
+没有什么危险或者副作用吧
+Hey, there's no... dangers or anything, or side effects, right?
+
+你当我是什么二流科学家吗
+w-w-w-what am I, a hack?
+
+放心吧 Morty 绝对安全
+Go nuts, Morty. It's foolproof.
+
+除非她得了流感
+Eh, unless she has the flu.
+
+Beth 你还爱我吗
+Beth, do y-you still love me?
+
+这算是什么问题
+ugh, what kind of question is that?
+
+"爱"或者"不爱"的问题
+the "Yes or no" kind?
+
+Jerry 你会想让流浪汉有房子住吗
+Jerry, do you want homeless people to have homes?
+
+想啊
+yes.
+
+那你会给他们修房子吗
+Are you gonna build them?
+
+不会
+no.
+
+那一个肯定的回答又有什么意义呢
+Then what good was the "Yes"?
+
+等等 "爱我" 是房子还是流浪汉
+wait, I-is loving me the house or the homeless people?
+
+"爱你"是辛苦的劳动
+loving you is work, Jerry.
+
+是给流浪汉修收容所的过程
+Hard work, like building a homeless shelter
+
+没有人"想"说不
+nobody wants to say no to doing it
+
+但总有人要付出努力
+but some people put the work in.
+
+所以你说呢
+So, what do you say?
+
+你觉得我有在努力吗
+Do you see me working here?
+
+我觉得这对话无聊吗
+Does this conversation seem tedious to me?
+
+算是吧
+Sort of.
+
+那明显我也算是爱你的
+Then I obviously sort of love you, don't I?
+
+所以别问了 说不定我会更爱你一点
+So stop asking, and maybe I'll love you more.
+
+靠 我得去趟马医院
+Crap, they need me at the horse hospital.
+
+都这个点了
+Puh! This late?
+
+赛马场搞了场夜间德比赛
+The racetrack had a starlight derby.
+
+有七匹马撞上了
+There was a seven-horse collision,
+
+Davin一个人在那儿
+and Davin's there alone.
+
+Davin
+Davin.
+
+流感 唷
+Flu, yo
+
+小心哦
+you got to be aware
+
+流感哟
+aware of all the flu
+
+空气里的流感
+up in the air
+
+给我一针
+I'm-a get me a shot
+
+让流感滚
+**and make the flu go away **
+
+反流感饶舌歌手
+flu-hating rapper
+
+*把流感唱走*
+just rapping away
+
+*唷 唷 反流感饶舌歌手*
+yo, yo, flu-hating rapper
+
+*反流感说唱*
+it's a flu-hating rap
+
+嗨 Jessica
+hey, there, Jessica.
+
+哦 抱歉
+Whoa! Oh, whoopsie!
+
+天啊 Morty
+Oh, my god. Morty.
+
+你今晚真帅啊
+You look really nice tonight.
+
+谢谢
+Wow, thanks.
+
+我爱你 Morty
+I love you, Morty!
+
+我爱你爱到心如火烧
+I love you so much, it burns!
+
+天啊
+Oh, man!
+
+我也爱你 Jessica
+I-I love you too, Jessica!
+
+这傻逼在骚扰你吗 Jessica
+Is this punk bothering you, Jessica?
+
+滚开 混球
+Leave him alone, Jerk!
+
+我爱他
+I'm in love with him!
+
+你永远不可能像他这么男人
+He is more man than you will ever be!
+
+要小心流感
+This is about flu awareness
+
+小心空气中的流感
+got to be aware of the flu in the air-ness
+
+我乃反流感饶舌歌手
+yo, I'm a flu-hating rapper 
+
+啊 Morty
+oh, man, Morty.
+
+真对不起
+I'm really sorry.
+
+没事的 Brad
+oh, well, n-no problem, Brad.
+
+你很特别 Morty 非常特别
+There's something special about you, Morty, so special.
+
+哇 你干嘛
+Whoa, take it easy!
+
+别碰他
+Get your hands off of him!
+
+滚开 我要和我男人在一起
+Back off! I'm trying to be with my man!
+
+够了 Bradley
+That's enough, Bradley!
+
+别把你拿来赶走傻屌(投球)的手弄伤了
+We don't want you injuring your ball-throwing arm.
+
+阴道校长
+Oh principal Vagina.
+
+永远别离开我 Morty
+Never leave me, Morty.
+
+永远
+Never!
+
+好啊
+Hh, sure.
+
+我当然不会离开你
+I mean, o-of course not.
+
+你觉得刚才那是怎么回事
+W-what do you think that was all about?
+
+管他呢 快抱住我
+Who cares? Just hold me.
+
+放开我 我爱你 Morty
+Let me go! I love you, Morty!
+
+放开我
+let go of me!
+
+Morty
+Morty!
+
+她一晚上都要和那人待一起
+she's gonna be alone with that guy all night.
+
+在马身体里捣来捣去
+yeah, dad, digging around the insides of horses.
+
+不是什么浪漫的场景啊
+It's not a very romantic setting.
+
+Summer 说不好啊
+well, Summer, there's always the possibility
+
+搞不好加班这个事儿就是她编的呢
+that she made the whole work thing up.
+
+说不定现在Davin正在她身体里捣来捣去呢
+Maybe Davin's digging around in her insides.
+
+外公 这太恶心了
+Grandpa, so gross!
+
+你说的是我妈妈
+You're talking about my mom.
+
+她是我女儿
+Well, she's my daughter, Summer.
+
+我辈分比你高
+I outrank you.
+
+亲属关系根本没有意义 所以别跟我来这套
+Or family means nothing, in which case, don't play that card.
+
+她不回我短信
+she's not responding to my texts!
+
+小心啊 爸
+Careful, dad.
+
+嫉妒会让女人失去兴致的
+Jealousy turns women off.
+
+那不是正好吗
+Well, isn't that convenient?
+
+被她们劈腿的男人的嫉妒是没用的
+Not for the men they cheat on, no.
+
+好吧 我要出去 买点冰激凌
+okay, I'm... going to go out... for some ice cream.
+
+可能顺路去趟医院 看看我的老婆
+And maybe stop by the hospital... to support my wife...
+
+不带一点怀疑
+with my confidence.
+
+天啊 外公 你真是个混蛋
+God, grandpa, you're such a dick.
+
+抱歉 Summer
+I'm sorry, Summer.
+
+你怎么想我一点都不在乎
+Your opinion means very little to me.
+
+你怎么没去那个
+How come you're not at this
+
+人人爱的傻舞会呢
+stupid dance everyone loves so much?
+
+我才不去 我不要被传染
+Screw that. I don't want to get sick.
+
+现在是流感季节
+It's flu season.
+
+是吗
+It is?
+
+是啊
+yeah.
+
+啊噢
+uh-oh.
+
+千万别出什么岔子啊
+Please just let this work out.
+
+来吧 Morty 来吧
+Do it, Morty. Do it.
+
+把我的衣服撕开 和我结为终生伴侣吧
+Rip my clothes off and mate with me for life!
+
+咱能去个隐蔽点的地方吗
+Can we maybe go somewhere more private?
+
+Jessica 控制一下自己
+Jessica, get a hold of yourself!
+
+你不配得到Morty的基因
+you don't deserve to carry morty's genes.
+
+*我爱Morty*
+I love Morty 
+
+*但愿他也爱我*
+and I hope Morty loves me
+
+*我想抱着他*
+*I'd like to wrap my arms around him*
+
+*让他进入我的身体*
+*and feel him inside me*
+
+我靠
+oh, crap.
+
+Morty
+Morty!
+
+Morty 快来
+Morty, come on!
+
+我们快走
+We got to get you out of here.
+
+通常来说这种事是不会发生的
+You're not gonna believe this because it usually never happens
+
+但我确实犯了个错
+but I made a mistake.
+
+快跑 Morty
+Come on, Morty.
+
+咱们赶紧出去
+We got to get out of here. Come on.
+
+Morty
+Morty!
+
+你没事吧
+Are you okay?
+
+我没事
+I'm fine!
+
+太好了
+Oh, good.
+
+要是你出了什么事 我也活不下去了
+If anything ever happened to you, I would kill myself.
+
+我爱死你了 莫莫
+I love you bad, mo-mo!
+
+Morty 校长和我商量过了
+Morty, the principal and I have discussed it,
+
+我们都对自己没什么把握
+a-a-and we're both insecure enough
+
+所以只好同意3p了
+to agree to a three-way!
+
+我把血清给你的时候
+I didn't realize when I gave you that serum
+
+不知道Jessica得了流感
+that Jessica had the flu
+
+这这这这对我来说可能是
+you know, t-t-t-t-t-t-t-that might have
+
+非常有用的信息好吗 Morty
+been valuable information for me, Morty.
+
+这到底是怎么回事 Rick
+What the hell is going on, Rick?
+
+看着像是怎么回事
+What does it look like?
+
+血清借助病毒
+T-t-t-the serum is piggybacking on the virus.
+
+变得能通过空气传播了
+It's gone airborne, Morty.
+
+妈啦 怎么办啊 Rick
+oh, crap. What are we gonna do, Rick?
+
+没事的 Morty 放心
+It's gonna be fine, Morty, relax.
+
+我赶制了解药
+I whipped up an antidote.
+
+我用了螳螂的DNA
+It's based on praying-mantis DNA.
+
+螳螂完全和田鼠相反
+You know, praying mantises are the exact opposite of voles, Morty.
+
+它们只交配一次
+I mean, they they mate once,
+
+然后就把交配对象的头砍掉
+and then they, you know, decapitate the partner.
+
+它们的习性就是这样
+I mean, it's a whole ritual.
+
+非常残忍 和田鼠完全相反
+It's really gruesome and totally opposite.
+
+完全没有爱可言
+There's no love at all.
+
+我加入了一种更具传染性的流感病毒
+I-I-I basically mixed this with a more contagious flu virus.
+
+应该就能中和掉之前的血清了
+It should neutralize the whole thing, Morty.
+
+这事儿很快就能结束了
+It'll all be over very shortly.
+
+对了 Morty
+Uh, by the way, Morty,
+
+虽然你没问
+I know you didn't ask or anything,
+
+但我一点都不想和你发生性关系
+but I'm not interested in having sex with you.
+
+这血清对和你有血缘的人是没用的
+These serums, they don't work on anybody related to you genetically.
+
+好吧 有时候
+Okay, well, sometimes,
+
+用科学怎么能理解科学这门艺术
+Science is more art than science, Morty.
+
+很多人就是不明白
+A lot of people don't get that.
+
+靠 开什么玩笑
+Come on. Are you kidding me?
+
+有人吗
+Hello!
+
+Morty
+Morty!
+
+你不是Morty
+You're not Morty!
+
+我们要Morty
+Bring us Morty!
+
+在我成功捉奸以前 谁也别想干掉我
+Nobody's killing me until after I catch my wife with another man.
+
+我和Billy上床了
+I had sex with Billy.
+
+但你当时已经怀孕了啊
+But you were already pregnant!
+
+再差又能怎么样呢
+Yeah, so what's the worst that could happen?
+
+抱歉打断《孕妇俏佳人》 插播一则新闻
+We interrupt "Pregnant baby" with breaking news.
+
+别啊
+Come on.
+
+最新消息 Morty Smith仍然去向不明
+This just in, Morty Smith's whereabouts are still unknown.
+
+什么啊这是
+What the hell?
+
+目前唯一已知的就是 他有多么可爱
+The only thing that is known is... how cute he is.
+
+我爱他 我想和他做爱
+I love him so much, I want to make love to him
+
+然后吃掉他的脑袋
+and then eat his head.
+
+我比你更爱他 Harold
+I love him more than you do, Harold!
+
+想得美 贱人
+You wish, you stupid bitch!
+
+Morty是我的
+Morty's mine!
+
+Morty是我的
+Morty's mine!
+
+Morty在哪儿
+Where is Morty?
+
+天啊 Rick
+Oh, my god, Rick.
+
+全世界都被感染了
+The whole world is infected!
+
+是啊 传播得这么快真是惊人
+Yeah, it's pretty wild how fast that spread.
+
+我真是超水平发挥
+I've really outdone myself.
+
+超水平发挥
+Outdone yourself?!
+
+别开玩笑了 Rick
+W-w a-are are you kidding me, Rick?
+
+这太糟了
+This is not okay!
+
+他们不光是都想要和我做爱
+Not only do they all want to have sex with me,
+
+现在事后还要把我吃掉
+but, you know, now they want to eat me afterwards!
+
+我也不知道我当时在想什么
+Yeah, I don't know what i was thinking.
+
+螳螂和田鼠完全相反
+Mantises are they opposite of voles?
+
+显然DNA没这么简单
+I mean, Obviously, DNA's a little more complicated than that.
+
+不过呢 Morty
+You know what, though, Morty?
+
+有了这个 问题马上就能解决了
+This right here's gonna do the the trick, baby.
+
+树袋熊混合上 响尾蛇 黑猩猩 仙人掌
+It's koala mixed with rattlesnake, chimpanzee, cactus,
+
+鲨鱼 金毛犬 加上一点点恐龙
+shark, golden retriever, and just a smidge of dinosaur.
+
+应该能把他们变回正常人类了
+Should add up to normal humanity.
+
+这根本没道理 Rick
+I don't, that doesn't make any sense, Rick.
+
+这怎么就能变回正常人类了
+How does that add up to normal humanity?
+
+怎么 Morty 你难道还想看我的运算过程吗
+What, Morty, you want me to show you my math?
+
+你是科学家
+I'm sorry a-are you the scientist
+
+还是想搞妹子的小孩
+or are you the kid that wanted to get laid?
+
+救了那些马真是太好了
+Well, I'm glad we saved all those horses,
+
+但就这么结束了 让我觉得有些遗憾
+but I'm almost sorry we're finished.
+
+是的 这样的工作很让人有满足感
+Yes, it's satisfying work.
+
+不不不 不仅仅是工作
+Unh-unh-unh, it's, uh it's more than the work.
+
+我喜欢在那间无菌室里
+I love being in that sterilized room,
+
+与世隔绝
+sealed off from the world.
+
+只有在那里我才能真正思考和感受
+It's the only time I can really think... and feel.
+
+你在干嘛
+Hmm, uh, what are you doing?
+
+我在放非洲梦幻流行乐
+I'm playing African Dream Pop.
+
+这首African Dream Pop是一首确实存在的remix作品 在Youtube上可以找到 其中许多素材来自Rick and Morty
+
+辛苦工作一晚之后你会做什么呢
+What do youdo after a long night?
+
+啊 呃 我得走了
+Oh, ha, um, hey, I-b-I'd better get going.
+
+Jerry一直在给我发一些很不好应付的短信
+Um, Jerry's been texting some pretty high-maintenance stuff.
+
+Beth
+Beth...
+
+干嘛 Davin
+What is it, Davin?
+
+就这一次 我想知道
+Just once, I'd like to know
+
+给你的儿子洗澡是什么感觉
+...w-w-what it was like to give your son a bath.
+
+啥
+what?!
+
+Morty闻起来是什么味道
+What does Morty's skin smell like?
+
+他的小弟弟有多么柔软
+How soft... how soft are his privates?
+
+放开我 Davin
+let go of me, Davin!
+
+带我去找Morty
+Take me to Morty.
+
+你不是Morty
+You're not Morty.
+
+没错
+No.
+
+我是撬棍先生 这是我的朋友
+I'm Mr. Crowbar, and this is my friend,
+
+也是一根撬棍
+who is also a crowbar.
+
+这好蠢啊
+That's... stupid.
+
+是吗
+Yeah?
+
+看看聪明的下场吧
+Well, look where being smart got you.
+
+Jerry 感谢上帝
+Jerry! Thank god!
+
+上帝
+God?
+
+上帝把人变成了昆虫怪 Beth
+God's turning people into insect monsters, Beth.
+
+把它们打死的人是我
+I'm the one beating them to death.
+
+感谢我吧
+Thank me.
+
+谢谢你 Jerry
+Thank you, Jerry.
+
+谢谢
+Thank you.
+
+往下看 Morty 欣赏一会儿
+Take a good look down there, Morty, and soak it in,
+
+只要我拉动这个开关 一切就恢复原状了
+because, you know, once I pull this lever, it's all back to normal.
+
+快动手吧
+Just do it already.
+
+Morty 没什么好急的
+Well, technically, Morty, there's no rush.
+
+只要恢复了 一切就结束了
+I mean, you know, o-once it's fixed, it's done.
+
+这事儿就解决了
+It's fixed.
+
+我们可以稍微欣赏一会儿嘛
+You know, we could we could just enjoy it for a little bit.
+
+看看这场面 多疯狂
+I mean, l-l-l-look at how crazy it is.
+
+Morty 下一次
+I mean, Morty, w-w-when's the next time
+
+你想看到这样的东西得等到什么时候了
+you're gonna see something like this?
+
+好好享受一会儿
+I mean, soak it in, you know?
+
+多棒阿
+It's it's pretty neat.
+
+多有趣啊
+It's pretty interesting.
+
+够了 Rick 我要拉开关了
+That's it, Rick! I'm pulling the lever.
+
+结果怎么样啊 Morty
+W-what do we have here, Morty?
+
+看来是我是对的 你错了
+Looks like I was right and you were wrong, huh?
+
+你现在肯定觉得自己很蠢吧
+I-I-I-I-I-I-I bet you feel pretty stupid right about now, huh?
+
+你现在肯定惭愧得不行吧
+I-I-I bet you feel like the world's smallest man
+
+之前还怀疑我 Morty
+that you were doubting me about this whole thing, Morty.
+
+不 Rick 有什么不对
+Oh, Rick, something's not right.
+
+不就是你吗
+Yeah, you.
+
+你从来就没对过  - 不 不是
+
+You're not right, ever. - No, no!
+
+快看 你这个白痴
+Look, you idiot!
+
+高兴了吧 Morty
+Bet you're loving this, Morty.
+
+今天肯定是你人生中最美好的一天
+This must be the best day of your life.
+
+跟你说了让你别着急
+You get to be the mayor of I-told-you town.
+
+不用谢
+You're welcome.
+
+抓稳了
+Hold on.
+
+真希望这把猎枪是我的大屌
+I wish that shotgun was my penis.
+
+叫我海明威(用猎枪自杀)
+If it were, you could call me Ernest Hemingway.
+
+我没听懂 我也不用听懂
+I don't get it, and I don't need to.
+
+妈 爸
+Mom! Dad!
+
+Summer
+Summer!
+
+Morty在哪儿
+Where's Morty?
+
+我不知道
+I don't know.
+
+你觉得Rick外公和这有关吗
+Do you think Grandpa Rick had something to do with this?
+
+这么想不太公平吧 Summer
+It's not fair to assume that, Summer.
+
+不公平
+Oh, not fair?
+
+算了吧
+Give me a break.
+
+他就是个自私 不负责任的混蛋 他还离开了我母亲
+He is a selfish, irresponsible ass, and he left my mother.
+
+真男人会守在他的女人身边
+A real man stands by his woman.
+
+Morty 我把世界搞得好像柯南伯格的电影一样
+Boy, Morty, I really cronenberged the world up, didn't I?
+
+大卫 柯南伯格 加拿大籍导演 擅拍惊悚电影 其不少作品涉及人体变异 如《狂犬病》 《变蝇人》
+
+整个地球上都是柯南伯格式的生物
+We got a whole planet of cronenbergs walking around down there, Morty.
+
+不过至少他们不再疯狂地爱你了
+A-at least they're not in love with you anymore, though.
+
+这算是一大进步了
+That's a huge step in the right direction.
+
+天 这简直就是活生生的噩梦
+Oh, my god! It's a living nightmare!
+
+你怎么能这么不负责任呢 Rick
+How could you be so irresponsible, Rick?
+
+我不负责任
+me irresponsible?!
+
+我只是想让你给我递一把螺丝刀而已
+You, all I wanted you to do was hand me a screwdriver, Morty!
+
+是你想让我抛开别的
+You're the one who wanted to be wanted me to buckle down
+
+给你弄什么迷奸血清
+and make you up a... roofie-juice serum
+
+好让你去迷奸你那可怜的同学
+so you could roofie that poor girl at your school.
+
+你开什么玩笑 Morty
+I mean, g w-w-w-w-w w are you kidding me, Morty?
+
+你还想抢占道德制高点
+You're gonna try to take the high road on this one?
+
+你就是个小变态 Morty
+Y-y-y-y-you're a little creep, Morty.
+
+你你你你你就是个猥琐的小变态
+Y-you're a you're you're you're just a little creepy... creep person.
+
+好吧
+All right, fine.
+
+你之前拒绝帮我做血清的时候 我就该听你的
+I should have just listened to you when you refused to make the serum.
+
+我愿意承担我这部分的责任 Rick
+I'm willing to accept my part of the blame for this, Rick.
+
+但是我告诉你
+But I'll tell you something you know what?
+
+你也得承认你的那部分责任
+You got to accept your part of the blame!
+
+又不是我搞砸了血清的事
+I'm not the one who fouled up the serum!
+
+又不是我
+I'm not the one who who who who
+
+把一堆乱七八糟的鬼东西混在一起
+haphazardly, you know, mixed a bunch of nonsense
+
+弄出了一堆柯南伯格怪
+together and created a bunch of cronenbergs!
+
+你得解决这事儿 Rick  - 好吧 好吧 Morty
+
+You got to fix this, Rick! - All right, all right, Morty.
+
+现在这个情况已经很难挽回了
+You know, w-w-w-we are in a pretty deep hole, here,
+
+不过我确实有个应急方案
+but I do have one emergency solution that I can use
+
+能让一切相对而言恢复正常
+that'll kind of put everything back to normal, relatively speaking.
+
+Morty 把这个带上
+Here, Morty, put this on
+
+我来搜索一下
+while I do a little bit of scouting.
+
+每日时报
+
+基因传染病
+
+已被阻止
+
+哇 Rick 我得说
+Wow, Rick, I got to say
+
+你这次真是太厉害了
+you really pulled a rabbit out of your hat this time.
+
+我真以为
+I mean, I-I really thought that
+
+这儿会永远一团乱下去了
+the whole place was gonna be messed up for good,
+
+但你做到了
+but here you did it
+
+你一如既往地想出了个疯办法
+you figured out that crazy solution, like you always do.
+
+真是太走运了
+That's some great luck.
+
+得了吧 Morty 跟运气没关系
+Come on, Morty. Luck had nothing to do with it.
+
+靠的是我的实力
+I'm great. That's the real reason.
+
+怎么说 Morty
+Now, Morty, what do you say, buddy?
+
+能把螺丝刀递给我
+Will you hand me a screwdriver
+
+让我完成我的离子除颤器吗
+so I can finish my ionic de-defibulizer?
+
+当然 Rick
+Sure thing, Rick.
+
+给你
+Here's a screwdriver.
+
+好了 Morty
+All right, Morty.
+
+谢谢你
+Thank you very much.
+
+拧一下
+We got one screw turn...
+
+拧两下
+and two screw turns... and...
+
+好了 Morty 我们到了
+All right, Morty, here we are.
+
+天啊 Rick 那是我们吗
+Oh, my god, Rick! Is that us?!
+
+我我我我们死了
+W-w-w-we're dead!
+
+怎么回事 Rick
+What is going on, Rick?
+
+我要崩溃了
+I'm freaking out!
+
+冷静点 Morty
+Calm down, Morty!
+
+看着我 冷静 Morty
+Look at me! Calm down, Morty!
+
+不行 我接受不了  - 冷静下来 Morty
+
+No, I can't deal with this! - Calm yourself, Morty.
+
+这种事我受不了 Rick  - 冷静 Morty
+
+I can't deal with this, Rick! - Calm down, Morty.
+
+骗人的吧  - 冷静下来 Morty
+
+This can't be real!  - You got to calm down, Morty.
+
+我我我我们被炸碎了
+W-w-w-w-we're ripped apart!
+
+闭上嘴听我说
+Shut up and listen to me!
+
+没事的
+It's fine. Everything is fine.
+
+有无数个平行的现实 Morty
+There's an infinite number of realities, Morty
+
+在一小部分平行世界里 我运气好
+and in a few dozen of those, I got lucky
+
+让一切恢复了原状
+and turned everything back to normal.
+
+我只需要找到其中某一个世界
+I just had to find one of those realities
+
+我们俩刚好在这段时间里死了
+in which we also happen to both die around this time.
+
+现在我们只需要悄悄取代
+Now we can just slip into the place of
+
+这个世界里死掉的自己 就没问题了
+our dead selves in this reality and everything will be fine.
+
+就和什么都没发生过一样 Morty
+We're not skipping a beat, Morty.
+
+来帮我搬下尸体
+Now, help me with these bodies.
+
+这太疯狂了
+This is insane.
+
+Morty 我搬我自己
+Look, Morty, I'll grab myself,
+
+你搬你自己 行吗
+you grab yourself, okay?
+
+我觉得这样挺公平的
+I mean, t-t-t-that seems fair to me, I mean,
+
+这样分配很合理
+that seems like a fair way to divvy it up.
+
+那我们以前的世界呢
+Rick, what about the reality we left behind?
+
+那Hilter找了治愈癌症方法的世界呢 Morty
+What about the reality where Hitler cured cancer, Morty?
+
+最好的办法就是别去想
+The answer is don't think about it.
+
+反正这种办法也不是每周都能用
+It's not like we can do this every week, anyways.
+
+最多就用个三四次
+We get three or four more of these, tops.
+
+把你自己的尸体搬起来
+Now, pick up your dead self and come on.
+
+欲速则不达
+Haste makes waste.
+
+虽然我觉得你没注意到这个细节
+I-I-I don't suppose you've considered this detail,
+
+但很显然 如果我没把一切都搞砸的话
+but obviously, if I hadn't screwed up as much as I did
+
+我们现在就是死人了 再说一次 不用谢
+we'd be these guys right now, so, again, you're welcome.
+
+《Look On Down from the Bridge》 Mazzy Star
+
+鲨鱼这种动物
+You know, the thing about a shark...
+
+有一双毫无生气的眼睛
+he's got lifeless eyes...
+
+黑黑的眼睛 像木偶的眼睛一样
+black eyes, like a doll's eyes.
+
+它朝你冲过来的时候 浑然不似活物
+When he comes at ya, he doesn't seem to be living
+
+直到它咬住你 接着就是血
+until he bites ya, and then the the blood,
+
+鲜红的 还有水里...
+and the red, and the water...
+
+你有想过Rick和Morty怎么样了吗
+You ever wonder what happened to Rick and Morty?
+
+有时候吧
+Sometimes.
+
+这么说好像有点对不起他们
+But, I'm ashamed to admit,
+
+但他们走了以后 我终于过得幸福了
+now that they're gone, I'm finally happy.
+
+我们到啦 柯南伯格Morty
+Here we are, cronenberg Morty
+
+一个所有人都被柯南伯格化了的世界
+a reality where everyone in the world got genetically cronenberged.
+
+我们来了正好呢 柯南伯格Morty
+We'll fit right in, cronenberg Morty.
+
+就和我们从来没离开过柯南伯格世界一样
+It'll be like we never even left cronenberg world.
+
+是啊 柯南伯格Rick
+Yeah, cronenberg Rick,
+
+但我还是会想念柯南伯格世界的
+but, you know, I'm gonna miss cronenberg world,
+
+因为大家都是柯南伯格版的
+because everyone was cronenberged
+
+和我们一样 从一开始就是
+all along like us from the beginning, you know?
+
+要是我们没有把
+I mean, I-I wish we hadn't genetically ruined
+
+柯南伯格世界基因毁灭掉就好了
+cronenberg world  beyond repair like we did,
+
+把所有人都变成了正常的人类
+you know, and turned everyone into regular, normal people just walking around.
+
+别担心这种事了 柯南伯格Morty
+Don't you worry about that sort of thing, cronenberg Morty.
+
+咱们就在这儿舒舒服服过吧
+Let's go make ourselves at home, huh?
