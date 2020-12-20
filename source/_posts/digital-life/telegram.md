@@ -866,6 +866,7 @@ https://rsshub.app/telegram/channel/tingtalk
 | [多数派Masses](https://t.me/masses2020)              | 我们是一群反对资本主义、反对帝国主义、反对父权制、反对一切压迫和宰制的青年。[Matters 的创作空间站](https://matters.news/@masses2020)。 |
 | [60 秒读懂世界](https://t.me/SharedResources)        | 来自 60 秒读懂世界公众号。                                   |
 | [突发新闻](https://t.me/breakingnews_t)              | 突发新闻推送服务（简体中文）。                               |
+| [NFW](https://t.me/NewsFW)                           | News for Work, Not for Work.                                 |
 
 
 

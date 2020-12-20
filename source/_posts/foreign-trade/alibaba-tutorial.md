@@ -226,6 +226,21 @@ tags: 外贸
 
 
 
+Hi `***`,
+
+Thank you for your interest in our company / our `***` products.
+
+……
+
+Please feel free to contact us for any help.
+Look forward to hearing from you soon.
+Best regards,
+Tim
+
+
+
+
+
 **星级提升**
 
 - 询盘 24 小时内回复

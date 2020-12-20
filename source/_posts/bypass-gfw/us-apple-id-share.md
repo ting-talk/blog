@@ -20,6 +20,15 @@ tags: [突破网络审查, Apple ID]
 
 因为多人共用会触发风控，所以多试几个 Apple ID。当找到一个可用的 Apple ID 后，把它记在备忘录或者微信收藏，方便日后调用。
 
+
+
+2020-12-16 亲测可用：
+
+- 账号：hashkeyhub002@yandex.com
+- 密码：Hashkeyhub2019
+
+
+
 ### GitHub
 
 1. 打开在 [GitHub](https://github.com/search)。
@@ -38,7 +47,8 @@ tags: [突破网络审查, Apple ID]
 
 ### Website
 
-- [苹果帝](https://appledi.com/)：2020-06-05 亲测可用。
+- [苹果帝](https://appledi.com/)：2020-12-18 亲测可用。
+- [小火箭账号 の 分享站](https://wohaobang.cn/)：未测试。
 
 
 

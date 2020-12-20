@@ -29,6 +29,8 @@ tags: [生活, 技能]
 
 - [拒绝难吃的减脂餐！超好吃一周减脂便当一次搞定 - 曼食慢语](https://www.youtube.com/watch?v=JiUyIdTBP6M)
 
+- [食材简单 A+B，属于工作日的一锅流 - 好大一个包](https://sspai.com/post/64109)
+
   
 
 
