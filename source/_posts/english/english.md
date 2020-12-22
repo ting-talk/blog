@@ -1077,6 +1077,18 @@ Stop focusing on perfect, start focusing on done.
 
 
 
+### Foolproof
+
+（计划或机器）连傻子都懂的，操作简便的，万无一失的
+
+- My plan is foolproof. Nothing will go wrong as long as you do exactly as I say. 
+  我的计划万无一失。你只要按照我说的做，绝对不会出错。
+
+- Absence makes the heart grow fonder. It's foolproof. 
+  小别胜新婚嘛，这是不会错的。
+
+
+
 ### Foot
 
 `get off on the wrong foot` 出师不利
