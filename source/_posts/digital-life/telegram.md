@@ -820,13 +820,13 @@ https://rsshub.app/telegram/channel/tingtalk
 2. 简单说明推荐理由
 3. 优质频道将会更新在这篇《电报教程》里，让好内容得到更多的展现
 
-以下是我收集的频道，不代表同意其观点。如果你发现某些频道开始「作恶」了，请联系我从这个列表中删除。
+以下是我收集的频道，不代表同意其观点。如果你发现某些频道开始「作恶」了或者失效了，请联系我从这个列表中删除。
 
 2020 年，你需要多运动，多吃蔬果，偶尔听 [播客](https://podcasts.cosmosrepair.com/)，放下手机早点睡觉，少看鸡零狗碎的消息。
 
 
 
-### ✈️ 电报动态
+### ✈️ 电报
 
 | 频道                                                  | 详情                                                         |
 | ----------------------------------------------------- | ------------------------------------------------------------ |
@@ -844,7 +844,7 @@ https://rsshub.app/telegram/channel/tingtalk
 
 
 
-### 🦠 疫情播报
+### 🦠 疫情
 
 | 频道                                                         | 详情                                                         |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
@@ -854,8 +854,12 @@ https://rsshub.app/telegram/channel/tingtalk
 
 
 
+### 📰 新闻
 
-### 📰 新闻频道
+在一个后真相时代，要分清事实和观点:
+
+- 对于事实，要有多个独立信源交叉验证。
+- 对于观点，要注意论述逻辑和因果关系。
 
 | 频道                                                 | 详情                                                         |
 | ---------------------------------------------------- | ------------------------------------------------------------ |
@@ -867,10 +871,43 @@ https://rsshub.app/telegram/channel/tingtalk
 | [60 秒读懂世界](https://t.me/SharedResources)        | 来自 60 秒读懂世界公众号。                                   |
 | [突发新闻](https://t.me/breakingnews_t)              | 突发新闻推送服务（简体中文）。                               |
 | [NFW](https://t.me/NewsFW)                           | News for Work, Not for Work.                                 |
+| [电报时报](https://t.me/times001)                    | 提供全天候热点中国及国际新闻，涵盖突发新闻、时事、财经、娱乐、体育，评论、杂志和博客等。 |
 
 
 
-### 💾 科技资讯
+🌐 **国外媒体（简体中文）**
+
+| 频道                                                       | 详情                                                         |
+| ---------------------------------------------------------- | ------------------------------------------------------------ |
+| [纽约时报中文网](https://t.me/niuyueshibao_rss)            | 👍 [The New York Times (NYT)](https://cn.nytimes.com/) 创刊于 1851 年，世界上最著名的报纸之一。美国严肃报刊的代表，获得过 122 项普利策奖，是获奖最多的媒体。 |
+| [BBC 中文网](https://t.me/bbczhongwen_rss)                 | [BBC News](https://www.bbc.com/zhongwen/simp) 是世界最大的公共广播公司，位于英国，资金主要来自英国国民缴纳的电视牌照费，是一家独立运作的公共媒体（非商业媒体，也不由英国政府控制）。 |
+| [路透中文网](https://t.me/lutouzhongwen_rss)               | [Reuters](https://cn.reuters.com/) 世界三大通讯社之一，成立于 1851 年，总部位于英国伦敦。 |
+| [德国之声](https://t.me/dw_rss)                            | [Deutsche Welle (DW)](https://www.dw.com/zh/) 按德国公法设立的国际化公共媒体，从联邦政府获得拨款，总部位于波恩和柏林。 |
+| [澳大利亚广播公司](https://t.me/abc_rss)                   | [Australian Broadcasting Corporation (ABC)](https://www.abc.net.au/news/chinese/) 是澳大利亚的国家公共广播机构，它由政府出资，向澳大利亚和海外提供电台、电视、互联网服务。总部设在悉尼。 |
+| [法国国际广播电台](https://t.me/rfi_rss)                   | [Radio France Internationale (RFI)](https://www.rfi.fr/cn/) 是法国专责世界大部分地区之国际广播的电台广播机构，现隶属法国国营国际广播公司法国世界媒体旗下。by [维基百科](https://zh.wikipedia.org/zh-cn/%E6%B3%95%E5%9B%BD%E5%9B%BD%E9%99%85%E5%B9%BF%E6%92%AD%E7%94%B5%E5%8F%B0) |
+| [美国之音中文网](https://t.me/meiguozhiyin_rss)            | [Voice of America (VOA)](https://www.voachinese.com/) 成立于 1942 年 2 月，是美国政府对外设立和资助的国有非军事国际广播宣传喉舌，由美国国际媒体署管理，旗下拥有广播电台与电视台，总部座落在首都华盛顿。by [维基百科](https://zh.wikipedia.org/zh-cn/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3) |
+| [俄罗斯卫星通讯社新闻](https://t.me/ru_rss)                | [Sputnik](http://sputniknews.cn/) 是俄罗斯政府控制的新闻机构今日俄罗斯媒体集团于 2014 年 10 月开通的新闻通讯社、新闻网站、广播电台与媒体新闻中心。by [维基百科](https://zh.wikipedia.org/zh-cn/%E5%8D%AB%E6%98%9F%E9%80%9A%E8%AE%AF%E7%A4%BE) |
+| [韩国新闻](https://t.me/korea_rss)                         | [朝鲜日报](https://cnnews.chosun.com/) + [中央日报中文版](http://chinese.joins.com/) |
+| [日本新闻](https://t.me/jp_rss)                            | [共同网](https://china.kyodonews.net/) + [朝日新闻中文网](https://asahichinese-j.com/) + [日本经济新闻中文版](https://cn.nikkei.com/) |
+| [双语新闻](https://t.me/shuangyunews_rss)                  | [纽约时报双语新闻](https://cn.nytimes.com/) + [中国日报网英语点津](http://language.chinadaily.com.cn/) |
+| [Twitter Subscription](https://t.me/twitter_subscriptions) | 搬运以下 Twitter 账号：BBC News 中文、DW 中文- 德国之声、国际特赦组织中文、纽约时报中文网。 |
+| [新闻播报 PDF](https://t.me/news_pdf)                      | 每天为大家送来 NYT 和 BBC 的新闻 PDF。                       |
+
+以上部分介绍来自西方媒体查一查。查询可信度和倾向性，请安装 [浏览器插件](https://chrome.google.com/webstore/detail/%E8%A5%BF%E6%96%B9%E5%AA%92%E4%BD%93%E6%9F%A5%E4%B8%80%E6%9F%A5/bpejcaojjipcgcnjkfmnkhokdpimcmij)，或者访问 [微信小程序](https://minapp.com/miniapp/4395/)。
+
+
+
+
+💸 **财经新闻**
+
+| 频道 | 详情 |
+| ---- | ---- |
+| [财经快讯](https://t.me/fnnew)                       | 全球财经资讯 24 小时不间断直播。                             |
+| [FT 中文网](https://t.me/ftzhongwen_rss)             | [Financial Times](https://m.ftchinese.com/)（金融时报）创刊于 1888 年，编辑总部位于伦敦，2015 年被日本经济新闻收购。 |
+
+
+
+### 💾 科技
 
 | 频道                                                 | 详情                                                         |
 | ---------------------------------------------------- | ------------------------------------------------------------ |
@@ -891,10 +928,11 @@ https://rsshub.app/telegram/channel/tingtalk
 | [AppPie](https://t.me/AppPie)                        | Apple 相关的数字生活指南。                                   |
 | [VPS 信号旗播报](https://t.me/vps_xhq)               | 关注 VPS 和通信自由。                                        |
 | [硬核小卒](https://t.me/yinghexiaozu)                | 分享优质的科技/商业资讯。                                    |
+| [知乎日报](https://t.me/zhihuribao_rss)              | 越来越难用的问答网站。                                       |
 
 
 
-### 🆓 限免通知
+### 🆓 限免
 
 | 频道                                                    | 详情                                                         |
 | ------------------------------------------------------- | ------------------------------------------------------------ |
@@ -903,7 +941,7 @@ https://rsshub.app/telegram/channel/tingtalk
 
 
 
-### 📚 独立博主
+### 📚 博主
 
 | 频道                                                      | 详情                                                         |
 | --------------------------------------------------------- | ------------------------------------------------------------ |
@@ -933,7 +971,7 @@ https://rsshub.app/telegram/channel/tingtalk
 
 
 
-### 🔔 RSS 订阅
+### 🔔 RSS
 
 | 频道                                        | 详情                                                         |
 | ------------------------------------------- | ------------------------------------------------------------ |
@@ -942,16 +980,16 @@ https://rsshub.app/telegram/channel/tingtalk
 
 
 
-### 🎞️ 影视资源
+### 🎞️ 影视
 
 | 频道                                            | 详情                                                 |
 | ----------------------------------------------- | ---------------------------------------------------- |
 | [远鉴字幕组发布频道](https://t.me/VisionarySub) | 本字幕组致力于非院线海外电影及海外剧集的译制与分享。 |
-| [NF^2在播剧集频道](https://t.me/nfnfys)         | 在播剧集资源。                                       |
+| [苍炎影院](https://t.me/cangyanmovie)           | 分享最新最热门的优质电影。                           |
 
 
 
-### 🎙 播客推荐
+### 🎙 播客
 
 | 频道                                                         | 详情                                                         |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
@@ -966,7 +1004,7 @@ https://rsshub.app/telegram/channel/tingtalk
 
 
 
-### 🎵 音乐分享
+### 🎵 音乐
 
 | 频道                                  | 详情                                   |
 | ------------------------------------- | -------------------------------------- |
@@ -978,7 +1016,7 @@ https://rsshub.app/telegram/channel/tingtalk
 
 
 
-### 🏫 读书学习
+### 🏫 读书
 
 | 频道                                          | 详情                                                         |
 | --------------------------------------------- | ------------------------------------------------------------ |
@@ -992,7 +1030,7 @@ https://rsshub.app/telegram/channel/tingtalk
 
 
 
-### 🚀 科学上网
+### 🚀 翻墙
 
 | 频道                                               | 详情                                                         |
 | -------------------------------------------------- | ------------------------------------------------------------ |
@@ -1005,7 +1043,7 @@ https://rsshub.app/telegram/channel/tingtalk
 
 
 
-### 🗄️ 存档搬运
+### 🗄️ 搬运
 
 | 频道                                                       | 详情                                                         |
 | ---------------------------------------------------------- | ------------------------------------------------------------ |
@@ -1013,8 +1051,6 @@ https://rsshub.app/telegram/channel/tingtalk
 | [你知道的太多了](https://t.me/uknow2much)                  | 不定期发布和转载各类不一定靠谱的内幕、流言蜚语、小知识等。   |
 | [蛋挞报](https://t.me/pincongessence)                      | 分享阅读体验。                                               |
 | [微信搬运工](https://t.me/WeChatEssence)                   | 有些微信的内容分享了之后就和谐了，本频道可以做个备份，以及丰富电报上的中文内容（不可否认还是有很多非政治的优质内容在微信公众号里）。 |
-| [Twitter Subscription](https://t.me/twitter_subscriptions) | 搬运以下 Twitter 账号：BBC News 中文、DW 中文- 德国之声、国际特赦组织中文、纽约时报中文网。 |
-| [新闻播报 PDF](https://t.me/news_pdf)                      | 每天为大家送来 NYT 和 BBC 的新闻 PDF。                       |
 | [微博精选](https://t.me/weibo_read)                        | 来自微博的文章、资源和观点。                                 |
 | [豆瓣精选](https://t.me/douban_read)                       | 豆瓣书影音，以及相关讨论。                                   |
 | [即刻精选](https://t.me/jike_collection)                   | 精选即刻 app 热门话题更新。我的即刻 ID 是 [Dr_Ting](https://m.okjike.com/users/Zhong_Waiting)。 |
@@ -1023,7 +1059,15 @@ https://rsshub.app/telegram/channel/tingtalk
 
 
 
-### 😺 其它频道
+### 🎮 游戏
+
+| 频道                                    | 详情                           |
+| --------------------------------------- | ------------------------------ |
+| [NS 新闻转报](https://t.me/SwitchNewCN) | 任天堂（Nintendo）相关的新闻。 |
+
+
+
+### 😺 其它
 
 | 频道                                                    | 详情                                                         |
 | ------------------------------------------------------- | ------------------------------------------------------------ |
@@ -1032,6 +1076,7 @@ https://rsshub.app/telegram/channel/tingtalk
 | [Rick Morty and Fans](https://t.me/Rick_Morty_and_Fans) | Wubba Lubba Dub Dub                                          |
 | [回形针PaperClip & 灵光灯泡](https://t.me/papercliphub) | 回形针内容推送。                                             |
 | [Donald J. Trump](https://t.me/trump)                   | 45th President of the United States of America.              |
+| [亚洲美女 Asia Girls](https://t.me/asiacutegirls)       | 不露点的尤物图。                                             |
 
 
 
