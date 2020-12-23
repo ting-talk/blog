@@ -2779,6 +2779,13 @@ swing by/past （尤指在前往别处的路上）顺便快速访问某地
 
 
 
+### Tedious
+
+[ˈtiːdiəs] 单调乏味的，无趣的
+
+- The job is tedious, but the pay is good. 
+  这工作很乏味, 但工钱不少。
+
 ### Test
 
 You know what? That was all a test, Morty. Just an elaborate test to make you more assertive. 你知道吗？那只是个考验，莫蒂。只是精心的测试，可以使您更加自信。
