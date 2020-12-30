@@ -18,7 +18,15 @@ tags: [Telegram, 网上冲浪指南]
 
 还有一个好玩的 Animated Emoji 是 See-No-Evil Monkey 🙈，纵使见到了你也当作没看到（非礼勿视）。
 
-除此之外，还可以在电报上玩游戏（ Emoji 才能触发）：
+[Animated stickers 的特点](https://telegram.org/blog/voice-chats#sticker-outlines)：
+
+- 矢量格式（infinite resolution）
+- 小于 50 KB
+- 180 帧动画
+
+
+
+**电报 Emoji 小游戏**
 
 | 发送单个 | 触发效果                                                     |
 | -------- | ------------------------------------------------------------ |
@@ -262,7 +270,7 @@ tags: [Telegram, 网上冲浪指南]
 
 
 
-**发布记录**：[February 13, 2020](https://telegram.org/blog/new-profiles-people-nearby#new-animated-emoji)、[September 5, 2019](https://telegram.org/blog/scheduled-reminders-themes#more-animated-emoji)、[August 9, 2019](https://telegram.org/blog/silent-messages-slow-mode#animated-emoji)、[March 30, 2020](https://telegram.org/blog/folders#new-animated-emoji)、[April 24, 2020](https://telegram.org/blog/400-million#bullseye) 、[September 30, 2020](https://telegram.org/blog/filters-anonymous-admins-comments)、[October 30, 2020](https://telegram.org/blog/pinned-messages-locations-playlists#and-ghoulishly-delightful-animated-emoji)
+**发布记录**：[February 13, 2020](https://telegram.org/blog/new-profiles-people-nearby#new-animated-emoji)、[September 5, 2019](https://telegram.org/blog/scheduled-reminders-themes#more-animated-emoji)、[August 9, 2019](https://telegram.org/blog/silent-messages-slow-mode#animated-emoji)、[March 30, 2020](https://telegram.org/blog/folders#new-animated-emoji)、[April 24, 2020](https://telegram.org/blog/400-million#bullseye) 、[September 30, 2020](https://telegram.org/blog/filters-anonymous-admins-comments)、[October 30, 2020](https://telegram.org/blog/pinned-messages-locations-playlists#and-ghoulishly-delightful-animated-emoji)、[December 23, 2020](https://telegram.org/blog/voice-chats)
 
 **表情合集**：有人把以上 Animated Emojies 做成了一个表情包，比原版更大，且支持循环播放，[点此](https://t.me/addstickers/AnimatedEmojies) 添加。
 

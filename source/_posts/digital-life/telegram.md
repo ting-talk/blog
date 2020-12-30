@@ -34,11 +34,11 @@ tags: [网上冲浪指南, 突破网络审查, Telegram]
 
 许多人第一次意识到 Ta 们的数字通信遭到了监视（The year Telegram was born was marked by the Snowden Revelations, when many people realized for the first time their digital communications were being watched.）。
 
-2013 年 8 月 14 日，杜洛夫兄弟（[Pavel Durov](https://zh.wikipedia.org/wiki/%E4%BF%9D%E7%BE%85%C2%B7%E6%9D%9C%E6%B4%9B%E5%A4%AB) 和 [Nikolai Durov](https://zh.wikipedia.org/zh-cn/%E5%B0%BC%E5%8F%A4%E6%8B%89%C2%B7%E6%9D%9C%E6%B4%9B%E5%A4%AB)）正式发布了开源的（[Open Source](https://telegram.org/faq#q-why-not-open-source-everything)）Telegram（特指客户端）。这个充满理想主义的软件不接受外部投资（不需要向任何股东负责），也不会通过广告盈利，且挣钱永远不会是 Telegram 的终极目标（[Making profits will never be an end-goal for Telegram](https://telegram.org/faq#q-how-are-you-going-to-make-money-out-of-this)），所以 Telegram 至今没有向第三方披露过一个字节的用户私人数据。Telegram 只会默默地践行一个理念：这个星球上的每个人都享有自由的权利（Everyone on the planet has a right to be free.）：
+2013 年 8 月 14 日，杜洛夫兄弟（[Pavel Durov](https://zh.wikipedia.org/wiki/%E4%BF%9D%E7%BE%85%C2%B7%E6%9D%9C%E6%B4%9B%E5%A4%AB) 和 [Nikolai Durov](https://zh.wikipedia.org/zh-cn/%E5%B0%BC%E5%8F%A4%E6%8B%89%C2%B7%E6%9D%9C%E6%B4%9B%E5%A4%AB)）正式发布了开源的（[Open Source](https://telegram.org/faq#q-why-not-open-source-everything)）Telegram（特指客户端）。这个充满理想主义的软件不接受外部投资（不需要向任何股东负责），也不会通过广告盈利，且挣钱永远不会是 Telegram 的终极目标（[Making profits will never be an end-goal for Telegram](https://telegram.org/faq#q-how-are-you-going-to-make-money-out-of-this)），所以 Telegram 至今没有向第三方披露过一个字节的用户私人数据。Telegram 只会默默地践行一个理念：这个星球上的每个人都享有自由的权利（Everyone on the planet has a right to be free.）。This is the Telegram way：
 
 > We believe that humans are inherently intelligent and benevolent beings that deserve to be trusted; trusted with freedom to share their thoughts, freedom to communicate privately, freedom to create tools. This philosophy defines everything we do. 我们相信人类天生就是聪明和仁慈的，值得信任的；坚信人类可以自由地分享想法，自由地私下交流，自由地创造工具。 这种哲学定义了我们所做的一切。by [Pavel Durov](https://telegram.org/blog/200-million)
 
-截止 2020 年 4 月 24 日，Telegram 每月已有 4 亿活跃用户（[Telegram has reached 400,000,000 monthly users.](https://telegram.org/blog/400-million))。
+截止 2020 年 12 月 23 日，[Telegram 已有 5 亿月活跃用户](https://t.me/durov/142)。
 
 
 
@@ -58,7 +58,7 @@ tags: [网上冲浪指南, 突破网络审查, Telegram]
 
 ### 👎 瑕不掩瑜
 
-虽然我非常偏爱 Telegram，但这一篇包罗万象的文章，要做到面面俱到，以下短板不得不提。
+欢迎访问 [Feature Suggestion Platform](https://bugs.telegram.org/)，向 Telegram 提交缺陷报告和功能建议（Bugs and Suggestions），一起把 Telegram 做大做强。
 
 #### 🐼 中文搜索体验差
 
@@ -93,7 +93,7 @@ Telegram 的中文搜索是以「词组」为单位的，以标点符号或空�
 
 嫌手动分词太麻烦了？那就在电脑上导出 HTML 或 JSON 格式的聊天记录，想怎么搜就怎么搜。
 
-
+已经有人向 Telegram 提交了 [改善中文搜索的提案](https://bugs.telegram.org/c/724)，请为这个 Suggestion 投票和鼓气。拜托了。
 
 **关联阅读**
 
@@ -514,6 +514,12 @@ Telegram 有一个非常人性化的特性：**记忆浏览进度**，打开对�
 - 消息可以无限期撤回（[Delete Messages](https://telegram.org/faq#q-can-i-delete-my-messages)）：删除信息时，勾选 `Also delete for ***`，聊天记录就可以双向删除。
 - 选择部分消息（[Select Parts of Messages](https://telegram.org/blog/verifiable-apps-and-more#select-parts-of-messages)）：长按 2 次消息，可选择部分文字，而不是复制全文（Copy Selected Text）。
 
+#### 🗣 朗读消息
+
+[Announce Messages](https://telegram.org/blog/voice-chats#announce-messages-on-ios) 目前由 iOS 用户独占。你可以让 Siri 在你的耳机里大声读出你收到的信息，即使是在洗碗的时候也可以保持聊天的最新状态。
+
+开启路径：iOS Settings > Notifications > Announce Messages。
+
 
 
 ### 🗣️ 语音消息
@@ -872,6 +878,8 @@ https://rsshub.app/telegram/channel/tingtalk
 | [突发新闻](https://t.me/breakingnews_t)              | 突发新闻推送服务（简体中文）。                               |
 | [NFW](https://t.me/NewsFW)                           | News for Work, Not for Work.                                 |
 | [电报时报](https://t.me/times001)                    | 提供全天候热点中国及国际新闻，涵盖突发新闻、时事、财经、娱乐、体育，评论、杂志和博客等。 |
+| [乌鸦观察](https://t.me/bigcrowdev)                  | 不定期推送新闻和杂谈。                                       |
+| [蘋果日報](https://t.me/appledailyhk)                | [Apple Daily](https://hk.appledaily.com/) 为香港上市公司壹传媒旗下繁体中文报纸，由大股东黎智英所创立，被民主派支持者普遍认为是香港目前唯一未被「染红」的媒体。by [维基百科](https://zh.wikipedia.org/zh-cn/%E8%98%8B%E6%9E%9C%E6%97%A5%E5%A0%B1_(%E9%A6%99%E6%B8%AF)) |
 
 
 
@@ -892,6 +900,7 @@ https://rsshub.app/telegram/channel/tingtalk
 | [双语新闻](https://t.me/shuangyunews_rss)                  | [纽约时报双语新闻](https://cn.nytimes.com/) + [中国日报网英语点津](http://language.chinadaily.com.cn/) |
 | [Twitter Subscription](https://t.me/twitter_subscriptions) | 搬运以下 Twitter 账号：BBC News 中文、DW 中文- 德国之声、国际特赦组织中文、纽约时报中文网。 |
 | [新闻播报 PDF](https://t.me/news_pdf)                      | 每天为大家送来 NYT 和 BBC 的新闻 PDF。                       |
+| [What's News](https://t.me/whatsnws)                       | 推送各种英文外刊和杂志的 PDF。                               |
 
 以上部分介绍来自西方媒体查一查。查询可信度和倾向性，请安装 [浏览器插件](https://chrome.google.com/webstore/detail/%E8%A5%BF%E6%96%B9%E5%AA%92%E4%BD%93%E6%9F%A5%E4%B8%80%E6%9F%A5/bpejcaojjipcgcnjkfmnkhokdpimcmij)，或者访问 [微信小程序](https://minapp.com/miniapp/4395/)。
 
@@ -966,6 +975,7 @@ https://rsshub.app/telegram/channel/tingtalk
 | [AK 讲废话](https://t.me/joinchat/AAAAAEWbURDTisztrTcwqA) | 科普视频系列：[无线技术](https://www.youtube.com/watch?v=JVh6sUHRxjg&list=PLqybz7NWybwULxQ2xMyUND_x2ziMLbn7R)、[显示技术](https://www.youtube.com/watch?v=MVVQl0gJH-U&list=PLqybz7NWybwWcl_s-VLB_tXqbbBww6nbK)、[翻墙技术](https://www.youtube.com/watch?v=XKZM_AjCUr0&list=PLqybz7NWybwUgR-S6m78tfd-lV4sBvGFG)…… |
 | [P3TERX ZONE](https://t.me/P3TERX_ZONE)                   | `P3TERX` 读作 Peter X。                                      |
 | [值物志](https://t.me/zhiwuzhi)                           | 分享各种值得尝试的事物：值得读的书、值得用的软件、值得看的电视剧…… |
+| [小虎の自留地](https://t.me/xiaohudejia)                  | 讨论家装心得或者有趣实用的家具电器。                         |
 
 [中文独立博客列表](https://github.com/timqian/chinese-independent-blogs) by timqian
 
@@ -984,6 +994,7 @@ https://rsshub.app/telegram/channel/tingtalk
 
 | 频道                                            | 详情                                                 |
 | ----------------------------------------------- | ---------------------------------------------------- |
+| [4K 影视屋](https://t.me/dianying4K)            | 蓝光无损电影。                                       |
 | [远鉴字幕组发布频道](https://t.me/VisionarySub) | 本字幕组致力于非院线海外电影及海外剧集的译制与分享。 |
 | [苍炎影院](https://t.me/cangyanmovie)           | 分享最新最热门的优质电影。                           |
 
@@ -1038,6 +1049,7 @@ https://rsshub.app/telegram/channel/tingtalk
 | [DivineEngine](https://t.me/DivineEngine)          | 神机规则                                                     |
 | [秋水逸冰](https://t.me/qiushuiyibing)             | [Teddysun](https://teddysun.com/about) 会不定期在此发布一些本人的作品。 |
 | [Shadowrocket News](https://t.me/ShadowrocketNews) | iOS 上小火箭                                                 |
+| [Quantumult X News](https://t.me/QuanXNews)        | 此频道用于发布 Quantumult 与 Quantumult X 的相关资讯。       |
 | [V2Fly](https://t.me/V2Fly)                        | Shadowsocks 是一个纯粹的代理工具，而 V2Ray 定位为一个平台，任何开发者都可以利用 V2Ray 提供的模块开发出新的代理软件。by [新 V2Ray 白话文指南](https://guide.v2fly.org/) |
 | [毒药机场评测](https://t.me/DuyaoSS)               | 由于大陆地区网络环境十分复杂，测速不代表推荐。另外，有些机场会泄露个人信息，选购时多加搜索或者进入机场用户群打探打探。 |
 
@@ -1076,7 +1088,7 @@ https://rsshub.app/telegram/channel/tingtalk
 | [Rick Morty and Fans](https://t.me/Rick_Morty_and_Fans) | Wubba Lubba Dub Dub                                          |
 | [回形针PaperClip & 灵光灯泡](https://t.me/papercliphub) | 回形针内容推送。                                             |
 | [Donald J. Trump](https://t.me/trump)                   | 45th President of the United States of America.              |
-| [亚洲美女 Asia Girls](https://t.me/asiacutegirls)       | 不露点的尤物图。                                             |
+| [Google Drive 资源](https://t.me/gdurl)                 | 大电影，小电影，电子书，无损音乐等等。                       |
 
 
 
@@ -1202,6 +1214,8 @@ Bots 就像运行在 Telegram 内部的小程序。借助 [Telegram 开放的 AP
 - 静音群组只有在 `@` 提到你、 `Reply` 回复你和 `Pin` 管理员发布群通知时才会收到通知。
 - 新加入的成员可以看到全部的群聊历史记录（[New members can see the entire message history when they join](https://telegram.org/blog/supergroups#supergroups)）。
 - 加入群组之前，可看到（单向）好友是否在列。如果不想让好友知道你加入了某个群组，注册一个小号吧。
+- 支持在任何设备上发起语音聊天（[Voice Chats](https://telegram.org/blog/voice-chats)）
+  - 在 Telegram Desktop 和原生 macOS app 中，支持设置发言快捷键，例如大小写锁定键。（On [Telegram Desktop](https://desktop.telegram.org/) and in the [native macOS app](https://macos.telegram.org/), you can choose a **push-to-talk key** for Voice Chats, to control your mic even when Telegram is not focused. At long last, we've found a use for your Caps Lock key.）
 
 
 

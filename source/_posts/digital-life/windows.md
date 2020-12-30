@@ -685,18 +685,23 @@ Windows 的默认图片浏览器非常难用。而 qimgv 是一款开源的图�
 
 ### 其它软件
 
-#### [TeamViewer](https://www.teamviewer.cn/cn/) 
+#### [ToDesk](https://www.todesk.com/)
 
 **下班回到家，老板却不给你休息怎么办？**
 
-1. 在单位和个人的电脑下载并安装 [TeamViewer](https://www.teamviewer.cn/cn/) （个人免费）
+1. 在单位和个人的电脑下载并安装 [ToDesk](https://www.todesk.com/) （个人免费）
 2. 注册账号，并设为开机自启（私人设备可不自启）
 3. 下班后，公司的电脑不要关机
 4. 等待老板分配临时任务给你
 5. 用「手机 / 私人电脑」远程控制公司的电脑桌面
 6. 披星戴月，完成任务。Tomorrow is another day
 
-**Note**：[TeamViewer](https://www.teamviewer.cn/cn/) 有时会被检测为商用，[向日葵](https://sunlogin.oray.com/personal/) 可以作为你的备选远程桌面软件（向日葵跟着月亮转，好似月光下的你跟着老板转）。
+详情，请参阅异次元软件世界的介绍：[ToDesk - 免费流畅不限速的远程控制软件](https://www.iplaysoft.com/todesk.html)
+
+同类软件：
+
+- [TeamViewer](https://www.teamviewer.cn/cn/) 个人使用也可能会被判定为商业用途。
+- [向日葵](https://sunlogin.oray.com/personal/) 跟着月亮转，好似月光下的你跟着老板转
 
 
 

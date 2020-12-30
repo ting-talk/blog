@@ -356,6 +356,11 @@ Android 用户推荐使用 ShadowsocksR 客户端，但是也可以把 Clash for
 
 
 
+**Clash for Windows 所有节点测试延迟都显示 Timeout 怎么办？**
+访问 [Time.is](https://time.is/)  ，确保你的电脑系统时间与标准时间的时间差不超过 1 分钟。
+
+
+
 **关联阅读**
 
 - 文字教程：[UWP 应用联网 - Fndroid](https://github.com/Fndroid/clash_for_windows_pkg/wiki/UWP%E5%BA%94%E7%94%A8%E8%81%94%E7%BD%91)
