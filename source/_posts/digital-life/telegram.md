@@ -826,7 +826,7 @@ https://rsshub.app/telegram/channel/tingtalk
 2. 简单说明推荐理由
 3. 优质频道将会更新在这篇《电报教程》里，让好内容得到更多的展现
 
-以下是我收集的频道，不代表同意其观点。如果你发现某些频道开始「作恶」了或者失效了，请联系我从这个列表中删除。
+以下是我收集的频道，不代表同意其观点，也许为了丰富文章内容。如果你发现某些频道开始「作恶」了或者失效了，请联系我从这个列表中删除。
 
 2020 年，你需要多运动，多吃蔬果，偶尔听 [播客](https://podcasts.cosmosrepair.com/)，放下手机早点睡觉，少看鸡零狗碎的消息。
 
@@ -976,6 +976,7 @@ https://rsshub.app/telegram/channel/tingtalk
 | [P3TERX ZONE](https://t.me/P3TERX_ZONE)                   | `P3TERX` 读作 Peter X。                                      |
 | [值物志](https://t.me/zhiwuzhi)                           | 分享各种值得尝试的事物：值得读的书、值得用的软件、值得看的电视剧…… |
 | [小虎の自留地](https://t.me/xiaohudejia)                  | 讨论家装心得或者有趣实用的家具电器。                         |
+| [Leonn 的博客](https://t.me/liyuans)                      | 低价主机（VPS）资源。                                        |
 
 [中文独立博客列表](https://github.com/timqian/chinese-independent-blogs) by timqian
 
@@ -1029,13 +1030,16 @@ https://rsshub.app/telegram/channel/tingtalk
 
 ### 🏫 读书
 
+人类的悲喜并不互通，但读书是走向共同理解的捷径。
+
 | 频道                                          | 详情                                                         |
 | --------------------------------------------- | ------------------------------------------------------------ |
 | [Word Power Made Easy](https://t.me/pieroots) | 利用词根（原始印欧语、拉丁语、古希腊语）学习英语单词。       |
 | [中文社科讲座资讯](https://t.me/chwebinars)   | 一个讲座信息聚合和 PPT 共享平台。                            |
 | [什么书值得读](https://t.me/zreadpush)        | 仅推送某亚原版资源，可同时下载 `.azw3` `.epub` `.mobi` 的电子书。 |
-| [小声读书](https://t.me/weekly_books)         | 小声读书是一个探索数字阅读可能性和未来的开放项目，致力于打破信息茧房，挖掘价值信息。亦是一份杂志，一个博客，混搭不拘一格，时常荒腔走板。人类的悲喜并不互通，但读书是走向共同理解的捷径。 |
+| [小声读书](https://t.me/weekly_books)         | 一个探索数字阅读可能性和未来的开放项目，致力于打破信息茧房，挖掘价值信息。 |
 | [值得一看的文章](https://t.me/readgoods)      | 阅读更少，收获更多。                                         |
+| [云上报刊亭](https://t.me/magazinesclub)      | 英文报刊杂志、电子书、报纸和外文杂志精选。                   |
 
 插播一个免费的广告：学英语，推荐购买郝海龙老师的[《英语自学手册》](https://sspai.com/series/77)（￥119）。
 
@@ -1089,6 +1093,7 @@ https://rsshub.app/telegram/channel/tingtalk
 | [回形针PaperClip & 灵光灯泡](https://t.me/papercliphub) | 回形针内容推送。                                             |
 | [Donald J. Trump](https://t.me/trump)                   | 45th President of the United States of America.              |
 | [Google Drive 资源](https://t.me/gdurl)                 | 大电影，小电影，电子书，无损音乐等等。                       |
+| [合租](https://t.me/hezu2)                              | Netflix、YouTube、Spotify、Office 365、HBO、Apple、Surge……   |
 
 
 
@@ -1102,25 +1107,26 @@ Bots 就像运行在 Telegram 内部的小程序。借助 [Telegram 开放的 AP
 
 在任意对话界面的消息编辑框，输入 [Inline Bots](https://core.telegram.org/bots/inline) 的名字，即可将 Ta 们唤醒（Just type `@inlinebots keywords` in any chat.）。
 
-| Bot                                           | Info                                                         |
-| --------------------------------------------- | ------------------------------------------------------------ |
-| [@bing](https://telegram.me/bing)             | [图片搜索 by Bing](https://www.bing.com/images)（支持中英文）。 |
-| [@bold](https://telegram.me/bold)             | 👍 使用 [Markdown](https://tingtalk.me/markdown/) 编辑消息。  |
-| [@coub](https://telegram.me/coub)             | [Coub](https://coub.com/oftheday) 是一个视频共享网站（时长十秒的循环视频）。 |
-| [@fanyi_bot](https://t.me/fanyi_bot)          | 为全世界语言提供中文翻译。                                   |
-| [@foursquare](https://telegram.me/foursquare) | 帮你找到附近的餐馆或附近的地方，并将其地址发送给朋友。       |
-| [@gamee](https://telegram.me/gamee)           | 在群组中输入 `@gamee`，选择一个游戏，立刻和你的朋友 [在 Telegram 上玩小游戏](https://telegram.org/blog/games#ready-to-play)。 |
-| [@gif](https://t.me/gif)                      | GIF 动图搜索，支持中文。例如 `@gif 你好`。                   |
-| [@imdb](https://telegram.me/imdb)             | 查看影视作品在 [互联网电影资料库（IMDb）](https://www.imdb.com/)的评分。 |
-| [@letmebot](https://telegram.me/letmebot)     | 集合了各种搜索引擎：Google、DuckDuckGo、YouTube、Amazon、Uber Dictionary…… |
-| [@like](https://t.me/like)                    | 👍 添加 emoji-based like buttons，例如 👍 / 👎。在搜索框输入 `@like`，预设一些喜欢的投票符号（最多 6 个），然后就可以在聊天框输入 `@like` 调用这些预设。 |
-| [@music](https://telegram.me/music)           | 帮你找到动听的古典音乐。                                     |
-| [@pic](https://telegram.me/pic)               | [图片搜索 by Yandex](https://yandex.com/images/)（支持中英文）。 |
-| [@QuizBot](https://t.me/QuizBot)              | [答题机器人](https://telegram.org/blog#bot-api-and-quiz-bot)：创建一份只有单选题的考卷。[点此](https://t.me/QuizBot?start=TelegramHistory) 开始测试你对 Telegram 的了解程度。 |
-| [@sticker](https://t.me/sticker)              | 👍 检索所有与 Emoji 相关表情包。例如 `@sticker 😎 `。          |
-| [@vid](https://telegram.me/vid)               | 帮你查找 YouTube 视频（支持中文搜索）。                      |
-| [@wiki](https://telegram.me/wiki)             | [维基百科](https://www.wikipedia.org/)。搜索中文条目 `@wiki zh 猫`；搜索英文条目 `@wiki en cat` |
-| [@youtube](https://telegram.me/youtube)       | 帮你查找 YouTube 视频（不支持中文搜索）。                    |
+| Bot                                              | Info                                                         |
+| ------------------------------------------------ | ------------------------------------------------------------ |
+| [@bing](https://telegram.me/bing)                | [图片搜索 by Bing](https://www.bing.com/images)（支持中英文）。 |
+| [@bold](https://telegram.me/bold)                | 👍 使用 [Markdown](https://tingtalk.me/markdown/) 编辑消息。  |
+| [@coub](https://telegram.me/coub)                | [Coub](https://coub.com/oftheday) 是一个视频共享网站（时长十秒的循环视频）。 |
+| [@creationdatebot](https://t.me/creationdatebot) | 获取注册 Telegram 的日期。                                   |
+| [@fanyi_bot](https://t.me/fanyi_bot)             | 为全世界语言提供中文翻译。                                   |
+| [@foursquare](https://telegram.me/foursquare)    | 帮你找到附近的餐馆或附近的地方，并将其地址发送给朋友。       |
+| [@gamee](https://telegram.me/gamee)              | 在群组中输入 `@gamee`，选择一个游戏，立刻和你的朋友 [在 Telegram 上玩小游戏](https://telegram.org/blog/games#ready-to-play)。 |
+| [@gif](https://t.me/gif)                         | GIF 动图搜索，支持中文。例如 `@gif 你好`。                   |
+| [@imdb](https://telegram.me/imdb)                | 查看影视作品在 [互联网电影资料库（IMDb）](https://www.imdb.com/)的评分。 |
+| [@letmebot](https://telegram.me/letmebot)        | 集合了各种搜索引擎：Google、DuckDuckGo、YouTube、Amazon、Uber Dictionary…… |
+| [@like](https://t.me/like)                       | 👍 添加 emoji-based like buttons，例如 👍 / 👎。在搜索框输入 `@like`，预设一些喜欢的投票符号（最多 6 个），然后就可以在聊天框输入 `@like` 调用这些预设。 |
+| [@music](https://telegram.me/music)              | 帮你找到动听的古典音乐。                                     |
+| [@pic](https://telegram.me/pic)                  | [图片搜索 by Yandex](https://yandex.com/images/)（支持中英文）。 |
+| [@QuizBot](https://t.me/QuizBot)                 | [答题机器人](https://telegram.org/blog#bot-api-and-quiz-bot)：创建一份只有单选题的考卷。[点此](https://t.me/QuizBot?start=TelegramHistory) 开始测试你对 Telegram 的了解程度。 |
+| [@sticker](https://t.me/sticker)                 | 👍 检索所有与 Emoji 相关表情包。例如 `@sticker 😎 `。          |
+| [@vid](https://telegram.me/vid)                  | 帮你查找 YouTube 视频（支持中文搜索）。                      |
+| [@wiki](https://telegram.me/wiki)                | [维基百科](https://www.wikipedia.org/)。搜索中文条目 `@wiki zh 猫`；搜索英文条目 `@wiki en cat` |
+| [@youtube](https://telegram.me/youtube)          | 帮你查找 YouTube 视频（不支持中文搜索）。                    |
 
 
 
@@ -1202,7 +1208,7 @@ Bots 就像运行在 Telegram 内部的小程序。借助 [Telegram 开放的 AP
 | [@utubebot](https://t.me/utubebot)                 | 同时下载 YouTube 的视频和音频，不过会推送一些广告。          |
 | [@verifybot](https://t.me/verifybot)               | 加了官方认证后，名字后面有个 ✅（[verify a big andactive official channel, bot or public group](https://telegram.org/verify)）。 |
 
-更多 Bots 推荐，请参阅 [Raw 博客](https://blog.rawstack.co/post/telegram-bots/)。
+更多 Bots 推荐，请参阅 [Raw 博客](https://blog.rawstack.co/post/telegram-bots/) 以及 [合集网](https://www.heji.ltd/376.html)。
 
 
 
