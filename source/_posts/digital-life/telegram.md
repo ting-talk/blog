@@ -1,7 +1,7 @@
 ---
 title: Telegram：新手指南、使用教程及频道推荐
 date: 2019-11-09  
-updated: 2020-12-14
+updated: 2021-01-11
 categories: 数字生活  
 tags: [网上冲浪指南, 突破网络审查, Telegram]
 ---
@@ -248,7 +248,7 @@ Telegram 的中文搜索是以「词组」为单位的，以标点符号或空�
 2. No, I'll never do any of this.
 3. I can't chat with non-contacts.
 
-大概半小时之后，即可解除禁言。
+大概半小时之后（有些人要十几天），即可解除禁言。
 
 另外，若用户在 24 小时内访问超过 200 个群组或频道的链接（点击打开就算访问，不需要加入），就会被打入冷宫 24 小时。禁闭期间，无法通过链接访问新的群组或频道（点击链接一直转圈而无法访问）。
 
@@ -880,6 +880,7 @@ https://rsshub.app/telegram/channel/tingtalk
 | [电报时报](https://t.me/times001)                    | 提供全天候热点中国及国际新闻，涵盖突发新闻、时事、财经、娱乐、体育，评论、杂志和博客等。 |
 | [乌鸦观察](https://t.me/bigcrowdev)                  | 不定期推送新闻和杂谈。                                       |
 | [蘋果日報](https://t.me/appledailyhk)                | [Apple Daily](https://hk.appledaily.com/) 为香港上市公司壹传媒旗下繁体中文报纸，由大股东黎智英所创立，被民主派支持者普遍认为是香港目前唯一未被「染红」的媒体。by [维基百科](https://zh.wikipedia.org/zh-cn/%E8%98%8B%E6%9E%9C%E6%97%A5%E5%A0%B1_(%E9%A6%99%E6%B8%AF)) |
+| [竹新社](https://t.me/tnews365)                      | 7×24 不定时编译国内外媒体的即时新闻报道。                    |
 
 
 
@@ -938,6 +939,7 @@ https://rsshub.app/telegram/channel/tingtalk
 | [VPS 信号旗播报](https://t.me/vps_xhq)               | 关注 VPS 和通信自由。                                        |
 | [硬核小卒](https://t.me/yinghexiaozu)                | 分享优质的科技/商业资讯。                                    |
 | [知乎日报](https://t.me/zhihuribao_rss)              | 越来越难用的问答网站。                                       |
+| [Daily Tech News](https://t.me/DailyTechNewsCN)      | 每日科技新闻。                                               |
 
 
 
@@ -1222,6 +1224,7 @@ Bots 就像运行在 Telegram 内部的小程序。借助 [Telegram 开放的 AP
 - 加入群组之前，可看到（单向）好友是否在列。如果不想让好友知道你加入了某个群组，注册一个小号吧。
 - 支持在任何设备上发起语音聊天（[Voice Chats](https://telegram.org/blog/voice-chats)）
   - 在 Telegram Desktop 和原生 macOS app 中，支持设置发言快捷键，例如大小写锁定键。（On [Telegram Desktop](https://desktop.telegram.org/) and in the [native macOS app](https://macos.telegram.org/), you can choose a **push-to-talk key** for Voice Chats, to control your mic even when Telegram is not focused. At long last, we've found a use for your Caps Lock key.）
+  - 需要在翻墙服务/软件上开启 UDP 转发。
 
 
 

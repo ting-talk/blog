@@ -138,6 +138,8 @@ tags: [Telegram, 网上冲浪指南]
 | 👩‍⚕️             | [Woman Health Worker](https://emojipedia.org/woman-health-worker/) |
 | 👨‍⚕️             | [Man Health Worker](https://emojipedia.org/man-health-worker/) |
 | 👨‍🏫             | [Man Teacher](https://emojipedia.org/man-teacher/)           |
+| 🤶              | [Mrs. Claus](https://emojipedia.org/mrs-claus/)              |
+| 🎅              | [Santa Claus](https://emojipedia.org/santa-claus/)           |
 | 🧛‍♀             | [Woman Vampire](https://emojipedia.org/woman-vampire/)       |
 | 🧛              | [Vampire](https://emojipedia.org/vampire/)                   |
 | 🧛‍♂️             | [Man Vampire](https://emojipedia.org/man-vampire/)           |
@@ -179,6 +181,7 @@ tags: [Telegram, 网上冲浪指南]
 | ✨              | [Sparkles](https://emojipedia.org/sparkles/)                 |
 | ⚡️              | [High Voltage](https://emojipedia.org/high-voltage/)         |
 | 🔥              | [Fire](https://emojipedia.org/fire/)                         |
+| ❄️              | [Snowflake](https://emojipedia.org/snowflake/)               |
 | ☃️              | [Snowman](https://emojipedia.org/snowman/)                   |
 | ⛄️              | [Snowman Without Snow](https://emojipedia.org/snowman-without-snow/) |
 
@@ -186,11 +189,12 @@ tags: [Telegram, 网上冲浪指南]
 
 ## 🍎
 
-| Animated Emoji | Emojipedia                                             |
-| -------------- | ------------------------------------------------------ |
-| 🍑              | [Peach](https://emojipedia.org/peach/)                 |
-| 🍆              | [Eggplant](https://emojipedia.org/eggplant/)           |
-| 🎂              | [Birthday Cake](https://emojipedia.org/birthday-cake/) |
+| Animated Emoji | Emojipedia                                                   |
+| -------------- | ------------------------------------------------------------ |
+| 🍑              | [Peach](https://emojipedia.org/peach/)                       |
+| 🍆              | [Eggplant](https://emojipedia.org/eggplant/)                 |
+| 🎂              | [Birthday Cake](https://emojipedia.org/birthday-cake/)       |
+| 🥂              | [Clinking Glasses](https://emojipedia.org/clinking-glasses/) |
 
 
 
@@ -213,6 +217,8 @@ tags: [Telegram, 网上冲浪指南]
 | 🚕              | [Taxi](https://emojipedia.org/taxi/)           |
 | 🚑              | [Ambulance](https://emojipedia.org/ambulance/) |
 | 🗿              | [Moai](https://emojipedia.org/moai/)           |
+| 🎇              | [Sparkler](https://emojipedia.org/sparkler/)   |
+| 🎆              | [Fireworks](https://emojipedia.org/fireworks/) |
 
 
 
