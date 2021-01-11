@@ -9309,3 +9309,1483 @@ Don't you worry about that sort of thing, cronenberg Morty.
 
 咱们就在这儿舒舒服服过吧
 Let's go make ourselves at home, huh?
+
+
+
+### E7 Raising Gazorpazorp
+
+[电波诚译](www.dbfansub.com)
+
+- 翻译: 史努比一体机
+- 校对: Kimmu
+- 后期: 小萌
+- 压制: 凯撒
+
+我才不会花70丁丁买一个坏掉的反定帆器
+Look, I'm not paying 70 smidgens for a broken defraculator.
+
+这是多相量子共振器
+That is multiphase quantum resonator.
+
+那它能反定帆吗  - [哔]不能
+Well, does it defraculate? - [Bleep]No.
+
+那不就是个坏掉的反定帆器吗
+Then-then-then it's a broken defraculator.
+
+你懂个鸡巴的定帆啊
+Like you would even know dick about fraculation.
+
+你们的星球只有手机 信号还这么烂
+Your planet just got cellphones, and the coverage still sucks!
+
+你们的人还吃硫呢
+Yeah, yeah, and your species eat sulfur.
+
+就60丁丁了
+So let's say 60 smidgens.
+
+算我帮你个忙
+I tell you what, I'll do you a favor
+
+我附赠你个屁(硫化氢)
+I'll throw in a fart.
+
+Rick 你能不能给我
+Hey, uh, Rick, um, you think maybe I could
+
+买件这里的东西啊
+get something from this place
+
+就一件纪念品嘛 单纯为了收藏 比如什么酷酷的东西
+like, like a souvenir, like just to have like something cool, you know?
+
+这儿就算了 Morty 我们去别的地方
+Not here Morty, we'll stop somewhere else
+
+反正哪里都有当铺
+because, you know, there's always another pawn shop.
+
+我就是觉得 那边那个机器人
+Oh okay, I just, um, you know, that robot over there
+
+看着好酷啊
+looked pretty cool, you know?
+
+看着酷是吗
+Oh, it looks cool, huh?
+
+因为酷你才想买
+That's why you want it?
+
+是啊 跟地球上的东西很不相同嘛
+Yeah! You know, I mean it's different from the stuff on Earth,
+
+你带着我跑遍了银河系里面这么多疯狂的地方
+and, you know, you take me to all these crazy places across the galaxy,
+
+我都没有什么东西
+and, you know, I don't really have anything to,
+
+能纪念这些冒险啊
+to remember all the trips by.
+
+这不是挺酷的吗 一个纪念品
+It'd be kind of cool, like a souvenir.
+
+万一你去世了什么的怎么办
+You know, like, what if you passed away or died or something?
+
+都没有什么东西
+I wouldn't even have anything to
+
+能让我缅怀那些酷炫的经历呢
+remember all the cool stuff we did, you know?
+
+好吧 共振器我出60
+Okay. 60 for the resonator,
+
+外加我外孙想要的那个性爱机器人
+and my grandson wants the sex robot.
+
+我们是要假装什么也不知道吗
+So, we're just going to pretend this isn't happening?
+
+我不是说这样不好 只是问问而已
+I'm not saying that a bad idea, just asking.
+
+Rick 你怎么能让Morty把那东西带回家呢
+Rick, why would you let Morty bring that thing into our house.
+
+你指望我能干嘛
+What do you want form me?
+
+他觉觉觉觉得那东西看着很酷
+He thi-, he thou-, he thou-, he th-, he thought it looked cool.
+
+你懂我意思吗
+You know what I mean.
+
+呼 啊 好了 接着 回楼上
+Whew. Ahh. All right. Back to-, b-back upstair.
+
+不行 我要干预这事
+Well, I'm invervening.
+
+干预青春期行为吗
+Intervening with puberty?
+
+你会把他变成《红龙》里的拉尔夫费因斯的
+You'll turn him into Ralph Fiennes in "Red Dragon."
+
+《红龙》是汉尼拔系列小说中的第一部 后改编为电影 拉尔夫费因斯在其中饰演童年不幸的变态连环杀手"牙仙"
+
+他到了这个年纪了
+He's just at that age.
+
+我们为他骄傲就好了
+Let's just be proud of him.
+
+天啊 我把标准降到这么低了吗
+Jesus. Did I really set the bar that low?
+
+呃 Rick 你能来一下吗 快点
+Um, Rick, could you come with me, please, quickly?
+
+如果再听到嘎吱声 我们就干预
+Ok, now if we hear squeaking, we intervene.
+
+性爱机器人呢 Morty
+Where's the sex robot, Morty?
+
+那就是Gwendolyn 我是说 机器人
+That is Gwendolyn. I-I mean, the robot!
+
+她发出了哔哔声 然后变形试图飞走
+She started beeping and then transformed and tried to fly away!
+
+真奇怪 这一般是男人才会干的事啊
+Strange. That's usually the man's job.
+
+知道我什么意思吧 Morty
+You know what I'm talking about, Morty?
+
+Wubba lubba dub dub
+Wubba lubba dub dub！
+
+Morty 这是我的口头禅 还记得吗
+Morty, that's my catchphrase, remember?
+
+还记得我怎么拼出这个口头禅的吗
+Remember how-how I cemented that catchphrase?
+
+好吧好吧 不开玩笑了
+All right. All ritht, seriously, though.
+
+让我来抓住它
+Let me grab this thing.
+
+够了 你这个小淘气
+Come on, you... rascal.
+
+这就过分了 噢
+Okay, unacceptable! Oh
+
+出什么事了
+What is going on?
+
+好吧 啊噢
+All right. Uh-oh.
+
+啥叫"啊噢" 那是个啥
+"Uh-Oh"? What is that?!
+
+看来Morty的机器人不只是用来打发时间的
+Hmm. I think Morty's robot was designed for more than long weekends.
+
+基因编译装置 孵化室
+Genetic compiler, incubation chamber.
+
+没错 这是个造娃机
+Yep. This, here's some kind of baby maker,
+
+这是个一半Morty一半不知道啥的东西
+and that there's half Morty, half who-who knows wh-what?
+
+是我造成的
+It's my bad, guys.
+
+我会处理掉的
+I'll, I'll take care of it.
+
+Rick外公  -  不行  - 哇哦
+Grandpa Rick! - No, no! - Whoa whoa whoa!
+
+你这是要干嘛
+What do you think you're doing?!
+
+Summer从墨西哥带橄榄回来的时候
+Hey, listen. You guys quarantined the house
+
+你们把房子都隔离起来了
+when summer brought olives back from Mexico.
+
+这东西说不定能长到特拉华州那么大
+I mean, this thing could grow to the size of Delaware.
+
+这东西指不定还会吃脑子呼出宇宙艾滋呢
+I mean, it might eat brains and exhale space AIDS.
+
+我们必须得小心
+We got to be careful.
+
+该小心的时候我没小心 现在已经没机会了 Rick
+I lost the chance to be careful, Rick.
+
+我当爸爸了
+I'm a father now!
+
+我该负起责任了
+You know, it's time for me to be responsible.
+
+对不对呀
+Isn't that right...
+
+别取名字
+Don't name it.
+
+小Morty
+...Morty Jr.?
+
+靠 取了个名字
+Oh， Crap. He named it.
+
+爸 这是个小生命 而且有一半是人类
+Well, dad, it's a living thing, and it's half human.
+
+而且它是出生在美国领土上的 所以
+And it was born on american soil, which entitles it to...
+
+Jerry 主修公民学是你自己的错
+Jerry, majoring in civics was your mistake.
+
+别用它来惩罚我们好吗
+Don't punish us for it.
+
+好吧 我把这东西带回我的工作间去
+Fine. I'm gonna take this thing to my workshop
+
+做点调查
+and do a little bit of investigating.
+
+别让这东西离开你们的视线
+Do not let that thing out of your sight.
+
+现在看着人畜无害 但以后可能会变得很危险
+It looks harmless now, but it could grow into something dangerous.
+
+就像疯狂小丑波塞一样
+Like the Insane Clown Posse.
+
+Insane Clown Posse 美国嘻哈组合
+
+呵呵 这笑话真不错 Jerry
+Yeah. Good one, Jerry.
+
+此处指的可能是2003年Blink 182的单曲Easy Target
+
+2003年打电话来把Easy Target要回去
+2003 just called and wants its Easy Target back.
+
+他就像是个小版的我
+Ohh. He's like a little me!
+
+你们不会真认为他会变成一个怪物的 对吧
+Y-you don't think he'll turn into a monster... do you?
+
+孩子都会变成怪物的
+They always do.
+
+嘿 1995年打电话来了
+Hey, uh, 1995 called!
+
+他们想把"某年打电话来把某东西要回去的句式要回去"
+They want their "cartain year called wanting its 'blank' back" formula back!
+
+何必呢 Jerry 何必要费力做这种事
+Why, Jerry? why expend the effort?
+
+活着就要费力 生命不息 奋斗不止
+Life is effort. I'll stop when I die!
+
+出去
+Out.
+
+你干嘛呢
+Whatcha doin'?
+
+我没法用我的办法解决这事
+Well, I can't solve the problem my way,
+
+多亏了你家里人原始的生物学考虑
+thanks to your family's primitive biological hang-ups.
+
+恶 我好像碰到了一点Morty的精液
+Gross. I might have just touched one of Morty's loads.
+
+但说不能我可以给小Morty找到合适的父母
+But maybe I can find suitable parents for Morty Jr.
+
+在这个机器人的故乡 也就是
+on this robot's home world, which is...
+
+仙女座星系的格索尔帕索普星
+Gazorpazorp in the Andromeda system.
+
+闪开 Summer
+Scoot, Summer.
+
+你不需要新的小伙伴吗
+Don't you need a new companion
+
+既然现在Morty需要顾家了
+now that Morty's in the family way?
+
+我不和小女生出去冒险 Summer
+I don't do adventures with chicks, Summer.
+
+哦是吗 两腿中间有根东西
+Oh, right. Because there's something about having a wiener
+
+穿个传送门都要强些吗
+that would make me better at walking through a hole?
+
+啊啊啊啊
+Aaaaaaaaaaaaaaah!
+
+该死
+Oh, crap.
+
+Rick外公
+Grandpa Rick! Ugh!
+
+救命 救命 啊
+Help! Help! Aah! Aah!
+
+啊
+Aaaaaaaaaaaaah!
+
+Rick外公
+Grandpa Rick!
+
+还觉得两腿中间没根东西就穿过传送门是个好主意吗
+Still think it's a good idea to go through holes without a wiener?
+
+我想回家
+I want to go home.
+
+哦 你现在当然想了
+Yeah, no duh.
+
+好极了 我现在得拿下整个星球
+Great. Now I have to take over a whole planet
+
+就因为你胸前那玩意儿
+because of your stupid boobs.
+
+干得很好啊 Morty
+You're doing great, Morty
+
+是吗 我也没在干什么呀
+Really? You think? I mean, I'm not doing much of anything.
+
+他要是哭我怎么办啊
+What do I do if it cries?
+
+那就把他放在边上让他哭个够啊
+Then you put it down and let if cry itself out.
+
+这招我们在Summer身上试过
+Yeah, right. We tried that technique on Summer,
+
+然后她就开始脱衣了
+and she's gonna end up stripping.
+
+她是不是这样的啊 没错
+Isn't she? Yes, she is.
+
+为了吸引我们的注意 她会脱衣服
+She's gonna strip for attention.
+
+因为我们不许她这样做
+Because she was denied it.
+
+别用你自己缺乏安全感的方式教宝宝
+Stop filling it with your own insecurity.
+
+你会把他养成另一个Morty 呃
+You're gonna turn it into Morty- uh, um
+
+跟 跟 跟你自己一样
+more- more- more of you.
+
+又不是谁都是被心理不正常的科学家像冷血的爬行动物一样养大的
+Well, we can't all be raised like reptiles by a mentally ill scientist.
+
+搞什么 啊 啊
+What the aah! Aah!
+
+听着 你现在的表现是得不到奖励的
+Listen to me. I'm not rewarding this behavior.
+
+你们够了 把他给我
+Knock if off, both of you! G-give me him!
+
+把我的宝宝给我
+Give me my baby!
+
+你们都是疯子
+You're both nuts.
+
+我要自己教小Morty
+I'm gonna raise Morty Jr. myself!
+
+*小手在哪里*
+*Where's your hands*
+
+*小手在这里*
+*There's your hands*
+
+*我们来玩挥挥手*
+*And that's how we play handy hands*
+
+你会毁了这个孩子的 Morty
+Oh, you are going to ruin that kid, Morty.
+
+至少我们在这点上达成了共识
+At least we can agree on that.
+
+谢谢 蠢蠢
+Thanks, Dum-Dum.
+
+我说"谢谢 蠢蠢"
+I said, "Thanks, Dum-Dum."
+
+再多弄点来
+Go get more.
+
+Summer 把你的罩袍穿上
+Summer, put your burka on!
+
+这罩袍简直就是侵犯人权
+That burka is a human-rights violation,
+
+而且这件上衣花了我不少钱的
+and I spend a lot on this top.
+
+我在用一堆性爱娃娃的零件修传送枪
+Look, I'm trying to repair a p-portal gun with a bunch of sex-doll parts,
+
+而且我还只能用一只手
+and I have to do it one-handed
+
+不然这些Belushi就会把你抓走
+to keep these Belushis from carting you off.
+
+此处指美国演员Jim Belushi 丹哈蒙非常厌恶他 在Community中也黑过此人
+
+你至少做点贡献 对你的性别感到点惭愧吧
+The least you could do is be ashamed of your gender.
+
+这地方到底怎么回事
+Ugh. What's the deal with this place?
+
+这星球上怎么都是带把儿的
+Why is it such a sausage planet,
+
+这些落后的白痴又怎么会造出机器人来的
+and how did such backward idiots invent robots?
+
+很显然 在某个时期 这些格索尔帕人 发展到了一定程度
+Obviously, at some point, the Gazorpians became so evolved
+
+他们用生育机器取代了女性
+that they replaced females with birthing machines.
+
+这样一来 不会被女性分散注意力 也没有唠叨
+The resultant lack of distraction and hen-pecking
+
+让他们专注于战争
+allowed them to focus entirely on war,
+
+然后把自己的文明炸回了石器时代
+so they bombed themselves back to the stone age,
+
+所以现在他们为了争夺假的[哔]
+and now they just fight with each other over fake [Bleep]
+
+整天拿着石头棍子打来打去
+with sticks and rocks all day long.
+
+你觉得没有了女性会更有效率
+You think it's efficient to get rid of woman?
+
+你见过男厕所门口排队吗
+You ever see a line for the men's room?
+
+你听 你有 你明白我的意思吗 Summer
+Are you hear- do you li- do you hear me, Summer?
+
+投放
+Droppin' loads.
+
+投放  - 投放
+Droppin' loads - Droppin' loads
+
+剧情变复杂了啊
+The plot thickens.
+
+你还是把眼睛遮住吧 Summer
+Uh you might want to cover your eyes, Summer.
+
+好像我多想看似的
+Yeah, like it was my dream to watch.
+
+好极了 宝贝儿
+Yeah, baby!
+
+Summer 抓紧了
+Summer, grab- grab hold.
+
+好极了 宝贝儿
+Yeah, baby!
+
+啊啊
+Aaaah!
+
+Rick外公 我们这是去哪啊
+Grandpa Rick, where are we going?
+
+显然啊 Summer 看来这个社会的下层阶级
+Well, obviously, Summer, it appears the lower tier of this society
+
+是被隐藏的统治阶级通过性和高科技控制的
+is being manipulated through sex and advanced technology by a hidden ruling class.
+
+听着耳熟吗
+Sound familiar?
+
+其实Rick此处提及的是电影《Zardoz》 投放机器人的巨大石人头造型也是出自此电影
+
+票务大师(美国票券经销商)
+Ticketmaster
+
+说曹操曹操到 Summer
+Oh, there, there we go, Summer.
+
+嘿 哥们儿 兄弟
+Hey, hey, brother. Hey, bro.
+
+你们这套好厉害啊
+Nice racket you got going on here.
+
+我是来自地球的Rick Sanchez 1-137次元
+Listen, I'm Rick Sanchez from Earth, dimension c-137.
+
+只有和平的意图 没有任何恶意
+Don't mean you any harm. Coming in peace.
+
+挺好的 "邻里和睦"
+It's all cool in the, uh- "Good in the neighborhood"
+
+我是想说这个 就这意思
+is what I was trying to come- is what I meant.
+
+噢 我懂了 剧情转向了老套的"男人背后都有的"亚马逊人
+Oh, I get it. The old behind-every-great-man Amazon twist.
+
+安静
+Silence!
+
+希腊神话中的亚马逊人 是骁勇善战的纯女性部族
+
+你的奴隶真是缺少管教
+Your slave is ill-mannered.
+
+我的奴隶
+My slave?
+
+我们猜你是来自一个落后些的世界
+We assume you're from a more primitive world,
+
+男人还被允许作为仆人
+where men are still permitted to be servants.
+
+如果他只是个男无赖 说一声
+If he is a rogue male, tell us now,
+
+我们现在就杀了他
+and we will kill him.
+
+他是我的奴隶 是奴隶 绝对是
+He's my slave. He's my slave. He's definitely my slave.
+
+啊 哦哦噢
+Ugh! Ohh! Oh-oh-oh!
+
+天啊 这简直是"Wubba lubba dub dub"的反面
+Oh, boy. What's the opposite of "Wubba lubba dub dubs"?
+
+对不对 女士们先生们
+Am I right, ladies and gentlemen?
+
+这是在逗我吧
+Are you guys kidding me?
+
+小Morty
+Oh, Morty Jr.!
+
+你是我特别的小家伙 对吧
+You're gonna be a special little guy, aren't you?
+
+没错 你就是我独一无二的小家伙
+You, oh yeah. You're my special little guy.
+
+噢噢 哈哈
+Ohh. Ohh, ha ha!
+
+哒
+Da.
+
+什么 小Morty
+What was that, Morty Jr.?
+
+你是想说爸爸吗
+Were you gonna say, "Dada"?
+
+说爸爸
+Say, "Dada."
+
+死亡
+Death!
+
+爸爸
+"Dada."
+
+诅咒
+Damnation!
+
+爸爸
+Um..."Dada"?
+
+破坏 统治
+Destruction. Domination.
+
+好样的
+Nice.
+
+C区的蜘蛛还活着
+The spider in sector C is still alive.
+
+请据此规划您的行程并做好延误的准备
+Plan your route accordingly and expect delays.
+
+我们并不是在告诉您该怎么做
+We're not telling you what to do.
+
+我们只是在分享我们的想法
+We're just sharing how we feel.
+
+现在播报天气 是只有我 还是其他人也觉得冷
+And now weather. Is anyone else cold, or is it just me?
+
+我叫Mar-Sha 格索尔帕索普的统治者
+I am Mar-Sha, ruler of Gazorpazorp.
+
+有什么心事都可以跟我说
+I am here if you need to talk.
+
+这是什么地方
+What is this place?
+
+乐土 我们在消极敌对期的时候建造了这个地方
+Paradise. We bulit it during the great passive-aggression,
+
+因为他们愈演愈烈的破坏行为
+when the females separated from the males
+
+女性脱离了男性
+due to their increasingly destructive behavior.
+
+有什么心事都可以跟我说
+I'm here if you need to talk.
+
+有什么心事都可以跟我说
+I'm here if you need to talk.
+
+我们从这里将这些代孕机器人投出去
+From here, we dispense mechanical surrogates
+
+以维持我们的人口
+to maintain our population.
+
+受孕的代孕机会被带回我们的育婴所
+Fertilized surrogates are returned here to our nursery.
+
+女性会接受教育
+The females are placed into educational programs
+
+让她们能够回馈这片乐土
+where they can discover a service to our paradise
+
+同时最大程度地自我实现
+that fulfills them most.
+
+至于男性
+Males...
+
+他们去外面就好
+...they get to play outside.
+
+那还是个婴儿
+That was just a baby.
+
+一天之内 他就会长成一个成年的格索尔帕人
+And within a day, he'll be an adult male Gazorpian,
+
+宇宙中最为凶残暴力的生物之一
+one of the most aggressively violent creatures in the universe.
+
+等等 我们来这儿是因为有一个男性格索尔帕人出生在了地球上
+Wait a minute. We're here becuase a male Gazorpian was born on our planet.
+
+没人和你说话不许随便开口 傻瓜
+You speak when you're spoken to, ding-a-ling!
+
+不过这是真的 有一个你们的孩子出生在了地球上
+It's true, though. One of your babies was born on Earth.
+
+你是地球的统治者吗
+Are you the ruler of this Earth.
+
+你怎么知道
+How did you know?
+
+因为你的上衣
+The quality of your top.
+
+喜欢吗
+Do you love it?
+
+爱死了
+I love it.
+
+有什么心事都可以跟我说  - 有什么心事都可以跟我说
+I'm here if you need to talk. - I'm here if you need to talk.
+
+如果这个格索尔帕人是男性
+If the Gazorpian is male,
+
+你们的地球情况很不乐观
+your Earth is in grave danger.
+
+我们会送你们回去 好把他干掉
+We will give you passage back home so it can be terminated.
+
+不过先来点莫吉托鸡尾酒
+But first, Mojitos.
+
+我们没时间喝莫吉托了
+We don't have time for Mojitos.
+
+你这是对她们不敬
+You're insulting them.
+
+我不在乎 Summer
+I don't care, Summer.
+
+这地方太烂了
+This place is the worst!
+
+我想回家
+I want to go home!
+
+你想干嘛一点都不重要
+Well, it really doesn't matter what you want,
+
+因为这个地方是由女人统治的
+because this is a sane place where women rule.
+
+你知道我对这件事有什么想说的吗
+Yeah. You know what I have to say about that?
+
+我简直不敢相信我的耳朵
+I cannot believe my ears.
+
+哇
+Whoo, boy!
+
+谁把青蛙放出来了哈
+Who let the frogs out, huh?
+
+《Who let the frog out》是Crazy Frog的一首单曲
+
+外公
+Grandpa!
+
+外公  - 这听着是个父权社会的词啊
+Grandpa? - That sounds patriarchal!
+
+意思是"父辈的父亲"
+It means "father of fathers".
+
+这么说他不是你的奴隶
+Then this one is not you slave,
+
+你们的地球不过是另一个被男人统治的星球罢了
+and your Earth is yet another planet dominated by men.
+
+地球没有被男人"统治" 好吗
+It's not dominated by us, okay?
+
+地球上的男女是平等的
+On Earth, men and women are equals.
+
+平等的 同样的工作我们的工资只有你们的百分之70
+Equals? We make 70% of your salary for the same job!
+
+抓住他们
+Seize them!
+
+这种情况下说这个真的好吗 Summer
+Was this really the time to make that point, Summer?
+
+给你 爸爸
+This is for you, daddy.
+
+天啊
+Oh, man!
+
+听我说 小Morty
+Um, okay. Listen to me, Morty Jr.
+
+我得跟你说一些很重要的事 好吗
+I've got to tell you something very important, okay?
+
+杀戮是不好的
+Killing is bad, bad!
+
+你在犯傻吧 爸爸
+You're silly, daddy.
+
+不 小Morty 我很认真
+No, Morty Jr. I'm being serious, okay?
+
+你得把精力花在别的东西上
+You need to put your energy into something else.
+
+跳舞怎么样
+I mean, what about dancing?
+
+你想学跳舞吗
+Would you like to learn how to dance?
+
+我想跳舞啊 在敌人的坟墓上跳
+I'd like to dance, on the grave of my enemies.
+
+不 小Morty
+Ohh! No, Morty Jr.!
+
+爸爸 我能去外面吗
+Daddy, can I go outside?
+
+不行 绝对不行
+No! Absolutely not!
+
+可是人和动物都在外面啊
+But that's where all the people and the animals are.
+
+没错 但是你不能出去 因为
+Yeah, but you can't go out there because the-
+
+外面的空气对你是有毒的
+the air is poisonous for you!
+
+你会死掉的 只要出了这间屋子你就会死
+You will die-You'll die instantly if you ever leave this house!
+
+明白吗
+You hear me?
+
+真的吗  - 比珍珠还真
+For real? - For real times a million, buddy.
+
+我们就好好待在屋子里好吗 我们跳舞吧 来试一下 好吗
+So let's just stay inside, and, you know, let's just try dancing, right?
+
+看我呀 看
+Look at me. Yay! Look.
+
+来跳舞啊 来嘛 跟我一起跳
+We're gonna dance. Come on. Join- dance with me here.
+
+我们喜欢跳舞
+We love to dance.
+
+为什么我们喜欢跳舞
+Why do we love to dance?
+
+我说喜欢就喜欢
+Because I said so!
+
+好样的  - 干得好
+Nice.  - Nice.
+
+台阶上的三行字为拉丁文 意为"如果你总想要诬陷"
+
+如果
+
+你总想要
+
+诬陷
+
+你们犯了什么事
+So, what are you in for?
+
+因为我两腿之间有根鸡鸡
+Because I got- I got a big, you know, penis between my legs.
+
+你做了什么
+What- what- what are you in for?
+
+女人所能犯下的最深的罪
+The worst crime a female can commit.
+
+Veronica Ann Bennett 因难看的刘海 我宣判你有罪
+Veronica Ann Bennett, I find you guilty of having bad bangs.
+
+你发现没 刘海难看的人名字总是有三个字
+You ever notice the ones with bad bangs always have three names?
+
+你在此被判处沉默刑
+You are hereby sentenced to the silent treatment!
+
+这一点也不吓人好吗
+This is gonna be cake.
+
+Jackie
+Jackie!
+
+来自地球的Rick和Summer
+Rick and Summer of Earth,
+
+因为你们对女人性的背叛
+for the crimes of treason against womankind
+
+以及发出我们不使用的声音
+and for creating the sound of which we do not speak
+
+因为这种声音根本不存在
+because it does not exist.
+
+我在此判处你们
+You're hereby sentenced to-
+
+啥啥啥 在沙发上过夜吗
+What, what, what- a night on the couch?
+
+死刑
+...Death.
+
+我现在恨死你了
+I hate you so much right now.
+
+这是我们这么多年来的第一例死刑
+This will be the first instance of capital punishment
+
+因为我们的卓越 已经500年没有过死刑了
+in our society in 500 years due to our awesomeness,
+
+所以我们只能即兴发挥了
+so we are forced to improvise.
+
+我们在那边的岩架上放了一块巨石
+We placed a large boulder on that ledge.
+
+天啦 你们打算用巨石压死我们
+Holy shit! Y-y-you're gonna crash us with a boulder?
+
+不是 别打岔
+No! Stop interrupting!
+
+巨石会落到杠杆装置上
+The boulder falls onto a lever
+
+然后弹出刀刃
+that will lauch knives.
+
+啥 给我把枪让我把自己崩了吧
+What? Just give me a gun. I'll kill myself.
+
+别打岔了 然后刀刃会
+Stop interrupting! The knives will-
+
+好吧 你一开始说对了
+Fine! You were right the first time, okay?
+
+巨石会压死你们
+The boulder crushes you.
+
+我只是不想承认 高兴了吗
+I just didn't want to admit you were right. Happy?
+
+别这样 别理他们 别理他们就好
+No, just ignore them. Ignore them.
+
+真是个混球
+Such an asshole.
+
+对不起 Summer
+Look, I'm sorry, Summer.
+
+我没有尽到责任 害你让我们卷入了这种事
+I feel bad that I let you drag us into this.
+
+我这个外公当得不够好
+I wish I could have been a better grandpa to you，
+
+还有 发自内心的说
+and, you know, for what it's worth,
+
+上衣很可爱 你穿着很好看
+that is a really nice, cute top that you're wearing there.
+
+上衣 我的上衣 就是你之前称赞过的那件上衣
+Top. My top. The same top you complimented earlier!
+
+看标签 看上面的字
+Look- Look at the tag. Read it.
+
+上面写着"Marc Jacobs"
+It says, "Marc Jacobs".
+
+Marc Jacobs 美国知名服装设计师 已出柜
+
+Marc Jacob
+Marc? Jacob?
+
+这不是男人的名字吗
+These are names of the penis.
+
+没错 一个地球男人设计了这件上衣
+Yes. An Earth man made this top.
+
+或许在你们的星球上 性别隔离是对的
+Maybe on your planet separation of the genders is the right thing to do,
+
+但有一部分男性是作为同性恋出生在地球上的
+But on Earth, a certain percentage of our males are born gay,
+
+所以我的衣服才比你们所有人的衣服都好看
+which is why my clothes are better than all of yours.
+
+创造时尚的男人
+A man made something fashionable?
+
+这是事实 有时候事实是残酷的
+It's true. And sometimes the truth hurts,
+
+但它必须被接受 就好比我跟你说
+but it must be accepted, like if I told you
+
+你粉底的颜色选错了
+that you're using the wrong color foundation for you skin
+
+而且到脖子那儿就没了
+and it ends at your neck,
+
+你看着就跟派对小丑一样
+making you look like a party clown.
+
+好吧 我记住了
+Okay, ouch. Noted.
+
+但如果你们把格索尔帕索普星的法律强加在地球上
+But the fact remains if you impose Gazorpazor's laws on Earth,
+
+那你们比这个乱发出屁声的男人也好不到哪儿去
+you're no better than the man whose farts shall remain unspoken.
+
+如果你们觉得我的上衣很好看 那你们就不能处死我们
+And if you think my top is cute, you cannot execute.
+
+很好 给这些地球人一艘太空船
+Very well. Give the Earth people a spacecraft
+
+让他们回那个奇怪的星球去吧
+so they may head back to their weird planet,
+
+那里男女平等 但又不尽然
+where women are kind of equal but not really.
+
+干得好 Summer 谢谢了 妹子们
+Good job, Summer. And thanks, girls.
+
+我跟你说 你们这些妹子真是厉害啊
+You know, you girls are really something, I'll tell you that.
+
+我刚到这儿的时候
+You know, when we first got here, I was like...
+
+给他们艘飞船 快点
+Give them a ship now.
+
+小Morty 你在抽烟
+Morty Jr.! Smoking?!
+
+这样可不行
+That is not okay!
+
+你能干嘛 禁我足吗
+What are you gonna do? Ground me?
+
+反正我也不能出去
+I can't go outside anyway!
+
+那又怎么样 你可以在屋子里玩啊
+So what?! You could do things inside!
+
+你可以弹吉他啊 你可以手淫啊
+You could play guitar. You could masturbate.
+
+我不想手淫 我想征服地球
+I don't want to masturbate. I want to conquer the planet!
+
+又来了
+Oh, here we go again!
+
+如果你征服了地球 谁还会爱你呢 小Morty
+Who do you think is gonna love you if you conquer the planet, Morty Jr.?!
+
+爱 你就只关心爱
+Love, that's all you care about!
+
+那武器呢 统治敌人呢
+What about weapons?! What about domination of the enemy?!
+
+够了 不许再看历史频道了
+All right, that's it. No more history channel!
+
+这台电视只许用来看动画和玩电子游戏
+This TV is for cartoons and video games only!
+
+我讨厌电子游戏
+I hate video games!
+
+给我收回这句话 把遥控器给我
+You take that back! Give it to me! Ugh!
+
+我不是故意的
+I-I-I didn't mean, I didn't mean that.
+
+我真的不是故意的 对不起
+I didn't mean to do that. I'm sorry.
+
+我受不了了
+I can't take this anymore!
+
+我宁愿呼吸毒气也不愿意再和你多待一分钟
+I'd rather breathe poison than live another minute with you!
+
+不不不 不要
+No! No, no, no! Stop!
+
+我的人生就是一个谎言
+My life has been a lie!
+
+上帝已死
+God is dead!
+
+政府烂透了
+The government's lame!
+
+感恩节其实是屠杀印第安人的节日
+Thanksgiving is about killing Indians!
+
+耶稣不是出生在圣诞的
+Jesus wasn't born on Christmas!
+
+他们改了日期
+They moved the date!
+
+这是异教徒的节日
+It was a pagan holiday!
+
+爸
+Oh, dad!
+
+怎么了 Morty
+Yes, Morty?
+
+我儿子要占领地球 我却还不到开车的年龄
+My son is gonna take over the planet, and I am too young to drive!
+
+你能帮我把他找回来吗
+Can you help me get him back?!
+
+可以吧 Morty 应该可以吧
+I suppose, Morty. I suppose.
+
+不过呢 先让我从这"早告诉你了"的高杯中啜饮一口
+But first, a deep sip from a very tall glass of "I told you so."
+
+天啊 得了吧
+Oh, my god! Please, dad! Come on!
+
+废弃工厂
+
+禁止入内
+
+爸 他在那儿
+Dad, there he is!
+
+天啊 快住手
+Oh, God. Hey, stop that!
+
+天啊 天啊 爸
+Oh, my god! Oh, my god! Dad!
+
+小Morty 不要
+Morty Jr., no!
+
+是我啊 是爸爸 没事的
+It's me! It's dad. It's okay!
+
+把车放下 小Morty
+Put the car down, Morty Jr.
+
+不 不 小手在哪里
+No! No! Wh-where's your hands?
+
+*小手在哪里*
+*Where's your hands?*
+
+我的车
+My car!
+
+*我们来玩挥挥手*
+*And that's how we play handy hands*
+
+闪开 Morty
+Out of the- out of the way, Morty!
+
+不  - Morty 这是全宇宙最暴力的生物之一
+No! - Morty, that's one of the most violently aggressive creatures in the universe!
+
+他是我儿子
+He's my son!
+
+你想要伤害他 就先夸过我的尸体吧 Rick
+And if you hurt him, you'll have to kill me, Rick!
+
+爸 我好迷茫
+Dad, I'm so confused!
+
+我知道 小Morty 对不起
+I know, Morty Jr. I'm sorry.
+
+我最后还是像我父母对我那样 和你撒谎 对你大喊大叫了
+I ended up lying to you and yelling at you just like my parents did to me.
+
+父母也不过是有了小孩的孩子罢了
+You know, parents are just kids having kids.
+
+前一分钟 你还觉得那个闪闪的机器人很好看
+One minute, you like how a shiny robot looks.
+
+下一分钟 你就在和你的外星儿子肉搏了
+The next minute, you're in a fist fight with your alien son.
+
+我是外星人
+I'm an alien?
+
+我们都有糟糕的冲动 邪恶的念头
+We all have bad impulses, bad thoughts.
+
+我们只是要学会把它们传变成别的有用的东西
+We just have to learn to channel them into something constructive.
+
+但我想杀掉我看见的每一个人
+But I want to murder everyone I see.
+
+说不定就有一份工作适合有这样想法的人呢
+Well, you know, I mean, maybe there's a job out there for people that feel that way.
+
+的确是有的
+Actually, there is.
+
+嗨 我是Brad Aderson 全国连载的连环漫画《大丹麦狗马默杜克》的作者
+Hi. I'm Brad Anderson, creator of the nationally syndicated comic strip "Marmaduke".
+
+你应该考虑从事创作
+You should consider being a creative.
+
+我深受自己那些无法控制的念头的困扰
+I'm haunted by uncontrollable thoughts of
+
+我几乎每天脑海中萦绕着致残和性侵
+mutilations and sexual assaults on a near daily basis.
+
+但我把它们变为了我的作品
+But, you know, I channel it all into my work.
+
+哦 哇
+Oh. Wow.
+
+我看《大丹麦狗马默杜克》的时候从没发现这一点啊
+Huh. I never got that impression from reading "Marmaduke".
+
+难道你觉得我在想方设法地让你笑吗
+Well, did you get the impression that I was trying to make you laugh?
+
+不是吧 那是Brad Anderson
+Tell me that wasn't Brad Anderson.
+
+看见了吗 你听到了吧 小Morty
+Aw, see? You hear that, Morty Jr.?
+
+或许你也可以从事某种创作呢
+Maybe you could try being a creative of some kind.
+
+或许吧
+Maybe!
+
+我一直都挺想让自己的脸出现在某本小说的背面
+I always have sort of wanted to see my face on the back of a novel.
+
+虽然我真正想做的是割开别人的喉咙 但除了这个
+I mean, what I really want to do is slit people's throats, but beyond that...
+
+你一定可以的 儿子
+I know you can do it, son.
+
+我想我该找个地方自己住了
+I think it's time I get a place of my own.
+
+我保证 只要我缺钱或是没地方洗衣服了都会给你打电话的
+I promise I'll call you every day I need money or a place to do
+laundry.
+
+我想你儿子会拿他小说的稿费赔我的车后轴的吧
+So, I assume this novel your son writes is gonna pay for my rear axle?
+
+挺有趣的吧 Summer 我们做了这么多事
+Isn't it interesting, Summer, that after all that stuff we just did,
+
+都没起什么作用 没有什么意义
+nothing really mattered and there was no point to it?
+
+是不是让你什么都没有思考
+Kind of makes you wonder, huh, about nothing?
+
+你确定你不会重新考虑下
+Are you sure it doesn't make you re-evaluate your policy
+
+你不带女孩子去冒险这件事
+about taking girls on adventures?
+
+不 鉴于我们今天的经历
+No. I'd say, given what we've been through,
+
+我只想说我一直都是对的
+that I was right the whole time
+
+任何关于性别政策的感悟
+and any epiphanies about gender politics
+
+都只是你身为女性的不安全感的表现而已
+were a projection of your feminine insecurity.
+
+不过你把这艘粉色太空船拿去吧
+But, hey, why don't you have a pink spaceship?
+
+开着它到处转转 好好玩玩
+Go ride around and have a jolly old time.
+
+这样说不定你就会闭嘴了
+Maybe that'll shut you up.
+
+爸 Summer 这么长时间你们跑哪儿去了
+Dad? Summer? Where were you guys this whole time?
+
+在格索尔帕索普星 你呢
+On Gazorpazorp. Where were you?
+
+我在看报纸
+I was reading a newspaper.
+
+真有意思 Beth
+Oh, that's interesting, Beth.
+
+好玩的是
+You know, it's funny.
+
+我也听说了点儿新闻
+I-I-I heard about a little bit of news myself.
+
+看着 听着
+Take a look. T-take a listen.
+
+Wubba lubba dub dubs
+Wubba lubba dub dubs!
+
+这个世界还是有机会的
+This, this world still got a- It's still got a chance!
+
+没错 哈哈
+Yeah! Ha ha!
+
+下周见
+See you- see you guys next week!
+
+大家下周见
+See everybody next week.
+
+今天我们请到了小Mortimer Smith 纽约时报最畅销的作者
+A word with Mortimer Smith, Jr., New York Times best-selling author,
+
+您的书写到了纯洁及其定义
+your book is about innocence, the definition of it,
+
+当然 不可避免地 谈到了它的不可实现
+and inevitably its impossibility.
+
+这本书是自传性质的吗
+Is it autobiographical?
+
+当然 在我看来 所有的写作都是
+Certainly. I mean, all writing is, in my opinion.
+
+我父亲一直把我锁在房子里 直到我成长为一个青少年
+But my, uh, my father kept me locked in the house until I was a teenager,
+
+有过暴力 有过毒气的威胁 但也有舞蹈
+and there was violence and, uh, threats of poison gas, but also dancing.
+
+但你撑住了 并用你的苦难完成了这部杰作
+But you persevered and created this masterpiece from your sufferings.
+
+小Smith令人震惊的小说《我可怕的父亲》正风靡全国 直指人心
+Smith Jr.'s mind-bending novel, "My Horrible Father" in every store and on everyone's mind.
+
+快去买吧 我们马上回来
+Pick it up. We'll be right back.
+
+为人父母本来就是吃力不讨好 Morty
+It's a thankless job, Morty.
+
+你已经尽力了
+You did the best you could.
+
+我只希望他吃得好
+I hope he's eating enough.
