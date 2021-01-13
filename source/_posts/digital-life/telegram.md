@@ -95,6 +95,8 @@ Telegram 的中文搜索是以「词组」为单位的，以标点符号或空�
 
 已经有人向 Telegram 提交了 [改善中文搜索的提案](https://bugs.telegram.org/c/724)，请为这个 Suggestion 投票和鼓气。拜托了。
 
+
+
 **关联阅读**
 
 > - [为什么 Telegram 不能搜索中文讯息 - 翁君牧](https://medium.com/@nevik.w39/%E7%82%BA%E4%BB%80%E9%BA%BC-telegram-%E4%B8%8D%E8%83%BD%E6%90%9C%E5%B0%8B%E4%B8%AD%E6%96%87%E8%A8%8A%E6%81%AF-6b7d07690e6f)
@@ -203,13 +205,15 @@ Telegram 的中文搜索是以「词组」为单位的，以标点符号或空�
 2. 选择 `CHANGE`（更改）
 3. 即可把界面语言替换为简体中文
 
-截至 2020 年 11 月 01 日，翻译已完成 95% 了，但不妨碍日常使用。
+截至 2020 年 11 月 01 日，Telegram for Android 翻译已完成 95% 了（其他平台也差不多），但不妨碍日常使用。
 
 
 
 ## 🔒 账号设置
 
 2020 年 7 月 26 日新增视频头像（[Profile Videos](https://telegram.org/blog/profile-videos-people-nearby-and-more#profile-videos)）功能。
+
+支持登录多个账号。[Multiple accounts: preview chat list. You can press and hold on another connected account in Settings for a sneak peek of its chats list.](https://t.me/TelegramTips/178)
 
 
 
@@ -346,7 +350,7 @@ Telegram 有一个非常人性化的特性：**记忆浏览进度**，打开对�
 #### ↩️ 引用消息
 
 **手机**
-- 左滑 [Reply](https://telegram.org/tour/groups#replies) 消息。
+- 左滑（Swipe left）[Reply](https://telegram.org/tour/groups#replies) 消息。
 - 长按，在弹出的界面中选择 Reply。
 
 **电脑**
@@ -359,11 +363,22 @@ Telegram 有一个非常人性化的特性：**记忆浏览进度**，打开对�
 
 
 
-#### 📝 文本格式化
+#### 📝 [文本格式化](https://t.me/TelegramTips/86)
 
 学会插入超文本链接，避免冗长的 URL 霸屏（简短的网址例外），是一种网络美德。
 
-##### Desktop（桌面端）
+##### 全平台适用
+
+采用有限的几种 [Markdown](https://tingtalk.me/markdown) 语法，例如：
+
+- **加粗**（前后加入两个星号）：`**`bold`**`
+- ~~删除线~~（前后加入两个波浪号）：`~~`strikethrough`~~`
+- `等宽字体`（前后加入一个重音符）：`` ` ``monospace`` ` ``
+- *斜体*（前后加入两个下划线）：`__`italic`__`（原生 Markdown 语法是前后一个星号）
+
+
+
+##### Desktop（桌面电脑端）
 
 1. 在编辑区输入文本。
 2. 左键选择想要格式化的文本。
@@ -375,15 +390,17 @@ Telegram 有一个非常人性化的特性：**记忆浏览进度**，打开对�
 | *Italic*（斜体）                              | `Ctrl` + `I`           |
 | <u>Underline</u>（下划线）                    | `Ctrl` + `U`           |
 | ~~Strikethrough~~（删除线）                   | `Ctrl` + `Shift` + `X` |
-| `Monospace`（等宽）                           | `Ctrl` + `Shift` + `M` |
+| `Monospace`（等宽字体）                       | `Ctrl` + `Shift` + `M` |
 | [Create link](https://tingtalk.me/)（超链接） | `Ctrl` + `K`           |
 | Plain text（纯文本）                          | `Ctrl` + `Shift` + `N` |
+
+重磅推荐 `Ctrl` + `K`！简单几步，让排版清清爽爽。
 
 ##### Android（安卓）
 
 1. 在编辑区输入文本。
 2. 长按选择想要格式化的文本。
-3. 轻触界面右上角的三个点（顶栏右侧，大概在通知栏电量 🔋 的下方。非常刁钻的一个位置，我花了好几天才找到），即可看到文本格式化选项。
+3. 原生 Android 系统会直接弹出格式化选项；魔改安卓系统（例如 MIUI）需要轻触界面右上角的三个点（在顶栏右侧，大概在通知栏电量 🔋 的下方。非常刁钻的一个位置），才能看到文本格式化选项。
 
 ##### iOS（iPhone & iPad）
 
@@ -421,7 +438,7 @@ Telegram 有一个非常人性化的特性：**记忆浏览进度**，打开对�
 
 
 
-#### 🎬 视频播放
+#### 🎬 发送视频
 
 **支持时间戳（[Timestamp](https://telegram.org/blog/silent-messages-slow-mode#timestamps-and-improved-scrubbing)）**：发送本地视频或 YouTube 视频时，在 `Add a caption`（添加标题）里标记你最喜欢的时刻（mark your favorite moments），例如：
 
@@ -430,6 +447,8 @@ Telegram 有一个非常人性化的特性：**记忆浏览进度**，打开对�
 ```
 
 `05:06` 会自动高亮显示，点击 `05:06`，视频就会从第 5 分 6 秒播放。其中 `05:06` 必填项，提示的话可以选填。
+
+引用回复本地视频或 YouTube 视频也支持加入时间戳（[Timestamps in replies and captions open videos and YouTube links to that exact moment.](https://t.me/TelegramTips/84)）。
 
 你发现了吗？YouTube 和哔哩哔哩的评论区也是支持这种时间戳。
 
@@ -441,8 +460,6 @@ Telegram 有一个非常人性化的特性：**记忆浏览进度**，打开对�
 - 哔哩哔哩：https://www.bilibili.com/video/av55857100?t=14m15s
   - 不支持复制当前时间的视频网址，需要手动填写
 
-
-
 **参数说明**
 
 - `?t=` / `&t=` 时间  time
@@ -450,9 +467,19 @@ Telegram 有一个非常人性化的特性：**记忆浏览进度**，打开对�
 - `m` 分 minute
 - `s` 秒 second
 
+发送视频时，可选择压缩等级。[Change the resolution of a video from the editor’s quality slider.](https://t.me/TelegramTips/114)
 
 
-此外，Telegram **内置视频播放器**（[in-app media player](https://telegram.org/blog/share-preview#new-video-player)）：直接在 app 内观看 YouTube 或 Vimeo 视频，不必跳转到浏览器或者相应的视频 app。操作逻辑与国外视频 App 保持一致：双击左侧快退，双击右侧快进。
+
+**内置视频播放器**（[in-app media player](https://telegram.org/blog/share-preview#new-video-player)）：
+直接在 app 内观看 YouTube 或 Vimeo 视频，不必跳转到浏览器或者相应的视频 app。操作逻辑与国外视频 App 保持一致：双击左侧快退，双击右侧快进。
+
+
+
+
+
+**制作 GIF 动图**
+在发送视频时，点击视频打开编辑窗口，使其静音（tap the mute audio button），新的 GIF 就诞生了，还会自动保存在最近使用的 GIF 里（recent GIFs tab）。
 
 
 
@@ -464,7 +491,7 @@ Telegram 有一个非常人性化的特性：**记忆浏览进度**，打开对�
 - `Scheduled Message`（[定时发送](https://telegram.org/blog/scheduled-reminders-themes)）
   - 发送日程消息时，对方并不知道你使用了定时发送。
   - 在 [Saved Messages](https://telegram.org/blog/albums-saved-messages#saved-messages)（我的收藏）也可以发送定时消息作为提醒（Set a reminder）。
-  - `Send when * comes online`（[当对方上线时发送](https://telegram.org/blog#send-when-online)）：这样就可以排在对方聊天列表的前面（Put you right at the top of their chat list.）。
+  - `Send when * comes online`（[当对方上线时发送](https://telegram.org/blog#send-when-online)）：这样就可以排在对方聊天列表的前面（Put you right at the top of their chat list.）。此功能需要对方在隐私设置里开启展示最后上线时间（This option only appears for users who share their Last Seen status with you, and vice versa.）
 
 接收者可屏蔽联系人 / 群组 / 频道的消息通知（[Mute Notifications](https://telegram.org/blog/shared-files#mute-notifications)）：
 
@@ -478,7 +505,7 @@ Telegram 有一个非常人性化的特性：**记忆浏览进度**，打开对�
 
 ### 🔙 消息发送后
 
-点击消息，选择 `Pin`，即可在频道、群组或私聊界面中置顶多个消息（[Multiple Pinned Messages](https://telegram.org/blog/pinned-messages-locations-playlists#multiple-pinned-messages)）。
+点击消息，选择 `Pin`，即可在频道、群组或私聊界面中置顶多个消息（[Multiple Pinned Messages](https://telegram.org/blog/pinned-messages-locations-playlists#multiple-pinned-messages)）。在群组中置顶消息时，可强制通知全员（notify all members），即使成员的群组已经设置为静音。
 
 
 
@@ -493,7 +520,7 @@ Telegram 有一个非常人性化的特性：**记忆浏览进度**，打开对�
 
 #### ✏️ 消息更正
 
-在 Telegram，说出去的话不会像泼出去的水收不回来，任何时候，你都可以重新编辑（[Edit your messages after posting](https://telegram.org/blog/edit)），包括文字、图片和视频，所以：
+在 Telegram，说出去的话不会像泼出去的水收不回来，任何时候，你都可以重新编辑（[Edit your messages after posting](https://telegram.org/blog/edit)），包括文字、图片和视频（[Edit sent media to re-crop, re-decorate or completely replace photos and videos.](https://t.me/TelegramTips/81)），所以：
 
 
 - 文字出现 typos，不用删除，多久之前发的消息都能随时更正（Edit）。
@@ -505,6 +532,11 @@ Telegram 有一个非常人性化的特性：**记忆浏览进度**，打开对�
 
 - 通用法：点击笔头图标 ✏️，弹出资源窗口，选择正确的图片和视频即可替换。
 - 桌面端：复制正确的图片和视频，回到 Telegram，粘贴即可替换。
+
+
+
+**更正不是自己发的消息**
+直接标记别人发来的图片，无需保存在本地图库。[Instantly edit and send back media you receive to add notations or decorations without saving it to your gallery.](https://t.me/TelegramTips/118)
 
 
 
@@ -525,10 +557,18 @@ Telegram 有一个非常人性化的特性：**记忆浏览进度**，打开对�
 ### 🗣️ 语音消息
 
 - 支持 2 倍速播放（[2X playback](https://telegram.org/blog/unread-replace-2x#double-time-playback-for-voice-and-video-messages)）。
-- 可调节语音消息的进度（不必从头开始播放）。
+- 支持滑动进度条。（[Slide forward and back on voice messages to skip ahead or repeat something you missed.](https://t.me/TelegramTips/105)）
 - [记忆播放位置](https://telegram.org/blog/verifiable-apps-and-more#podcast-and-audiobook-support)：超过 20 分钟的音频文件，Telegram 会帮你记住最后的播放位置，以便中断后再次收听（Telegram apps will remember your last position when resuming playback of audio files longer than 20 minutes.）。
 
 此外，在 Telegram 上进行语音通话（打电话），需要在翻墙服务端/客户端开启 UDP 转发。
+
+
+
+### 📲 视频通话
+
+发起视频通话和音频通话后，如果屏幕上的 4 个 Emoji 一致，表示此连接已采用端到端加密，100% 安全。
+
+[Video Calls](https://t.me/TelegramTips/193): All voice and video calls are protected with end-to-end encryption. To confirm your connection, compare the four emoji shown on screen. If they match with your partner’s, your call is 100% secure.
 
 
 
@@ -546,6 +586,8 @@ Telegram 有一个非常人性化的特性：**记忆浏览进度**，打开对�
 
 
 **Stickers（表情包）**
+
+截至 2021 年 1 月 13 日，Telegram 上已有 20,000+ 免费的高清表情包。
 
 在聊天窗口输入 [@sticker](https://t.me/sticker) + Emoji，可以检索**所有**与 Emoji 相关表情包，例如 `@sticker 👍`。
 
@@ -580,6 +622,8 @@ Telegram 有一个非常人性化的特性：**记忆浏览进度**，打开对�
 
 ### 📊 [投票功能](https://telegram.org/blog/polls-2-0-vmq)
 
+只支持在群组和频道中发起，因为 [they feel lonely in one-on-one chats.](https://t.me/TelegramTips/175)
+
 **发起人**
 
 - 支持：匿名投票（Anonymous Voting）、多选（Multiple Answers）、答题模式（ [Quiz Mode](https://telegram.org/blog#quiz-mode)）。
@@ -598,6 +642,11 @@ Windows 的 `Ctrl` 等于 macOS 中 `Command` ⌘。
 - **快速多选**：在对话界面的空白位置，按着鼠标左键不放，即可多选信息，然后选择转发或者删除。
 - **链接直达**：按住 `Ctrl` 再点击 URL，直接打开链接，不必弹窗确认（Open this link? CANCEL / OPEN）。
 - **缩放图片**：按住 `Ctrl` 再旋转鼠标的滚轮，即可放大或缩小图片。
+- **切换分组**：
+  - Ctrl / Command + 1（对应第一个分组）
+  - Ctrl / Command + 2（第二分组）
+  - Ctrl / Command + 3（第三分组）
+  - ……
 
 
 
@@ -608,6 +657,8 @@ Windows 的 `Ctrl` 等于 macOS 中 `Command` ⌘。
 公开（Public）的频道或群组，是可以被搜索引擎索引（The contents of public channels can be seen on the Web without a Telegram account and are indexed by search engines.），并且不注册 Telegram 账号也看到公开频道或群组中的内容，方法就是在 Permanent link（永久链接）中加一个 `s`，例如 [t.me/s/tingtalk](https://t.me/s/tingtalk)，即可在浏览器中查阅庭说频道。
 
 一个用户最多可创建 10 个公开用户名（public usernames），包括公开的频道和群组。
+
+
 
 
 
@@ -648,6 +699,21 @@ Windows 的 `Ctrl` 等于 macOS 中 `Command` ⌘。
 
 
 
+### 🔍 全局搜索
+
+[Search Filters](https://t.me/TelegramTips/189): To quickly find a specific message or media item, search filters allow users to refine results by keyword, source, media type and time period – all at once.
+
+隐藏技巧：如何按日期搜索？
+
+1. 打开在 Telegram 移动端首页
+2. 点击搜索框
+3. 输入日期，即可按照日期筛选历史消息
+   * `2021`：2021 年
+   * `01.2021` / `Jan 2021`：2021 年 1 月
+   * `01.13.2021`：2021 年 1 月 13 日
+
+
+
 ### ☁️ 多端同步
 
  Telegram 可以在多个设备上**同时**使用。以下是我的设备列表：
@@ -671,13 +737,15 @@ Windows 的 `Ctrl` 等于 macOS 中 `Command` ⌘。
 允许传送最大 2000 MiB 的文件，简直就是绝佳的「文件传输助手」：
 
 - 把 [Saved Messages](https://telegram.org/blog/albums-saved-messages#saved-messages)（收藏夹）当作是 [GTD](https://tingtalk.me/gtd) 中 Inbox。并且每条保存的消息都有一个 ▶️ 按钮，可以将你带到最初发布消息的位置。
-- 建立多个私人频道，分类存放你的信息和资讯。你甚至可以在 Telegram 上传本地音乐或者录音到自己的频道，建立自己的云端音乐播放库和播客（Podcast）。
+- 建立多个私人频道（无数量限制），分类存放你的信息和资讯。你甚至可以在 Telegram 上传本地音乐或者录音到自己的频道，建立自己的云端音乐播放库和播客（Podcast）。[Create playlists by sending multiple songs at the same time.](https://t.me/TelegramTips/108) 
 
 
 
 ### 📁 对话列表
 
-在对话列表长按某个对话：
+在对话列表长按某个对话的左侧（头像）即可预览消息（Preview media）。
+
+在对话列表长按某个对话的右侧：
 
 - **删除对话（Delete chat）**：勾选 `Also delete for ***`，即可同时删除双方所有的聊天记录。
   - 不用经过对方同意。如果你的朋友遭遇不测，你可以及时清除消息来保护自己和对方。
@@ -695,7 +763,7 @@ Windows 的 `Ctrl` 等于 macOS 中 `Command` ⌘。
 - 最多创建 10 个分组。
 - 每个分组都能置顶无数个对话（[Unlimited Pins](https://telegram.org/blog/folders#unlimited-pins)）。
 
-默认分组：
+**默认分组**
 
 - Unread：未读消息组，快速消灭未读红点。
 - Personal：个人私聊组。
@@ -708,14 +776,15 @@ Creat New Folder（新建分组）时有以下筛选条件可选：
 - Bots（机器人）
 - ……
 
-操作技巧：
+**操作技巧**
 
 - 在对话列表界面，长按或者右击分组名可进行 Reorder（排序）、Edit（重命名）、Delete（删除）和 Mark ad read（标记为已读）等操作。
-- 在 Desktop 客户端中，切换分组的键盘快捷键是：
+- 在电脑客户端中，切换分组的键盘快捷键是：
   - Ctrl / Command + 1（对应第一个分组）
   - Ctrl / Command + 2（第二分组）
   - Ctrl / Command + 3（第三分组）
   - ……
+- 目前只支持在电脑客户端中设置分组图标（Folder Icons）。
 
 
 
@@ -838,6 +907,7 @@ https://rsshub.app/telegram/channel/tingtalk
 | ----------------------------------------------------- | ------------------------------------------------------------ |
 | [Telegram News](https://t.me/telegram)                | 👍 电报官方新闻频道。                                         |
 | [Durov's Channel](https://t.me/durov)                 | 👍 杜罗夫（Telegram 创始人和 CEO）的频道。                    |
+| [Telegram Tips](https://t.me/TelegramTips)            | 👍电报小贴士（Tips）官方频道。                                |
 | [Telegram APKs for Android](https://t.me/TAndroidAPK) | Official channel for Telegram Android APKs. You can also download them [here](https://telegram.org/dl/android/apk). |
 | [Telegram Designers](https://t.me/designers)          | 向电报提你想要的功能 [@design_bot](https://t.me/design_bot)  |
 | [Telegram Auditions](https://t.me/TelegramAuditions)  | 加入 Telegram Support Force，帮扶 Telegram 做大做强，详情参阅这份 [Initiative](https://tsf.telegram.org/)。 |
@@ -1112,19 +1182,19 @@ Bots 就像运行在 Telegram 内部的小程序。借助 [Telegram 开放的 AP
 | Bot                                              | Info                                                         |
 | ------------------------------------------------ | ------------------------------------------------------------ |
 | [@bing](https://telegram.me/bing)                | [图片搜索 by Bing](https://www.bing.com/images)（支持中英文）。 |
-| [@bold](https://telegram.me/bold)                | 👍 使用 [Markdown](https://tingtalk.me/markdown/) 编辑消息。  |
+| [@bold](https://telegram.me/bold)                | 👍 使用 [Markdown](https://tingtalk.me/markdown/) 编辑消息（有字数限制）。 |
 | [@coub](https://telegram.me/coub)                | [Coub](https://coub.com/oftheday) 是一个视频共享网站（时长十秒的循环视频）。 |
 | [@creationdatebot](https://t.me/creationdatebot) | 获取注册 Telegram 的日期。                                   |
 | [@fanyi_bot](https://t.me/fanyi_bot)             | 为全世界语言提供中文翻译。                                   |
 | [@foursquare](https://telegram.me/foursquare)    | 帮你找到附近的餐馆或附近的地方，并将其地址发送给朋友。       |
 | [@gamee](https://telegram.me/gamee)              | 在群组中输入 `@gamee`，选择一个游戏，立刻和你的朋友 [在 Telegram 上玩小游戏](https://telegram.org/blog/games#ready-to-play)。 |
-| [@gif](https://t.me/gif)                         | GIF 动图搜索，支持中文。例如 `@gif 你好`。                   |
+| [@gif](https://t.me/gif)                         | 👍 GIF 动图搜索，支持中文。例如 `@gif 你好`。                 |
 | [@imdb](https://telegram.me/imdb)                | 查看影视作品在 [互联网电影资料库（IMDb）](https://www.imdb.com/)的评分。 |
 | [@letmebot](https://telegram.me/letmebot)        | 集合了各种搜索引擎：Google、DuckDuckGo、YouTube、Amazon、Uber Dictionary…… |
 | [@like](https://t.me/like)                       | 👍 添加 emoji-based like buttons，例如 👍 / 👎。在搜索框输入 `@like`，预设一些喜欢的投票符号（最多 6 个），然后就可以在聊天框输入 `@like` 调用这些预设。 |
 | [@music](https://telegram.me/music)              | 帮你找到动听的古典音乐。                                     |
 | [@pic](https://telegram.me/pic)                  | [图片搜索 by Yandex](https://yandex.com/images/)（支持中英文）。 |
-| [@QuizBot](https://t.me/QuizBot)                 | [答题机器人](https://telegram.org/blog#bot-api-and-quiz-bot)：创建一份只有单选题的考卷。[点此](https://t.me/QuizBot?start=TelegramHistory) 开始测试你对 Telegram 的了解程度。 |
+| [@QuizBot](https://t.me/QuizBot)                 | [答题机器人](https://telegram.org/blog#bot-api-and-quiz-bot)：创建一份只有单选题的考卷。[点此](https://t.me/QuizBot?start=TelegramHistory) 开始测试你对 Telegram 的了解程度。访问 [quiz.directory](https://quiz.directory/) 查看更多问卷。 |
 | [@sticker](https://t.me/sticker)                 | 👍 检索所有与 Emoji 相关表情包。例如 `@sticker 😎 `。          |
 | [@vid](https://telegram.me/vid)                  | 帮你查找 YouTube 视频（支持中文搜索）。                      |
 | [@wiki](https://telegram.me/wiki)                | [维基百科](https://www.wikipedia.org/)。搜索中文条目 `@wiki zh 猫`；搜索英文条目 `@wiki en cat` |
@@ -1223,8 +1293,9 @@ Bots 就像运行在 Telegram 内部的小程序。借助 [Telegram 开放的 AP
 - 新加入的成员可以看到全部的群聊历史记录（[New members can see the entire message history when they join](https://telegram.org/blog/supergroups#supergroups)）。
 - 加入群组之前，可看到（单向）好友是否在列。如果不想让好友知道你加入了某个群组，注册一个小号吧。
 - 支持在任何设备上发起语音聊天（[Voice Chats](https://telegram.org/blog/voice-chats)）
-  - 在 Telegram Desktop 和原生 macOS app 中，支持设置发言快捷键，例如大小写锁定键。（On [Telegram Desktop](https://desktop.telegram.org/) and in the [native macOS app](https://macos.telegram.org/), you can choose a **push-to-talk key** for Voice Chats, to control your mic even when Telegram is not focused. At long last, we've found a use for your Caps Lock key.）
+  - 在 Telegram Desktop 和原生 macOS app 中，支持设置发言快捷键，例如大小写锁定键。（On [Telegram Desktop](https://desktop.telegram.org/) and in the [native macOS app](https://macos.telegram.org/), you can choose a **[push-to-talk key](https://t.me/TelegramTips/190)** for Voice Chats, to control your mic even when Telegram is not focused. At long last, we've found a use for your Caps Lock key.）
   - 需要在翻墙服务/软件上开启 UDP 转发。
+  - 截至 2021 年 1 月 13 日，语音聊天支持 5000 人同时参与。[Voice Chats for up to 5,000 participants.](https://t.me/TelegramTips/233)
 
 
 
@@ -1236,6 +1307,7 @@ Bots 就像运行在 Telegram 内部的小程序。借助 [Telegram 开放的 AP
 - 可对群主（creator）及管理员（administrators）设置自定义头衔[（Custom title）](https://telegram.org/blog/silent-messages-slow-mode#admin-titles)。
 - 管理日志（[Recent Admin Actions](https://telegram.org/blog/admin-revolution#recent-admin-actions)）：当多个管理员在一起工作时，很容易搞不清楚哪个管理员或管理机器人，在什么时候做了什么。所以 Telegram 的管理员页面增加了「最近动作」功能。用于存储过去 48 小时内在组中执行的所有服务操作的日志，仅对管理员可见。
 - 2020 年 9 月 30 开始，管理员可以匿名发布消息了（[Anonymous Group Admins](https://telegram.org/blog/filters-anonymous-admins-comments#anonymous-group-admins)）。
+- 成员超过 500 人后，自动开通群组分析功能。[Owners of large groups with over 500 members can view beautiful, detailed graphs about its activity and growth.](https://t.me/TelegramTips/177)
 
 
 

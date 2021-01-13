@@ -49,13 +49,14 @@ Ting 我 Talk 一句：只要肉身在中国大陆，我们的一切行动听党
 
 我目前的主力出海工具是 ssrcloud，多年老机场，节点不少，价格适中，目前还行。
 
-近期 ssrcloud 被攻击，可以选择 [LinkHub](https://linkhub.cool/auth/register?code=Dnj1)：
+近期 ssrcloud 被攻击，可以选择 [LinkHub](https://linkhub.cool/auth/register?code=Dnj1) 这个低价机场过渡一下：
 
 ```
 https://linkhub.cool/auth/register?code=Dnj1
 ```
 
-输入促销码 `LinkHubAFF` 可享 8 折。
+- 注册邀请码：`Dnj1`
+- 八折促销码：`LinkHubAFF`
 
 
 
