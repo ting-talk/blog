@@ -1166,8 +1166,9 @@ https://rsshub.app/telegram/channel/tingtalk
 | [Donald J. Trump](https://t.me/trump)                   | 45th President of the United States of America.              |
 | [Google Drive 资源](https://t.me/gdurl)                 | 大电影，小电影，电子书，无损音乐等等。                       |
 | [合租](https://t.me/hezu2)                              | Netflix、YouTube、Spotify、Office 365、HBO、Apple、Surge……   |
+| [History](https://t.me/History)                         | Digging Past. Photos from Past who shaped today.             |
 
-
+此外，Telegram 上也有 [国家或地区的领导人官方频道](https://t.me/durov/148)。
 
 ## 🤖 [机器人推荐](https://telegram.org/faq#bots)
 
