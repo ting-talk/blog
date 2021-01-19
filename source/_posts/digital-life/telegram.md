@@ -942,6 +942,7 @@ https://rsshub.app/telegram/channel/tingtalk
 | [看鉴中国 OutsightChina](https://t.me/OutsightChina) | 👍 一个健康的社会，不该只有一种声音。看鉴中国，每天聚焦一则关于中国的新闻事件，带你对比来自中外不同媒体多元的、不一样的观点。 |
 | [新闻实验室](https://t.me/newslab2020)               | 👍 推荐订阅方可成老师的 [Newsletter](https://sibforms.com/serve/MUIEABj_H1nZN9Jj5HLcOE61NoO8So-r5phaSIn4ZUqqLv_WdJP-bpiAazMxwp2uOWb-aeF-hiOScIzPxwovvRjNYF6METjZVOafOAQANa9tnIeocTm6fv6RurLCTUVGzKrjBrhtIj9q2wVOmIYoltrV310MEOEi-vg3E0uPES0voX-FjBRHd4mPx0woiIsLiZ6-YXnI80PyhpUH)。[微信公众号文章备份](https://github.com/Newslab2020/Contents/blob/master/wechataccount.md)。 |
 | [南方周末](https://t.me/infzm)                       | 在这里，读懂中国。非官方。                                   |
+| [新周刊](https://t.me/neweekly)                      | 一本杂志和一个时代的体温。                                   |
 | [中国数字时代消息推送](https://t.me/cdtchinesefeed)  | 致力于聚合「中国的社会与政治新闻，和它在世界上的新兴的角色」有关的报道和评论。 |
 | [多数派Masses](https://t.me/masses2020)              | 我们是一群反对资本主义、反对帝国主义、反对父权制、反对一切压迫和宰制的青年。[Matters 的创作空间站](https://matters.news/@masses2020)。 |
 | [60 秒读懂世界](https://t.me/SharedResources)        | 来自 60 秒读懂世界公众号。                                   |
@@ -1090,13 +1091,13 @@ https://rsshub.app/telegram/channel/tingtalk
 
 ### 🎵 音乐
 
-| 频道                                  | 详情                                   |
-| ------------------------------------- | -------------------------------------- |
-| [知音](https://t.me/Musiccnchannel)   | 👍 发一些关于音乐的东西。               |
-| [音乐世界](https://t.me/lumingguandj) | 温柔被我唱成了歌，伴你人山人海不停留。 |
-| [每日一歌](https://t.me/dailymusich)  | 愿你也能在这里找到属于你自己的共鸣。   |
+| 频道                                         | 详情                                   |
+| -------------------------------------------- | -------------------------------------- |
+| [知音](https://t.me/Musiccnchannel)          | 👍 发一些关于音乐的东西。               |
+| [杂鱼Music Channel](https://t.me/ZAYU_music) | 我相信，爱音乐的人都有着一颗柔软的心。 |
+| [音乐世界](https://t.me/lumingguandj)        | 温柔被我唱成了歌，伴你人山人海不停留。 |
 
-下载音乐，请看下文中的音乐机器人。
+下载音乐，请查阅下文中的音乐机器人。
 
 
 

@@ -556,6 +556,28 @@ tags: [外贸, 英语, 口语]
 
 
 
+## 客户抱怨时
+
+当时能想到解决方案：
+
+- Let me see if I understand so far. 
+- I think what you're saying is…
+
+当时能想不到解决方案：
+
+- We're in this together.
+- What do you think we can do to solve this problem? / How can we work together to improve this situation?
+
+
+
+
+
+
+
+---
+
+
+
 - 📕 
 - 📗 
 - 📕 
