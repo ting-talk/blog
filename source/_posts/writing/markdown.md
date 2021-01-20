@@ -477,6 +477,7 @@ A backtick-delimited string in a code span: `` `foo` ``
 print "Hello, Python!"
 ```
 </pre>
+
 **预览**
 
 ```python
@@ -492,7 +493,8 @@ function addTwoNumbers (num1, num2) {
 +  return num1 + num2
 }
 ```
-<pre>
+</pre>
+
 **预览**
 
 ```diff
@@ -501,9 +503,6 @@ function addTwoNumbers (num1, num2) {
 +  return num1 + num2
 }
 ```
-
-
-
 
 
 ### 换行

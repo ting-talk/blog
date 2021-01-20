@@ -335,6 +335,29 @@ Tim
 
 尽可能少用模板，以下仅作为展示。
 
+### 汪晟
+
+Hi John,
+My name is Mike, sales manager at ABC Company based in Hangzhou, China.We specialize in manufacturing XXX. 
+
+I‘ve been following your company for some time now. And would like to discuss the possibility of xxx. 
+
+Don't want to bore you with too much detail here. Relevant information is in the attached file.
+
+---
+
+Hi John,
+My name is Mike, sales manager at ABC Company.
+We are going to hit hard in the UK market this year with our newly released product line xxx. I've done my research. You are exactly the type of local partner we are looking to work with.
+Will you have 6 minutes for me next week for a quick call?
+Talk soon.
+
+
+
+---
+
+
+
 
 
 Dear Tim,
@@ -731,7 +754,6 @@ Would you mind checking the possibility and discuss more potential together?
 
 
 As can see, `***` covers `***` market widely with `***` for the tier 1/2 market. There are chances for `***` to compete tier 2/3 market and reach the wider customer base for `***`. 
-
 
 `***` Positioning with `***`
 
