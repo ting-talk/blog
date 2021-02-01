@@ -1086,11 +1086,12 @@ https://rsshub.app/telegram/channel/tingtalk
 
 ### 🎵 音乐
 
-| 频道                                         | 详情                                   |
-| -------------------------------------------- | -------------------------------------- |
-| [知音](https://t.me/Musiccnchannel)          | 👍 发一些关于音乐的东西。               |
-| [杂鱼Music Channel](https://t.me/ZAYU_music) | 我相信，爱音乐的人都有着一颗柔软的心。 |
-| [音乐世界](https://t.me/lumingguandj)        | 温柔被我唱成了歌，伴你人山人海不停留。 |
+| 频道                                             | 详情                                   |
+| ------------------------------------------------ | -------------------------------------- |
+| [知音](https://t.me/Musiccnchannel)              | 👍 发一些关于音乐的东西。               |
+| [杂鱼Music Channel](https://t.me/ZAYU_music)     | 我相信，爱音乐的人都有着一颗柔软的心。 |
+| [音乐世界](https://t.me/lumingguandj)            | 温柔被我唱成了歌，伴你人山人海不停留。 |
+| [Classical Music](https://t.me/exploreclassical) | 一起来听古典音乐吧。                   |
 
 下载音乐，请查阅下文中的音乐机器人。
 
@@ -1165,6 +1166,8 @@ https://rsshub.app/telegram/channel/tingtalk
 | 频道                                    | 详情                           |
 | --------------------------------------- | ------------------------------ |
 | [NS 新闻转报](https://t.me/SwitchNewCN) | 任天堂（Nintendo）相关的新闻。 |
+
+平时不打游戏，欢迎推荐频道。
 
 
 
