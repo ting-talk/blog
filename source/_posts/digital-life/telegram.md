@@ -139,8 +139,6 @@ Telegram 的中文搜索是以「词组」为单位的，以标点符号或空�
 
 
 
-
-
 ### 🗓️ 逃离微信
 
 我与 Telegram 的结缘，始于 2016 年春。那时我刚学会了科学上网，并下载了 Telegram 这个 Instant Messaging app。虽然我在电报上找不到朋友和我聊天，但我并没有卸载 Telegram，因为相比输入法和微信，Telegram 提供了丰富的 [Emoji](https://emojipedia.org/) 供我选择。如此一来，我在 Android 手机上也能使用最新的 Emoji 点缀朋友圈。
@@ -233,6 +231,7 @@ Telegram 的中文搜索是以「词组」为单位的，以标点符号或空�
 **侵权**
 
 - [如果一个骗子假装是你](https://telegram.org/faq#q-what-if-someone-is-pretending-to-be-me)，联系 [@notoscam](https://t.me/notoscam)。
+- 如何举报假冒的频道或群组：点击右上角的 `...` > `Report` > `Fake Account` 
 - 针对品牌方，[用户名被占用怎么办？](https://telegram.org/faq#q-what-do-i-do-if-my-username-is-taken)把你在 Facebook、Twitter 或 Instagram 的用户名（两个平台以上）发给 [@username_bot](https://t.me/username_bot)。
 - 如果你看到表情包（sticker sets）、频道（channels）或机器人（bots）侵犯了你的版权，请提交投诉到 dmca@telegram.org
 
@@ -547,7 +546,7 @@ Telegram 有一个非常人性化的特性：**记忆浏览进度**，打开对�
 #### 👇 长按消息
 
 
-- 消息可以无限期撤回（[Delete Messages](https://telegram.org/faq#q-can-i-delete-my-messages)）：删除信息时，勾选 `Also delete for ***`，聊天记录就可以双向删除。
+- 消息可以无限期撤回（[Delete Messages](https://telegram.org/faq#q-can-i-delete-my-messages)）：删除信息时，勾选 `Also delete for ***`，聊天记录就可以双向删除。通话记录也支持这个特性（[Call history can also be deleted for all sides at any time.](https://telegram.org/blog/move-history#control-your-digital-footprint)）。电报服务器更不会存储被删除的聊天记录和通话记录，因此数据将彻底永远消失。
 - 选择部分消息（[Select Parts of Messages](https://telegram.org/blog/verifiable-apps-and-more#select-parts-of-messages)）：长按 2 次消息，可选择部分文字，而不是复制全文（Copy Selected Text）。
 
 #### 🗣 朗读消息
@@ -812,9 +811,31 @@ Creat New Folder（新建分组）时有以下筛选条件可选：
 
 
 
+### 📲 [导入数据](https://telegram.org/blog/move-history)
+
+每个人都可以通过 WhatsApp、 Line 和 KakaoTalk 等应用程序将聊天记录（包括视频和文档）迁移到 Telegram 上。以 WhatsApp 为例：
+
+**iOS**
+
+1. 打开 WhatsApp 的联系方式或群组信息页面（Contact Info or Group Info）
+2. 点击导出聊天（Export Chat）
+3. 然后在共享（Share）菜单中选择 Telegram
+
+**Android**
+
+1. 打开 WhatsApp 聊天
+2. 点击更多（More） > 导出聊天（Export Chat）
+3. 然后在分享菜单中选择 Telegram
+
+借助 Telegram 的云存档功能，再也不用担心聊天记录丢失的问题。
+
+
+
 ### 🗃️ [导出数据](https://telegram.org/blog/export-and-more)
 
 ⚠️此功能需在 [Telegram 电脑版](https://desktop.telegram.org/) 上运行。
+
+> The original meaning of the paper plane on the Telegram logo means “freedom”. For us, freedom of choice and data portability are paramount. People should be in complete control over their own data – and their own lives. Telegram 标志上的纸飞机的原意是「自由」。对我们来说，选择自由和数据便携性是最重要的。人们应该完全控制自己的数据——以及自己的生活。by [Pavel Durov](https://t.me/durov/150)
 
 聊天历史会被存储在 Telegram 云端，但是也可以导出部分（或全部）聊天记录到电脑上离线回味，而且排版还是原来的样子。
 
@@ -1247,7 +1268,7 @@ Bots 就像运行在 Telegram 内部的小程序。借助 [Telegram 开放的 AP
 
 以上大部分 Bots 都能免费使用，保不齐哪天服务器撑不住，就停止运营了，所以记得定期导出 OPML 文件作为备份。
 
-如果有 VPS，[自己搭一个专用的 RSS Bot](https://www.google.com/search?q=telegram+rss+bot) 也是不错的选择。
+如果有 VPS，[自己搭一个专用的 RSS Bot](https://www.google.com/search?q=telegram+rss+bot) 会是不错的选择。
 
 
 
@@ -1275,6 +1296,8 @@ Bots 就像运行在 Telegram 内部的小程序。借助 [Telegram 开放的 AP
 - [@SongIDbot](https://t.me/SongIDbot)：听歌识曲。
 - [@getmediabot](https://t.me/getmediabot)：下载音乐、歌词、视频等媒体。
 - [@YTAudioBot](https://t.me/YTAudioBot)：下载 YouTube 音频。
+
+**小技巧**：在音频播放器中，长按住「下一首」 和「上一首」按钮可以快进和倒带。[Press and hold on the *Next* and *Previous* buttons to **fast-forward** and **rewind**.](https://telegram.org/blog/move-history#improved-audio-player)
 
 
 
@@ -1313,6 +1336,7 @@ Bots 就像运行在 Telegram 内部的小程序。借助 [Telegram 开放的 AP
   - 在 Telegram Desktop 和原生 macOS app 中，支持设置发言快捷键，例如大小写锁定键。（On [Telegram Desktop](https://desktop.telegram.org/) and in the [native macOS app](https://macos.telegram.org/), you can choose a **[push-to-talk key](https://t.me/TelegramTips/190)** for Voice Chats, to control your mic even when Telegram is not focused. At long last, we've found a use for your Caps Lock key.）
   - 需要在翻墙服务/软件上开启 UDP 转发。
   - 截至 2021 年 1 月 13 日，语音聊天支持 5000 人同时参与。[Voice Chats for up to 5,000 participants.](https://t.me/TelegramTips/233)
+  - 主持人可以控制发言者的音量（[Adjust the Volume]()），这个设置是全局的，对所有听众有效。
 
 
 
