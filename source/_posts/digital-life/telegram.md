@@ -1,7 +1,7 @@
 ---
 title: Telegram：新手指南、使用教程及频道推荐（持续更新中）
 date: 2019-11-09  
-updated: 2021-02-01
+updated: 2021-02-04
 categories: 数字生活  
 tags: [网上冲浪指南, 突破网络审查, Telegram]
 ---
@@ -254,6 +254,7 @@ Telegram 的中文搜索是以「词组」为单位的，以标点符号或空�
 1. But I can't message non-contacts.
 2. No, I'll never do any of this.
 3. I can't chat with non-contacts.
+4. Accident.
 
 大概半小时之后（有些人要十几天），即可解除禁言。
 
@@ -261,12 +262,17 @@ Telegram 的中文搜索是以「词组」为单位的，以标点符号或空�
 
 
 
-### 🙈 隐藏手机号码
 
-1. `Setting`（设置）
-2. `Privacy and Security`（隐私和安全）
-3. `Phone number`（手机号码）
-4. `Who can see my phone number`（谁可以看到我的手机号码：`Nobody` 不允许任何人）
+
+### ⛑️ 隐私和安全
+
+依次点击 `Setting`（设置）> `Privacy and Security`（隐私和安全）
+
+
+
+#### 🙈 隐藏手机号码
+
+`Phone number`（手机号码）> `Who can see my phone number`（谁可以看到我的手机号码：`Nobody` 不允许任何人）
 
 对隐私有要求，或者彻底解除 +86 开头的手机号码的私聊限制，可以把手机号码换绑到非中国区的手机号码，例如 Google Voice：
 
@@ -276,27 +282,46 @@ Telegram 的中文搜索是以「词组」为单位的，以标点符号或空�
 
 
 
-以及：
+**以及**
+
 - 🧨 **再次强调**：添加陌生人到通讯录（Add to contacts），记得**每次**都要取消勾选 `Share my phone number with ***`。
 - 开启 SIM（手机卡）密码（PIN 码），纵使别人捡到你的手机（卡），也不能启用 SIM，也就不能收到登录验证码。
 
 
 
-### 📍 隐藏 IP 地址
+#### 🎭 [匿名转发](https://telegram.org/blog/unsend-privacy-emoji#anonymous-forwarding)
 
-Telegram 为了提高语音通话的质量，默认采用端对端连接（Peer-to-Peer）。由于流量没有经过 Telegram 服务器中转，所以会暴露用户的 IP 地址。
+`Forwarded messages: Nobody`（引用转发来源：不允许任何人）
 
-如何禁用端对端通话：`Settings` > `Private and Security` > `Calls` > `Peer-to-Peer`：`Nobody`。不过禁用后，通话质量会略有下降。
+启用此设置后，转发你的消息将无法指向（链接）回你的帐户，只会在 `From ***`（`来自***`）字段中显示一个无法点击的昵称（非用户名）。而昵称不是唯一的，所以通过这种方式，将没有证据证明某条消息是你发送的（无法溯源）。
+
+
+
+#### 📍 隐藏通话 IP 地址
+
+`Calls` > `Peer-to-Peer`：`Nobody`
+
+Telegram 为了提高语音通话的质量，默认采用端对端连接（Peer-to-Peer）。由于流量没有经过 Telegram 服务器中转，所以会暴露用户的 IP 地址。但是禁用端对端通话后，通话质量会略有下降。
 
 另外，配合使用 [Tor](https://www.torproject.org/)（The Onion Router、洋葱路由器）可以隐藏用户真实 IP 地址、避免网络监控及流量分析。
 
 
 
-### ✌️ [两步验证](https://telegram.org/blog/sessions-and-2-step-verification#two-step-verification)
+#### 🔐 [本机锁定码](https://telegram.org/blog/photo-editor-and-passcodes)
 
-1. `Setting`（设置）
-2. `Privacy and Security`（隐私和安全）
-3. `Two-step verification`（两步验证：添加密码提示和 ❗️ 安全邮箱 ❗️）
+`Passcode Lock` 相当于给 Telegram 加上应用锁。这样一来，临时借用你设备的人也看不到你的小秘密。
+
+设置完密码锁之后，可以在下方的自动锁（`Auto-lock`）设定时长，一旦超过时长未操作，那么 Telegram 将自动上锁。或者在聊天列表页面上主动点击锁头图标，Telegram 就会立即锁定应用，新消息通知将不包括文本或发件人姓名。再次进入应用时，要求输入锁定码。
+
+在 Android 客户端上，还可以关闭「在任务切换页面显示内容」（`Show App Content in Task Switcher`），同时在 Telegram 内也无法截屏。
+
+密码锁只在当前设备可用，不会同步到云端或其他设备，所以在不同的设备上可以设置不同的密码锁。如果忘记，只能重装 App，而且重新登录之后，需要重新设置新的密码锁，私密聊天（Secret Chat）也不会同步回来。
+
+
+
+#### ✌️ [两步验证](https://telegram.org/blog/sessions-and-2-step-verification#two-step-verification)
+
+`Two-step verification`（两步验证：添加密码提示和 ❗️ 安全邮箱 ❗️）
 
 以后登录时，输入验证码后，还要输入密码。
 
@@ -305,35 +330,25 @@ Telegram 为了提高语音通话的质量，默认采用端对端连接（Peer-
 
 
 
-### 🛡️ 其它安全设置
+#### 💥 删除账户
 
-- 使用没有个人特征的头像（记得在个人资料里删除历史头像）、昵称和用户名，确保硅基身份不会和碳基身份产生关联。
-- 不使用 Touch ID 或 Face ID 解锁你的手机，只以密码锁屏（数字 + 字母），以免被「执法人员」控制身体后强行解锁。
+`Delete my account if away for 1 month/3 months/6 months/1 year `（删除我的帐户若离线时间达 1 个月 / 3 个月 / 6 个月 / 1 年）
 
+**自动删除**：以上就是电报自带账户自毁机制（[Account Self-Destruction](https://telegram.org/blog/android-2-0#account-self-destruction)）
 
-
-### 🎭 [匿名转发](https://telegram.org/blog/unsend-privacy-emoji#anonymous-forwarding)
-
-1. `Setting`（设置）
-2. `Privacy and Security`（隐私和安全）
-3. `Forwarded messages: Nobody`（引用转发来源：不允许任何人）
-
-启用此设置后，转发你的消息将无法指向（链接）回你的帐户，只会在 `From ***`（`来自***`）字段中显示一个无法点击的昵称（非用户名）。而昵称不是唯一的，所以通过这种方式，将没有证据证明某条消息是你发送的（无法溯源）。
-
-
-
-### 💥 删除账户
-
-- **主动删除**：[不想使用此账号](https://telegram.org/faq#q-how-do-i-delete-my-account)，可 [永久删除账户（Delete Account）](https://my.telegram.org/auth?to=delete)
-- **自动删除**：电报自带账户自毁机制（[Account Self-Destruction](https://telegram.org/blog/android-2-0#account-self-destruction)）
-  - `Setting`（设置）
-  - `Privacy and Security`（隐私和安全）
-  - `Delete my account if away for 1 month/3 months/6 months/1 year `（删除我的帐户若离线时间达 1 个月 / 3 个月 / 6 个月 / 1 年）
+**主动删除**：[不想使用此账号](https://telegram.org/faq#q-how-do-i-delete-my-account)，可 [永久删除账户（Delete Account）](https://my.telegram.org/auth?to=delete)
 
 **为什么要给账户设置自毁机制**
 
 - Telegram 作为一个免费的非商业软件，没有任何收入来源，为了节约服务器的存储空间，Telegram 会自动删除长时间不上线的用户。再说了，Telegram 也不需要你的私人数据。
 - 如果不慎丢失了 SIM（手机卡），此前未开启 SIM 卡的 PIN 码（强烈建议开启）和 Telegram 账户的两步验证，新的「主人」就能把你的 Telegram 账号占为己有。但是假如你设置了 1 个月不上线就销户，坏人在第 32 天捡到你的手机，不过此时你的 Telegram 账号已经不存在了。
+
+
+
+#### 🛡️ 其它隐私设置
+
+- 使用没有个人特征的头像（记得在个人资料里删除历史头像）、昵称和用户名，确保硅基身份不会和碳基身份产生关联。
+- 不使用 Touch ID 或 Face ID 解锁你的手机，只以密码锁屏（数字 + 字母），以免被「执法人员」控制身体后强行解锁。
 
 
 
@@ -533,13 +548,10 @@ Telegram 有一个非常人性化的特性：**记忆浏览进度**，打开对�
 
 如何替换图片或视频？长按或右击消息，选择 `Edit`：
 
-- 通用法：点击笔头图标 ✏️，弹出资源窗口，选择正确的图片和视频即可替换。
+- 通用法：点击笔头图标 ✏️（或 Replace file/photo），弹出资源窗口，选择正确的图片和视频即可替换。
 - 桌面端：复制正确的图片和视频，回到 Telegram，粘贴即可替换。
 
-
-
-**更正不是自己发的消息**
-直接标记别人发来的图片，无需保存在本地图库。[Instantly edit and send back media you receive to add notations or decorations without saving it to your gallery.](https://t.me/TelegramTips/118)
+并且支持直接标记别人发来的图片，修改完再发出去，无需保存在本地图库。[Instantly edit and send back media you receive to add notations or decorations without saving it to your gallery.](https://t.me/TelegramTips/118)
 
 
 
@@ -936,6 +948,7 @@ https://rsshub.app/telegram/channel/tingtalk
 | [Telegram APKs for Android](https://t.me/TAndroidAPK) | Official channel for Telegram Android APKs. You can also download them [here](https://telegram.org/dl/android/apk). |
 | [Telegram Designers](https://t.me/designers)          | 向电报提你想要的功能 [@design_bot](https://t.me/design_bot)  |
 | [Telegram Auditions](https://t.me/TelegramAuditions)  | 加入 Telegram Support Force，帮扶 Telegram 做大做强，详情参阅这份 [Initiative](https://tsf.telegram.org/)。 |
+| [Telegram Contests](https://t.me/contest)             | Here we announce Telegram coding contests in Android Java, iOS Swift, JS, C/C++. |
 | [ISIS Watch](https://t.me/ISISwatch)                  | 电报官方反恐频道：[每日汇报有多少恐怖组织相关的频道被封了](https://t.me/isiswatch/2)。 |
 | [Trending Stickers](https://t.me/TrendingStickers)    | Telegram 又新增了哪些表情包。                                |
 | [紙飛機](https://t.me/tgflight)                       | 欢迎搭乘纸飞机，Porsche 和你聊聊 Telegram 的大小事。[播客 RSS 订阅链接](https://feeds.buzzsprout.com/837646.rss)。 |
