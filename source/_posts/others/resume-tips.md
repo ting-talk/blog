@@ -426,6 +426,7 @@ tags: 工作
 - [知己知彼，如何有针对性地写好简历 - 石墨](https://sspai.com/post/56510)
 - [求职工作流 - Appso](https://www.ifanr.com/app/1184495)
 - [投简历时的 10 种死法 - Topbook](https://topbook.cc/overview?selectedArticle=1796) 
+- [找工作时，我们应该注意什么 - 少数派](https://sspai.com/topic/319)
 
 
 

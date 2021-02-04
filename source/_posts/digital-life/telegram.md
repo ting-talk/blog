@@ -124,7 +124,9 @@ Telegram 的中文搜索是以「词组」为单位的，以标点符号或空�
 
 #### 🙃 硬币的另一面
 
-在加密通信「庇护」下的土壤，滋生了臭名昭著的网络性犯罪案件：[N 号房事件](https://zh.wikipedia.org/zh-hans/N%E5%8F%B7%E6%88%BF%E4%BA%8B%E4%BB%B6)。所幸的是，2020 年 11 月 26 日，主犯赵主彬一审判处监禁 40 年。科技能否向善，在于人类能否压住心底的邪念。
+在加密通信「庇护」下的土壤，滋生了臭名昭著的网络性犯罪案件：[N 号房事件](https://zh.wikipedia.org/zh-hans/N%E5%8F%B7%E6%88%BF%E4%BA%8B%E4%BB%B6)。所幸的是，2020 年 11 月 26 日，主犯赵主彬一审判处监禁 40 年。
+
+以及存在大量的 NSFW 内容、币圈广告和灰色产业链。科技能否向善，在于我们能否约束自己内心的 [邪念](https://zh.wikiquote.org/zh-hans/%E7%BD%97%E7%BF%94)。
 
 
 
@@ -687,7 +689,7 @@ Windows 的 `Ctrl` 等于 macOS 中 `Command` ⌘。
 
 
 
-### 🔍 搜索秘技
+### 🔍 搜索资源
 
 去哪里找钟意的频道（Channel），群组（Group）和机器人（Bot）呢？
 
@@ -703,11 +705,12 @@ Windows 的 `Ctrl` 等于 macOS 中 `Command` ⌘。
 
 这也再次证明了 Telegram 的内容是可以被 Google 等搜索引擎抓取的。反观国内的互联网江湖，各自割据，搞得网民苦不堪言。就拿微信来说，你不能在 Google 或者百度搜到公众号文章，这也是庭说另开一个独立博客的原因。
 
-👌 Telegram 频道搜索引擎（非官方）
+👌 Telegram 搜索引擎（非官方）
 
 - 网页版
   - [名刀电报搜索](https://xtea.io/ts.html#gsc.tab=0)
   - [sssoou.com](http://www.sssoou.com/)
+  - [Telegram 公眾索引系統](https://tgtw.cc/)
 - 机器人
   - [@hao1234bot](http://t.me/hao1234bot)
   - [@hao6bot](http://t.me/hao6bot)
@@ -794,11 +797,13 @@ Creat New Folder（新建分组）时有以下筛选条件可选：
 **操作技巧**
 
 - 在对话列表界面，长按或者右击分组名可进行 Reorder（排序）、Edit（重命名）、Delete（删除）和 Mark ad read（标记为已读）等操作。
-- 在电脑客户端中，切换分组的键盘快捷键是：
-  - Ctrl / Command + 1（对应第一个分组）
-  - Ctrl / Command + 2（第二分组）
-  - Ctrl / Command + 3（第三分组）
-  - ……
+- 在 Telegram for Windows 中（macOS 电脑客户端同理），切换分组的键盘快捷键是：
+    - Ctrl + 0（收藏夹 Save Messages）
+    - Ctrl + 1（第一个分组）
+    - Ctrl + 2（第二个分组）
+    - Ctrl + 3（第三个分组）
+    - ……
+    - Ctrl + 9（已归档对话 Archived Chats）
 - 目前只支持在电脑客户端中设置分组图标（Folder Icons）。
 
 
@@ -947,6 +952,8 @@ https://rsshub.app/telegram/channel/tingtalk
 | [Telegram Tips](https://t.me/TelegramTips)            | 👍电报小贴士（Tips）官方频道。                                |
 | [Telegram APKs for Android](https://t.me/TAndroidAPK) | Official channel for Telegram Android APKs. You can also download them [here](https://telegram.org/dl/android/apk). |
 | [Telegram Designers](https://t.me/designers)          | 向电报提你想要的功能 [@design_bot](https://t.me/design_bot)  |
+| [Desktop Themes Channel](https://t.me/themes)         | [电脑客户端主题创建指引](https://telegra.ph/Create-Theme-Desktop-FAQ) \| [Custom Themes 的简单介绍](https://telegram.org/blog/android-themes) |
+| [Android Themes Channel](https://t.me/AndroidThemes)  | [安卓客户端主题创建指引](https://telegra.ph/Create-Theme-Android-FAQ) \| 更多技术细节参阅 [Custom Cloud Themes](https://core.telegram.org/themes) |
 | [Telegram Auditions](https://t.me/TelegramAuditions)  | 加入 Telegram Support Force，帮扶 Telegram 做大做强，详情参阅这份 [Initiative](https://tsf.telegram.org/)。 |
 | [Telegram Contests](https://t.me/contest)             | Here we announce Telegram coding contests in Android Java, iOS Swift, JS, C/C++. |
 | [ISIS Watch](https://t.me/ISISwatch)                  | 电报官方反恐频道：[每日汇报有多少恐怖组织相关的频道被封了](https://t.me/isiswatch/2)。 |
@@ -975,21 +982,22 @@ https://rsshub.app/telegram/channel/tingtalk
 - 对于事实，要有多个独立信源交叉验证。
 - 对于观点，要注意论述逻辑和因果关系。
 
-| 频道                                                 | 详情                                                         |
-| ---------------------------------------------------- | ------------------------------------------------------------ |
-| [看鉴中国 OutsightChina](https://t.me/OutsightChina) | 👍 一个健康的社会，不该只有一种声音。看鉴中国，每天聚焦一则关于中国的新闻事件，带你对比来自中外不同媒体多元的、不一样的观点。 |
-| [新闻实验室](https://t.me/newslab2020)               | 👍 推荐订阅方可成老师的 [Newsletter](https://sibforms.com/serve/MUIEABj_H1nZN9Jj5HLcOE61NoO8So-r5phaSIn4ZUqqLv_WdJP-bpiAazMxwp2uOWb-aeF-hiOScIzPxwovvRjNYF6METjZVOafOAQANa9tnIeocTm6fv6RurLCTUVGzKrjBrhtIj9q2wVOmIYoltrV310MEOEi-vg3E0uPES0voX-FjBRHd4mPx0woiIsLiZ6-YXnI80PyhpUH)。[微信公众号文章备份](https://github.com/Newslab2020/Contents/blob/master/wechataccount.md)。 |
-| [南方周末](https://t.me/infzm)                       | 在这里，读懂中国。非官方。                                   |
-| [新周刊](https://t.me/neweekly)                      | 一本杂志和一个时代的体温。                                   |
-| [中国数字时代消息推送](https://t.me/cdtchinesefeed)  | 致力于聚合「中国的社会与政治新闻，和它在世界上的新兴的角色」有关的报道和评论。 |
-| [多数派Masses](https://t.me/masses2020)              | 我们是一群反对资本主义、反对帝国主义、反对父权制、反对一切压迫和宰制的青年。[Matters 的创作空间站](https://matters.news/@masses2020)。 |
-| [60 秒读懂世界](https://t.me/SharedResources)        | 来自 60 秒读懂世界公众号。                                   |
-| [突发新闻](https://t.me/breakingnews_t)              | 突发新闻推送服务（简体中文）。                               |
-| [NFW](https://t.me/NewsFW)                           | News for Work, Not for Work.                                 |
-| [电报时报](https://t.me/times001)                    | 提供全天候热点中国及国际新闻，涵盖突发新闻、时事、财经、娱乐、体育，评论、杂志和博客等。 |
-| [乌鸦观察](https://t.me/bigcrowdev)                  | 不定期推送新闻和杂谈。                                       |
-| [蘋果日報](https://t.me/appledailyhk)                | [Apple Daily](https://hk.appledaily.com/) 为香港上市公司壹传媒旗下繁体中文报纸，由大股东黎智英所创立，被民主派支持者普遍认为是香港目前唯一未被「染红」的媒体。by [维基百科](https://zh.wikipedia.org/zh-cn/%E8%98%8B%E6%9E%9C%E6%97%A5%E5%A0%B1_(%E9%A6%99%E6%B8%AF)) |
-| [竹新社](https://t.me/tnews365)                      | 7×24 不定时编译国内外媒体的即时新闻报道。                    |
+| 频道                                                  | 详情                                                         |
+| ----------------------------------------------------- | ------------------------------------------------------------ |
+| [看鉴中国 OutsightChina](https://t.me/OutsightChina)  | 👍 一个健康的社会，不该只有一种声音。看鉴中国，每天聚焦一则关于中国的新闻事件，带你对比来自中外不同媒体多元的、不一样的观点。 |
+| [乌鸦观察](https://t.me/bigcrowdev)                   | 👍 不定期推送新闻和杂谈。                                     |
+| [新闻实验室](https://t.me/newslab2020)                | 推荐订阅方可成老师的 [Newsletter](https://sibforms.com/serve/MUIEABj_H1nZN9Jj5HLcOE61NoO8So-r5phaSIn4ZUqqLv_WdJP-bpiAazMxwp2uOWb-aeF-hiOScIzPxwovvRjNYF6METjZVOafOAQANa9tnIeocTm6fv6RurLCTUVGzKrjBrhtIj9q2wVOmIYoltrV310MEOEi-vg3E0uPES0voX-FjBRHd4mPx0woiIsLiZ6-YXnI80PyhpUH)。[微信公众号文章备份](https://github.com/Newslab2020/Contents/blob/master/wechataccount.md)。 |
+| [南方周末](https://t.me/infzm)                        | 在这里，读懂中国。非官方。                                   |
+| [新周刊](https://t.me/neweekly)                       | 一本杂志和一个时代的体温。                                   |
+| [中国数字时代消息推送](https://t.me/cdtchinesefeed)   | 致力于聚合「中国的社会与政治新闻，和它在世界上的新兴的角色」有关的报道和评论。 |
+| [多数派Masses](https://t.me/masses2020)               | 我们是一群反对资本主义、反对帝国主义、反对父权制、反对一切压迫和宰制的青年。[Matters 的创作空间站](https://matters.news/@masses2020)。 |
+| [60 秒读懂世界](https://t.me/SharedResources)         | 来自 60 秒读懂世界公众号。                                   |
+| [突发新闻](https://t.me/breakingnews_t)               | 突发新闻推送服务（简体中文）。                               |
+| [NFW](https://t.me/NewsFW)                            | News for Work, Not for Work.                                 |
+| [电报时报](https://t.me/times001)                     | 提供全天候热点中国及国际新闻，涵盖突发新闻、时事、财经、娱乐、体育，评论、杂志和博客等。 |
+| [蘋果日報](https://t.me/appledailyhk)                 | [Apple Daily](https://hk.appledaily.com/) 为香港上市公司壹传媒旗下繁体中文报纸，由大股东黎智英所创立，被民主派支持者普遍认为是香港目前唯一未被「染红」的媒体。by [维基百科](https://zh.wikipedia.org/zh-cn/%E8%98%8B%E6%9E%9C%E6%97%A5%E5%A0%B1_(%E9%A6%99%E6%B8%AF)) |
+| [竹新社](https://t.me/tnews365)                       | 7×24 不定时编译国内外媒体的即时新闻报道。                    |
+| [端傳媒 Initium Media](https://t.me/the_InitiumMedia) | 由程式自動獲取並推送端傳媒 RSS 所有文章。                    |
 
 
 
@@ -999,6 +1007,7 @@ https://rsshub.app/telegram/channel/tingtalk
 | ---------------------------------------------------------- | ------------------------------------------------------------ |
 | [纽约时报中文网](https://t.me/niuyueshibao_rss)            | 👍 [The New York Times (NYT)](https://cn.nytimes.com/) 创刊于 1851 年，世界上最著名的报纸之一。美国严肃报刊的代表，获得过 122 项普利策奖，是获奖最多的媒体。 |
 | [BBC 中文网](https://t.me/bbczhongwen_rss)                 | [BBC News](https://www.bbc.com/zhongwen/simp) 是世界最大的公共广播公司，位于英国，资金主要来自英国国民缴纳的电视牌照费，是一家独立运作的公共媒体（非商业媒体，也不由英国政府控制）。 |
+| [联合早报](https://t.me/zaobaosg)                          | zaobao.sg 早报 + 晚报 + 新明新闻。                           |
 | [路透中文网](https://t.me/lutouzhongwen_rss)               | [Reuters](https://cn.reuters.com/) 世界三大通讯社之一，成立于 1851 年，总部位于英国伦敦。 |
 | [德国之声](https://t.me/dw_rss)                            | [Deutsche Welle (DW)](https://www.dw.com/zh/) 按德国公法设立的国际化公共媒体，从联邦政府获得拨款，总部位于波恩和柏林。 |
 | [澳大利亚广播公司](https://t.me/abc_rss)                   | [Australian Broadcasting Corporation (ABC)](https://www.abc.net.au/news/chinese/) 是澳大利亚的国家公共广播机构，它由政府出资，向澳大利亚和海外提供电台、电视、互联网服务。总部设在悉尼。 |
@@ -1048,6 +1057,7 @@ https://rsshub.app/telegram/channel/tingtalk
 | [硬核小卒](https://t.me/yinghexiaozu)                | 分享优质的科技/商业资讯。                                    |
 | [知乎日报](https://t.me/zhihuribao_rss)              | 越来越难用的问答网站。                                       |
 | [Daily Tech News](https://t.me/DailyTechNewsCN)      | 每日科技新闻。                                               |
+| [每日 AWESOME 观察](https://t.me/awesomeopensource)  | 每日更新分享最炫酷的开源项目。                               |
 
 
 
@@ -1115,6 +1125,7 @@ https://rsshub.app/telegram/channel/tingtalk
 | [不客观 Not Objective](https://t.me/notobjective)            | 一档搭建在 Telegram 的简易播客，纯主观感受。by [郝海龙](https://haohailong.net/) |
 | [白昼电台 The Day](https://t.me/baizhoutheday)               | 黑夜已深，白昼将近，我们就当脱去暗昧的行为，带上光明的兵器。 |
 | [维生素 E](https://t.me/vitamineEpodcast)                    | 经济学与哲学知识分享。                                       |
+| [Go 夜聊](https://t.me/talkgofm_channel)                     | 一档由杨文和欧长坤主持的针对 Go 语言的播客节目               |
 
 
 
@@ -1126,6 +1137,7 @@ https://rsshub.app/telegram/channel/tingtalk
 | [杂鱼Music Channel](https://t.me/ZAYU_music)     | 我相信，爱音乐的人都有着一颗柔软的心。 |
 | [音乐世界](https://t.me/lumingguandj)            | 温柔被我唱成了歌，伴你人山人海不停留。 |
 | [Classical Music](https://t.me/exploreclassical) | 一起来听古典音乐吧。                   |
+| [蛙音通讯](https://t.me/wahyin)                  | Feels wonderful again man.             |
 
 下载音乐，请查阅下文中的音乐机器人。
 
@@ -1184,24 +1196,15 @@ https://rsshub.app/telegram/channel/tingtalk
 
 ### 🆓 资源
 
-| 频道                                           | 详情                                                         |
-| ---------------------------------------------- | ------------------------------------------------------------ |
-| [Google Play 限免信息](https://t.me/playsales) | 不定时推介 Play Store 上的限免游戏和 App。                   |
-| [反斗限免](https://t.me/apprcn)                | 这里有反斗软件和反斗限免的文章更新。更新频繁高。             |
-| [如有乐享](https://t.me/ruyoblog)              | 更新 [如有乐享博客](https://51.ruyo.net/) 的内容：云服务器、优惠活动、羊毛信息以及各种 Bug。 |
-| [iShare News](https://t.me/iShareNews)         |                                                              |
-| [Zapro Notice](https://t.me/zaproshare)        | 软件分享。                                                   |
-| [Google Drive 资源](https://t.me/gdurl)        | 各种 Google Drive 资源，包括电影、电子书、无损音乐等。       |
-
-
-
-### 🎮 游戏
-
-| 频道                                    | 详情                           |
-| --------------------------------------- | ------------------------------ |
-| [NS 新闻转报](https://t.me/SwitchNewCN) | 任天堂（Nintendo）相关的新闻。 |
-
-平时不打游戏，欢迎推荐频道。
+| 频道                                                | 详情                                                         |
+| --------------------------------------------------- | ------------------------------------------------------------ |
+| [Google Play 限免信息](https://t.me/playsales)      | 不定时推介 Play Store 上的限免游戏和 App。                   |
+| [纯粹的 App Store 应用推荐](https://t.me/app_store) | iOS 实用免费、精选限免、优质冰点应用推荐。                   |
+| [反斗限免](https://t.me/apprcn)                     | 这里有反斗软件和反斗限免的文章更新。更新频繁高。             |
+| [如有乐享](https://t.me/ruyoblog)                   | 更新 [如有乐享博客](https://51.ruyo.net/) 的内容：云服务器、优惠活动、羊毛信息以及各种 Bug。 |
+| [iShare News](https://t.me/iShareNews)              | 一个没有简介的资源分享频道。                                 |
+| [Zapro Notice](https://t.me/zaproshare)             | 软件分享。                                                   |
+| [Google Drive 资源](https://t.me/gdurl)             | 各种 Google Drive 资源，包括电影、电子书、无损音乐等。       |
 
 
 
@@ -1214,9 +1217,10 @@ https://rsshub.app/telegram/channel/tingtalk
 | [Rick Morty and Fans](https://t.me/Rick_Morty_and_Fans) | Wubba Lubba Dub Dub                                          |
 | [回形针PaperClip & 灵光灯泡](https://t.me/papercliphub) | 回形针内容推送。                                             |
 | [Donald J. Trump](https://t.me/trump)                   | 45th President of the United States of America.              |
-| [Google Drive 资源](https://t.me/gdurl)                 | 大电影，小电影，电子书，无损音乐等等。                       |
 | [合租](https://t.me/hezu2)                              | Netflix、YouTube、Spotify、Office 365、HBO、Apple、Surge……   |
 | [History](https://t.me/History)                         | Digging Past. Photos from Past who shaped today.             |
+| [每日无数猫](https://t.me/miaowu)                       | 让我们打造一个全是猫的世界！ฅ^•ﻌ•^ฅ                          |
+| [NS 新闻转报](https://t.me/SwitchNewCN)                 | 任天堂（Nintendo）相关的新闻。                               |
 
 此外，Telegram 上也有 [国家或地区的领导人官方频道](https://t.me/durov/148)。
 
@@ -1279,7 +1283,7 @@ Bots 就像运行在 Telegram 内部的小程序。借助 [Telegram 开放的 AP
 - [@NodeRSS_bot](https://t.me/NodeRSS_bot)
 - ……
 
-以上大部分 Bots 都能免费使用，保不齐哪天服务器撑不住，就停止运营了，所以记得定期导出 OPML 文件作为备份。
+以上大部分 Bots 都能免费使用，但是保不齐哪天服务器撑不住，就停止运营了，所以记得定期导出 OPML 文件作为备份。
 
 如果有 VPS，[自己搭一个专用的 RSS Bot](https://www.google.com/search?q=telegram+rss+bot) 会是不错的选择。
 
@@ -1314,6 +1318,23 @@ Bots 就像运行在 Telegram 内部的小程序。借助 [Telegram 开放的 AP
 
 
 
+#### 💽 DC 查询
+
+Telegram 的服务器分布在世界各地的数据中心（[Data Center](https://core.telegram.org/api/datacenter)，简称 DC）。如何查询自己所在的数据中心（好像没啥用）：
+
+第一步，在隐私和安全设置中，（临时）开启所有人都能查看你的头像（Profile Photos）。
+
+第二步，选择一个查询 Bot：
+
+| Bot                                          | Info         |
+| -------------------------------------------- | ------------ |
+| [@luxiaoxun_bot](https://t.me/luxiaoxun_bot) | 鲁小迅       |
+| [@WooMaiBot](https://t.me/WooMaiBot)         | 干物妹！小霾 |
+
+第三步，发送 `/dc`，即可获得你所在的数据中心。
+
+
+
 #### 🎁 其它机器人
 
 | Bot                                                | Info                                                         |
@@ -1325,7 +1346,7 @@ Bots 就像运行在 Telegram 内部的小程序。借助 [Telegram 开放的 AP
 | [@LivegramBot](https://t.me/LivegramBot)           | 👍 [不加好友也能私聊](https://telegra.ph/What-is-Livegram-Bot-03-17)，可用于收集反馈及绕开 `+86` 手机号码的限制。<br />因为经过一层转发，消息一旦发送，便无法删除，但有个短暂的修改期。 |
 | [@MakeQrBot](https://t.me/MakeQrBot)               | 发送文字，生成对应的二维码。                                 |
 | [@sssoou_bot](https://t.me/sssoou_bot)             | Telegram 搜索，支持中文。                                    |
-| [@Stickers](https://t.me/Stickers)                 | 创建属于自己的表情包。                                       |
+| [@Stickers](https://t.me/Stickers)                 | 👍 创建属于自己的表情包。                                     |
 | [@Sticker2GIFBot](https://t.me/Sticker2GIFBot)     | 下载单独的表情包或整套表情包。                               |
 | [@tweet_for_me_bot](https://t.me/tweet_for_me_bot) | 在 Telegram 上发布 Twitter 动态。                            |
 | [@tgstogifbot](https://t.me/tgstogifbot)           | 把 Telegram 上 tgs 格式的表情包转换为 gif 格式。             |
