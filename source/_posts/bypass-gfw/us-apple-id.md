@@ -3,7 +3,7 @@
 title: 美区苹果账号（Apple ID）注册指南
 date: 2019-05-15  
 updated: 2020-03-22    
-categories: 翻墙方法   
+categories: 翻墙方法
 tags: [突破网络审查, Apple ID]  
 
 ---
@@ -16,8 +16,8 @@ tags: [突破网络审查, Apple ID]
 
 不想折腾的用户：
 
-- 购买一个 Apple ID，例如 istore.app（本人没有购买经历，也没有利益关系）。购买成功后请立即修改邮箱和密保。
-- 我收集了一些 [免费的共享 Apple ID（非中国区 ）](https://tingtalk.me/us-apple-id-share/)供读者享用（但 Apple 正在大力封杀共享 Apple ID） ，但找到可用 Apple ID 需要运气和时间。
+- 花金钱 [购买一个 Apple ID](https://istore.app/)，然后修改邮箱和密保
+- 花时间寻找 [免费的共享美区 Apple ID](https://tingtalk.me/us-apple-id-share/)
 
 
 
@@ -27,8 +27,8 @@ tags: [突破网络审查, Apple ID]
 核心思想是伪装成在美国上网的美国人：
 
 - 1 个美国 IP：打开 [番茄食用指南](https://tingtalk.me/fq/) > 买番茄 > 迷雾通：选择一个美国的线路，**并 [测试 IP](https://whoer.net/zh)  归属地是否为美国**（某些付费的番茄通过香港 IP 中转，可能无法获得原生美国 IP）。
-- 1 个美国地址：借助 [地址生成器](https://www.fakeaddressgenerator.com/World/us_address_generator) 获得一个虚假的美国人信息。优选免税州（State）：Delaware / Montana / New Hampshire / Oregon。并把这个地址备份在记事本，在以后数字移民的过程中，可能会再次用得上，例如 [注册美国区的 PayPal + 绑定美国区的 Apple I](https://bigfoxgod.com/notes/2020/02/17/sign-up-paypal-and-successfully-bind-to-us-appleid-2020/)D，就不用去淘宝买有风险的黑卡充值了。
-- 1 个未注册过 Apple ID 的 email，尽量不要使用 163 邮箱，可以选择 Outlook 或者 Gmail。
+- 1 个美国地址：借助 [地址生成器](https://www.fakeaddressgenerator.com/World/us_address_generator) 获得一个虚假的美国人信息。优选免税州（State）：Delaware / Montana / New Hampshire / Oregon。并把这个地址备份在记事本，在以后数字移民的过程中，可能会再次用得上，例如 [注册美国区的 PayPal + 绑定美国区的 Apple ID](https://bigfoxgod.com/notes/2020/02/17/sign-up-paypal-and-successfully-bind-to-us-appleid-2020/)。
+- 1 个未注册过 Apple ID 的 email，尽量不要使用 163 邮箱和 QQ 邮箱，可以选择 Outlook 或者 Gmail。
 - 1 台安装了 iTunes 的设备（任选其一）
   - Windows 电脑需要下载 [iTunes](https://www.apple.com/itunes/)
   - MacBook 电脑自带  iTunes
