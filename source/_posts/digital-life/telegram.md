@@ -374,7 +374,8 @@ Telegram 有一个非常人性化的特性：**记忆浏览进度**，打开对�
 - 长按，在弹出的界面中选择 Reply。
 
 **电脑**
-- 左键双击消息的空白处，例如时间附近。
+- 左键单击对话框的右上角的 Reply。
+- 左键双击消息的空白处，例如在时间附近。
 - 右击消息，在弹出的菜单中选择 Reply。
 
 点击引用的消息，就会向上滚动到原始消息（[If you tap on the quote, the app scrolls up to the original message](https://telegram.org/blog/replies-mentions-hashtags#replies)）。
@@ -453,7 +454,7 @@ Telegram 有一个非常人性化的特性：**记忆浏览进度**，打开对�
 
 请注意：
 
-- 原图不会压缩图片，但是会暴露文件名。
+- 原图不会压缩图片，但是会暴露文件名、隐藏的 GPS 信息和拍摄信息，慎重发送。
 - Telegram 会记住你的操作习惯，下次发送图片时不必再次勾选原图选项。
 
 
@@ -1089,6 +1090,7 @@ https://rsshub.app/telegram/channel/tingtalk
 | [小虎の自留地](https://t.me/xiaohudejia)                  | 讨论家装心得或者有趣实用的家具电器。                         |
 | [Leonn 的博客](https://t.me/liyuans)                      | 低价主机（VPS）资源。                                        |
 | [Yachen's Channel](https://t.me/yachme)                   | 刘亚晨是 Surge 的开发者\| [Yachen's Blog](https://yach.me/)  |
+| [MolunSays](https://t.me/molun)                           | 希冀笔尖之下，世界兴旺繁华 \| [博客](https://molun.net/)     |
 
 [中文独立博客列表](https://github.com/timqian/chinese-independent-blogs) by timqian
 
@@ -1105,11 +1107,12 @@ https://rsshub.app/telegram/channel/tingtalk
 
 ### 🎞️ 影视
 
-| 频道                                            | 详情                                                 |
-| ----------------------------------------------- | ---------------------------------------------------- |
-| [4K 影视屋](https://t.me/dianying4K)            | 蓝光无损电影。                                       |
-| [远鉴字幕组发布频道](https://t.me/VisionarySub) | 本字幕组致力于非院线海外电影及海外剧集的译制与分享。 |
-| [苍炎影院](https://t.me/cangyanmovie)           | 分享最新最热门的优质电影。                           |
+| 频道                                            | 详情                                                         |
+| ----------------------------------------------- | ------------------------------------------------------------ |
+| [4K 影视屋](https://t.me/dianying4K)            | 蓝光无损电影。                                               |
+| [远鉴字幕组发布频道](https://t.me/VisionarySub) | 本字幕组致力于非院线海外电影及海外剧集的译制与分享。         |
+| [霸王龙发布频道](https://t.me/T_rex2333)        | 做一个有温度，有思想，懂粉丝的压制组。<br/>每天定时更新，选取优质影片源。<br/>专注于韩美剧，经典的电影榜单。 |
+| [苍炎影院](https://t.me/cangyanmovie)           | 分享最新最热门的优质电影。                                   |
 
 
 
@@ -1152,9 +1155,11 @@ https://rsshub.app/telegram/channel/tingtalk
 | [Word Power Made Easy](https://t.me/pieroots) | 利用词根（原始印欧语、拉丁语、古希腊语）学习英语单词。       |
 | [中文社科讲座资讯](https://t.me/chwebinars)   | 一个讲座信息聚合和 PPT 共享平台。                            |
 | [什么书值得读](https://t.me/zreadpush)        | 仅推送某亚原版资源，可同时下载 `.azw3` `.epub` `.mobi` 的电子书。 |
+| [好书分享频道](https://t.me/haoshufenxiang)   | 学习，是一辈子的大事。                                       |
 | [小声读书](https://t.me/weekly_books)         | 一个探索数字阅读可能性和未来的开放项目，致力于打破信息茧房，挖掘价值信息。 |
 | [值得一看的文章](https://t.me/readgoods)      | 阅读更少，收获更多。                                         |
 | [云上报刊亭](https://t.me/magazinesclub)      | 英文报刊杂志、电子书、报纸和外文杂志精选。                   |
+| [Λ-Reading](https://t.me/GoReading)           | 分享书和阅读、认知科学、科技哲学、新科技以及其它给生活带来一丝美好的事物 \| [Newsletter](https://rizime.substack.com/) |
 
 插播一个免费的广告：学英语，推荐购买郝海龙老师的[《英语自学手册》](https://sspai.com/series/77)（￥119）。
 
@@ -1180,17 +1185,19 @@ https://rsshub.app/telegram/channel/tingtalk
 
 ### 🗄️ 搬运
 
-| 频道                                                       | 详情                                                         |
-| ---------------------------------------------------------- | ------------------------------------------------------------ |
-| [煎蛋无聊图](https://t.me/jandan_pic)                      | 自动抓取煎蛋首页推荐无聊图及其评论。                         |
-| [你知道的太多了](https://t.me/uknow2much)                  | 不定期发布和转载各类不一定靠谱的内幕、流言蜚语、小知识等。   |
-| [蛋挞报](https://t.me/pincongessence)                      | 分享阅读体验。                                               |
-| [微信搬运工](https://t.me/WeChatEssence)                   | 有些微信的内容分享了之后就和谐了，本频道可以做个备份，以及丰富电报上的中文内容（不可否认还是有很多非政治的优质内容在微信公众号里）。 |
-| [微博精选](https://t.me/weibo_read)                        | 来自微博的文章、资源和观点。                                 |
-| [豆瓣精选](https://t.me/douban_read)                       | 豆瓣书影音，以及相关讨论。                                   |
-| [即刻精选](https://t.me/jike_collection)                   | 精选即刻 app 热门话题更新。我的即刻 ID 是 [Dr_Ting](https://m.okjike.com/users/Zhong_Waiting)。 |
-| [你不知道的内幕消息](https://t.me/inside1024)              | 同时抓取来自即刻 app 的 #大公司的负面新闻。                  |
-| [Matters 閲讀精選](https://t.me/MattersHub)                | matters.news 一個自主、永續、有價的創作與公共討論空間。      |
+| 频道                                          | 详情                                                         |
+| --------------------------------------------- | ------------------------------------------------------------ |
+| [煎蛋无聊图](https://t.me/jandan_pic)         | 自动抓取煎蛋首页推荐无聊图及其评论。                         |
+| [内涵段子：皮一下](https://t.me/duanzitg)     | 如题。                                                       |
+| [美图与沙雕](https://t.me/shadiaotu)          | 如题。                                                       |
+| [你知道的太多了](https://t.me/uknow2much)     | 不定期发布和转载各类不一定靠谱的内幕、流言蜚语、小知识等。   |
+| [蛋挞报](https://t.me/pincongessence)         | 分享阅读体验。                                               |
+| [微信搬运工](https://t.me/WeChatEssence)      | 有些微信的内容分享了之后就和谐了，本频道可以做个备份，以及丰富电报上的中文内容（不可否认还是有很多非政治的优质内容在微信公众号里）。 |
+| [微博精选](https://t.me/weibo_read)           | 来自微博的文章、资源和观点。                                 |
+| [豆瓣精选](https://t.me/douban_read)          | 豆瓣书影音，以及相关讨论。                                   |
+| [即刻精选](https://t.me/jike_collection)      | 精选即刻 app 热门话题更新。我的即刻 ID 是 [Dr_Ting](https://m.okjike.com/users/Zhong_Waiting)。 |
+| [你不知道的内幕消息](https://t.me/inside1024) | 同时抓取来自即刻 app 的 #大公司的负面新闻。                  |
+| [Matters 閲讀精選](https://t.me/MattersHub)   | matters.news 一個自主、永續、有價的創作與公共討論空間。      |
 
 
 
@@ -1204,7 +1211,8 @@ https://rsshub.app/telegram/channel/tingtalk
 | [如有乐享](https://t.me/ruyoblog)                   | 更新 [如有乐享博客](https://51.ruyo.net/) 的内容：云服务器、优惠活动、羊毛信息以及各种 Bug。 |
 | [iShare News](https://t.me/iShareNews)              | 一个没有简介的资源分享频道。                                 |
 | [Zapro Notice](https://t.me/zaproshare)             | 软件分享。                                                   |
-| [Google Drive 资源](https://t.me/gdurl)             | 各种 Google Drive 资源，包括电影、电子书、无损音乐等。       |
+| [Google Drive 资源](https://t.me/gdurl)             | 各种 Google Drive 资源，包括电影、电子书、无损音乐等，10 万+ 关注。 |
+| [Google Voice 靓号](https://t.me/voice_google)      | 一个 GV 卖家。                                               |
 
 
 
@@ -1221,6 +1229,7 @@ https://rsshub.app/telegram/channel/tingtalk
 | [History](https://t.me/History)                         | Digging Past. Photos from Past who shaped today.             |
 | [每日无数猫](https://t.me/miaowu)                       | 让我们打造一个全是猫的世界！ฅ^•ﻌ•^ฅ                          |
 | [NS 新闻转报](https://t.me/SwitchNewCN)                 | 任天堂（Nintendo）相关的新闻。                               |
+| [基督讲道](https://t.me/TelBaptist)                     | 一直没有找到好的基督讲道资源频道，我就自己了建一个。         |
 
 此外，Telegram 上也有 [国家或地区的领导人官方频道](https://t.me/durov/148)。
 
