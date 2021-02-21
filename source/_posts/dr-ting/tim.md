@@ -147,7 +147,13 @@ tags: [庭勃士]
 
 ### 2020-05-11
 
-还个人情债，加入姐夫创立的 [电动自行车充电器（电源）公司](https://www.loopowertech.com.cn/)，打杂中。
+还个人情债，加入大姐夫创立的 [电动自行车充电器（电源）公司](https://www.loopowertech.com.cn/) 打杂：采购、助理硬件工程师、平面设计师、展会助理……
+
+### 2020-12-01
+
+通过 [Telegram 教程](https://tingtalk.me/telegram/)，一位读者邀请我回到外贸行业，加入 [Grazy](https://gtcscooter.com/)，卖电动自行车和电动滑板车。
+
+
 
 
 ## 意向职业
