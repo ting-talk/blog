@@ -572,6 +572,13 @@ Telegram 有一个非常人性化的特性：**记忆浏览进度**，打开对�
 
 
 
+#### ⏳ 自动删除
+
+- 自动删除只适用于定时器设置后发送的消息，以前的消息将保留在聊天记录中。
+- 倒计时在消息发送时开始计时；而秘密聊天是阅后即焚，是从已读后开始计时。
+
+
+
 ### 🗣️ 语音消息
 
 - 支持 2 倍速播放（[2X playback](https://telegram.org/blog/unread-replace-2x#double-time-playback-for-voice-and-video-messages)）。
@@ -579,6 +586,10 @@ Telegram 有一个非常人性化的特性：**记忆浏览进度**，打开对�
 - [记忆播放位置](https://telegram.org/blog/verifiable-apps-and-more#podcast-and-audiobook-support)：超过 20 分钟的音频文件，Telegram 会帮你记住最后的播放位置，以便中断后再次收听（Telegram apps will remember your last position when resuming playback of audio files longer than 20 minutes.）。
 
 此外，在 Telegram 上进行语音通话（打电话），需要在翻墙服务端/客户端开启 UDP 转发。
+
+
+
+
 
 
 
@@ -1091,6 +1102,7 @@ https://rsshub.app/telegram/channel/tingtalk
 | [Leonn 的博客](https://t.me/liyuans)                      | 低价主机（VPS）资源。                                        |
 | [Yachen's Channel](https://t.me/yachme)                   | 刘亚晨是 Surge 的开发者\| [Yachen's Blog](https://yach.me/)  |
 | [MolunSays](https://t.me/molun)                           | 希冀笔尖之下，世界兴旺繁华 \| [博客](https://molun.net/)     |
+| [日常人间观察](https://t.me/hayami_kiraa)                 | 关心科技 / 人文 / 艺术 / 城市公共空间 / 女性和性别议题 / 劳工权益 / 个体叙事 / 电影 / 音乐 / 书 / 星星…… |
 
 [中文独立博客列表](https://github.com/timqian/chinese-independent-blogs) by timqian
 
@@ -1160,6 +1172,7 @@ https://rsshub.app/telegram/channel/tingtalk
 | [值得一看的文章](https://t.me/readgoods)      | 阅读更少，收获更多。                                         |
 | [云上报刊亭](https://t.me/magazinesclub)      | 英文报刊杂志、电子书、报纸和外文杂志精选。                   |
 | [Λ-Reading](https://t.me/GoReading)           | 分享书和阅读、认知科学、科技哲学、新科技以及其它给生活带来一丝美好的事物 \| [Newsletter](https://rizime.substack.com/) |
+| [臭（xiù）文字](https://t.me/SniffAtWord)     | 诗歌频道；我是一个嗅觉特别发达的人，你说，然而，没有一种艺术可供我的鼻子用武，只有生命可以。 |
 
 插播一个免费的广告：学英语，推荐购买郝海龙老师的[《英语自学手册》](https://sspai.com/series/77)（￥119）。
 
@@ -1224,12 +1237,12 @@ https://rsshub.app/telegram/channel/tingtalk
 | [博海拾贝](https://t.me/bohaishibei)                    | [博海拾贝](https://bh.sb/) 的网站：bh.sb                     |
 | [Rick Morty and Fans](https://t.me/Rick_Morty_and_Fans) | Wubba Lubba Dub Dub                                          |
 | [回形针PaperClip & 灵光灯泡](https://t.me/papercliphub) | 回形针内容推送。                                             |
-| [Donald J. Trump](https://t.me/trump)                   | 45th President of the United States of America.              |
 | [合租](https://t.me/hezu2)                              | Netflix、YouTube、Spotify、Office 365、HBO、Apple、Surge……   |
 | [History](https://t.me/History)                         | Digging Past. Photos from Past who shaped today.             |
 | [每日无数猫](https://t.me/miaowu)                       | 让我们打造一个全是猫的世界！ฅ^•ﻌ•^ฅ                          |
 | [NS 新闻转报](https://t.me/SwitchNewCN)                 | 任天堂（Nintendo）相关的新闻。                               |
 | [基督讲道](https://t.me/TelBaptist)                     | 一直没有找到好的基督讲道资源频道，我就自己了建一个。         |
+| [就要造反](https://t.me/ZaoFaner)                       | 此频道立足生活，以非常古怪的文字风格进行生存经验书写，绘制景观与消费社会中极具现实性的个案，以此为个体提供可操的、创造性的抵制策略与造反计谋。为一切造反者辩护，为所有无用与丰饶辩护。 |
 
 此外，Telegram 上也有 [国家或地区的领导人官方频道](https://t.me/durov/148)。
 
@@ -1371,7 +1384,7 @@ Telegram 的服务器分布在世界各地的数据中心（[Data Center](https:
 
 庭说的群组是 [@tingtalk_group](https://t.me/tingtalk_group)
 
-- 群组人数最高 20 万。
+- 群组人数最高 20 万。转换为广播组（[Broadcast Group](https://telegram.org/blog/autodelete-inv2#groups-with-unlimited-members)）之后，人数将不受限制，但只有管理员可以说话，但是成员仍然可以加入语音聊天。注意，切换之后，将不能回退到普通群组。
 - 静音群组只有在 `@` 提到你、 `Reply` 回复你和 `Pin` 管理员发布群通知时才会收到通知。
 - 新加入的成员可以看到全部的群聊历史记录（[New members can see the entire message history when they join](https://telegram.org/blog/supergroups#supergroups)）。
 - 加入群组之前，可看到（单向）好友是否在列。如果不想让好友知道你加入了某个群组，注册一个小号吧。
