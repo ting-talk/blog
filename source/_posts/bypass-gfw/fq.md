@@ -43,11 +43,11 @@ Ting 我 Talk 一句：只要肉身在中国大陆，我们的一切行动听党
 
 ## 💰 买番茄
 
-[点击这里](https://tingtalk.me/fq-ever/) 查看曾经推荐过的番茄商（flycloud、Just My Socks），因为价格或稳定性，不推荐购买。
+[点击这里](https://tingtalk.me/fq-ever/) 查看曾经推荐过的番茄商 [Just My Socks](https://justmysocks3.net/members/aff.php?aff=1010)，因为价格有些高，经济宽裕的用户可以试试。
 
-[点击这里](https://tingtalk.me/fq-free/) 查看免费的番茄商（推荐使用迷雾通） ，如果本文中提供的番茄购买链接被封了，可以作为临时的备用访问途径，不推荐长期使用。因为时间宝贵，请对自己好一点。
+[点击这里](https://tingtalk.me/fq-free/) 查看免费的番茄商（推荐使用迷雾通，已上传至 [蓝奏云](https://lanzous.com/b00t9wiva) 网盘） ，如果本文中提供的番茄购买链接被封了，可以作为临时的备用访问途径，不推荐长期使用。因为时间宝贵，请对自己好一点。
 
-我目前的主力出海工具是 ssrcloud，多年老机场，节点不少，价格适中，目前还行。
+我目前的主力出海工具是 ssrcloud，多年老机场，节点个数 200+，价格适中，目前还行。
 
 
 
