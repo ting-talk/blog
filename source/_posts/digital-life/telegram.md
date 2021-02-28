@@ -1,7 +1,7 @@
 ---
 title: Telegram：新手指南、使用教程及频道推荐（持续更新中）
 date: 2019-11-09  
-updated: 2021-02-04
+updated: 2021-02-28
 categories: 数字生活  
 tags: [网上冲浪指南, 突破网络审查, Telegram]
 ---
@@ -1192,7 +1192,8 @@ https://rsshub.app/telegram/channel/tingtalk
 | [毒药机场评测](https://t.me/DuyaoSS)                 | 由于大陆地区网络环境十分复杂，测速不代表推荐。另外，有些机场会泄露个人信息，选购时多加搜索或者进入机场用户群打探打探。 |
 | [科学上网与机场观察](https://t.me/jichangtj)         | 科学上网与机场相关观察、点评、随想和新闻资讯。               |
 | [ACL4SSR](https://t.me/ACL4SSR)                      | https://github.com/ACL4SSR/ACL4SSR 官方频道。                |
-| [QuanX & Surge & Loon 脚本收集](https://t.me/NobyDa) |                                                              |
+| [QuanX & Surge & Loon 脚本收集](https://t.me/NobyDa) | 各种脚本。                                                   |
+| [人人翻墙，则墙自倒](https://t.me/cnhumanright99)    | 免费提供 Trojan、Vmess 节点。                                |
 
 
 
@@ -1234,6 +1235,7 @@ https://rsshub.app/telegram/channel/tingtalk
 | 频道                                                    | 详情                                                         |
 | ------------------------------------------------------- | ------------------------------------------------------------ |
 | [iYouPort](https://t.me/iyouport)                       | IYP 不是过眼云烟的新闻网站，我们提供实战能力，这里是值得您反复回看的档案室。 |
+| [安全上网注意事项](https://t.me/anquanshangwang)        | 转载一些关于安全上网的文章，这些文章都比较浅显。             |
 | [博海拾贝](https://t.me/bohaishibei)                    | [博海拾贝](https://bh.sb/) 的网站：bh.sb                     |
 | [Rick Morty and Fans](https://t.me/Rick_Morty_and_Fans) | Wubba Lubba Dub Dub                                          |
 | [回形针PaperClip & 灵光灯泡](https://t.me/papercliphub) | 回形针内容推送。                                             |
@@ -1361,7 +1363,8 @@ Telegram 的服务器分布在世界各地的数据中心（[Data Center](https:
 
 | Bot                                                | Info                                                         |
 | -------------------------------------------------- | ------------------------------------------------------------ |
-| [@CorsaBot](https://telegram.me/CorsaBot)          | Make Instant View from any article. 快速把文章把文章备份到 [Telegraph](https://telegra.ph/)。 |
+| [@bingdict_bot](https://t.me/bingdict_bot)         | 基于 Bing 开发的中英文翻译机器人。                           |
+| [@CorsaBot](https://t.me/CorsaBot)                 | Make Instant View from any article. 快速把文章把文章备份到 [Telegraph](https://telegra.ph/)。 |
 | [@IFTTT](https://t.me/IFTTT)                       | [With this bot you can use IFTTT to link your Telegram groups or channels to more than 360 other services like Twitter and Instagram, or connected devices like Hue lights and Nest.](https://ifttt.com/telegram) |
 | [@githubbot](https://t.me/githubbot)               | 推送 GitHub 仓库的动态。                                     |
 | [@GmailBot](https://t.me/GmailBot)                 | 👍 在 Telegram 上收发 📧 Gmail。``                             |
