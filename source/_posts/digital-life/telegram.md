@@ -1269,7 +1269,7 @@ Bots 就像运行在 Telegram 内部的小程序。借助 [Telegram 开放的 AP
 | [@gamee](https://telegram.me/gamee)              | 在群组中输入 `@gamee`，选择一个游戏，立刻和你的朋友 [在 Telegram 上玩小游戏](https://telegram.org/blog/games#ready-to-play)。 |
 | [@gif](https://t.me/gif)                         | 👍 GIF 动图搜索，支持中文。例如 `@gif 你好`。                 |
 | [@imdb](https://telegram.me/imdb)                | 查看影视作品在 [互联网电影资料库（IMDb）](https://www.imdb.com/)的评分。 |
-| [@letmebot](https://telegram.me/letmebot)        | 集合了各种搜索引擎：Google、DuckDuckGo、YouTube、Amazon、Uber Dictionary…… |
+| [@GoogleDEBot](https://telegram.me/GoogleDEBot)  | 在任意聊天框使用 Google 搜索引擎。                           |
 | [@like](https://t.me/like)                       | 👍 添加 emoji-based like buttons，例如 👍 / 👎。在搜索框输入 `@like`，预设一些喜欢的投票符号（最多 6 个），然后就可以在聊天框输入 `@like` 调用这些预设。 |
 | [@music](https://telegram.me/music)              | 帮你找到动听的古典音乐。                                     |
 | [@pic](https://telegram.me/pic)                  | [图片搜索 by Yandex](https://yandex.com/images/)（支持中英文）。 |
