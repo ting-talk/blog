@@ -1243,7 +1243,7 @@ https://rsshub.app/telegram/channel/tingtalk
 | [History](https://t.me/History)                         | Digging Past. Photos from Past who shaped today.             |
 | [每日无数猫](https://t.me/miaowu)                       | 让我们打造一个全是猫的世界！ฅ^•ﻌ•^ฅ                          |
 | [NS 新闻转报](https://t.me/SwitchNewCN)                 | 任天堂（Nintendo）相关的新闻。                               |
-| [基督讲道](https://t.me/TelBaptist)                     | 一直没有找到好的基督讲道资源频道，我就自己了建一个。         |
+| [基督讲道](https://t.me/TelBaptist)                     | 基督讲道资源频道。                                           |
 | [就要造反](https://t.me/ZaoFaner)                       | 此频道立足生活，以非常古怪的文字风格进行生存经验书写，绘制景观与消费社会中极具现实性的个案，以此为个体提供可操的、创造性的抵制策略与造反计谋。为一切造反者辩护，为所有无用与丰饶辩护。 |
 
 此外，Telegram 上也有 [国家或地区的领导人官方频道](https://t.me/durov/148)。
