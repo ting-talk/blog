@@ -608,6 +608,11 @@ A：可以，但没必要。所有医疗险，都是实报实销，买再多，�
 
 - `12378`（工作日 9:00 至 17:00）
 
+**相关播客**
+
+- [保持通话](https://www.xiaoyuzhoufm.com/podcast/60336ff53fb239af6489ccf1) by 关哥；[发刊词](https://new.qq.com/omn/20210302/20210302A0DKBW00.html)
+- RSS Feed：https://justpodmedia.com/rss/insurancetips.xml
+
 **参考资料**
 
 - [放心选](https://fangxin.com/)

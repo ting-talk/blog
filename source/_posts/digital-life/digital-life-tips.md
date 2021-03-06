@@ -197,6 +197,7 @@ tags: 网上冲浪指南
 - [假装 Windows 升级界面](http://fakeupdate.net/)：用假的 Windows 升级界面骗你的同事和朋友吧，以此达到此时无法工作的假象。
 - [OCR 图片识别文字工具 - 蛙蛙在线工具](https://www.iamwawa.cn/ocr.html)
 - [中国失踪人口档案库](http://zgszrkdak.cn/)
+- [中国法律服务网](https://ai.12348.gov.cn/)：智能法律咨询，根据问卷提示填写相关信息，在线为您免费出具 法律意见书，供您参考
 - [公交线路辐射图（周边公交通向哪）](https://bus.daibor.com/#/)：作者的介绍：[做完这个网站，终于知道任意位置的公交都通向哪里了](https://sspai.com/post/59229)
 - [舔狗日记](http://tg.94275.cn/)
 - [在线 DOS 游戏合集](https://dos.zczc.cz/)

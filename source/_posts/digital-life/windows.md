@@ -213,6 +213,7 @@ powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61
 
 - 视频教程：[如何在局域网中共享电脑文件夹？- Topbook](https://topbook.cc/search/article?keywords=%E5%B1%80%E5%9F%9F%E7%BD%91&selectedArticle=1367)
 - 视频教程：[如何在局域网中共享打印机？- Topbook](https://topbook.cc/search/article?keywords=%E5%B1%80%E5%9F%9F%E7%BD%91&selectedArticle=1275)
+- 视频教程：[这 10 个设置，让你的电脑用起来更加干净舒服 - 喵喵折 App](https://www.bilibili.com/video/BV1954y1h7y3)
 - 访问 microsoft.com/zh-cn/tips/home 查阅更多 Windows 使用技巧。
 
 
@@ -823,6 +824,10 @@ Windows 的默认图片浏览器非常难用。而 qimgv 是一款开源的图�
 3. `安装磁盘的位置`：C 盘。
 4. 开始安装，选择专业版。
 
+##### 设置英文用户名（账户名）
+
+避免某些程序不兼容。
+
 
 **更多玩法**
 
@@ -874,6 +879,8 @@ Windows 的默认图片浏览器非常难用。而 qimgv 是一款开源的图�
 
 **激活后，找回隐藏的桌面图标**
 选择 `开始` 菜单 ，然后依次选择 `设置` > `个性化` > `主题` > `桌面主题设置` > 勾选想要放在在桌面上的图标，例如 `计算机`。
+
+
 
 
 

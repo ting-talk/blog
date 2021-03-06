@@ -1015,6 +1015,7 @@ IOC（International Olympic Committee，国际奥林匹克委员会）。这样�
 - [「安卓果酱」的写作规范](https://cn.apkjam.com/blog/wsg.html)
 - [文案风格指南 - LeanCloud](https://open.leancloud.cn/copywriting-style-guide/)
 - [在线发布文章的排版规范 - 班班](https://blog.dlzhang.com/posts/8f12814/)
+- [学术写作指要 - M-x Chris-An-Emacser](https://chriszheng.science/essentials-of-academic-writing/)
 
 
 
