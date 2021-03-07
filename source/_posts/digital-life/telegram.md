@@ -1,7 +1,7 @@
 ---
 title: Telegram：新手指南、使用教程及频道推荐（持续更新中）
 date: 2019-11-09  
-updated: 2021-02-28
+3updated: 2021-03-08
 categories: 数字生活  
 tags: [网上冲浪指南, 突破网络审查, Telegram]
 ---
@@ -1143,18 +1143,20 @@ https://rsshub.app/telegram/channel/tingtalk
 | [白昼电台 The Day](https://t.me/baizhoutheday)               | 黑夜已深，白昼将近，我们就当脱去暗昧的行为，带上光明的兵器。 |
 | [维生素 E](https://t.me/vitamineEpodcast)                    | 经济学与哲学知识分享。                                       |
 | [Go 夜聊](https://t.me/talkgofm_channel)                     | 一档由杨文和欧长坤主持的针对 Go 语言的播客节目               |
+| [阿乐杂货铺](https://t.me/hoiale)                            | 这里每日推送小人物播客及播客周边；职业发展、自我成长、读书电影、海外工作与生活碎片。 |
 
 
 
 ### 🎵 音乐
 
-| 频道                                             | 详情                                   |
-| ------------------------------------------------ | -------------------------------------- |
-| [知音](https://t.me/Musiccnchannel)              | 👍 发一些关于音乐的东西。               |
-| [杂鱼Music Channel](https://t.me/ZAYU_music)     | 我相信，爱音乐的人都有着一颗柔软的心。 |
-| [音乐世界](https://t.me/lumingguandj)            | 温柔被我唱成了歌，伴你人山人海不停留。 |
-| [Classical Music](https://t.me/exploreclassical) | 一起来听古典音乐吧。                   |
-| [蛙音通讯](https://t.me/wahyin)                  | Feels wonderful again man.             |
+| 频道                                             | 详情                                         |
+| ------------------------------------------------ | -------------------------------------------- |
+| [知音](https://t.me/Musiccnchannel)              | 👍 发一些关于音乐的东西。                     |
+| [杂鱼Music Channel](https://t.me/ZAYU_music)     | 我相信，爱音乐的人都有着一颗柔软的心。       |
+| [音乐世界](https://t.me/lumingguandj)            | 温柔被我唱成了歌，伴你人山人海不停留。       |
+| [Classical Music](https://t.me/exploreclassical) | 一起来听古典音乐吧。                         |
+| [蛙音通讯](https://t.me/wahyin)                  | Feels wonderful again man.                   |
+| [无损音乐频道](https://t.me/undamaged_music)     | 分享无损音乐、高品质音乐、原碟整轨分轨音频。 |
 
 下载音乐，请查阅下文中的音乐机器人。
 

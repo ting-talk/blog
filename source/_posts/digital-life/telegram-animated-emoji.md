@@ -2,7 +2,7 @@
 
 title: Telegram 动态大表情合集
 date: 2020-03-01  
-updated: 2020-11-19  
+updated: 2021-03-01 
 categories: 数字生活  
 tags: [Telegram, 网上冲浪指南]
 
@@ -60,6 +60,8 @@ tags: [Telegram, 网上冲浪指南]
 | 😍              | [Smiling Face with Heart-Eyes](https://emojipedia.org/smiling-face-with-heart-eyes/) |
 | 🥰              | [Smiling Face with Hearts](https://emojipedia.org/smiling-face-with-hearts/) |
 | 😘              | [Face Blowing a Kiss](https://emojipedia.org/face-blowing-a-kiss/) |
+| 😗              | [Kissing Face](https://emojipedia.org/kissing-face/)         |
+| 😙              | [Kissing Face with Smiling Eyes](https://emojipedia.org/kissing-face-with-smiling-eyes/) |
 | 😚              | [Kissing Face with Closed Eyes](https://emojipedia.org/kissing-face-with-closed-eyes/) |
 | 😋              | [Face Savoring Food](https://emojipedia.org/face-savoring-food/) |
 | 😛              | [Face with Tongue](https://emojipedia.org/face-with-tongue/) |
@@ -113,6 +115,7 @@ tags: [Telegram, 网上冲浪指南]
 | 🤠              | [Face with Cowboy Hat](https://emojipedia.org/cowboy-hat-face/ "🤠 Face with Cowboy Hat Emoji") |
 | 😈              | [Smiling Face with Horns](https://emojipedia.org/smiling-face-with-horns/) |
 | 👿              | [Angry Face with Horns](https://emojipedia.org/angry-face-with-horns/) |
+| 🤡              | [Clown Face](https://emojipedia.org/clown-face/)             |
 | 💩              | [Pile of Poo](https://emojipedia.org/pile-of-poo/)           |
 | 👻              | [Ghost](https://emojipedia.org/ghost/)                       |
 | 💀              | [Skull](https://emojipedia.org/skull/)                       |
@@ -128,13 +131,19 @@ tags: [Telegram, 网上冲浪指南]
 | 😿              | [Crying Cat](https://emojipedia.org/crying-cat/)             |
 | 😾              | [Pouting Cat](https://emojipedia.org/pouting-cat/)           |
 | 👏              | [Clapping Hands](https://emojipedia.org/clapping-hands/)     |
+| 🤝              | [Handshake](https://emojipedia.org/handshake/)               |
 | 👍              | [Thumbs Up](https://emojipedia.org/thumbs-up/)               |
 | 👎              | [Thumbs Down](https://emojipedia.org/thumbs-down/)           |
-| 👋              | [Waving Hand](https://emojipedia.org/waving-hand/)           |
+| 🤞              | [Crossed Fingers](https://emojipedia.org/crossed-fingers/)   |
+| ✌️              | [Victory Hand](https://emojipedia.org/victory-hand/)         |
 | 👌              | [OK Hand](https://emojipedia.org/ok-hand/)                   |
+| ☝️              | [Index Pointing Up](https://emojipedia.org/index-pointing-up/) |
+| 👋              | [Waving Hand](https://emojipedia.org/waving-hand/)           |
 | 💪              | [Flexed Biceps](https://emojipedia.org/flexed-biceps/)       |
 | 🦾              | [Mechanical Arm](https://emojipedia.org/mechanical-arm/)     |
+| 🖕              | [Middle Finger](https://emojipedia.org/middle-finger/)       |
 | 💋              | [Kiss Mark](https://emojipedia.org/kiss-mark/)               |
+| 👮‍♀️             | [Woman Police Officer](https://emojipedia.org/woman-police-officer/) |
 | 👩‍⚕️             | [Woman Health Worker](https://emojipedia.org/woman-health-worker/) |
 | 👨‍⚕️             | [Man Health Worker](https://emojipedia.org/man-health-worker/) |
 | 👨‍🏫             | [Man Teacher](https://emojipedia.org/man-teacher/)           |
@@ -177,7 +186,9 @@ tags: [Telegram, 网上冲浪指南]
 | 🌒              | [Waxing Crescent Moon](https://emojipedia.org/waxing-crescent-moon/) |
 | 🌓              | [First Quarter Moon](https://emojipedia.org/first-quarter-moon/) |
 | 🌔              | [Waxing Gibbous Moon](https://emojipedia.org/waxing-gibbous-moon/) |
+| 💫              | [Dizzy](https://emojipedia.org/dizzy/)                       |
 | ⭐️              | [Star](https://emojipedia.org/star/)                         |
+| 🌟              | [Glowing Star](https://emojipedia.org/glowing-star/)         |
 | ✨              | [Sparkles](https://emojipedia.org/sparkles/)                 |
 | ⚡️              | [High Voltage](https://emojipedia.org/high-voltage/)         |
 | 🔥              | [Fire](https://emojipedia.org/fire/)                         |
@@ -195,6 +206,7 @@ tags: [Telegram, 网上冲浪指南]
 | 🍆              | [Eggplant](https://emojipedia.org/eggplant/)                 |
 | 🎂              | [Birthday Cake](https://emojipedia.org/birthday-cake/)       |
 | 🥂              | [Clinking Glasses](https://emojipedia.org/clinking-glasses/) |
+| 🍾              | [Bottle with Popping Cork](https://emojipedia.org/bottle-with-popping-cork/) |
 
 
 
@@ -206,19 +218,22 @@ tags: [Telegram, 网上冲浪指南]
 | 🏀              | [Basketball](https://emojipedia.org/basketball/)     |
 | 🎲              | [Game Die](https://emojipedia.org/game-die/)         |
 | 🎯              | [Direct Hit](https://emojipedia.org/direct-hit/)     |
+| 🎮              | [Video Game](https://emojipedia.org/video-game/)     |
 | 🎰              | [Slot Machine](https://emojipedia.org/slot-machine/) |
 
 
 
 ## 🚘
 
-| Animated Emoji | Emojipedia                                     |
-| -------------- | ---------------------------------------------- |
-| 🚕              | [Taxi](https://emojipedia.org/taxi/)           |
-| 🚑              | [Ambulance](https://emojipedia.org/ambulance/) |
-| 🗿              | [Moai](https://emojipedia.org/moai/)           |
-| 🎇              | [Sparkler](https://emojipedia.org/sparkler/)   |
-| 🎆              | [Fireworks](https://emojipedia.org/fireworks/) |
+| Animated Emoji | Emojipedia                                       |
+| -------------- | ------------------------------------------------ |
+| 🚗              | [Automobile](https://emojipedia.org/automobile/) |
+| 🚕              | [Taxi](https://emojipedia.org/taxi/)             |
+| 🚓              | [Police Car](https://emojipedia.org/police-car/) |
+| 🚑              | [Ambulance](https://emojipedia.org/ambulance/)   |
+| 🗿              | [Moai](https://emojipedia.org/moai/)             |
+| 🎇              | [Sparkler](https://emojipedia.org/sparkler/)     |
+| 🎆              | [Fireworks](https://emojipedia.org/fireworks/)   |
 
 
 
@@ -267,8 +282,15 @@ tags: [Telegram, 网上冲浪指南]
 | 🤍              | [White Heart](https://emojipedia.org/white-heart/)           |
 | 🤎              | [Brown Heart](https://emojipedia.org/brown-heart/)           |
 | 💔              | [Broken Heart](https://emojipedia.org/broken-heart/)         |
+| ❣️              | [Heart Exclamation](https://emojipedia.org/heart-exclamation/) |
+| 💕              | [Two Hearts](https://emojipedia.org/two-hearts/)             |
+| 💞              | [Revolving Hearts](https://emojipedia.org/revolving-hearts/) |
+| 💓              | [Beating Heart](https://emojipedia.org/beating-heart/)       |
+| 💗              | [Growing Heart](https://emojipedia.org/growing-heart/)       |
+| 💖              | [Sparkling Heart](https://emojipedia.org/sparkling-heart/)   |
 | 💘              | [Heart with Arrow](https://emojipedia.org/heart-with-arrow/) |
 | 💝              | [Heart with Ribbon](https://emojipedia.org/heart-with-ribbon/) |
+| 💟              | [Heart Decoration](https://emojipedia.org/heart-decoration/) |
 | 💤              | [Zzz](https://emojipedia.org/zzz/)                           |
 | 💱              | [Currency Exchange](https://emojipedia.org/currency-exchange/) |
 | 📣              | [Megaphone](https://emojipedia.org/megaphone/)               |
