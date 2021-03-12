@@ -10,29 +10,15 @@ tags: 外贸
 
 ![alibaba](alibaba-tutorial/alibaba.png)
 
-阿里巴巴这个「生意人」从来不关心用户体验，只想着榨干你的广告费。
+要想数据好，信保订单少不了。烧 P4P 的人民币玩家，另当别论。
 
 <!-- more -->
 
-## Totorials
-
-- [ ]   [小朱笔记]( https://www.zhudc.com/b2b/ )
 
 
-
-## 有问题先找官方
+**有问题先找官方**
 
 找小何，输入 `找拍档`，快速接入人工客户。
-
-
-
-**官方建议**
-
-- [商品信息滥发处罚规则解读](https://activity.alibaba.com/pc/02ade148.html) 
-- [国际站图片质量规范](https://activity.alibaba.com/pc/588125f6.html)
-- [产品视频拍摄建议](https://activity.alibaba.com/pc/video_regulations.html)
-
-
 
 ## 搭建国际站
 
@@ -78,15 +64,30 @@ tags: 外贸
 
 ## 发布产品
 
-
-
 发产品是为了覆盖关键词，满足卖家的要求。
 
+**参考资料**
+
+- [阿里巴巴国际站商品发布指南](https://duang.alicdn.com/html/rkbKGsYLz)
+- [商品信息滥发处罚规则解读](https://activity.alibaba.com/pc/02ade148.html) 
+- [国际站图片质量规范](https://activity.alibaba.com/pc/588125f6.html)
+- [产品视频拍摄建议](https://activity.alibaba.com/pc/video_regulations.html)
 
 
 ### 标题
 
-营销词 + 重要属性词 + 产品中心词 / 近义词 / 变体
+**结构**
+
+| 2021 Hot | 16GB White |        MP3 Player         | for Women |
+| :------: | :--------: | :-----------------------: | :-------: |
+|  营销词  | 重要属性词 | 产品中心词/ 近义词 / 变体 | 使用场景  |
+
+- 营销词：Best-selling、New style laptops
+- 重要属性词：32GB、9.7''
+- 产品中心词：Tablet PC
+- 产品中心词近义词 / 变体：red laptops
+
+---
 
 - 不建议拆分核心词
 - 核心关键词后置（蜘蛛从后往前抓），但在 for 和 with 前面
@@ -102,10 +103,13 @@ tags: 外贸
 
 ### 主图
 
-- 尺寸：640 × 640 px 至 1000 × 1000 px
+- 白底
+- （近似）正方形尺寸，72 dpi 
+  - 640 × 640 px：最低要求
+  - 750 × 750 px：与详情图的宽度一致
+  - 1000 × 1000 px：官方推荐尺寸
 - 添加图片守护即可，不用自己加水印
 - 第一张主图是重中之重
-- Logo：左上角偏上
 - 认证：不加
 
 
@@ -113,27 +117,24 @@ tags: 外贸
 ### 详情页
 
 - 不要只有图片，关键词和参数要用文字描述
-- 750 × 800 px
-- 不要选择「智能编辑」`存疑`
-- 自定义属性：填满 10 个
+- 宽度 750 px，高度 800 px（做成 750 px，就可以和主图通用了）
+- 智能编辑：可创建模板，一键同步
+- 自定义属性：填满 10 个；不放 MOQ（重复）
 - 关联营销：加链接
 - 产品信息质量最高 4.9 分
 - 产品介绍（60％）
-  - 参数表格（4.9 的必备）
-  - 广告图
-  - 优势
-  - 细节图
+  - 参数表格（4.9 分的必备）
+  - 通过成品图、细节图、360 度图展示：材质、包装、卖点
   - 关联产品营销
 - 公司介绍（40％）
   - 公司信息
-  - 服务优势
-  - 生产流程：质检
-  - 包装方式
-  - 运输方式
-  - 售后服务
+  - 设计研发能力：资质证书、研发车间与流程
+  - 证书（必须是自己的，不然后患无穷）
+  - 生产能力：流程、质检、材料与工艺、生产线展示、生产设备清单与最大产能展示
+  - 运输方式：出口能力，包装，支付，物流地域说明
+  - 服务优势：售前、售后、常见问题、相关提醒
   - 客户合影
   - 合作客户
-  - 证书（必须是自己的，不然后患无穷）
   - FAQ
 
 
@@ -201,8 +202,6 @@ tags: 外贸
 
 
 
-
-
 ## 店铺运营
 
 **RFQ**
@@ -248,9 +247,61 @@ tags: 外贸
 
 ## 免费营销
 
-[官方教程](https://activity.alibaba.com/waimaoquan/kqfkyx.html)
+### RFQ
 
-属于 EDM 邮件营销
+#### 如何分辨虚假 RFQ
+
+没有遵循英文的书写规范，例如没有在英文标点符号（`.`、`.`、`?`）空一格
+
+
+
+#### 如何回复 RFQ 
+
+- 产品名称：工厂优势、出货快、价格
+- 产品细节：生产力、认证、物流、支付
+- 产品图片：清晰
+- 价格详情：用标题搜索产品，对比同行，价格适中
+- 报价补充信息：包含 2 ~ 3 个问题
+  - 物流方式
+  - 支付方式
+  - 下单时间
+  - 下单量
+  - 采购金额
+  - 是否在国际站采购过
+- 名字 → LinkedIn
+- 手机号码 → WhatsApp
+- 电子邮箱 → Skype
+- 名字是否符合所在国家的命名规则
+- [企业诚信查询](https://cha.cheng.xin/)
+- 可能是垃圾询盘的国家：中国，印度，尼日利亚，香港，美国
+
+
+
+#### 用邮件跟进 RFQ
+
+Replied your buying lead posted in Alibaba and here write to check details with you.
+
+
+```
+Dear XXX, 
+This is XXX from XXX, which specialized in 行业 for 多少年. 
+So Glad to get your request on Alibaba About XXX (标题长的时候：复制客户重点关键词，标题不长的时候：粘贴客户发 RFQ 的标题)，We can do it!!! 
+You have a good taste, This item is our hot selling by 2015 and will be trending product in 2016 also. 
+Price is XXXusd (在后面列出这款产品与同行不一样的工艺、质量等，让客户知道为什么你报这个价格） 
+Shipping to USA (国家）Door to Door service cost XXXusd. 
+Do you need sample first?? 
+Your reply will be much appreciate. 
+Best Regards 
+XXX
+```
+
+
+
+### 邮件营销
+
+> [官方教程](https://activity.alibaba.com/waimaoquan/kqfkyx.html)
+
+属于 EDM 邮件营销的一种。
 
 每天（美国时间）每个账号可以对 20 个访客申请营销。每个访客供应商最多发送 3 封邮件，且两封邮件之间间隔不少于 30 天。
 
@@ -432,3 +483,21 @@ tags: 外贸
 
 
 
+## 参考资料
+
+- [ ] [小朱笔记]( https://www.zhudc.com/b2b/ )
+
+- [新手如何运营阿里巴巴国际站旺铺 - 小朱笔记](https://www.zhudc.com/b2b/1935)
+
+
+
+**一些吐槽**
+
+- 阿里巴巴（1688.com）：不登录不给看产品 / 搜产品 / 卖家店铺首页。
+
+- 阿里巴巴国际站（alibaba.com）
+
+  - （大概）每隔 1 个钟就要重新登录（包括阿里邮箱），提示 `Your session has timed out. Click OK to login again. (您的登录已经超时，请点击确定重新登录。)`
+  - 已读的 RFQ 的显示未读。
+
+  
