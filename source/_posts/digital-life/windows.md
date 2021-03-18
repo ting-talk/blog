@@ -632,9 +632,22 @@ Windows 的默认图片浏览器非常难用。而 qimgv 是一款开源的图�
 
 #### Adobe 系列
 
+方法一：
+
 1. 下载 [Adobe Creative Cloud](https://www.adobe.com/cn/creativecloud/catalog/desktop.html) 并安装。
 2. 打开 Adobe Creative Cloud，登录 Adobe 账号，下载 Photoshop 和 Illustrator 等。
 3. 使用 [GenP v2.5](https://jpsmile.com/genp-v2-5/) 破解，可能已失效。
+
+方法二：
+
+来自微博 https://weibo.com/vposy
+
+2021.3.11 更新
+2020 版除 PS 外已为最终版本。2021 SP 版和大师版实时更新。
+百度： [网页链接](http://t.cn/A6tHVo2f) 提取码: eyxf
+天翼： [网页链接](http://t.cn/A6tQ4B2b) 访问码：vu3d
+
+解压密码 `@vposy`
 
 
 

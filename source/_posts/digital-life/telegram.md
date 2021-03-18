@@ -538,6 +538,8 @@ Telegram 有一个非常人性化的特性：**记忆浏览进度**，打开对�
 - One check（✔️）：发送成功。在微信，有些消息没发送出去，只对你可见，也不会有发送失败的感叹号 ❗。这是对用户赤裸裸的欺骗 。
 - Two checks（✔️✔️）：消息已阅。瞥见状态栏弹出来的消息，不会产生已读标记。因此，一直显示单勾，不代表对方没看到信息。
 
+一个偷看消息的小技巧：在对话列表，长按头像可预览消息，但消息状态不会变为已读。（[Pull up a preview of messages – without making messages as read.](https://t.me/TelegramTips/257) ）
+
 
 
 #### ✏️ 消息更正
@@ -976,6 +978,7 @@ https://rsshub.app/telegram/channel/tingtalk
 | [Anti Revoke Plugin](https://t.me/AntiRevoke)         | Telegram 本地消息防撤回插件，安全性未知。[GitHub 项目地址](https://github.com/SpriteOvO/Telegram-Anti-Revoke/blob/master/README-CN.md)。 |
 | [SCP-079-INFO](https://t.me/SCP_079_INFO)             | 免费并开源的群组管理机器人，需 [申请](https://scp-079.org/ApplyForUse/) 通过后才能使用。[查看项目介绍](https://scp-079.org/readme/)。 |
 | [电报指南 & 精品排行榜](https://t.me/TgTrillion)      | 👍 电报中文群组和频道收录。                                   |
+| [CN 导航](https://t.me/CN_DH)                         | 中文导航频道。                                               |
 
 
 
