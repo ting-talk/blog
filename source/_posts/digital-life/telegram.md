@@ -1,7 +1,7 @@
 ---
 title: Telegram：新手指南、使用教程及频道推荐（持续更新中）
 date: 2019-11-09  
-updated: 2021-03-08  
+updated: 2021-03-24  
 categories: 数字生活  
 tags: [网上冲浪指南, 突破网络审查, Telegram]
 ---
@@ -1283,6 +1283,7 @@ Bots 就像运行在 Telegram 内部的小程序。借助 [Telegram 开放的 AP
 | [@pic](https://telegram.me/pic)                  | [图片搜索 by Yandex](https://yandex.com/images/)（支持中英文）。 |
 | [@QuizBot](https://t.me/QuizBot)                 | [答题机器人](https://telegram.org/blog#bot-api-and-quiz-bot)：创建一份只有单选题的考卷。[点此](https://t.me/QuizBot?start=TelegramHistory) 开始测试你对 Telegram 的了解程度。访问 [quiz.directory](https://quiz.directory/) 查看更多问卷。 |
 | [@sticker](https://t.me/sticker)                 | 👍 检索所有与 Emoji 相关表情包。例如 `@sticker 😎 `。          |
+| [@telegraph](https://t.me/telegraph)             | 👍 登录和编辑 [Telegraph](https://telegra.ph/) 文章，并 [统计 telegra.ph 的浏览量](https://telegram.org/blog/telegraph#telegraph-api)。 |
 | [@vid](https://telegram.me/vid)                  | 帮你查找 YouTube 视频（支持中文搜索）。                      |
 | [@wiki](https://telegram.me/wiki)                | [维基百科](https://www.wikipedia.org/)。搜索中文条目 `@wiki zh 猫`；搜索英文条目 `@wiki en cat` |
 | [@youtube](https://telegram.me/youtube)          | 帮你查找 YouTube 视频（不支持中文搜索）。                    |
@@ -1373,6 +1374,7 @@ Telegram 的服务器分布在世界各地的数据中心（[Data Center](https:
 | -------------------------------------------------- | ------------------------------------------------------------ |
 | [@bingdict_bot](https://t.me/bingdict_bot)         | 基于 Bing 开发的中英文翻译机器人。                           |
 | [@CorsaBot](https://t.me/CorsaBot)                 | Make Instant View from any article. 快速把文章把文章备份到 [Telegraph](https://telegra.ph/)。 |
+| [@cnLottery_bot](https://t.me/cnLottery_bot)       | Telegram 群组抽奖工具。                                      |
 | [@IFTTT](https://t.me/IFTTT)                       | [With this bot you can use IFTTT to link your Telegram groups or channels to more than 360 other services like Twitter and Instagram, or connected devices like Hue lights and Nest.](https://ifttt.com/telegram) |
 | [@githubbot](https://t.me/githubbot)               | 推送 GitHub 仓库的动态。                                     |
 | [@GmailBot](https://t.me/GmailBot)                 | 👍 在 Telegram 上收发 📧 Gmail。``                             |
@@ -1383,7 +1385,6 @@ Telegram 的服务器分布在世界各地的数据中心（[Data Center](https:
 | [@Sticker2GIFBot](https://t.me/Sticker2GIFBot)     | 下载单独的表情包或整套表情包。                               |
 | [@tweet_for_me_bot](https://t.me/tweet_for_me_bot) | 在 Telegram 上发布 Twitter 动态。                            |
 | [@tgstogifbot](https://t.me/tgstogifbot)           | 把 Telegram 上 tgs 格式的表情包转换为 gif 格式。             |
-| [@telegraph](https://t.me/telegraph)               | 👍 登录和编辑 [Telegraph](https://telegra.ph/) 文章，并 [统计 telegra.ph 的浏览量](https://telegram.org/blog/telegraph#telegraph-api)。 |
 | [@utubebot](https://t.me/utubebot)                 | 同时下载 YouTube 的视频和音频，不过会推送一些广告。          |
 | [@verifybot](https://t.me/verifybot)               | 加了官方认证后，名字后面有个 ✅（[verify a big andactive official channel, bot or public group](https://telegram.org/verify)）。 |
 
@@ -1469,7 +1470,7 @@ Telegram 的服务器分布在世界各地的数据中心（[Data Center](https:
 
 ## 😎 Telegraph
 
-[Telegraph](https://telegra.ph/) 一个极简的匿名内容发布工具（[Minimalist publishing tool](https://telegram.org/blog/telegraph)）。
+[Telegraph](https://telegra.ph/) 一个极简的匿名内容发布工具（[Minimalist publishing tool](https://telegram.org/blog/telegraph)）。如果内容侵权了，例如使用有版权的图片，可能文章会被投诉下架。
 
 ### ☝️ 用法一
 
