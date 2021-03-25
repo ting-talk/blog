@@ -1015,6 +1015,7 @@ https://rsshub.app/telegram/channel/tingtalk
 | [蘋果日報](https://t.me/appledailyhk)                 | [Apple Daily](https://hk.appledaily.com/) 为香港上市公司壹传媒旗下繁体中文报纸，由大股东黎智英所创立，被民主派支持者普遍认为是香港目前唯一未被「染红」的媒体。by [维基百科](https://zh.wikipedia.org/zh-cn/%E8%98%8B%E6%9E%9C%E6%97%A5%E5%A0%B1_(%E9%A6%99%E6%B8%AF)) |
 | [竹新社](https://t.me/tnews365)                       | 7×24 不定时编译国内外媒体的即时新闻报道。                    |
 | [端傳媒 Initium Media](https://t.me/the_InitiumMedia) | 由程式自動獲取並推送端傳媒 RSS 所有文章。                    |
+| [端传媒](https://t.me/lnitiumMedia)                   | 每日推送端传媒（付费）文章.pdf。手头宽裕，还是 [付费购买端会员](https://theinitium.com/subscription/offers/) 或购买 [新闻通讯 Newsletter](https://i.init.shop/collections/newsletter/products/daily-newsletter-original)。 |
 
 
 
