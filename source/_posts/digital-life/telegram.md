@@ -1,5 +1,5 @@
 ---
-title: Telegram：新手指南、使用教程及频道推荐（持续更新中）
+[title](https://t.me/Imusic_zz): Telegram：新手指南、使用教程及频道推荐（持续更新中）
 date: 2019-11-09  
 updated: 2021-03-24  
 categories: 数字生活  
@@ -544,7 +544,7 @@ Telegram 有一个非常人性化的特性：**记忆浏览进度**，打开对�
 
 #### ✏️ 消息更正
 
-在 Telegram，说出去的话不会像泼出去的水收不回来，任何时候，你都可以重新编辑（[Edit your messages after posting](https://telegram.org/blog/edit)），包括文字、图片和视频（[Edit sent media to re-crop, re-decorate or completely replace photos and videos.](https://t.me/TelegramTips/81)），所以：
+在 Telegram，说出去的话不会像泼出去的水收不回来，在 48 小时内（频道例外），你都可以重新编辑（[Edit your messages after posting](https://telegram.org/blog/edit)），包括文字、图片和视频（[Edit sent media to re-crop, re-decorate or completely replace photos and videos.](https://t.me/TelegramTips/81)），所以：
 
 
 - 文字出现 typos，不用删除，多久之前发的消息都能随时更正（Edit）。
@@ -586,13 +586,9 @@ Telegram 有一个非常人性化的特性：**记忆浏览进度**，打开对�
 
 - 支持 2 倍速播放（[2X playback](https://telegram.org/blog/unread-replace-2x#double-time-playback-for-voice-and-video-messages)）。
 - 支持滑动进度条。（[Slide forward and back on voice messages to skip ahead or repeat something you missed.](https://t.me/TelegramTips/105)）
-- [记忆播放位置](https://telegram.org/blog/verifiable-apps-and-more#podcast-and-audiobook-support)：超过 20 分钟的音频文件，Telegram 会帮你记住最后的播放位置，以便中断后再次收听（Telegram apps will remember your last position when resuming playback of audio files longer than 20 minutes.）。
+- [记忆播放位置](https://telegram.org/blog/verifiable-apps-and-more#podcast-and-audiobook-support)：超过 20 分钟的音频文件（[2021 年 3 月 18 日取消此限制](https://telegram.org/blog/voice-chats-on-steroids#and-more)），Telegram 会帮你记住最后的播放位置，以便中断后再次收听（Telegram apps will remember your last position when resuming playback of audio files longer than 20 minutes.）。
 
 此外，在 Telegram 上进行语音通话（打电话），需要在翻墙服务端/客户端开启 UDP 转发。
-
-
-
-
 
 
 
@@ -911,6 +907,7 @@ Creat New Folder（新建分组）时有以下筛选条件可选：
 - [Hashtags](https://telegram.org/tour/channels#hashtags)：多用 `#` （标签）给消息分类，方便快速检索（instant search）。
 - 频道分析（[Channel Stats](https://telegram.org/blog/folders#channel-stats)）📈：订阅人数超过 50 人（之前是 1,000  人）的频道会有详细的统计数据分析报告（[Statistics](https://telegram.org/tour/channels#detailed-statistics)）。
 - 频道可以有无数个订阅者，但是创建者只能邀请前 200 个成员到你的频道。
+- 重现编辑（Edit）消息，不管多久之前。
 
 
 
@@ -1014,6 +1011,7 @@ https://rsshub.app/telegram/channel/tingtalk
 | [电报时报](https://t.me/times001)                     | 提供全天候热点中国及国际新闻，涵盖突发新闻、时事、财经、娱乐、体育，评论、杂志和博客等。 |
 | [蘋果日報](https://t.me/appledailyhk)                 | [Apple Daily](https://hk.appledaily.com/) 为香港上市公司壹传媒旗下繁体中文报纸，由大股东黎智英所创立，被民主派支持者普遍认为是香港目前唯一未被「染红」的媒体。by [维基百科](https://zh.wikipedia.org/zh-cn/%E8%98%8B%E6%9E%9C%E6%97%A5%E5%A0%B1_(%E9%A6%99%E6%B8%AF)) |
 | [竹新社](https://t.me/tnews365)                       | 7×24 不定时编译国内外媒体的即时新闻报道。                    |
+| [NGOCN](https://t.me/ngocn01)                         | [NGOCN](https://ngocn2.org/) 是一家中国独立媒体，非营利性质，致力向公众提供进步、负责任且多元的纪实性内容，目前由认同其理念志愿者运营。 |
 | [端傳媒 Initium Media](https://t.me/the_InitiumMedia) | 由程式自動獲取並推送端傳媒 RSS 所有文章。                    |
 | [端传媒](https://t.me/lnitiumMedia)                   | 每日推送端传媒（付费）文章.pdf。手头宽裕，还是 [付费购买端会员](https://theinitium.com/subscription/offers/) 或购买 [新闻通讯 Newsletter](https://i.init.shop/collections/newsletter/products/daily-newsletter-original)。 |
 
@@ -1156,13 +1154,14 @@ https://rsshub.app/telegram/channel/tingtalk
 | 频道                                             | 详情                                         |
 | ------------------------------------------------ | -------------------------------------------- |
 | [知音](https://t.me/Musiccnchannel)              | 👍 发一些关于音乐的东西。                     |
+| [Imusic](https://t.me/Imusic_zz)                 | 音乐，就是理想的挽歌，年代久远，依然飘扬。   |
 | [杂鱼Music Channel](https://t.me/ZAYU_music)     | 我相信，爱音乐的人都有着一颗柔软的心。       |
 | [音乐世界](https://t.me/lumingguandj)            | 温柔被我唱成了歌，伴你人山人海不停留。       |
 | [Classical Music](https://t.me/exploreclassical) | 一起来听古典音乐吧。                         |
 | [蛙音通讯](https://t.me/wahyin)                  | Feels wonderful again man.                   |
 | [无损音乐频道](https://t.me/undamaged_music)     | 分享无损音乐、高品质音乐、原碟整轨分轨音频。 |
 
-下载音乐，请查阅下文中的音乐机器人。
+下载音乐，还可以查阅下文中提到的音乐机器人。
 
 
 
@@ -1236,6 +1235,9 @@ https://rsshub.app/telegram/channel/tingtalk
 | [Zapro Notice](https://t.me/zaproshare)             | 软件分享。                                                   |
 | [Google Drive 资源](https://t.me/gdurl)             | 各种 Google Drive 资源，包括电影、电子书、无损音乐等，10 万+ 关注。 |
 | [Google Voice 靓号](https://t.me/voice_google)      | 一个 GV 卖家。                                               |
+| [Windows 10 激活码分享](https://t.me/win10keymaxs)  | 🤫                                                            |
+
+
 
 
 
