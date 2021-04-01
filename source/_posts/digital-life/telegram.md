@@ -1,7 +1,7 @@
 ---
-[title](https://t.me/Imusic_zz): Telegram：新手指南、使用教程及频道推荐（持续更新中）
-date: 2019-11-09  
-updated: 2021-03-24  
+title: Telegram：新手指南、使用教程及频道推荐（持续更新中）
+date: 2019-11-09
+updated: 2021-04-01  
 categories: 数字生活  
 tags: [网上冲浪指南, 突破网络审查, Telegram]
 ---
@@ -1157,6 +1157,7 @@ https://rsshub.app/telegram/channel/tingtalk
 | [Imusic](https://t.me/Imusic_zz)                 | 音乐，就是理想的挽歌，年代久远，依然飘扬。   |
 | [杂鱼Music Channel](https://t.me/ZAYU_music)     | 我相信，爱音乐的人都有着一颗柔软的心。       |
 | [音乐世界](https://t.me/lumingguandj)            | 温柔被我唱成了歌，伴你人山人海不停留。       |
+| [每日一歌](https://t.me/dailymusich)             | 愿你也能在这里找到属于你自己的共鸣。         |
 | [Classical Music](https://t.me/exploreclassical) | 一起来听古典音乐吧。                         |
 | [蛙音通讯](https://t.me/wahyin)                  | Feels wonderful again man.                   |
 | [无损音乐频道](https://t.me/undamaged_music)     | 分享无损音乐、高品质音乐、原碟整轨分轨音频。 |
