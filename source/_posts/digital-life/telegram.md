@@ -608,7 +608,27 @@ Telegram 有一个非常人性化的特性：**记忆浏览进度**，打开对�
 - [能触发 Emoji 的英文关键词合集](https://translations.telegram.org/en/emoji)
 - [能触发 Emoji 的简体中文关键词合集](https://translations.telegram.org/zh-hans/emoji)
 
-如何在句中（mid-message）快捷添加 Emoji？
+
+
+**部分 Emoji 支持动态播放（Animated Emoji）**
+在任意聊天窗口发送 1 个 [非礼勿视猿](https://zh.wikipedia.org/zh/%E4%B8%89%E7%8C%BF) 🙈（[See-No-Evil Monkey](https://emojipedia.org/see-no-evil-monkey/)），再动 Ta 试试，可爱吧！查看更多被 Telegram 赋予「生命」的动态 Emoji，请参阅 [Telegram Animated Emoji List](https://tingtalk.me/telegram-animated-emoji/)。
+
+
+
+**部分 Emoji 可以作为打赌小游戏**
+
+| 发送单个 | 触发效果                                                     |
+| -------- | ------------------------------------------------------------ |
+| 🎲        | 掷骰子 [dice](https://telegram.org/blog/folders#and-one-more-thing) |
+| 🎯        | 扔飞镖 [darts](https://telegram.org/blog/400-million#bullseye) |
+| 🏀        | 投篮 basketball                                              |
+| ⚽        | 射门 [football](https://macos.telegram.org/#v6-3-1-2020-07-31) |
+| 🎳        | 保龄球 bowling                                               |
+| 🎰        | 老虎机 [jackpot](https://telegram.org/blog/pinned-messages-locations-playlists#jackpot) / slot machine |
+
+
+
+**如何在句中（mid-message）快捷添加 Emoji？**
 语法是 `:（英文半角冒号）` + `关键词`。例如输入 I am `:happy`，就会弹出开心相关的 Emoji，这样就不用从 Emoji 面板挑选 Emoji 了。
 
 
@@ -619,7 +639,7 @@ Telegram 有一个非常人性化的特性：**记忆浏览进度**，打开对�
 
 在聊天窗口输入 [@sticker](https://t.me/sticker) + Emoji，可以检索**所有**与 Emoji 相关表情包，例如 `@sticker 👍`。
 
-部分 Emoji 支持动态播放（Animated Emoji）：在任意聊天窗口发送 1 个 [非礼勿视猿](https://zh.wikipedia.org/zh/%E4%B8%89%E7%8C%BF) 🙈（[See-No-Evil Monkey](https://emojipedia.org/see-no-evil-monkey/)），再动 Ta 试试，可爱吧！查看更多被 Telegram 赋予「生命」的动态 Emoji，请参阅 [Telegram Animated Emoji List](https://tingtalk.me/telegram-animated-emoji/)。
+
 
 
 
@@ -1107,6 +1127,7 @@ https://rsshub.app/telegram/channel/tingtalk
 | [Yachen's Channel](https://t.me/yachme)                   | 刘亚晨是 Surge 的开发者\| [Yachen's Blog](https://yach.me/)  |
 | [MolunSays](https://t.me/molun)                           | 希冀笔尖之下，世界兴旺繁华 \| [博客](https://molun.net/)     |
 | [日常人间观察](https://t.me/hayami_kiraa)                 | 关心科技 / 人文 / 艺术 / 城市公共空间 / 女性和性别议题 / 劳工权益 / 个体叙事 / 电影 / 音乐 / 书 / 星星…… |
+| [In The Flux](https://t.me/intheflux)                     | 关于文化、艺术与技术的信息流。                               |
 
 [中文独立博客列表](https://github.com/timqian/chinese-independent-blogs) by timqian
 

@@ -34,9 +34,8 @@ tags: [Telegram, 网上冲浪指南]
 | 🎯        | 扔飞镖 [darts](https://telegram.org/blog/400-million#bullseye) |
 | 🏀        | 投篮 basketball                                              |
 | ⚽        | 射门 [football](https://macos.telegram.org/#v6-3-1-2020-07-31) |
-| 🎰        | 老虎机 [Jackpot](https://telegram.org/blog/pinned-messages-locations-playlists#jackpot) |
-
-
+| 🎳        | 保龄球 bowling                                               |
+| 🎰        | 老虎机 [jackpot](https://telegram.org/blog/pinned-messages-locations-playlists#jackpot) / slot machine |
 
 ## 😀
 

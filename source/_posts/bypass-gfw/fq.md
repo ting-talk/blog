@@ -414,7 +414,8 @@ Android 用户推荐使用 ShadowsocksR 客户端，但是也可以把 Clash for
 
 - 下载 ShadowsocksR.apk
   - `原版` [ShadowsocksR.apk](https://github.com/shadowsocksrr/shadowsocksr-android/releases) by shadowsocksrr
-  - `魔改` [ShadowsocksR.apk](https://cdn.rixcloud.io/download/ShadowsocksR.apk) by rixCloud 👍
+  - `魔改` [SSRa](https://github.com/xxf098/shadowsocksr-v2ray-trojan-android)y by xxf098：集成了 V2Ray 和 Trojan 👍
+  - `魔改` [ShadowsocksR.apk](https://cdn.rixcloud.io/download/ShadowsocksR.apk) by rixCloud
   - `魔改` [ShadowsocksR](https://github.com/HMBSbige/ShadowsocksR-Android/releases) by Bruce Wayne
   - `魔改` shadowsocksRb.apk 下载途径：[GitHub](https://github.com/shadowsocksRb/shadowsocksRb-android/releases) | [Telegram Channel](https://t.me/ShadowsocksRb)
   - `魔改` [Maying](https://apkpure.com/maying/co.tgbot.peekfun)：内置了 [ACL4SSR](https://github.com/ACL4SSR/ACL4SSR) 路由规则。我目前的选择。
