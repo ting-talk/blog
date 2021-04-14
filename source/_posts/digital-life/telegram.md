@@ -14,7 +14,7 @@ tags: [网上冲浪指南, 突破网络审查, Telegram]
 
 🧱 TG 在中国大陆必须 [翻墙](https://tingtalk.me/fq/) 后才能使用。不过，学会科学上网，难道不是当代数字公民的必备技能吗？
 
-📁 tingtalk.me 也在 2020-04-04 被墙了，如需在墙内传阅，请访问 [IPFS](https://ipfs.eternum.io/ipfs/QmNoPwZ7nBaptCcwC2eTFBfNJjNdwwEAbK7LufkSvXL9Pk) 或前往 [蓝奏云](https://wwa.lanzous.com/b00twozof) 下载本文的 PDF。
+📁 tingtalk.me 也在 2020-04-04 被墙了，如需在墙内传阅，请前往 [蓝奏云](https://wwa.lanzous.com/b00twozof) 下载本文的 PDF。
 
 💡 全文有一万五千多字，善用右侧的目录栏和查找功能（`Ctrl` + `F`），助你定位想要看到的内容。
 
@@ -1210,20 +1210,22 @@ https://rsshub.app/telegram/channel/tingtalk
 
 ### 🚀 翻墙
 
-| 频道                                                 | 详情                                                         |
-| ---------------------------------------------------- | ------------------------------------------------------------ |
-| [Fndroid 的日常](https://t.me/fndroid_news)          | 👍 Clash for Windows                                          |
-| [DivineEngine](https://t.me/DivineEngine)            | 神机规则                                                     |
-| [秋水逸冰](https://t.me/qiushuiyibing)               | [Teddysun](https://teddysun.com/about) 会不定期在此发布一些本人的作品。 |
-| [Shadowrocket News](https://t.me/ShadowrocketNews)   | iOS 上小火箭                                                 |
-| [Quantumult News](https://t.me/quantumultappnews)    | Quantumult 的非官方频道。                                    |
-| [Quantumult X News](https://t.me/QuanXNews)          | 此频道用于发布 Quantumult 与 Quantumult X 的相关资讯。       |
-| [V2Fly](https://t.me/V2Fly)                          | Shadowsocks 是一个纯粹的代理工具，而 V2Ray 定位为一个平台，任何开发者都可以利用 V2Ray 提供的模块开发出新的代理软件。by [新 V2Ray 白话文指南](https://guide.v2fly.org/) |
-| [毒药机场评测](https://t.me/DuyaoSS)                 | 由于大陆地区网络环境十分复杂，测速不代表推荐。另外，有些机场会泄露个人信息，选购时多加搜索或者进入机场用户群打探打探。 |
-| [科学上网与机场观察](https://t.me/jichangtj)         | 科学上网与机场相关观察、点评、随想和新闻资讯。               |
-| [ACL4SSR](https://t.me/ACL4SSR)                      | https://github.com/ACL4SSR/ACL4SSR 官方频道。                |
-| [QuanX & Surge & Loon 脚本收集](https://t.me/NobyDa) | 各种脚本。                                                   |
-| [人人翻墙，则墙自倒](https://t.me/cnhumanright99)    | 免费提供 Trojan、Vmess 节点。                                |
+| 频道                                                         | 详情                                                         |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [Fndroid 的日常](https://t.me/fndroid_news)                  | 👍 Clash for Windows                                          |
+| [Clash .NET 公告](https://t.me/ClashDotNetFrameworkAnncmnt)  | A Clash GUI Proxy For Windows Based On .NET 5                |
+| [Clash for Android Channel](https://t.me/joinchat/uCUxZwHNjZxlYThl) | A Graphical user interface of Clash for Android              |
+| [DivineEngine](https://t.me/DivineEngine)                    | 神机规则                                                     |
+| [秋水逸冰](https://t.me/qiushuiyibing)                       | [Teddysun](https://teddysun.com/about) 会不定期在此发布一些本人的作品。 |
+| [Shadowrocket News](https://t.me/ShadowrocketNews)           | iOS 上小火箭                                                 |
+| [Quantumult News](https://t.me/quantumultappnews)            | Quantumult 的非官方频道。                                    |
+| [Quantumult X News](https://t.me/QuanXNews)                  | 此频道用于发布 Quantumult 与 Quantumult X 的相关资讯。       |
+| [V2Fly](https://t.me/V2Fly)                                  | Shadowsocks 是一个纯粹的代理工具，而 V2Ray 定位为一个平台，任何开发者都可以利用 V2Ray 提供的模块开发出新的代理软件。by [新 V2Ray 白话文指南](https://guide.v2fly.org/) |
+| [毒药机场评测](https://t.me/DuyaoSS)                         | 由于大陆地区网络环境十分复杂，测速不代表推荐。另外，有些机场会泄露个人信息，选购时多加搜索或者进入机场用户群打探打探。 |
+| [科学上网与机场观察](https://t.me/jichangtj)                 | 科学上网与机场相关观察、点评、随想和新闻资讯。               |
+| [ACL4SSR](https://t.me/ACL4SSR)                              | https://github.com/ACL4SSR/ACL4SSR 官方频道。                |
+| [QuanX & Surge & Loon 脚本收集](https://t.me/NobyDa)         | 各种脚本。                                                   |
+| [人人翻墙，则墙自倒](https://t.me/cnhumanright99)            | 免费提供 Trojan、Vmess 节点。                                |
 
 
 
