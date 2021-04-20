@@ -162,6 +162,10 @@ tags: 外贸
 - [LinkedIn 高级搜索](https://www.linkedin.com/search/results/people/?origin=FACETED_SEARCH)
 - LinkedIn 群组
 
+没开会员，看不到名字，就把简介放在 Google 上，就能跳过这个限制。
+
+
+
 然后发送 Connect Note（邀请语）：
 
 

@@ -1486,7 +1486,7 @@ Telegram 的服务器分布在世界各地的数据中心（[Data Center](https:
 
 > 关联阅读：[为什么电报的端到端加密不是默认的？](https://telegra.ph/Why-Isnt-Telegram-End-to-End-Encrypted-by-Default-08-14)
 
-- 只能通过原始设备访问历史消息，如果退出并再次登录，将失去所有的秘密聊天记录。
+- 只能通过原始设备访问历史消息。[退出并再次登录，将失去所有的秘密聊天记录](https://telegram.org/faq#q-how-do-i-start-a-secret-chat)。
 - 可设置阅后即焚（self-destruct）计时器，自动销毁消息或媒体文件（只适用于计时器设置后发送的消息，对早期的信息没有影响）。
 - 不能转发消息。
 - 不能编辑已发送的消息。
