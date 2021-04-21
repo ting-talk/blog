@@ -194,9 +194,8 @@ markdown:
   anchors:
     level: 2
     collisionSuffix: ''
-    permalink: false
+    permalink: true
     permalinkClass: 'header-anchor'
     permalinkSide: 'right'
-    permalinkSymbol: '#'
     case: 0
     separator: '-'  
