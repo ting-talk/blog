@@ -190,3 +190,12 @@ markdown:
     - markdown-it-ins
     - markdown-it-sub
     - markdown-it-sup
+  anchors:
+    level: 2
+    collisionSuffix: ''
+    permalink: false
+    permalinkClass: 'header-anchor'
+    permalinkSide: 'left'
+    permalinkSymbol: '¶'
+    case: 0
+    separator: '-'  
