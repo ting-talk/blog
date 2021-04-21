@@ -1147,6 +1147,7 @@ https://rsshub.app/telegram/channel/tingtalk
 | 频道                                            | 详情                                                         |
 | ----------------------------------------------- | ------------------------------------------------------------ |
 | [4K 影视屋](https://t.me/dianying4K)            | 蓝光无损电影。                                               |
+| [电影频道](https://t.me/Cctv365)                | 想看什么电影请在评论区留言。                                 |
 | [远鉴字幕组发布频道](https://t.me/VisionarySub) | 本字幕组致力于非院线海外电影及海外剧集的译制与分享。         |
 | [霸王龙发布频道](https://t.me/T_rex2333)        | 做一个有温度，有思想，懂粉丝的压制组。<br/>每天定时更新，选取优质影片源。<br/>专注于韩美剧，经典的电影榜单。 |
 | [苍炎影院](https://t.me/cangyanmovie)           | 分享最新最热门的优质电影。                                   |
@@ -1402,6 +1403,7 @@ Telegram 的服务器分布在世界各地的数据中心（[Data Center](https:
 | [@bingdict_bot](https://t.me/bingdict_bot)         | 基于 Bing 开发的中英文翻译机器人。                           |
 | [@CorsaBot](https://t.me/CorsaBot)                 | Make Instant View from any article. 快速把文章把文章备份到 [Telegraph](https://telegra.ph/)。 |
 | [@cnLottery_bot](https://t.me/cnLottery_bot)       | Telegram 群组抽奖工具。                                      |
+| [@he_weather_bot](https://t.me/he_weather_bot)     | 和风天气小棉袄                                               |
 | [@IFTTT](https://t.me/IFTTT)                       | [With this bot you can use IFTTT to link your Telegram groups or channels to more than 360 other services like Twitter and Instagram, or connected devices like Hue lights and Nest.](https://ifttt.com/telegram) |
 | [@githubbot](https://t.me/githubbot)               | 推送 GitHub 仓库的动态。                                     |
 | [@GmailBot](https://t.me/GmailBot)                 | 👍 在 Telegram 上收发 📧 Gmail。``                             |
