@@ -984,3 +984,19 @@ vendors:
 css: css
 js: js
 images: images
+
+
+anchor:
+  enable: true
+  color: '#0e83cd'
+  position: right # If left, anchors will always be visible.
+  margin: 7px 
+  text: '#'
+  icon:
+    # If true, the `text` option will be ignored.
+    enable: false 
+    # By default, NexT has built-in FontAwesome support.
+    # This option means `font-family: FontAwesome`, so DO Not change it.
+    # Also you can choose ForkAwesome, but that's another story.
+    font: FontAwesome
+    content: \f0c1 # CSS content for FontAwesome & ForkAwesome.

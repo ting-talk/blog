@@ -367,19 +367,9 @@ Thank you for your time.
 
 ---
 
-
-
-
-
-
-
-
-
----
-
 Hi John,
 My name is Mike, sales manager at ABC Company.
-We are going to hit hard in the UK market this year with our newly released product line xxx. I've done my research. You are exactly the type of local partner we are looking to work with.
+We are going to hit hard in the US market this year with our newly released product line xxx. I've done my research. You are exactly the type of local partner we are looking to work with.
 Will you have 6 minutes for me next week for a quick call?
 Talk soon.
 

@@ -28,6 +28,7 @@
     "hexo-renderer-stylus": "^1.1.0",
     "hexo-server": "^2.0.0",
     "hexo-theme-next": "^8.0.1",
+    "hexo-theme-next-anchor": "^1.0.3",
     "markdown-it-named-headings": "^1.1.0",
     "pjax": "^0.2.8"
   }
