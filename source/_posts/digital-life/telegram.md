@@ -1,7 +1,7 @@
 ---
 title: Telegram：新手指南、使用教程及频道推荐（持续更新中）
 date: 2019-11-09
-updated: 2021-04-01  
+updated: 2021-04-21  
 categories: 数字生活  
 tags: [网上冲浪指南, 突破网络审查, Telegram]
 ---
@@ -14,11 +14,9 @@ tags: [网上冲浪指南, 突破网络审查, Telegram]
 
 🧱 TG 在中国大陆必须 [翻墙](https://tingtalk.me/fq/) 后才能使用。不过，学会科学上网，难道不是当代数字公民的必备技能吗？
 
-📁 tingtalk.me 也在 2020-04-04 被墙了，如需在墙内传阅，请前往 [蓝奏云](https://wwa.lanzous.com/b00twozof) 下载本文的 PDF。
-
 💡 全文有一万五千多字，善用右侧的目录栏和查找功能（`Ctrl` + `F`），助你定位想要看到的内容。
 
-✍️ 如需下载可编辑的 Markdown 源文档，请访问 [庭说的 GitHub 仓库](https://raw.githubusercontent.com/ting-talk/blog/master/source/_posts/digital-life/telegram.md)。
+📁 tingtalk.me 也在 2020-04-04 被墙了，如需在墙内传阅，请下载本文的 [PDF](https://wwa.lanzous.com/b00twozof) 或 [GitHub](https://raw.githubusercontent.com/ting-talk/blog/master/source/_posts/digital-life/telegram.md)（可编辑的 Markdown 源文档）。
 
 
 
@@ -44,16 +42,11 @@ tags: [网上冲浪指南, 突破网络审查, Telegram]
 
 ### 👍 近乎完美
 
-- **[高度加密](https://telegram.org/faq#q-what-are-your-thoughts-on-internet-privacy)**：安全性极高的大众化即时沟通软件，使用独有的网络传输协议 [MTProto](https://core.telegram.org/mtproto)。
-
+- **[高度加密](https://telegram.org/faq#q-what-are-your-thoughts-on-internet-privacy)**：使用独有的网络传输协议 [MTProto](https://core.telegram.org/mtproto)，无惧被黑客攻击。
 - **[没有审查](https://telegram.org/faq#q-wait-0-o-do-you-process-take-down-requests-from-third-parties)**：不用担心被封号，[除非执法调查单位能证明用户是恐怖分子](https://telegram.org/faq#q-there-39s-illegal-content-on-telegram-how-do-i-take-it-down)。
-
-- **云端同步**：聊天历史无缝同步到所有的设备上（Cloud Storage）。纵使设备损坏，但数据固若金汤（Secret Chat 除外）。
-
-- **[不占内存](https://telegram.org/blog/cache-and-stickers)**：不必在设备上存储所有的聊天记录，因为数据一直保存在云端，你随时可以取回来，你也可以完全删除。
-
-- **超大群聊**：封顶 20 万人，配合各种管理工具（例如限制发言间隔），让大型申请群的交流井井有条。
-
+- **没有广告**：一个纯碎极致的大众化即时通讯软件（Instant Messaging App）。
+- **[不占内存](https://telegram.org/blog/cache-and-stickers)**：聊天记录保存在云端（Cloud-Based），任何设备，无缝同步，随取随用。
+- **超大群聊**：封顶 20 万人，配合各种管理工具（例如限制发言间隔），让大型申请群的交流井井有条。  
 - **[表情贴纸](https://telegram.org/blog/animated-stickers)**：采用 [矢量](https://tingtalk.me/raster-to-vector/) 格式，高清而富有趣味；支持自制表情包（[Custom Sticker Sets](https://telegram.org/blog/stickers-revolution)）并用 Emoji 调用。
 
 
@@ -708,31 +701,19 @@ Windows 的 `Ctrl` 等于 macOS 中 `Command` ⌘。
 
 
 
-
-
-### 📅 创建日期
-
-在任意对话窗口（例如 Saved Messages）输入 `https://t.me` / `ID` / `1`，例如 https://t.me/tingtalk/1
-
-或者在浏览器的地址栏输入 `https://t.me` / `s` / `ID` / `1`，例如 https://t.me/s/tingtalk/1
-
-就会跳转到该群组或频道（未删除的）第一条消息，在其上方，可以看到创建日期（Channel created）
-
-
-
 ### 🔍 搜索资源
 
 去哪里找钟意的频道（Channel），群组（Group）和机器人（Bot）呢？
 
 ☝️ 在 Telegram 内直接搜索关键词，但中文搜索识别较差。例如，「庭说」的频道是 https://t.me/tingtalk
 
-- 搜索英文 `@tingtalk`（`t.me/` 后面的字符就是 ID），可以准确识别
-- 搜索中文 `庭说`，可能无法识别
+- 搜索英文 `@tingtalk`（`t.me/` 后面的字符就是 ID），可以准确识别。
+- 搜索中文 `庭说`，可能无法识别。
 
-✌️ 配合一些 [Google 搜索技巧](https://tingtalk.me/search-tips/)，在 [Google](https://www.google.com/search?q=site:tingtalk.me) 上搜索：
+✌️ 在 [Google](https://www.google.com/search?q=site:tingtalk.me) 上搜索，配合一些 [Google 搜索技巧](https://tingtalk.me/search-tips/)：
 
-- 关键词 + site:t.me，例如：`海贼王 OR one piece site:t.me`
-- 关键词 + telegram 及其俗称，例如：`Rick and Morty telegram OR 电报 OR TG`
+- 搜索结果较少：`关键词 + site:t.me`，例如 [电子书 site:t.me](https://www.google.com/search?q=%E7%94%B5%E5%AD%90%E4%B9%A6%20site:t.me)
+- 搜索结果较多：`关键词 + telegram 及其别称`，例如：[电子书 telegram OR 电报 OR tg](https://www.google.com/search?q=%E7%94%B5%E5%AD%90%E4%B9%A6%20telegram%20OR%20%E7%94%B5%E6%8A%A5%20OR%20tg)
 
 这也再次证明了 Telegram 的内容是可以被 Google 等搜索引擎抓取的。反观国内的互联网江湖，各自割据，搞得网民苦不堪言。就拿微信来说，你不能在 Google 或者百度搜到公众号文章，这也是庭说另开一个独立博客的原因。
 
@@ -750,7 +731,7 @@ Windows 的 `Ctrl` 等于 macOS 中 `Command` ⌘。
 
 ### 🔍 全局搜索
 
-[Search Filters](https://t.me/TelegramTips/189): To quickly find a specific message or media item, search filters allow users to refine results by keyword, source, media type and time period – all at once.
+[Search Filters](https://t.me/TelegramTips/189): To quickly find a specific message or media item, search filters allow users to refine results by keyword, source, media type and time period – all at once. 这里指电报内的全局搜索。
 
 隐藏技巧：如何按日期搜索？
 
@@ -760,6 +741,16 @@ Windows 的 `Ctrl` 等于 macOS 中 `Command` ⌘。
    * `2021`：2021 年
    * `01.2021` / `Jan 2021`：2021 年 1 月
    * `01.13.2021`：2021 年 1 月 13 日
+
+
+
+### 📅 创建日期
+
+在任意对话窗口（例如 Saved Messages）输入 `https://t.me` / `ID` / `1`，例如 https://t.me/tingtalk/1
+
+或者在浏览器的地址栏输入 `https://t.me` / `s` / `ID` / `1`，例如 https://t.me/s/tingtalk/1
+
+就会跳转到该群组或频道（未删除的）第一条消息，在其上方，可以看到创建日期（Channel created）
 
 
 
@@ -1237,6 +1228,7 @@ https://rsshub.app/telegram/channel/tingtalk
 | [煎蛋无聊图](https://t.me/jandan_pic)         | 自动抓取煎蛋首页推荐无聊图及其评论。                         |
 | [内涵段子：皮一下](https://t.me/duanzitg)     | 如题。                                                       |
 | [美图与沙雕](https://t.me/shadiaotu)          | 如题。                                                       |
+| [糗事百科](https://t.me/qiushibaike)          | 如题。w                                                      |
 | [你知道的太多了](https://t.me/uknow2much)     | 不定期发布和转载各类不一定靠谱的内幕、流言蜚语、小知识等。   |
 | [蛋挞报](https://t.me/pincongessence)         | 分享阅读体验。                                               |
 | [微信搬运工](https://t.me/WeChatEssence)      | 有些微信的内容分享了之后就和谐了，本频道可以做个备份，以及丰富电报上的中文内容（不可否认还是有很多非政治的优质内容在微信公众号里）。 |
@@ -1261,8 +1253,6 @@ https://rsshub.app/telegram/channel/tingtalk
 | [Google Drive 资源](https://t.me/gdurl)             | 各种 Google Drive 资源，包括电影、电子书、无损音乐等，10 万+ 关注。 |
 | [Google Voice 靓号](https://t.me/voice_google)      | 一个 GV 卖家。                                               |
 | [Windows 10 激活码分享](https://t.me/win10keymaxs)  | 🤫                                                            |
-
-
 
 
 
@@ -1403,15 +1393,14 @@ Telegram 的服务器分布在世界各地的数据中心（[Data Center](https:
 | [@bingdict_bot](https://t.me/bingdict_bot)         | 基于 Bing 开发的中英文翻译机器人。                           |
 | [@CorsaBot](https://t.me/CorsaBot)                 | Make Instant View from any article. 快速把文章把文章备份到 [Telegraph](https://telegra.ph/)。 |
 | [@cnLottery_bot](https://t.me/cnLottery_bot)       | Telegram 群组抽奖工具。                                      |
-| [@he_weather_bot](https://t.me/he_weather_bot)     | 和风天气小棉袄                                               |
+| [@he_weather_bot](https://t.me/he_weather_bot)     | 和风天气小棉袄。另外还有 WIEN 产品的 [广州](https://t.me/cantonWeather)、[深圳](https://t.me/shamchunWeather)、[东莞](https://t.me/TungkwunWeather) 的天气速报频道。 |
 | [@IFTTT](https://t.me/IFTTT)                       | [With this bot you can use IFTTT to link your Telegram groups or channels to more than 360 other services like Twitter and Instagram, or connected devices like Hue lights and Nest.](https://ifttt.com/telegram) |
 | [@githubbot](https://t.me/githubbot)               | 推送 GitHub 仓库的动态。                                     |
-| [@GmailBot](https://t.me/GmailBot)                 | 👍 在 Telegram 上收发 📧 Gmail。``                             |
+| [@GmailBot](https://t.me/GmailBot)                 | 👍 在 Telegram 上收发 📧 Gmail。                               |
 | [@LivegramBot](https://t.me/LivegramBot)           | 👍 [不加好友也能私聊](https://telegra.ph/What-is-Livegram-Bot-03-17)，可用于收集反馈及绕开 `+86` 手机号码的限制。<br />因为经过一层转发，消息一旦发送，便无法删除，但有个短暂的修改期。 |
 | [@MakeQrBot](https://t.me/MakeQrBot)               | 发送文字，生成对应的二维码。                                 |
 | [@sssoou_bot](https://t.me/sssoou_bot)             | Telegram 搜索，支持中文。                                    |
 | [@Stickers](https://t.me/Stickers)                 | 👍 创建属于自己的表情包。                                     |
-| [@Sticker2GIFBot](https://t.me/Sticker2GIFBot)     | 下载单独的表情包或整套表情包。                               |
 | [@tweet_for_me_bot](https://t.me/tweet_for_me_bot) | 在 Telegram 上发布 Twitter 动态。                            |
 | [@tgstogifbot](https://t.me/tgstogifbot)           | 把 Telegram 上 tgs 格式的表情包转换为 gif 格式。             |
 | [@utubebot](https://t.me/utubebot)                 | 同时下载 YouTube 的视频和音频，不过会推送一些广告。          |
