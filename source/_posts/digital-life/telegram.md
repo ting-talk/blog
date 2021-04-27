@@ -1263,7 +1263,6 @@ https://rsshub.app/telegram/channel/tingtalk
 | [iYouPort](https://t.me/iyouport)                       | IYP 不是过眼云烟的新闻网站，我们提供实战能力，这里是值得您反复回看的档案室。 |
 | [安全上网注意事项](https://t.me/anquanshangwang)        | 转载一些关于安全上网的文章，这些文章都比较浅显。             |
 | [博海拾贝](https://t.me/bohaishibei)                    | [博海拾贝](https://bh.sb/) 的网站：bh.sb                     |
-| [Rick Morty and Fans](https://t.me/Rick_Morty_and_Fans) | Wubba Lubba Dub Dub                                          |
 | [回形针PaperClip & 灵光灯泡](https://t.me/papercliphub) | 回形针内容推送。                                             |
 | [合租](https://t.me/hezu2)                              | Netflix、YouTube、Spotify、Office 365、HBO、Apple、Surge……   |
 | [History](https://t.me/History)                         | Digging Past. Photos from Past who shaped today.             |
