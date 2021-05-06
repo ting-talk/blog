@@ -973,6 +973,7 @@ https://rsshub.app/telegram/channel/tingtalk
 | [Telegram News](https://t.me/telegram)                | 👍 电报官方新闻频道。                                         |
 | [Durov's Channel](https://t.me/durov)                 | 👍 杜罗夫（Telegram 创始人和 CEO）的频道。                    |
 | [Telegram Tips](https://t.me/TelegramTips)            | 👍电报小贴士（Tips）官方频道。                                |
+| [电报小助手](https://t.me/dbxzs)                      | 用简体中文同步翻译来自 @TelegramTips 的小技巧。              |
 | [Telegram APKs for Android](https://t.me/TAndroidAPK) | Official channel for Telegram Android APKs. You can also download them [here](https://telegram.org/dl/android/apk). |
 | [Telegram Designers](https://t.me/designers)          | 向电报提你想要的功能 [@design_bot](https://t.me/design_bot)  |
 | [Desktop Themes Channel](https://t.me/themes)         | [电脑客户端主题创建指引](https://telegra.ph/Create-Theme-Desktop-FAQ) \| [Custom Themes 的简单介绍](https://telegram.org/blog/android-themes) |
@@ -1119,6 +1120,7 @@ https://rsshub.app/telegram/channel/tingtalk
 | [MolunSays](https://t.me/molun)                           | 希冀笔尖之下，世界兴旺繁华 \| [博客](https://molun.net/)     |
 | [日常人间观察](https://t.me/hayami_kiraa)                 | 关心科技 / 人文 / 艺术 / 城市公共空间 / 女性和性别议题 / 劳工权益 / 个体叙事 / 电影 / 音乐 / 书 / 星星…… |
 | [In The Flux](https://t.me/intheflux)                     | 关于文化、艺术与技术的信息流。                               |
+| [为也行](https://t.me/weiyexing)                          | 「书籍 \| 电影 \| 资源 \| 技巧 \| 摸鱼图」大多原创，少部分转发。 |
 
 [中文独立博客列表](https://github.com/timqian/chinese-independent-blogs) by timqian
 
@@ -1228,7 +1230,7 @@ https://rsshub.app/telegram/channel/tingtalk
 | [煎蛋无聊图](https://t.me/jandan_pic)         | 自动抓取煎蛋首页推荐无聊图及其评论。                         |
 | [内涵段子：皮一下](https://t.me/duanzitg)     | 如题。                                                       |
 | [美图与沙雕](https://t.me/shadiaotu)          | 如题。                                                       |
-| [糗事百科](https://t.me/qiushibaike)          | 如题。w                                                      |
+| [糗事百科](https://t.me/qiushibaike)          | 如题。                                                       |
 | [你知道的太多了](https://t.me/uknow2much)     | 不定期发布和转载各类不一定靠谱的内幕、流言蜚语、小知识等。   |
 | [蛋挞报](https://t.me/pincongessence)         | 分享阅读体验。                                               |
 | [微信搬运工](https://t.me/WeChatEssence)      | 有些微信的内容分享了之后就和谐了，本频道可以做个备份，以及丰富电报上的中文内容（不可否认还是有很多非政治的优质内容在微信公众号里）。 |
@@ -1270,6 +1272,7 @@ https://rsshub.app/telegram/channel/tingtalk
 | [NS 新闻转报](https://t.me/SwitchNewCN)                 | 任天堂（Nintendo）相关的新闻。                               |
 | [基督讲道](https://t.me/TelBaptist)                     | 基督讲道资源频道。                                           |
 | [就要造反](https://t.me/ZaoFaner)                       | 此频道立足生活，以非常古怪的文字风格进行生存经验书写，绘制景观与消费社会中极具现实性的个案，以此为个体提供可操的、创造性的抵制策略与造反计谋。为一切造反者辩护，为所有无用与丰饶辩护。 |
+| [One Piece Deluxe](https://t.me/onepiecedeluxe)         | Receive the latest updates from One Piece (海贼王), including chapters, episodes, spoilers and much more. |
 
 此外，Telegram 上也有 [国家或地区的领导人官方频道](https://t.me/durov/148)。
 

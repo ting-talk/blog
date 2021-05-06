@@ -350,8 +350,8 @@ Don't want to bore you with too much detail here. Relevant information is in the
 
 
 
-I know you are busy, so please allow me get straight to the point.
-I want to pitch you with our product XXXXX. After researching your product line for like 40 minutes, I believe we can definitely make you more money.
+I know you are busy, so please allow me to get straight to the point.
+I want to pitch you our product with XXXXX. After researching your product line for like 40 minutes, I believe we can definitely make you more money.
 Here is a sneak peek of my plan (see, I don't want to waste your time.)
 
 1. 
