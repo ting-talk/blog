@@ -373,7 +373,7 @@ RSSHub Radar 是 [RSSHub](https://github.com/DIYgod/RSSHub) 的衍生项目，�
 
 ### 标签页和窗口快捷键
 
-- `Ctrl` + `W` / `Ctrl` + `F4` 关闭当前标签页 🔥🔥🔥
+- `Ctrl` + `W` / `Ctrl` + `F4` 关闭当前标签页或者单击鼠标中键（滚轮） 🔥🔥🔥
 - `Ctrl` + `T` 打开新的标签页（Tab），并跳转到该标签页 🔥🔥
 - `Ctrl` + `Shift` + `T` 重新打开最后关闭的标签页，并跳转到该标签页 🔥🔥
 - `Ctrl` + `N` 打开新（New）窗口 🔥🔥
