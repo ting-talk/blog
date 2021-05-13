@@ -918,7 +918,7 @@ Creat New Folder（新建分组）时有以下筛选条件可选：
 - [Hashtags](https://telegram.org/tour/channels#hashtags)：多用 `#` （标签）给消息分类，方便快速检索（instant search）。
 - 频道分析（[Channel Stats](https://telegram.org/blog/folders#channel-stats)）📈：订阅人数超过 50 人（之前是 1,000  人）的频道会有详细的统计数据分析报告（[Statistics](https://telegram.org/tour/channels#detailed-statistics)）。
 - 频道可以有无数个订阅者，但是创建者只能邀请前 200 个成员到你的频道。
-- 重现编辑（Edit）消息，不管多久之前。
+- 重新编辑（Edit）消息，多久之前发的 Post 都可以。
 
 
 
@@ -986,6 +986,7 @@ https://rsshub.app/telegram/channel/tingtalk
 | [TGgeek](https://t.me/TGgeek)                         | TG 极客：分享 Telegram 使用技巧、重要资讯、常见问答、中文汉化、版本更新等信息。 |
 | [Anti Revoke Plugin](https://t.me/AntiRevoke)         | Telegram 本地消息防撤回插件，安全性未知。[GitHub 项目地址](https://github.com/SpriteOvO/Telegram-Anti-Revoke/blob/master/README-CN.md)。 |
 | [SCP-079-INFO](https://t.me/SCP_079_INFO)             | 免费并开源的群组管理机器人，需 [申请](https://scp-079.org/ApplyForUse/) 通过后才能使用。[查看项目介绍](https://scp-079.org/readme/)。 |
+| [SE-索引公告板](https://t.me/zh_secretary)            | Telegram 中文圈资源索引服务（包含 NSFW）。                   |
 | [电报指南 & 精品排行榜](https://t.me/TgTrillion)      | 👍 电报中文群组和频道收录。                                   |
 | [CN 导航](https://t.me/CN_DH)                         | 中文导航频道。                                               |
 
@@ -1015,6 +1016,8 @@ https://rsshub.app/telegram/channel/tingtalk
 | [新闻实验室](https://t.me/newslab2020)                | 推荐订阅方可成老师的 [Newsletter](https://sibforms.com/serve/MUIEABj_H1nZN9Jj5HLcOE61NoO8So-r5phaSIn4ZUqqLv_WdJP-bpiAazMxwp2uOWb-aeF-hiOScIzPxwovvRjNYF6METjZVOafOAQANa9tnIeocTm6fv6RurLCTUVGzKrjBrhtIj9q2wVOmIYoltrV310MEOEi-vg3E0uPES0voX-FjBRHd4mPx0woiIsLiZ6-YXnI80PyhpUH)。[微信公众号文章备份](https://github.com/Newslab2020/Contents/blob/master/wechataccount.md)。 |
 | [南方周末](https://t.me/infzm)                        | 在这里，读懂中国。非官方。                                   |
 | [新周刊](https://t.me/neweekly)                       | 一本杂志和一个时代的体温。                                   |
+| [南都观察](https://t.me/nanduguancha_rss)             | RSS 地址：https://www.nanduguancha.cn/rss                    |
+| [新闻联播（文字版）](https://t.me/cctv_news_official) | 《新闻联播》是中国中央电视台每日在北京时间晚间 19:00 播出的一個重点时政新闻节目，于 1978 年 1 月 1 日启播。 |
 | [中国数字时代消息推送](https://t.me/cdtchinesefeed)   | 致力于聚合「中国的社会与政治新闻，和它在世界上的新兴的角色」有关的报道和评论。 |
 | [多数派Masses](https://t.me/masses2020)               | 我们是一群反对资本主义、反对帝国主义、反对父权制、反对一切压迫和宰制的青年。[Matters 的创作空间站](https://matters.news/@masses2020)。 |
 | [60 秒读懂世界](https://t.me/SharedResources)         | 来自 60 秒读懂世界公众号。                                   |
@@ -1022,9 +1025,11 @@ https://rsshub.app/telegram/channel/tingtalk
 | [NFW](https://t.me/NewsFW)                            | News for Work, Not for Work.                                 |
 | [电报时报](https://t.me/times001)                     | 提供全天候热点中国及国际新闻，涵盖突发新闻、时事、财经、娱乐、体育，评论、杂志和博客等。 |
 | [蘋果日報](https://t.me/appledailyhk)                 | [Apple Daily](https://hk.appledaily.com/) 为香港上市公司壹传媒旗下繁体中文报纸，由大股东黎智英所创立，被民主派支持者普遍认为是香港目前唯一未被「染红」的媒体。by [维基百科](https://zh.wikipedia.org/zh-cn/%E8%98%8B%E6%9E%9C%E6%97%A5%E5%A0%B1_(%E9%A6%99%E6%B8%AF)) |
+| [台湾 中央社 香港 苹果日报](https://t.me/ttww_rss)    | 如题。                                                       |
 | [竹新社](https://t.me/tnews365)                       | 7×24 不定时编译国内外媒体的即时新闻报道。                    |
 | [NGOCN](https://t.me/ngocn01)                         | [NGOCN](https://ngocn2.org/) 是一家中国独立媒体，非营利性质，致力向公众提供进步、负责任且多元的纪实性内容，目前由认同其理念志愿者运营。 |
-| [端傳媒 Initium Media](https://t.me/the_InitiumMedia) | 由程式自動獲取並推送端傳媒 RSS 所有文章。                    |
+| [端傳媒 Initium Media](https://t.me/the_InitiumMedia) | 由程式自動獲取並推送端傳媒 RSS 所有文章，链接至官网。        |
+| [端传媒 RSS](https://t.me/theinitium_rss)             | 链接至 Telegraph 和官网。RSS 地址：https://rsshub.app/initium/latest/zh-hans |
 | [端传媒](https://t.me/lnitiumMedia)                   | 每日推送端传媒（付费）文章.pdf。手头宽裕，还是 [付费购买端会员](https://theinitium.com/subscription/offers/) 或购买 [新闻通讯 Newsletter](https://i.init.shop/collections/newsletter/products/daily-newsletter-original)。 |
 
 
@@ -1041,6 +1046,7 @@ https://rsshub.app/telegram/channel/tingtalk
 | [澳大利亚广播公司](https://t.me/abc_rss)                   | [Australian Broadcasting Corporation (ABC)](https://www.abc.net.au/news/chinese/) 是澳大利亚的国家公共广播机构，它由政府出资，向澳大利亚和海外提供电台、电视、互联网服务。总部设在悉尼。 |
 | [法国国际广播电台](https://t.me/rfi_rss)                   | [Radio France Internationale (RFI)](https://www.rfi.fr/cn/) 是法国专责世界大部分地区之国际广播的电台广播机构，现隶属法国国营国际广播公司法国世界媒体旗下。by [维基百科](https://zh.wikipedia.org/zh-cn/%E6%B3%95%E5%9B%BD%E5%9B%BD%E9%99%85%E5%B9%BF%E6%92%AD%E7%94%B5%E5%8F%B0) |
 | [美国之音中文网](https://t.me/meiguozhiyin_rss)            | [Voice of America (VOA)](https://www.voachinese.com/) 成立于 1942 年 2 月，是美国政府对外设立和资助的国有非军事国际广播宣传喉舌，由美国国际媒体署管理，旗下拥有广播电台与电视台，总部座落在首都华盛顿。by [维基百科](https://zh.wikipedia.org/zh-cn/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3) |
+| [华尔街日报](https://t.me/wsj_rss)                         | RSS 地址：https://feedx.net/rss/wsj.xml                      |
 | [俄罗斯卫星通讯社新闻](https://t.me/ru_rss)                | [Sputnik](http://sputniknews.cn/) 是俄罗斯政府控制的新闻机构今日俄罗斯媒体集团于 2014 年 10 月开通的新闻通讯社、新闻网站、广播电台与媒体新闻中心。by [维基百科](https://zh.wikipedia.org/zh-cn/%E5%8D%AB%E6%98%9F%E9%80%9A%E8%AE%AF%E7%A4%BE) |
 | [韩国新闻](https://t.me/korea_rss)                         | [朝鲜日报](https://cnnews.chosun.com/) + [中央日报中文版](http://chinese.joins.com/) |
 | [日本新闻](https://t.me/jp_rss)                            | [共同网](https://china.kyodonews.net/) + [朝日新闻中文网](https://asahichinese-j.com/) + [日本经济新闻中文版](https://cn.nikkei.com/) |
@@ -1078,6 +1084,7 @@ https://rsshub.app/telegram/channel/tingtalk
 | [Telegram 中文 NEWS](https://t.me/YinxiangBiji_News) | [聪聪](hhttps://congcong0806.github.io/2018/04/24/Telegram/) 的频道：提供印象笔记、Telegram、科学上网等新闻。[Telegram 知识汇总](https://t.me/YinxiangBiji_News/954)。 |
 | [每日消费电子观察](https://t.me/CE_Observe)          | 不公正，不客观，不理性。                                     |
 | [cnBeta](https://t.me/cnbeta_com)                    | cnBeta.COM 中文业界资讯站是一个提供 IT 相关新闻资讯、技术文章和评论的观点的中文网站。 |
+| [IT 之家](https://t.me/ithome_rss)                   | RSS 地址：https://www.ithome.com/rss/                        |
 | [果核 Apple Nuts](https://t.me/AppleNuts)            | 一个果粉（[Hackl0us](https://hackl0us.com/)）的闲言碎语， 用来推送苹果（Apple） 相关的技术、新闻资讯、技巧、产品/软件心得体会等。 |
 | [APPDO 数字生活指南](https://t.me/appdodo)           | 优质数字生活指南，传递数码生活和设计理念。                   |
 | [AppPie](https://t.me/AppPie)                        | Apple 相关的数字生活指南。                                   |
@@ -1132,18 +1139,22 @@ https://rsshub.app/telegram/channel/tingtalk
 | ------------------------------------------- | ------------------------------------------------------------ |
 | [RSSHub 布告栏](https://t.me/awesomeRSSHub) | 万物皆可 RSS。                                               |
 | [All About RSS](https://t.me/aboutrss)      | 关于 RSS 技术的应用、周边、介绍、方法、教程、指南、讨论、观点。 |
+| [RSS 频道收集](https://t.me/rss_channels)   | 收集推送 RSS 的频道，把 TG 变成 RSS 阅读器。                 |
 
 
 
 ### 🎞️ 影视
 
-| 频道                                            | 详情                                                         |
-| ----------------------------------------------- | ------------------------------------------------------------ |
-| [4K 影视屋](https://t.me/dianying4K)            | 蓝光无损电影。                                               |
-| [电影频道](https://t.me/Cctv365)                | 想看什么电影请在评论区留言。                                 |
-| [远鉴字幕组发布频道](https://t.me/VisionarySub) | 本字幕组致力于非院线海外电影及海外剧集的译制与分享。         |
-| [霸王龙发布频道](https://t.me/T_rex2333)        | 做一个有温度，有思想，懂粉丝的压制组。<br/>每天定时更新，选取优质影片源。<br/>专注于韩美剧，经典的电影榜单。 |
-| [苍炎影院](https://t.me/cangyanmovie)           | 分享最新最热门的优质电影。                                   |
+| 频道                                             | 详情                                                         |
+| ------------------------------------------------ | ------------------------------------------------------------ |
+| [4K 影视屋](https://t.me/dianying4K)             | 蓝光无损电影。                                               |
+| [电影频道](https://t.me/Cctv365)                 | 想看什么电影请在评论区留言。                                 |
+| [远鉴字幕组发布频道](https://t.me/VisionarySub)  | 本字幕组致力于非院线海外电影及海外剧集的译制与分享。         |
+| [人人影视字幕文件](https://t.me/yyets_subtitles) | 这个频道与人人影视及其字幕组无任何关联。                     |
+| [霸王龙发布频道](https://t.me/T_rex2333)         | 做一个有温度，有思想，懂粉丝的压制组。<br/>每天定时更新，选取优质影片源。<br/>专注于韩美剧，经典的电影榜单。 |
+| [苍炎影院](https://t.me/cangyanmovie)            | 分享最新最热门的优质电影。                                   |
+| [迷影果醬](https://t.me/cinephiliajam)           | 无规律放映影片。                                             |
+| [4K 影视屋](https://t.me/dianying4K)             | 4K 电影种子发布频道。                                        |
 
 
 
@@ -1172,10 +1183,12 @@ https://rsshub.app/telegram/channel/tingtalk
 | [Imusic](https://t.me/Imusic_zz)                 | 音乐，就是理想的挽歌，年代久远，依然飘扬。   |
 | [杂鱼Music Channel](https://t.me/ZAYU_music)     | 我相信，爱音乐的人都有着一颗柔软的心。       |
 | [音乐世界](https://t.me/lumingguandj)            | 温柔被我唱成了歌，伴你人山人海不停留。       |
+| [心声：音乐分享频道](https://t.me/yyfx_p)        | 分享一些能引起共鸣的音乐。                   |
 | [每日一歌](https://t.me/dailymusich)             | 愿你也能在这里找到属于你自己的共鸣。         |
 | [Classical Music](https://t.me/exploreclassical) | 一起来听古典音乐吧。                         |
 | [蛙音通讯](https://t.me/wahyin)                  | Feels wonderful again man.                   |
 | [无损音乐频道](https://t.me/undamaged_music)     | 分享无损音乐、高品质音乐、原碟整轨分轨音频。 |
+| [浦镇青年](https://t.me/Asdzxcyuihjkqwe)         | 李志。                                       |
 
 下载音乐，还可以查阅下文中提到的音乐机器人。
 
@@ -1185,18 +1198,19 @@ https://rsshub.app/telegram/channel/tingtalk
 
 人类的悲喜并不互通，但读书是走向共同理解的捷径。
 
-| 频道                                          | 详情                                                         |
-| --------------------------------------------- | ------------------------------------------------------------ |
-| [Word Power Made Easy](https://t.me/pieroots) | 利用词根（原始印欧语、拉丁语、古希腊语）学习英语单词。       |
-| [英语精读学习](https://t.me/englishlearn2020) | 夜空中最亮的星，就是你自己！我们一起精读英语，一起进步，遇见更好的自己吧！资料不定时更新哟！ |
-| [中文社科讲座资讯](https://t.me/chwebinars)   | 一个讲座信息聚合和 PPT 共享平台。                            |
-| [什么书值得读](https://t.me/zreadpush)        | 仅推送某亚原版资源，可同时下载 `.azw3` `.epub` `.mobi` 的电子书。 |
-| [好书分享频道](https://t.me/haoshufenxiang)   | 学习，是一辈子的大事。                                       |
-| [小声读书](https://t.me/weekly_books)         | 一个探索数字阅读可能性和未来的开放项目，致力于打破信息茧房，挖掘价值信息。 |
-| [值得一看的文章](https://t.me/readgoods)      | 阅读更少，收获更多。                                         |
-| [云上报刊亭](https://t.me/magazinesclub)      | 英文报刊杂志、电子书、报纸和外文杂志精选。                   |
-| [Λ-Reading](https://t.me/GoReading)           | 分享书和阅读、认知科学、科技哲学、新科技以及其它给生活带来一丝美好的事物 \| [Newsletter](https://rizime.substack.com/) |
-| [臭（xiù）文字](https://t.me/SniffAtWord)     | 诗歌频道；我是一个嗅觉特别发达的人，你说，然而，没有一种艺术可供我的鼻子用武，只有生命可以。 |
+| 频道                                                       | 详情                                                         |
+| ---------------------------------------------------------- | ------------------------------------------------------------ |
+| [Word Power Made Easy](https://t.me/pieroots)              | 利用词根（原始印欧语、拉丁语、古希腊语）学习英语单词。       |
+| [英语精读学习](https://t.me/englishlearn2020)              | 夜空中最亮的星，就是你自己！我们一起精读英语，一起进步，遇见更好的自己吧！资料不定时更新哟！ |
+| [ENGLISH PODCASTS](https://t.me/Podcast_English_listening) | INFINITY PODCASTS CHANNEL WITHOUT ANY LIMITS.                |
+| [中文社科讲座资讯](https://t.me/chwebinars)                | 一个讲座信息聚合和 PPT 共享平台。                            |
+| [什么书值得读](https://t.me/zreadpush)                     | 仅推送某亚原版资源，可同时下载 `.azw3` `.epub` `.mobi` 的电子书。 |
+| [好书分享频道](https://t.me/haoshufenxiang)                | 学习，是一辈子的大事。                                       |
+| [小声读书](https://t.me/weekly_books)                      | 一个探索数字阅读可能性和未来的开放项目，致力于打破信息茧房，挖掘价值信息。 |
+| [值得一看的文章](https://t.me/readgoods)                   | 阅读更少，收获更多。                                         |
+| [云上报刊亭](https://t.me/magazinesclub)                   | 英文报刊杂志、电子书、报纸和外文杂志精选。                   |
+| [Λ-Reading](https://t.me/GoReading)                        | 分享书和阅读、认知科学、科技哲学、新科技以及其它给生活带来一丝美好的事物 \| [Newsletter](https://rizime.substack.com/) |
+| [臭（xiù）文字](https://t.me/SniffAtWord)                  | 诗歌频道；我是一个嗅觉特别发达的人，你说，然而，没有一种艺术可供我的鼻子用武，只有生命可以。 |
 
 插播一个免费的广告：学英语，推荐购买郝海龙老师的[《英语自学手册》](https://sspai.com/series/77)（￥119）。
 
@@ -1252,6 +1266,7 @@ https://rsshub.app/telegram/channel/tingtalk
 | [如有乐享](https://t.me/ruyoblog)                   | 更新 [如有乐享博客](https://51.ruyo.net/) 的内容：云服务器、优惠活动、羊毛信息以及各种 Bug。 |
 | [iShare News](https://t.me/iShareNews)              | 一个没有简介的资源分享频道。                                 |
 | [Zapro Notice](https://t.me/zaproshare)             | 软件分享。                                                   |
+| [App 喵](https://t.me/appmew)                       | 破解软件资源共享。                                           |
 | [Google Drive 资源](https://t.me/gdurl)             | 各种 Google Drive 资源，包括电影、电子书、无损音乐等，10 万+ 关注。 |
 | [Google Voice 靓号](https://t.me/voice_google)      | 一个 GV 卖家。                                               |
 | [Windows 10 激活码分享](https://t.me/win10keymaxs)  | 🤫                                                            |
@@ -1393,7 +1408,7 @@ Telegram 的服务器分布在世界各地的数据中心（[Data Center](https:
 | Bot                                                | Info                                                         |
 | -------------------------------------------------- | ------------------------------------------------------------ |
 | [@bingdict_bot](https://t.me/bingdict_bot)         | 基于 Bing 开发的中英文翻译机器人。                           |
-| [@CorsaBot](https://t.me/CorsaBot)                 | Make Instant View from any article. 快速把文章把文章备份到 [Telegraph](https://telegra.ph/)。 |
+| [@CorsaBot](https://t.me/CorsaBot)                 | 👍 Make Instant View from any article. 快速把文章把文章备份到 [Telegraph](https://telegra.ph/)。 |
 | [@cnLottery_bot](https://t.me/cnLottery_bot)       | Telegram 群组抽奖工具。                                      |
 | [@he_weather_bot](https://t.me/he_weather_bot)     | 和风天气小棉袄。另外还有 WIEN 产品的 [广州](https://t.me/cantonWeather)、[深圳](https://t.me/shamchunWeather)、[东莞](https://t.me/TungkwunWeather) 的天气速报频道。 |
 | [@IFTTT](https://t.me/IFTTT)                       | [With this bot you can use IFTTT to link your Telegram groups or channels to more than 360 other services like Twitter and Instagram, or connected devices like Hue lights and Nest.](https://ifttt.com/telegram) |

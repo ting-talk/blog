@@ -271,6 +271,39 @@ tags: 外贸
 
 
 
+### 知识产权
+
+**侵犯行为**
+
+- 标题
+  - 出现未授权的商标
+  - 被注册的技术名词：Bluetooth、EZ RJ45
+- 图片
+  - 产品
+    - 整体上侵犯外观专利
+    - 出现未授权的卡通形象商标，例如 Rick and Morty
+    - 出现未授权的图案，例如 GUCCI 的 GG 重复图形
+    - 电子屏幕（UI）中出现未授权的图形商标
+  - 产品包装：出现未授权的商标
+  - 纸箱包装：出现未授权的商标
+- 详情页
+  - Model Number（型号）：出现商标
+  - 正文描述：出现商标
+
+
+
+**专利检索**
+
+- 中国专利：[中国及多国专利审查信息查询系统](http://cpquery.cnipa.gov.cn/)
+- 美国专利：[美国专利商标主管机关](http://patft.uspto.gov/netahtml/PTO/search-bool.html)
+- 欧盟专利：
+  - [外观设计（Design）](https://euipo.europa.eu/eSearch/)
+  - [专利（Patent）](https://www.epo.org/searching-for-patents.html)
+
+
+
+
+
 ## 店铺运营
 
 **RFQ**
