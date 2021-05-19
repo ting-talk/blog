@@ -54,18 +54,21 @@ Ting 我 Talk 一句：只要肉身在中国大陆，我们的一切行动听党
 ### 📧 注册
 
 用手机或者电脑的本机浏览器打开 [ssrcloud](https://sgi.anycast.gay/auth/register?code=iQuU)，或者复制下面这个网址，粘贴到浏览器的地址栏：
-```http
- https://邀请01.很有精神.com/auth/register?code=iQuU
-```
-或者
+
 ```http
 https://sgi.anycast.gay/auth/register?code=iQuU
 ```
+或者：
+
+```http
+https://xn--wck3bl6f2a2hb.xn--p8jr2b2a2b5gvc4ed.com/auth/register?code=iQuU
+```
 
 - 邀请码是 `iQuU`
-- 通过我的邀请链接注册，你可能会获得 ￥1 的初始出海资金。
-- 备用注册链接：https://cnix-gov-cn.com/auth/register?code=iQuU
-- 官网不是一成不变的。刷新订阅链接，即可在某个节点中看到最新的官网。
+- 通过我的邀请链接注册，你可能会获得 ￥1 的初始出海资金
+- 官网不是一成不变的
+  - 刷新订阅链接，即可在某个节点中看到最新的官网
+  - 在官网的通知中心，找到最新的 Telegram 通知频道和群组，获取最新官网地址
 
 注册后，登录。
 
@@ -101,7 +104,7 @@ Android 用户推荐使用 ShadowsocksR 客户端，但是也可以把 Clash for
 
 **公告**
 
-- Telegram 通知频道：https://t.me/airkoryochannel
+- Telegram 通知频道：https://t.me/Meilleuraeroport
 
 **客服**
 
@@ -110,7 +113,7 @@ Android 用户推荐使用 ShadowsocksR 客户端，但是也可以把 Clash for
 
 **群组**
 
-- Telegram 群组：https://t.me/airkoryo
+- Telegram 群组：https://t.me/joinchat/Fhvyaxkq0Bg4YzBl
 
 
 
@@ -530,7 +533,7 @@ Telegram Channel（电报频道）：[Clash for Android Channel Gateway](https:/
 
 `$2.99` 俗称「小火箭」：
 
-添加订阅节点，请参考图文教程 [iOS - Shadowrocket (小火箭) 使用教程 - 神奇海螺](https://wiki.kache.moe/2019/11/16/iOS-Shadowrocket/)。以下是是纯文字教程。
+添加订阅节点，请参考图文教程 [在 iPhone&iPad 上配置 Shadowrocket | DolphinCloud 帮助文档](https://help.hitun.io/zh/article/iphoneipad-shadowrocket-fchjfp/)。以下是是纯文字教程。
 
 
 
