@@ -1128,6 +1128,7 @@ https://rsshub.app/telegram/channel/tingtalk
 | [日常人间观察](https://t.me/hayami_kiraa)                 | 关心科技 / 人文 / 艺术 / 城市公共空间 / 女性和性别议题 / 劳工权益 / 个体叙事 / 电影 / 音乐 / 书 / 星星…… |
 | [In The Flux](https://t.me/intheflux)                     | 关于文化、艺术与技术的信息流。                               |
 | [为也行](https://t.me/weiyexing)                          | 「书籍 \| 电影 \| 资源 \| 技巧 \| 摸鱼图」大多原创，少部分转发。 |
+| [Jerry Zhang 的频道](https://t.me/JerryZhang)             | 在渥太华的长春人。<br />博客：[Overflow](https://jerryzhang.blog/)，向信息过载的世界大喊。<br />播客：[《科技聚变》](https://techfusionfm.com/)（TechFusion），我们谈论有关互联网的一切。 |
 
 [中文独立博客列表](https://github.com/timqian/chinese-independent-blogs) by timqian
 

@@ -552,7 +552,41 @@ tags: [外贸, 英语, 口语]
 
 
 
----
+### 整理客户选中的样品
+
+- 📕 Here they are. The 6 items you just selected. Are these the right ones?
+- 📗 Correct.
+- 📕 OK. Let's discuss the first one, our new model RJK -23366. The unit price is 3.74 USD per piece for one 20' FCL (一个小柜). If you place 500 to 1000 pcs as trial order, we have to charge you an extra 200 USD as handling fee (操作费).
+- 📗 
+- 📕 
+- 📗 
+- 📕 
+- 📗 
+- 📕 
+- 📗 
+- 📕 
+- 📗 
+- 📕 
+- 📗 
+- 📕 
+- 📗 
+- 📕 
+- 📗 
+- 📕 
+- 📗 
+- 📕 
+- 📗 
+- 📕 
+- 📗 
+- 📕 
+
+
+
+
+
+
+
+
 
 
 

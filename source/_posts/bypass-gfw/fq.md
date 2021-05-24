@@ -207,6 +207,122 @@ Android 用户推荐使用 ShadowsocksR 客户端，但是也可以把 Clash for
 
 ### 🖥 Windows（PC）
 
+推荐使用 Clash .NET 客户端。
+
+
+
+#### Clash .NET
+
+##### 优点
+
+相比 Clash for Windows：
+
+- 小巧美观但功能强大
+- 语言界面支持中文
+- 兼容 Windows 7 及更高版本系统
+- 支持便携模式，随身携带你的翻墙利器
+- 支持在本地对订阅链接转换（SubConverter）
+
+
+
+##### 下载
+
+- 下载 [.NET Framework Runtime 5.0](https://dotnet.microsoft.com/download/dotnet/5.0/runtime) 及以上版本（[如何辨别我的计算机运行的是 32 位还是 64 位版本的 Windows？](https://support.microsoft.com/zh-cn/windows/32-%E4%BD%8D%E5%92%8C-64-%E4%BD%8D-windows-%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98%E8%A7%A3%E7%AD%94-c6ca9541-8dce-4d48-0415-94a3faa2e13d)）
+  - [64 位](https://dotnet.microsoft.com/download/dotnet/thank-you/runtime-desktop-5.0.5-windows-x64-installer)
+  - [32 位](https://dotnet.microsoft.com/download/dotnet/thank-you/runtime-desktop-5.0.5-windows-x86-installer)（x86）
+- 下载 Clash .NET：[GitHub](https://github.com/ClashDotNetFramework/ClashDotNetFramework)
+
+
+
+##### 其它
+
+- 混口端口（Mixed-Port）就是代理端口。 
+- Telegam 频道：[@ClashDotNetFrameworkAnncmnt](https://t.me/ClashDotNetFrameworkAnncmnt)
+
+
+
+#### Clash for Windows
+
+仅支持 64 位的 Windows 系统。
+
+##### 下载
+
+- 官方：[Clash for Windows.exe](https://github.com/Fndroid/clash_for_windows_pkg/releases)  by Fndroid，下载速度可能比较慢。
+  - 安装版：`Clash.for.Windows.Setup.exe`
+  - 便携版：`Clash.for.Windows-win.7z`
+- 备用：下载速度较快，但可能不是最新版，不过不影响使用。
+  - [rixCloud](https://cdn.rixcloud.io/download/Clash-Windows.exe)
+  - [蓝奏云](https://lanzous.com/b00t9wiva)
+
+##### 安装
+
+- 双击安装
+- 授权运行：点击 `更多信息`，然后选择 `仍要运行`
+- 为 `所有用户` 安装
+- `C` 改为 `D`：`D:\Program Files\Clash for Windows`
+
+##### 使用
+
+从机场复制 Clash 订阅 URL（托管配置链接）。打开 Clash for Windows，在左侧的标签页中依次选择：
+
+**[Profile](https://docs.cfw.lbyczf.com/contents/ui/profiles.html)（配置）**  
+
+1. 在顶部输入框粘贴订阅配置链接，然后点击 `Download` 按钮。Clash for Windows 会自动下载远程配置文，如果一切顺利，你应当可以看到绿色提示信息。`Success!`，并且可以看到一个新的配置文件（如果弹出 `Could not switch to this profile! `，关闭软件，以 `管理员身份运行`。）。
+2. 点击新的配置文件，就能切换到该配置。
+3. 点击配置文件的 ℹ️（Change information），在 `Update Interval (hour)` 填入 `24`，即 24 小时自动更新一次配置文件。
+
+
+
+**[Proxies](https://docs.cfw.lbyczf.com/contents/ui/proxies.html)（代理）**  
+用于切换代理模式和接入点（节点）。
+
+1. 将顶部的代理模式选择为 `Rule`（规则）：所有请求根据配置文件规则进行分流。
+2. 点击 `Proxy` 智能分流 [策略组](https://github.com/Fndroid/jsbox_script/wiki/%E5%85%B3%E4%BA%8E%E7%AD%96%E7%95%A5%E7%BB%84%E7%9A%84%E7%90%86%E8%A7%A3)（各家称呼不一样，一般排在第一位）。
+3. 点击右侧的 ⚡ 进行测速。
+4. 选择一个较快的接入点（`ms` 毫秒数最小）。
+
+
+
+**[General](https://docs.cfw.lbyczf.com/contents/ui/general.html)（常规）**   
+
+`System Proxy`（系统代理）：`On`
+
+`Start with Windows`（开机自启）：`On`
+
+`GeoIP Database`：点击更新 MaxMind 的 GeoIP2 Lite 数据库。此数据库用于 Geo 规则和 DNS 判断，建议每月至少更新一次。
+
+`UWP Loopback`
+
+> UWP 是微软在 Windows 10 中引入的新概念，由于所有 UWP 应用均运行在被称为 App Container 的虚拟沙箱环境中，其安全性及纯净度远胜于传统的 EXE 应用。但 App Container 机制同时也阻止了网络流量发送到本机（即 loopback）， 使大部分网络抓包调试工具无法对 UWP 应用进行流量分析。同样的，该机制也阻止了 UWP 应用访问 localhost，即使你在系统设置中启用了代理，也无法令 UWP 应用访问本地代理服务器，十分恼人。by [通过设置为 Win 10 UWP 应用解除网络隔离 - SHY](https://sspai.com/post/41137)
+
+如何开启用本地回环代理：
+
+1. 点击 `Launch Helper`。
+2. 点击 `Exempt All` 勾选所有 UWP 应用。
+3. 点击 `Save Changes` 保存设置。
+4. 点击右上角关闭，此时 UWP 应用的网络问题就可以解决了，例如 Microsoft To Do 可以同步了。
+
+❗ 请注意：安装新的 UWP 应用后，需要重新设置。
+
+
+
+**Clash for Windows 所有节点测试延迟都显示 Timeout 怎么办？**
+访问 [Time.is](https://time.is/)  ，确保你的电脑系统时间与标准时间的时间差不超过 1 分钟。
+
+
+
+**关联阅读**
+
+- 文字教程：[UWP 应用联网 - Fndroid](https://github.com/Fndroid/clash_for_windows_pkg/wiki/UWP%E5%BA%94%E7%94%A8%E8%81%94%E7%BD%91)
+- 图文教程：[Clash for Windows 官方文档 - Fndroid](https://docs.cfw.lbyczf.com/)
+- 图文教程：[如何在 Clash for Windows 上进行配置 - rixCloud](https://rixcloudkb.io/kb/configured-by-clash-for-windows/)
+- 视频教程：[Clash(R) for Windows 教程 | 可能是Windows上最好用的代理工具 - Sabrina](https://merlinblog.xyz/wiki/cfw.html)
+- [Clash Editor](https://clash.skk.moe/)：一个 实验性质 的 Clash 配置文件编辑向导。
+
+
+
+
+
 
 #### Shadowsocks
 
@@ -298,84 +414,6 @@ Android 用户推荐使用 ShadowsocksR 客户端，但是也可以把 Clash for
 - 不兼容 ShadowsocksR 协议。
 - 必须卸载「360 / 2345 / 腾讯 全家桶」才能运行。莫慌，这是 [Windows 佳软](https://tingtalk.me/windows/) 推荐。
 - 使用方法跟 Shadowsocks 大同小异，不在赘述。
-
-
-
-#### Clash for Windows
-
-仅支持 64 位的 Windows 系统。
-
-##### 下载
-
-- 官方：[Clash for Windows.exe](https://github.com/Fndroid/clash_for_windows_pkg/releases)  by Fndroid，下载速度可能比较慢。
-  - 安装版：`Clash.for.Windows.Setup.exe`
-  - 便携版：`Clash.for.Windows-win.7z`
-- 备用：下载速度较快，但可能不是最新版，不过不影响使用。
-  - [rixCloud](https://cdn.rixcloud.io/download/Clash-Windows.exe)
-  - [蓝奏云](https://lanzous.com/b00t9wiva)
-
-##### 安装
-- 双击安装
-- 授权运行：点击 `更多信息`，然后选择 `仍要运行`
-- 为 `所有用户` 安装
-- `C` 改为 `D`：`D:\Program Files\Clash for Windows`
-
-##### 使用
-
-从机场复制 Clash 订阅 URL（托管配置链接）。打开 Clash for Windows，在左侧的标签页中依次选择：
-
-**[Profile](https://docs.cfw.lbyczf.com/contents/ui/profiles.html)（配置）**  
-
-1. 在顶部输入框粘贴订阅配置链接，然后点击 `Download` 按钮。Clash for Windows 会自动下载远程配置文，如果一切顺利，你应当可以看到绿色提示信息。`Success!`，并且可以看到一个新的配置文件（如果弹出 `Could not switch to this profile! `，关闭软件，以 `管理员身份运行`。）。
-2. 点击新的配置文件，就能切换到该配置。
-3. 点击配置文件的 ℹ️（Change information），在 `Update Interval (hour)` 填入 `24`，即 24 小时自动更新一次配置文件。
-
-
-
-**[Proxies](https://docs.cfw.lbyczf.com/contents/ui/proxies.html)（代理）**  
-用于切换代理模式和接入点（节点）。
-
-1. 将顶部的代理模式选择为 `Rule`（规则）：所有请求根据配置文件规则进行分流。
-2. 点击 `Proxy` 智能分流 [策略组](https://github.com/Fndroid/jsbox_script/wiki/%E5%85%B3%E4%BA%8E%E7%AD%96%E7%95%A5%E7%BB%84%E7%9A%84%E7%90%86%E8%A7%A3)（各家称呼不一样，一般排在第一位）。
-3. 点击右侧的 ⚡ 进行测速。
-4. 选择一个较快的接入点（`ms` 毫秒数最小）。
-
-
-
-**[General](https://docs.cfw.lbyczf.com/contents/ui/general.html)（常规）**   
-
-`System Proxy`（系统代理）：`On`
-
-`Start with Windows`（开机自启）：`On`
-
-`GeoIP Database`：点击更新 MaxMind 的 GeoIP2 Lite 数据库。此数据库用于 Geo 规则和 DNS 判断，建议每月至少更新一次。
-
-`UWP Loopback`
-
-> UWP 是微软在 Windows 10 中引入的新概念，由于所有 UWP 应用均运行在被称为 App Container 的虚拟沙箱环境中，其安全性及纯净度远胜于传统的 EXE 应用。但 App Container 机制同时也阻止了网络流量发送到本机（即 loopback）， 使大部分网络抓包调试工具无法对 UWP 应用进行流量分析。同样的，该机制也阻止了 UWP 应用访问 localhost，即使你在系统设置中启用了代理，也无法令 UWP 应用访问本地代理服务器，十分恼人。by [通过设置为 Win 10 UWP 应用解除网络隔离 - SHY](https://sspai.com/post/41137)
-
-如何开启用本地回环代理：
-1. 点击 `Launch Helper`。
-2. 点击 `Exempt All` 勾选所有 UWP 应用。
-3. 点击 `Save Changes` 保存设置。
-4. 点击右上角关闭，此时 UWP 应用的网络问题就可以解决了，例如 Microsoft To Do 可以同步了。
-
-❗ 请注意：安装新的 UWP 应用后，需要重新设置。
-
-
-
-**Clash for Windows 所有节点测试延迟都显示 Timeout 怎么办？**
-访问 [Time.is](https://time.is/)  ，确保你的电脑系统时间与标准时间的时间差不超过 1 分钟。
-
-
-
-**关联阅读**
-
-- 文字教程：[UWP 应用联网 - Fndroid](https://github.com/Fndroid/clash_for_windows_pkg/wiki/UWP%E5%BA%94%E7%94%A8%E8%81%94%E7%BD%91)
-- 图文教程：[Clash for Windows 官方文档 - Fndroid](https://docs.cfw.lbyczf.com/)
-- 图文教程：[如何在 Clash for Windows 上进行配置 - rixCloud](https://rixcloudkb.io/kb/configured-by-clash-for-windows/)
-- 视频教程：[Clash(R) for Windows 教程 | 可能是Windows上最好用的代理工具 - Sabrina](https://merlinblog.xyz/wiki/cfw.html)
-- [Clash Editor](https://clash.skk.moe/)：一个 实验性质 的 Clash 配置文件编辑向导。
 
 
 
