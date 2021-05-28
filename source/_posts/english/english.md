@@ -867,6 +867,14 @@ B: Through the door, duh. （废话，当然是从门进来的。）
 
 ## E
 
+### Empty
+
+- empty the shopping cart 
+  清空购物车
+- empty your mind /pocket /home
+
+
+
 ### Endow
 
 [ɪnˈdaʊ] 赋予；捐赠；天生具有
@@ -874,12 +882,6 @@ B: Through the door, duh. （废话，当然是从门进来的。）
 You can't endow a creature with sentience and then rip it away. 你不能给一个生物思想然后剥夺掉。
 
 - sentience ['sentɪəns] 感觉性；感觉能力；知觉
-
-
-
-
-
-
 
 
 
@@ -961,7 +963,6 @@ wide-eyed 无经验的; 天真的
 
 - I'm just saying, somewhere along the way, I lost that wide-eyed girl from Muskegon.
   我只是想说，时过境迁，那个天真烂漫的马斯基根少女已经不复存在了。
-  
 
 
 ## F
@@ -1415,6 +1416,19 @@ by [have got to 与 get to 的差别 - 希平方](https://www.hopenglish.com/hop
   There comes Tom（无代词就倒装）  
   There he comes（有代词不倒装）
 
+
+
+### Hi
+
+（接近他人时的）自我介绍
+
+- Just coming to say hi.
+- Do you (guys) mind if I join you?
+- Hi, may I introduce myself? I am…
+- Let / Allow me introduce myself.
+
+
+
 ### High road 
 
 You're gonna try to take the high road on this one? 你还想抢占道德制高点？
@@ -1518,6 +1532,18 @@ More importantly, your father is a horrible influence on our son. 更重要的�
 ### Improvise
 
 It's all improvised. It's very funny. 都是即兴创作，乐趣无穷。
+
+
+
+## J
+
+- journey （长途）旅行，比较辛苦的那种
+- trip （短途）旅行
+
+- The journey of a thousand miles begins with a single step.
+  千里之行，始于足下。
+- The best time to plant a tree was twenty years ago. The second best time is now.
+  种一棵树最好的时间是二十年前，其次是现在。
 
 
 
@@ -1691,6 +1717,8 @@ under maintenance 正在维护中
 
 
 
+
+
 ### Mean
 
 有意
@@ -1700,6 +1728,23 @@ I didn't mean to hurt you. 我不是有意要伤害你。
 It's over, Elliot. I mean it. It's over. 完了，艾略特，我是认真的。
 
 She didn't mean it. She didn't mean any of this... 她不是有意的，不是有意造成这一切..……
+
+
+
+### Meet
+
+- 初次见面。
+  Nice to meet you.
+- 再次见面。
+  Nice / Good to see you (again).
+  Hey, I didnt think I would see you here.
+- 告别。
+  It was a pleasure to meet you.
+  For me as well.
+
+
+
+
 
 
 
@@ -2478,7 +2523,6 @@ He was still in better shape than many young men. 他依然比许多年轻人都
   
 -  I'm used to sleeping late.  
   我习惯晚睡
-  
 
 
 
