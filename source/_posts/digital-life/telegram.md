@@ -1133,12 +1133,16 @@ https://rsshub.app/telegram/channel/tingtalk
 | [小虎の自留地](https://t.me/xiaohudejia)                  | 讨论家装心得或者有趣实用的家具电器。                         |
 | [Leonn 的博客](https://t.me/liyuans)                      | 低价主机（VPS）资源。                                        |
 | [Yachen's Channel](https://t.me/yachme)                   | 刘亚晨是 Surge 的开发者\| [Yachen's Blog](https://yach.me/)  |
+| [BennyThink's Blog](https://t.me/mikuri520)               | 随便分享点什么，可能是某部剧，可能是某首歌，可能是一点点感动的瞬间，也可能是我最爱的老婆。 |
 | [MolunSays](https://t.me/molun)                           | 希冀笔尖之下，世界兴旺繁华 \| [博客](https://molun.net/)     |
 | [日常人间观察](https://t.me/hayami_kiraa)                 | 关心科技 / 人文 / 艺术 / 城市公共空间 / 女性和性别议题 / 劳工权益 / 个体叙事 / 电影 / 音乐 / 书 / 星星…… |
 | [In The Flux](https://t.me/intheflux)                     | 关于文化、艺术与技术的信息流。                               |
 | [为也行](https://t.me/weiyexing)                          | 「书籍 \| 电影 \| 资源 \| 技巧 \| 摸鱼图」大多原创，少部分转发。 |
 | [Jerry Zhang 的频道](https://t.me/JerryZhang)             | 在渥太华的长春人。<br />博客：[Overflow](https://jerryzhang.blog/)，向信息过载的世界大喊。<br />播客：[《科技聚变》](https://techfusionfm.com/)（TechFusion），我们谈论有关互联网的一切。 |
 | [老人和糟](https://t.me/dizzyninja)                       | 没有频道简介，科技相关。                                     |
+| [Karen 医生の日常](https://t.me/KarenMoe)                 | 一个小医生的通讯站。不想出名，只传播一些信息和科普。         |
+| [𝑾𝒊𝒌𝒊𝑫𝑩](https://t.me/wikidb)                             | The right way, or the easy way.                              |
+| [人海拾贝FlipRadio](https://t.me/flipradio)               | 翻转电台的 Channel，一些零零散散的要分享的东西。             |
 
 [中文独立博客列表](https://github.com/timqian/chinese-independent-blogs) by timqian
 
@@ -1231,24 +1235,44 @@ https://rsshub.app/telegram/channel/tingtalk
 
 ### 🚀 翻墙
 
+
+**软件**
+
 | 频道                                                         | 详情                                                         |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | [Fndroid 的日常](https://t.me/fndroid_news)                  | 👍 Clash for Windows                                          |
 | [Clash .NET 公告](https://t.me/ClashDotNetFrameworkAnncmnt)  | A Clash GUI Proxy For Windows Based On .NET 5                |
 | [Clash for Android Channel](https://t.me/joinchat/uCUxZwHNjZxlYThl) | A Graphical user interface of Clash for Android              |
 | [SagerNet Apks](https://t.me/SagerNetApks)                   | 支持 SOCKS、HTTP(S)、Shadowsocks、ShadowsocksR、VMess、VLESS、Trojan……等协议 |
-| [DivineEngine](https://t.me/DivineEngine)                    | 神机规则                                                     |
-| [秋水逸冰](https://t.me/qiushuiyibing)                       | [Teddysun](https://teddysun.com/about) 会不定期在此发布一些本人的作品。 |
 | [Shadowrocket News](https://t.me/ShadowrocketNews)           | iOS 上小火箭                                                 |
 | [Quantumult News](https://t.me/quantumultappnews)            | Quantumult 的非官方频道。                                    |
 | [Quantumult X News](https://t.me/QuanXNews)                  | 此频道用于发布 Quantumult 与 Quantumult X 的相关资讯。       |
+| [迷雾通（Geph）](https://t.me/gephannounce)                  | 与众不同的开源翻墙软件，提供完全免费的中速浏览，够浏览新闻、查邮件、看标清视频等。超快速度的付费 Plus 账号仅需 €5/月。截至 2021 年 5 月 29 日，暂不支持 iOS 设备。 |
+
+
+**协议 & 脚本 & 规则**
+
+| 频道                                                         | 详情                                                         |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
 | [V2Fly](https://t.me/V2Fly)                                  | Shadowsocks 是一个纯粹的代理工具，而 V2Ray 定位为一个平台，任何开发者都可以利用 V2Ray 提供的模块开发出新的代理软件。by [新 V2Ray 白话文指南](https://guide.v2fly.org/) |
-| [毒药机场评测](https://t.me/DuyaoSS)                         | 由于大陆地区网络环境十分复杂，测速不代表推荐。另外，有些机场会泄露个人信息，选购时多加搜索或者进入机场用户群打探打探。 |
-| [科学上网与机场观察](https://t.me/jichangtj)                 | 科学上网与机场相关观察、点评、随想和新闻资讯。               |
 | [ACL4SSR](https://t.me/ACL4SSR)                              | https://github.com/ACL4SSR/ACL4SSR 官方频道。                |
 | [QuanX & Surge & Loon 脚本收集](https://t.me/NobyDa)         | 各种脚本。                                                   |
 | [Cool Scripts](https://t.me/cool_scripts)                    | QuanX, Loon, Surge, JsBox, Pythonista, Scriptable, Shortcuts 等脚本分享。 |
-| [人人翻墙，则墙自倒](https://t.me/cnhumanright99)            | 免费提供 Trojan、Vmess 节点。                                |
+| [DivineEngine](https://t.me/DivineEngine)                    | 神机规则 | [秋水逸冰](https://t.me/qiushuiyibing)                       | [Teddysun](https://teddysun.com/about) 会不定期在此发布一些本人的作品。 |                                                    |
+
+**评测**
+
+| 频道                                              | 详情                                                         |
+| ------------------------------------------------- | ------------------------------------------------------------ |
+| [毒药机场评测](https://t.me/DuyaoSS)              | 由于大陆地区网络环境十分复杂，测速不代表推荐。另外，有些机场会泄露个人信息，选购时多加搜索或者进入机场用户群打探打探。 |
+| [科学上网与机场观察](https://t.me/jichangtj)      | 科学上网与机场相关观察、点评、随想和新闻资讯。               |
+| [人人翻墙，则墙自倒](https://t.me/cnhumanright99) | 免费提供 Trojan、Vmess 节点。                                |
+
+**关联阅读**
+
+- [番茄食用指南（科学上网教程） | 庭说](https://tingtalk.me/fq)
+- [番茄种植指南（梯子搭建教程） | 庭说](https://tingtalk.me/fq-diy/)
+
 
 
 
