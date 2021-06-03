@@ -557,7 +557,7 @@ Telegram 有一个非常人性化的特性：**记忆浏览进度**，打开对�
 #### 👇 长按消息
 
 
-- 消息可以无限期撤回（[Delete Messages](https://telegram.org/faq#q-can-i-delete-my-messages)）：删除信息时，勾选 `Also delete for ***`，聊天记录就可以双向删除。通话记录也支持这个特性（[Call history can also be deleted for all sides at any time.](https://telegram.org/blog/move-history#control-your-digital-footprint)）。电报服务器更不会存储被删除的聊天记录和通话记录，因此数据将彻底永远消失。
+- 消息可以无限期撤回（[Delete Messages](https://telegram.org/faq#q-can-i-delete-my-messages)）：删除信息时，勾选 `Also delete for ***`，聊天记录就可以双向删除。通话记录也支持这个特性（[Call history can also be deleted for all sides at any time.](https://telegram.org/blog/move-history#control-your-digital-footprint)）。电报服务器更不会存储被删除的聊天记录和通话记录，因此数据将彻底永远消失。但是接收方可能安装了 [Telegram 本地消息防撤回插件](https://github.com/SpriteOvO/Telegram-Anti-Revoke)，所以发送消息前要i抹除敏感信息，并三思（言重了）。
 - 选择部分消息（[Select Parts of Messages](https://telegram.org/blog/verifiable-apps-and-more#select-parts-of-messages)）：长按 2 次消息，可选择部分文字，而不是复制全文（Copy Selected Text）。
 
 #### 🗣 朗读消息
@@ -1020,6 +1020,7 @@ https://rsshub.app/telegram/channel/tingtalk
 | ----------------------------------------------------- | ------------------------------------------------------------ |
 | [看鉴中国 OutsightChina](https://t.me/OutsightChina)  | 👍 一个健康的社会，不该只有一种声音。看鉴中国，每天聚焦一则关于中国的新闻事件，带你对比来自中外不同媒体多元的、不一样的观点。 |
 | [乌鸦观察](https://t.me/bigcrowdev)                   | 👍 不定期推送新闻和杂谈。                                     |
+| [有据 China Fact Chec](https://t.me/chinafactcheck)k  | 有据是一个专注于对中文国际资讯进行事实核查的计划，是基于志愿和网络协作原则的事实核查计划，努力连接大学、媒体和平台三方力量 \| [官方网站](https://chinafactcheck.com/)。 |
 | [新闻实验室](https://t.me/newslab2020)                | 推荐订阅方可成老师的 [Newsletter](https://sibforms.com/serve/MUIEABj_H1nZN9Jj5HLcOE61NoO8So-r5phaSIn4ZUqqLv_WdJP-bpiAazMxwp2uOWb-aeF-hiOScIzPxwovvRjNYF6METjZVOafOAQANa9tnIeocTm6fv6RurLCTUVGzKrjBrhtIj9q2wVOmIYoltrV310MEOEi-vg3E0uPES0voX-FjBRHd4mPx0woiIsLiZ6-YXnI80PyhpUH)。[微信公众号文章备份](https://github.com/Newslab2020/Contents/blob/master/wechataccount.md)。 |
 | [南方周末](https://t.me/infzm)                        | 在这里，读懂中国。非官方。                                   |
 | [iDaily](https://t.me/idaily_rss)                     | [每日环球视野](http://idai.ly/)。                            |
@@ -1143,6 +1144,7 @@ https://rsshub.app/telegram/channel/tingtalk
 | [Karen 医生の日常](https://t.me/KarenMoe)                 | 一个小医生的通讯站。不想出名，只传播一些信息和科普。         |
 | [𝑾𝒊𝒌𝒊𝑫𝑩](https://t.me/wikidb)                             | The right way, or the easy way.                              |
 | [人海拾贝FlipRadio](https://t.me/flipradio)               | 翻转电台的 Channel，一些零零散散的要分享的东西。             |
+| [BMPI](https://t.me/bmpi365)                              | 主要讲如何构建被动收入 \| [博客](https://www.bmpi.dev) by 马大伟。 |
 
 [中文独立博客列表](https://github.com/timqian/chinese-independent-blogs) by timqian
 
@@ -1309,7 +1311,7 @@ https://rsshub.app/telegram/channel/tingtalk
 | [App 喵](https://t.me/appmew)                       | 破解软件资源共享。                                           |
 | [Google Drive 资源](https://t.me/gdurl)             | 各种 Google Drive 资源，包括电影、电子书、无损音乐等，10 万+ 关注。 |
 | [Google Voice 靓号](https://t.me/voice_google)      | 一个 GV 卖家。                                               |
-| [Windows 10 激活码分享](https://t.me/win10keymaxs)  | 🤫                                                            |
+| [Windows 10 激活码分享](https://t.me/win10keymaxs)  | 🤫。                                                          |
 
 
 
@@ -1329,6 +1331,7 @@ https://rsshub.app/telegram/channel/tingtalk
 | [就要造反](https://t.me/ZaoFaner)                           | 此频道立足生活，以非常古怪的文字风格进行生存经验书写，绘制景观与消费社会中极具现实性的个案，以此为个体提供可操的、创造性的抵制策略与造反计谋。为一切造反者辩护，为所有无用与丰饶辩护。 |
 | [One Piece Deluxe](https://t.me/onepiecedeluxe)             | Receive the latest updates from One Piece (海贼王), including chapters, episodes, spoilers and much more. |
 | [海贼王 One Piece 更新提醒](https://t.me/tingtalk_onepiece) | 由初中开始追《海贼王》 [@TingTalk](https://t.me/tingtalk) 创建。 |
+| [莺莺的爱情日记](https://t.me/loveforever66)                | 说想说的情话，不过配图有些 NSFW。                            |
 
 此外，Telegram 上也有 [国家或地区的领导人官方频道](https://t.me/durov/148)。
 
