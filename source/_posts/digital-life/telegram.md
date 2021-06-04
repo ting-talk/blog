@@ -1,7 +1,7 @@
 ---
 title: Telegram：新手指南、使用教程及频道推荐（持续更新中）
 date: 2019-11-09
-updated: 2021-05-28 
+updated: 2021-06-05
 categories: 数字生活  
 tags: [网上冲浪指南, 突破网络审查, Telegram]
 ---
@@ -725,6 +725,7 @@ Windows 的 `Ctrl` 等于 macOS 中 `Command` ⌘。
 👌 Telegram 搜索引擎（非官方）
 
 - 网页版
+  - [Lyzem](https://lyzem.com/)
   - [名刀电报搜索](https://xtea.io/ts.html#gsc.tab=0)
   - [sssoou.com](http://www.sssoou.com/)
   - [Telegram 公眾索引系統](https://tgtw.cc/)
@@ -1332,6 +1333,7 @@ https://rsshub.app/telegram/channel/tingtalk
 | [One Piece Deluxe](https://t.me/onepiecedeluxe)             | Receive the latest updates from One Piece (海贼王), including chapters, episodes, spoilers and much more. |
 | [海贼王 One Piece 更新提醒](https://t.me/tingtalk_onepiece) | 由初中开始追《海贼王》 [@TingTalk](https://t.me/tingtalk) 创建。 |
 | [莺莺的爱情日记](https://t.me/loveforever66)                | 说想说的情话，不过配图有些 NSFW。                            |
+| [情话箱](https://t.me/qinghua_box)                          | 我遇见你，我记得你，我们于此相遇，这里是情话箱，乐于分享文字，你天生适合我的灵魂。 |
 
 此外，Telegram 上也有 [国家或地区的领导人官方频道](https://t.me/durov/148)。
 
