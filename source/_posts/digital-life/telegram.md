@@ -14,11 +14,9 @@ tags: [网上冲浪指南, 突破网络审查, Telegram]
 
 🧱 TG 在中国大陆必须 [翻墙](https://tingtalk.me/fq/) 后才能使用。不过，学会科学上网，难道不是当代数字公民的必备技能吗？
 
+📁 tingtalk.me 也在 2020-04-04 被墙了，如需在墙内传阅，请下载本文的 [PDF](https://wwa.lanzous.com/b00twozof) 或前往 [GitHub](https://raw.githubusercontent.com/ting-talk/blog/master/source/_posts/digital-life/telegram.md) 阅读（可编辑的 Markdown 源文档）。
+
 💡 全文有一万五千多字，善用右侧的目录栏和查找功能（`Ctrl` + `F`），助你定位想要看到的内容。
-
-📁 tingtalk.me 也在 2020-04-04 被墙了，如需在墙内传阅，请下载本文的 [PDF](https://wwa.lanzous.com/b00twozof) 或 [GitHub](https://raw.githubusercontent.com/ting-talk/blog/master/source/_posts/digital-life/telegram.md)（可编辑的 Markdown 源文档）。
-
-
 
 ## ✈️ 电报介绍
 
@@ -47,7 +45,7 @@ tags: [网上冲浪指南, 突破网络审查, Telegram]
 - **没有广告**：一个纯碎极致的大众化即时通讯软件（Instant Messaging App）。
 - **[不占内存](https://telegram.org/blog/cache-and-stickers)**：聊天记录保存在云端（Cloud-Based），任何设备，无缝同步，随取随用。
 - **超大群聊**：封顶 20 万人，配合各种管理工具（例如限制发言间隔），让大型申请群的交流井井有条。  
-- **[表情贴纸](https://telegram.org/blog/animated-stickers)**：采用 [矢量](https://tingtalk.me/raster-to-vector/) 格式，高清而富有趣味；支持自制表情包（[Custom Sticker Sets](https://telegram.org/blog/stickers-revolution)）并用 Emoji 调用。
+- **[表情贴纸](https://telegram.org/blog/animated-stickers)**：采用 [矢量](https://tingtalk.me/raster-to-vector/) 格式，高清而富有趣味；支持自制表情包（[Custom Sticker Sets](https://telegram.org/blog/stickers-revolution)）。
 
 
 
@@ -167,7 +165,7 @@ Telegram 的中文搜索是以「词组」为单位的，以标点符号或空�
 
 ### 👇 下载登录
 
-请进入 [Telegram Apps 的官方下载页面](https://telegram.org/apps)，选择对应的平台，下载，安装，注册。
+请进入 [Telegram Apps 的官方下载页面](https://telegram.org/apps)，选择对应的平台，下载，安装，注册，并且没有登录设备数量上的限制。
 
 自由开放的 Telegram 在各平台都有数十种客户端，各有哪些优缺点，又该如何选择呢？请查阅 [Telegram 客户端版本比较](https://tlgr.tw/)，但我不推荐使用第三方电报客户端，安全没有保证。
 
@@ -227,8 +225,17 @@ Telegram 的中文搜索是以「词组」为单位的，以标点符号或空�
 
 - [如果一个骗子假装是你](https://telegram.org/faq#q-what-if-someone-is-pretending-to-be-me)，联系 [@notoscam](https://t.me/notoscam)。
 - 如何举报假冒的频道或群组：点击右上角的 `...` > `Report` > `Fake Account` 
-- 针对品牌方，[用户名被占用怎么办？](https://telegram.org/faq#q-what-do-i-do-if-my-username-is-taken)把你在 Facebook、Twitter 或 Instagram 的用户名（两个平台以上）发给 [@username_bot](https://t.me/username_bot)。
+- 针对品牌方，[用户名被占用怎么办？](https://telegram.org/faq#q-what-do-i-do-if-my-username-is-taken)
+  1. 添加 TikTok、YouTube、Facebook、Twitter、VK、Snapchat 或 Instagram 的链接在资料上
+  2. 联系 [@verifybot](https://t.me/verifybot) 或者 [@username_bot](https://t.me/username_bot) 验证，加了官方认证后，名字后面有个 ✅（[verify a big andactive official channel, bot or public group](https://telegram.org/verify)）。
 - 如果你看到表情包（sticker sets）、频道（channels）或机器人（bots）侵犯了你的版权，请提交投诉到 dmca@telegram.org
+
+**联系 Telegram 官方/客服**
+
+- App > 设置  > 帮助与反馈（Ask a Queation）
+- 支持页面: https://telegram.org/support
+- 官方 Twitter: https://twitter.com/telegram
+- 发电子邮件给官方: [abuse@telegram.org](mailto:abuse@telegram.org)
 
 
 
@@ -345,8 +352,6 @@ Telegram 为了提高语音通话的质量，默认采用端对端连接（Peer-
 
 - 使用没有个人特征的头像（记得在个人资料里删除历史头像）、昵称和用户名，确保硅基身份不会和碳基身份产生关联。
 - 不使用 Touch ID 或 Face ID 解锁你的手机，只以密码锁屏（数字 + 字母），以免被「执法人员」控制身体后强行解锁。
-
-
 
 
 ## 💬 对话界面
