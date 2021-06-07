@@ -139,7 +139,6 @@ tags: [健康, 生活]
 `理赔期`
 
 - 被保险人或受益人在发生保险事故后，一般应该在 10 天内通知保险公司，这样保险公司可以在第一时间了解情况，判断并作出赔付。
-  
 
 
 
@@ -618,6 +617,7 @@ A：可以，但没必要。所有医疗险，都是实报实销，买再多，�
 - [放心选](https://fangxin.com/)
 - 且慢（公众号）
 - [懒伙计保险笔记](http://www.lanhuoji.com/)
+- [保险 101 ｜买前的检查清单 -  AhaMoment 的大胖](https://mp.weixin.qq.com/s/BOFexURQ0mXI3Ut_EyxjSg)
 - 混子曰
   - [保险是什么？](https://mp.weixin.qq.com/s/TgvGnqAPzDHH-9q_HFC4og)
   - [保险怎么赔？](https://mp.weixin.qq.com/s/EzFnyy_CojcuftqgFQiOJA)

@@ -152,7 +152,7 @@ Telegram 的中文搜索是以「词组」为单位的，以标点符号或空�
 
 > 2016 年国庆，我花了一周时间看完了「即刻 app」的所有主题（圈子），写了一篇三千多字文章：《即刻 App - 不再错过你感兴趣的资讯》([图文版](https://wemp.app/posts/6e4830bc-845d-4f2c-ad78-959c9a89e4eb) | [文字版](https://tingtalk.me/mp-archives/)）。~~即刻已经没有复活的可能了~~（[即刻 App](https://m.okjike.com/download) 居然在 2020 年 6 月 10 日回来了，但是缺失了话题追踪功能），Telegram 顺势成了新的资讯中心。
 
-欢迎各位读者逃离微信（[Escape from the WeChat](https://theinitium.com/article/20200619-technology-escape-from-wechat/)），转移到没有监控和审查的地方 ，一起在这片乐土上过上~~没羞没臊~~体面的数字生活。
+[人生苦短，远离微信](https://retompi.com/stay-away-from-wechat/)。欢迎各位读者逃离微信（[Escape from the WeChat](https://theinitium.com/article/20200619-technology-escape-from-wechat/)），转移到没有监控和审查的地方 ，一起在这片乐土上过上~~没羞没臊~~体面的数字生活。
 
 ![reply-by-durov](telegram/reply-by-durov.png)
 
@@ -1468,7 +1468,7 @@ Telegram 的服务器分布在世界各地的数据中心（[Data Center](https:
 | [@he_weather_bot](https://t.me/he_weather_bot)         | 和风天气小棉袄。另外还有 WIEN 产品的 [广州](https://t.me/cantonWeather)、[深圳](https://t.me/shamchunWeather)、[东莞](https://t.me/TungkwunWeather) 的天气速报频道。 |
 | [@IFTTT](https://t.me/IFTTT)                           | [With this bot you can use IFTTT to link your Telegram groups or channels to more than 360 other services like Twitter and Instagram, or connected devices like Hue lights and Nest.](https://ifttt.com/telegram) |
 | [@jobs_bot](https://t.me/jobs_bot)                     | This bot lists career opportunities at Telegram and accepts candidates' applications. Available at https://telegram.org/job |
-| [@LivegramBot](https://t.me/LivegramBot)               | 👍 [不加好友也能私聊](https://telegra.ph/What-is-Livegram-Bot-03-17)，可用于收集反馈及绕开 `+86` 手机号码的限制。<br />因为经过一层转发，消息一旦发送，便无法删除，但有个短暂的修改期。 |
+| [@LivegramBot](https://t.me/LivegramBot)               | 👍 [不加好友也能私聊](https://telegra.ph/What-is-Livegram-Bot-03-17)，可用于收集反馈及绕开 `+86` 手机号码的限制。<br />因为经过一层转发，消息一旦发送，便无法删除，但有个短暂的修改期。对安全有要求，建议通过 [SCP-079-PM](https://scp-079.org/pm-zh/) 自行搭建。 |
 | [@MakeQrBot](https://t.me/MakeQrBot)                   | 发送文字，生成对应的二维码。                                 |
 | [@sssoou_bot](https://t.me/sssoou_bot)                 | Telegram 搜索，支持中文。                                    |
 | [@Stickers](https://t.me/Stickers)                     | 👍 创建属于自己的表情包。                                     |
@@ -1645,6 +1645,7 @@ https://telegra.ph/%E9%80%89%E6%8B%A9-Telegraph-%E7%9A%84-10-%E4%B8%AA%E7%90%86%
 - [我为什么选择 Telegram 来运营粉丝社群 | 规则、经验和思考 - 罗磊](https://luolei.org/why-i-choose-telegram/)
 - [Telegram 教程全指南](https://www.notion.so/Telegram-95a6c23f0bb1466892b55f9ec8c755fd) by [TG极客](https://t.me/TGgeek)
 - [Telegram 群组、频道、机器人 - 汇总分享 - 聪聪 Blog](https://congcong0806.github.io/2018/04/24/Telegram/)
+- [Telegram使用指南 | EdNovas的小站](https://ednovas.xyz/2021/02/22/telegram/#%E7%A7%98%E5%AF%86%E8%81%8A%E5%A4%A9)
 - [Telegram 频道：Newlearnerの自留地 导航页](https://www.newlearner.site/2019/12/15/newlearnerchannel.html/#Telegram)
 - [什么是数字移民及其基础教程 - TSBBLOG](https://tsb2blog.com/what-means-digital-immigrants-in-china.html)
 

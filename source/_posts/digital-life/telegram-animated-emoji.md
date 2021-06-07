@@ -2,7 +2,7 @@
 
 title: Telegram 动态大表情合集
 date: 2020-03-01  
-updated: 2021-03-01 
+updated: 2021-05-31 
 categories: 数字生活  
 tags: [Telegram, 网上冲浪指南]
 
@@ -49,6 +49,7 @@ tags: [Telegram, 网上冲浪指南]
 | 😅              | [Grinning Face with Sweat](https://emojipedia.org/grinning-face-with-sweat/) |
 | 😂              | [Face with Tears of Joy](https://emojipedia.org/face-with-tears-of-joy/) |
 | 🤣              | [Rolling on the Floor Laughing](https://emojipedia.org/rolling-on-the-floor-laughing/) |
+| 🥲              | [Smiling Face with Tear](https://emojipedia.org/smiling-face-with-tear/) |
 | ☺️              | [Smiling Face](https://emojipedia.org/smiling-face/)         |
 | 😊              | [Smiling Face with Smiling Eyes](https://emojipedia.org/smiling-face-with-smiling-eyes/) |
 | 😇              | [Smiling Face with Halo](https://emojipedia.org/smiling-face-with-halo/) |
@@ -68,7 +69,9 @@ tags: [Telegram, 网上冲浪指南]
 | 😜              | [Winking Face with Tongue](https://emojipedia.org/winking-face-with-tongue/) |
 | 🤪              | [Zany Face](https://emojipedia.org/zany-face/)               |
 | 🧐              | [Face with Monocle](https://emojipedia.org/face-with-monocle/) |
+| 🤓              | [Nerd Face](https://emojipedia.org/nerd-face/)               |
 | 😎              | [Smiling Face with Sunglasses](https://emojipedia.org/smiling-face-with-sunglasses/) |
+| 🥸              | [Disguised Face](https://emojipedia.org/disguised-face/)     |
 | 🤩              | [Star-Struck](https://emojipedia.org/star-struck/)           |
 | 🥳              | [Partying Face](https://emojipedia.org/partying-face/)       |
 | 😏              | [Smirking Face](https://emojipedia.org/smirking-face/)       |
@@ -95,6 +98,8 @@ tags: [Telegram, 网上冲浪指南]
 | 🤫              | [Shushing Face](https://emojipedia.org/shushing-face/)       |
 | 🤥              | [Lying Face](https://emojipedia.org/lying-face/)             |
 | 😐              | [Neutral Face](https://emojipedia.org/neutral-face/)         |
+| 😑              | [Expressionless Face](https://emojipedia.org/expressionless-face/) |
+| 😬              | [Grimacing Face](https://emojipedia.org/grimacing-face/)     |
 | 🙄              | [Face with Rolling Eyes](https://emojipedia.org/face-with-rolling-eyes/) |
 | 😯              | [Hushed Face](https://emojipedia.org/hushed-face/)           |
 | 😦              | [Frowning Face with Open Mouth](https://emojipedia.org/frowning-face-with-open-mouth/) |
@@ -103,6 +108,7 @@ tags: [Telegram, 网上冲浪指南]
 | 😲              | [Astonished Face](https://emojipedia.org/astonished-face/)   |
 | 🥱              | [Yawning Face](https://emojipedia.org/yawning-face/)         |
 | 😴              | [Sleeping Face](https://emojipedia.org/sleeping-face/)       |
+| 🤤              | [Drooling Face](https://emojipedia.org/drooling-face/)       |
 | 🥴              | [Woozy Face](https://emojipedia.org/woozy-face/)             |
 | 🤢              | [Nauseated Face](https://emojipedia.org/nauseated-face/)     |
 | 🤮              | [Face Vomiting](https://emojipedia.org/face-vomiting/)       |
@@ -133,9 +139,13 @@ tags: [Telegram, 网上冲浪指南]
 | 🤝              | [Handshake](https://emojipedia.org/handshake/)               |
 | 👍              | [Thumbs Up](https://emojipedia.org/thumbs-up/)               |
 | 👎              | [Thumbs Down](https://emojipedia.org/thumbs-down/)           |
+| ✊              | [Raised Fist](https://emojipedia.org/raised-fist/)           |
 | 🤞              | [Crossed Fingers](https://emojipedia.org/crossed-fingers/)   |
 | ✌️              | [Victory Hand](https://emojipedia.org/victory-hand/)         |
+| 🤟              | [I Love You Hand Sign](https://emojipedia.org/love-you-gesture/) |
+| 🤘              | [Sign of the Horns](https://emojipedia.org/sign-of-the-horns/) |
 | 👌              | [OK Hand](https://emojipedia.org/ok-hand/)                   |
+| 🤌              | [Pinched Fingers](https://emojipedia.org/pinched-fingers/)   |
 | ☝️              | [Index Pointing Up](https://emojipedia.org/index-pointing-up/) |
 | 👋              | [Waving Hand](https://emojipedia.org/waving-hand/)           |
 | 💪              | [Flexed Biceps](https://emojipedia.org/flexed-biceps/)       |
@@ -264,6 +274,14 @@ tags: [Telegram, 网上冲浪指南]
 | 🔍              | [Magnifying Glass Tilted Left](https://emojipedia.org/magnifying-glass-tilted-left/) |
 | 🔎              | [Magnifying Glass Tilted Right](https://emojipedia.org/magnifying-glass-tilted-right/) |
 | 🔐              | [Locked with Key](https://emojipedia.org/locked-with-key/)   |
+| ❌              | [Cross Mark](https://emojipedia.org/cross-mark/)             |
+| 💯              | [Hundred Points Symbol](https://emojipedia.org/hundred-points/) |
+| 💢              | [Anger Symbol](https://emojipedia.org/anger-symbol/)         |
+| ♨️              | [Hot Springs](https://emojipedia.org/hot-springs/)           |
+| ❗              | [Heavy Exclamation Mark Symbol](https://emojipedia.org/exclamation-mark/) |
+| 💬              | [Speech Balloon](https://emojipedia.org/speech-balloon/)     |
+| 💭              | [Thought Balloon](https://emojipedia.org/thought-balloon/)   |
+| 🗯️              | [Right Anger Bubble](https://emojipedia.org/right-anger-bubble/) |
 
 
 
