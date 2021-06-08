@@ -97,6 +97,7 @@ tags: [Telegram, 网上冲浪指南]
 | 🤭              | [Face with Hand Over Mouth](https://emojipedia.org/face-with-hand-over-mouth/) |
 | 🤫              | [Shushing Face](https://emojipedia.org/shushing-face/)       |
 | 🤥              | [Lying Face](https://emojipedia.org/lying-face/)             |
+| 😶              | [Face Without Mouth](https://emojipedia.org/face-without-mouth/) |
 | 😐              | [Neutral Face](https://emojipedia.org/neutral-face/)         |
 | 😑              | [Expressionless Face](https://emojipedia.org/expressionless-face/) |
 | 😬              | [Grimacing Face](https://emojipedia.org/grimacing-face/)     |
@@ -135,6 +136,7 @@ tags: [Telegram, 网上冲浪指南]
 | 🙀              | [Weary Cat](https://emojipedia.org/weary-cat/)               |
 | 😿              | [Crying Cat](https://emojipedia.org/crying-cat/)             |
 | 😾              | [Pouting Cat](https://emojipedia.org/pouting-cat/)           |
+| 🙌              | [Raising Hands](https://emojipedia.org/raising-hands/)       |
 | 👏              | [Clapping Hands](https://emojipedia.org/clapping-hands/)     |
 | 🤝              | [Handshake](https://emojipedia.org/handshake/)               |
 | 👍              | [Thumbs Up](https://emojipedia.org/thumbs-up/)               |
@@ -146,6 +148,10 @@ tags: [Telegram, 网上冲浪指南]
 | 🤘              | [Sign of the Horns](https://emojipedia.org/sign-of-the-horns/) |
 | 👌              | [OK Hand](https://emojipedia.org/ok-hand/)                   |
 | 🤌              | [Pinched Fingers](https://emojipedia.org/pinched-fingers/)   |
+| 👈              | [Backhand Index Pointing Left](https://emojipedia.org/backhand-index-pointing-left/) |
+| 👉              | [Backhand Index Pointing Right](https://emojipedia.org/backhand-index-pointing-right/) |
+| 👆              | [Backhand Index Pointing Up](https://emojipedia.org/backhand-index-pointing-up/) |
+| 👇              | [Backhand Index Pointing Down](https://emojipedia.org/backhand-index-pointing-down/) |
 | ☝️              | [Index Pointing Up](https://emojipedia.org/index-pointing-up/) |
 | 👋              | [Waving Hand](https://emojipedia.org/waving-hand/)           |
 | 💪              | [Flexed Biceps](https://emojipedia.org/flexed-biceps/)       |
@@ -269,19 +275,12 @@ tags: [Telegram, 网上冲浪指南]
 | 📬              | [Open Mailbox with Raised Flag](https://emojipedia.org/open-mailbox-with-raised-flag/) |
 | 📁              | [File Folder](https://emojipedia.org/file-folder/)           |
 | 📂              | [Open File Folder](https://emojipedia.org/open-file-folder/) |
+| 🗂              | [Card Index Dividers](https://emojipedia.org/card-index-dividers/) |
 | 🧮              | [Abacus](https://emojipedia.org/abacus/)                     |
 | 📝              | [Memo](https://emojipedia.org/memo/)                         |
 | 🔍              | [Magnifying Glass Tilted Left](https://emojipedia.org/magnifying-glass-tilted-left/) |
 | 🔎              | [Magnifying Glass Tilted Right](https://emojipedia.org/magnifying-glass-tilted-right/) |
 | 🔐              | [Locked with Key](https://emojipedia.org/locked-with-key/)   |
-| ❌              | [Cross Mark](https://emojipedia.org/cross-mark/)             |
-| 💯              | [Hundred Points Symbol](https://emojipedia.org/hundred-points/) |
-| 💢              | [Anger Symbol](https://emojipedia.org/anger-symbol/)         |
-| ♨️              | [Hot Springs](https://emojipedia.org/hot-springs/)           |
-| ❗              | [Heavy Exclamation Mark Symbol](https://emojipedia.org/exclamation-mark/) |
-| 💬              | [Speech Balloon](https://emojipedia.org/speech-balloon/)     |
-| 💭              | [Thought Balloon](https://emojipedia.org/thought-balloon/)   |
-| 🗯️              | [Right Anger Bubble](https://emojipedia.org/right-anger-bubble/) |
 
 
 
@@ -308,10 +307,24 @@ tags: [Telegram, 网上冲浪指南]
 | 💘              | [Heart with Arrow](https://emojipedia.org/heart-with-arrow/) |
 | 💝              | [Heart with Ribbon](https://emojipedia.org/heart-with-ribbon/) |
 | 💟              | [Heart Decoration](https://emojipedia.org/heart-decoration/) |
+| ❌              | [Cross Mark](https://emojipedia.org/cross-mark/)             |
+| 💯              | [Hundred Points Symbol](https://emojipedia.org/hundred-points/) |
+| 💢              | [Anger Symbol](https://emojipedia.org/anger-symbol/)         |
+| ♨️              | [Hot Springs](https://emojipedia.org/hot-springs/)           |
+| ❗              | [Heavy Exclamation Mark](https://emojipedia.org/exclamation-mark/) |
+| ❕              | [White Exclamation Mark](https://emojipedia.org/white-exclamation-mark/) |
+| ❓              | [Question Mark](https://emojipedia.org/question-mark/)       |
+| ❔              | [White Question Mark](https://emojipedia.org/white-question-mark/) |
+| 💬              | [Speech Balloon](https://emojipedia.org/speech-balloon/)     |
+| 💭              | [Thought Balloon](https://emojipedia.org/thought-balloon/)   |
+| 🗯️              | [Right Anger Bubble](https://emojipedia.org/right-anger-bubble/) |
 | 💤              | [Zzz](https://emojipedia.org/zzz/)                           |
 | 💱              | [Currency Exchange](https://emojipedia.org/currency-exchange/) |
 | 📣              | [Megaphone](https://emojipedia.org/megaphone/)               |
 | 🇧🇾             | [Flag: Belarus](https://emojipedia.org/flag-belarus/)        |
+
+
+
 
 
 
