@@ -589,7 +589,7 @@ Markdown 的用途很广。Write once, export everywhere：写博客、写邮件
 
 ### 公众号排版
 
-- [Markdown Nice](https://mdnice.com/)：让微信排版变 Nice，支持自定义主题 CSS。
+- [Markdown Nice](https://mdnice.com/)：让微信排版变 Nice，支持自定义主题 CSS，例如 [锤子便签样式](https://github.com/zhaoolee/WxMdNotes)。
 - [Markdown Devtoo](https://markdown.devtool.tech/app)l：简称 `MDTU`。是一款基于 [bytemd](https://github.com/bytedance/bytemd) 由山月开发的支持微信样式的 Markdown 编辑器。
 - [微信 Markdown 编辑器](https://doocs.github.io/md/)：高度简洁。
 - [可能吧公众号 Style 一键转换器](https://knb.im/mp/)：老司机禅叔出品。

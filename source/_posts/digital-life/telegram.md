@@ -1,7 +1,7 @@
 ---
 title: Telegram：新手指南、使用教程及频道推荐（持续更新中）
 date: 2019-11-09
-updated: 2021-06-05
+updated: 2021-05-28 
 categories: 数字生活  
 tags: [网上冲浪指南, 突破网络审查, Telegram]
 ---
@@ -14,9 +14,11 @@ tags: [网上冲浪指南, 突破网络审查, Telegram]
 
 🧱 TG 在中国大陆必须 [翻墙](https://tingtalk.me/fq/) 后才能使用。不过，学会科学上网，难道不是当代数字公民的必备技能吗？
 
-📁 tingtalk.me 也在 2020-04-04 被墙了，如需在墙内传阅，请下载本文的 [PDF](https://wwa.lanzous.com/b00twozof) 或前往 [GitHub](https://raw.githubusercontent.com/ting-talk/blog/master/source/_posts/digital-life/telegram.md) 阅读（可编辑的 Markdown 源文档）。
-
 💡 全文有一万五千多字，善用右侧的目录栏和查找功能（`Ctrl` + `F`），助你定位想要看到的内容。
+
+📁 tingtalk.me 也在 2020-04-04 被墙了，如需在墙内传阅，请下载本文的 [PDF](https://wwa.lanzous.com/b00twozof) 或 [GitHub](https://raw.githubusercontent.com/ting-talk/blog/master/source/_posts/digital-life/telegram.md)（可编辑的 Markdown 源文档）。
+
+
 
 ## ✈️ 电报介绍
 
@@ -45,7 +47,7 @@ tags: [网上冲浪指南, 突破网络审查, Telegram]
 - **没有广告**：一个纯碎极致的大众化即时通讯软件（Instant Messaging App）。
 - **[不占内存](https://telegram.org/blog/cache-and-stickers)**：聊天记录保存在云端（Cloud-Based），任何设备，无缝同步，随取随用。
 - **超大群聊**：封顶 20 万人，配合各种管理工具（例如限制发言间隔），让大型申请群的交流井井有条。  
-- **[表情贴纸](https://telegram.org/blog/animated-stickers)**：采用 [矢量](https://tingtalk.me/raster-to-vector/) 格式，高清而富有趣味；支持自制表情包（[Custom Sticker Sets](https://telegram.org/blog/stickers-revolution)）。
+- **[表情贴纸](https://telegram.org/blog/animated-stickers)**：采用 [矢量](https://tingtalk.me/raster-to-vector/) 格式，高清而富有趣味；支持自制表情包（[Custom Sticker Sets](https://telegram.org/blog/stickers-revolution)）并用 Emoji 调用。
 
 
 
@@ -152,7 +154,7 @@ Telegram 的中文搜索是以「词组」为单位的，以标点符号或空�
 
 > 2016 年国庆，我花了一周时间看完了「即刻 app」的所有主题（圈子），写了一篇三千多字文章：《即刻 App - 不再错过你感兴趣的资讯》([图文版](https://wemp.app/posts/6e4830bc-845d-4f2c-ad78-959c9a89e4eb) | [文字版](https://tingtalk.me/mp-archives/)）。~~即刻已经没有复活的可能了~~（[即刻 App](https://m.okjike.com/download) 居然在 2020 年 6 月 10 日回来了，但是缺失了话题追踪功能），Telegram 顺势成了新的资讯中心。
 
-[人生苦短，远离微信](https://retompi.com/stay-away-from-wechat/)。欢迎各位读者逃离微信（[Escape from the WeChat](https://theinitium.com/article/20200619-technology-escape-from-wechat/)），转移到没有监控和审查的地方 ，一起在这片乐土上过上~~没羞没臊~~体面的数字生活。
+欢迎各位读者逃离微信（[Escape from the WeChat](https://theinitium.com/article/20200619-technology-escape-from-wechat/)），转移到没有监控和审查的地方 ，一起在这片乐土上过上~~没羞没臊~~体面的数字生活。
 
 ![reply-by-durov](telegram/reply-by-durov.png)
 
@@ -165,7 +167,7 @@ Telegram 的中文搜索是以「词组」为单位的，以标点符号或空�
 
 ### 👇 下载登录
 
-请进入 [Telegram Apps 的官方下载页面](https://telegram.org/apps)，选择对应的平台，下载，安装，注册，并且没有登录设备数量上的限制。
+请进入 [Telegram Apps 的官方下载页面](https://telegram.org/apps)，选择对应的平台，下载，安装，注册。
 
 自由开放的 Telegram 在各平台都有数十种客户端，各有哪些优缺点，又该如何选择呢？请查阅 [Telegram 客户端版本比较](https://tlgr.tw/)，但我不推荐使用第三方电报客户端，安全没有保证。
 
@@ -225,17 +227,8 @@ Telegram 的中文搜索是以「词组」为单位的，以标点符号或空�
 
 - [如果一个骗子假装是你](https://telegram.org/faq#q-what-if-someone-is-pretending-to-be-me)，联系 [@notoscam](https://t.me/notoscam)。
 - 如何举报假冒的频道或群组：点击右上角的 `...` > `Report` > `Fake Account` 
-- 针对品牌方，[用户名被占用怎么办？](https://telegram.org/faq#q-what-do-i-do-if-my-username-is-taken)
-  1. 添加 TikTok、YouTube、Facebook、Twitter、VK、Snapchat 或 Instagram 的链接在资料上
-  2. 联系 [@verifybot](https://t.me/verifybot) 或者 [@username_bot](https://t.me/username_bot) 验证，加了官方认证后，名字后面有个 ✅（[verify a big andactive official channel, bot or public group](https://telegram.org/verify)）。
+- 针对品牌方，[用户名被占用怎么办？](https://telegram.org/faq#q-what-do-i-do-if-my-username-is-taken)把你在 Facebook、Twitter 或 Instagram 的用户名（两个平台以上）发给 [@username_bot](https://t.me/username_bot)。
 - 如果你看到表情包（sticker sets）、频道（channels）或机器人（bots）侵犯了你的版权，请提交投诉到 dmca@telegram.org
-
-**联系 Telegram 官方/客服**
-
-- App > 设置  > 帮助与反馈（Ask a Queation）
-- 支持页面: https://telegram.org/support
-- 官方 Twitter: https://twitter.com/telegram
-- 发电子邮件给官方: [abuse@telegram.org](mailto:abuse@telegram.org)
 
 
 
@@ -352,6 +345,8 @@ Telegram 为了提高语音通话的质量，默认采用端对端连接（Peer-
 
 - 使用没有个人特征的头像（记得在个人资料里删除历史头像）、昵称和用户名，确保硅基身份不会和碳基身份产生关联。
 - 不使用 Touch ID 或 Face ID 解锁你的手机，只以密码锁屏（数字 + 字母），以免被「执法人员」控制身体后强行解锁。
+
+
 
 
 ## 💬 对话界面
@@ -562,7 +557,7 @@ Telegram 有一个非常人性化的特性：**记忆浏览进度**，打开对�
 #### 👇 长按消息
 
 
-- 消息可以无限期撤回（[Delete Messages](https://telegram.org/faq#q-can-i-delete-my-messages)）：删除信息时，勾选 `Also delete for ***`，聊天记录就可以双向删除。通话记录也支持这个特性（[Call history can also be deleted for all sides at any time.](https://telegram.org/blog/move-history#control-your-digital-footprint)）。电报服务器更不会存储被删除的聊天记录和通话记录，因此数据将彻底永远消失。但是接收方可能安装了 [Telegram 本地消息防撤回插件](https://github.com/SpriteOvO/Telegram-Anti-Revoke)，所以发送消息前要i抹除敏感信息，并三思（言重了）。
+- 消息可以无限期撤回（[Delete Messages](https://telegram.org/faq#q-can-i-delete-my-messages)）：删除信息时，勾选 `Also delete for ***`，聊天记录就可以双向删除。通话记录也支持这个特性（[Call history can also be deleted for all sides at any time.](https://telegram.org/blog/move-history#control-your-digital-footprint)）。电报服务器更不会存储被删除的聊天记录和通话记录，因此数据将彻底永远消失。
 - 选择部分消息（[Select Parts of Messages](https://telegram.org/blog/verifiable-apps-and-more#select-parts-of-messages)）：长按 2 次消息，可选择部分文字，而不是复制全文（Copy Selected Text）。
 
 #### 🗣 朗读消息
@@ -730,7 +725,6 @@ Windows 的 `Ctrl` 等于 macOS 中 `Command` ⌘。
 👌 Telegram 搜索引擎（非官方）
 
 - 网页版
-  - [Lyzem](https://lyzem.com/)
   - [名刀电报搜索](https://xtea.io/ts.html#gsc.tab=0)
   - [sssoou.com](http://www.sssoou.com/)
   - [Telegram 公眾索引系統](https://tgtw.cc/)
@@ -1026,7 +1020,6 @@ https://rsshub.app/telegram/channel/tingtalk
 | ----------------------------------------------------- | ------------------------------------------------------------ |
 | [看鉴中国 OutsightChina](https://t.me/OutsightChina)  | 👍 一个健康的社会，不该只有一种声音。看鉴中国，每天聚焦一则关于中国的新闻事件，带你对比来自中外不同媒体多元的、不一样的观点。 |
 | [乌鸦观察](https://t.me/bigcrowdev)                   | 👍 不定期推送新闻和杂谈。                                     |
-| [有据 China Fact Chec](https://t.me/chinafactcheck)k  | 有据是一个专注于对中文国际资讯进行事实核查的计划，是基于志愿和网络协作原则的事实核查计划，努力连接大学、媒体和平台三方力量 \| [官方网站](https://chinafactcheck.com/)。 |
 | [新闻实验室](https://t.me/newslab2020)                | 推荐订阅方可成老师的 [Newsletter](https://sibforms.com/serve/MUIEABj_H1nZN9Jj5HLcOE61NoO8So-r5phaSIn4ZUqqLv_WdJP-bpiAazMxwp2uOWb-aeF-hiOScIzPxwovvRjNYF6METjZVOafOAQANa9tnIeocTm6fv6RurLCTUVGzKrjBrhtIj9q2wVOmIYoltrV310MEOEi-vg3E0uPES0voX-FjBRHd4mPx0woiIsLiZ6-YXnI80PyhpUH)。[微信公众号文章备份](https://github.com/Newslab2020/Contents/blob/master/wechataccount.md)。 |
 | [南方周末](https://t.me/infzm)                        | 在这里，读懂中国。非官方。                                   |
 | [iDaily](https://t.me/idaily_rss)                     | [每日环球视野](http://idai.ly/)。                            |
@@ -1150,7 +1143,6 @@ https://rsshub.app/telegram/channel/tingtalk
 | [Karen 医生の日常](https://t.me/KarenMoe)                 | 一个小医生的通讯站。不想出名，只传播一些信息和科普。         |
 | [𝑾𝒊𝒌𝒊𝑫𝑩](https://t.me/wikidb)                             | The right way, or the easy way.                              |
 | [人海拾贝FlipRadio](https://t.me/flipradio)               | 翻转电台的 Channel，一些零零散散的要分享的东西。             |
-| [BMPI](https://t.me/bmpi365)                              | 主要讲如何构建被动收入 \| [博客](https://www.bmpi.dev) by 马大伟。 |
 
 [中文独立博客列表](https://github.com/timqian/chinese-independent-blogs) by timqian
 
@@ -1298,6 +1290,7 @@ https://rsshub.app/telegram/channel/tingtalk
 | [微信搬运工](https://t.me/WeChatEssence)      | 有些微信的内容分享了之后就和谐了，本频道可以做个备份，以及丰富电报上的中文内容（不可否认还是有很多非政治的优质内容在微信公众号里）。 |
 | [微博精选](https://t.me/weibo_read)           | 来自微博的文章、资源和观点。                                 |
 | [豆瓣精选](https://t.me/douban_read)          | 豆瓣书影音，以及相关讨论。                                   |
+| [鹅组精选](https://t.me/douban_goose)         | [豆瓣鹅组](https://www.douban.com/group/blabla) 非官方搬运。 |
 | [即刻精选](https://t.me/jike_collection)      | 精选即刻 app 热门话题更新。我的即刻 ID 是 [Dr_Ting](https://m.okjike.com/users/Zhong_Waiting)。 |
 | [你不知道的内幕消息](https://t.me/inside1024) | 同时抓取来自即刻 app 的 #大公司的负面新闻。                  |
 | [Matters 閲讀精選](https://t.me/MattersHub)   | matters.news 一個自主、永續、有價的創作與公共討論空間。      |
@@ -1317,7 +1310,7 @@ https://rsshub.app/telegram/channel/tingtalk
 | [App 喵](https://t.me/appmew)                       | 破解软件资源共享。                                           |
 | [Google Drive 资源](https://t.me/gdurl)             | 各种 Google Drive 资源，包括电影、电子书、无损音乐等，10 万+ 关注。 |
 | [Google Voice 靓号](https://t.me/voice_google)      | 一个 GV 卖家。                                               |
-| [Windows 10 激活码分享](https://t.me/win10keymaxs)  | 🤫。                                                          |
+| [Windows 10 激活码分享](https://t.me/win10keymaxs)  | 🤫                                                            |
 
 
 
@@ -1337,8 +1330,6 @@ https://rsshub.app/telegram/channel/tingtalk
 | [就要造反](https://t.me/ZaoFaner)                           | 此频道立足生活，以非常古怪的文字风格进行生存经验书写，绘制景观与消费社会中极具现实性的个案，以此为个体提供可操的、创造性的抵制策略与造反计谋。为一切造反者辩护，为所有无用与丰饶辩护。 |
 | [One Piece Deluxe](https://t.me/onepiecedeluxe)             | Receive the latest updates from One Piece (海贼王), including chapters, episodes, spoilers and much more. |
 | [海贼王 One Piece 更新提醒](https://t.me/tingtalk_onepiece) | 由初中开始追《海贼王》 [@TingTalk](https://t.me/tingtalk) 创建。 |
-| [莺莺的爱情日记](https://t.me/loveforever66)                | 说想说的情话，不过配图有些 NSFW。                            |
-| [情话箱](https://t.me/qinghua_box)                          | 我遇见你，我记得你，我们于此相遇，这里是情话箱，乐于分享文字，你天生适合我的灵魂。 |
 
 此外，Telegram 上也有 [国家或地区的领导人官方频道](https://t.me/durov/148)。
 
@@ -1468,7 +1459,7 @@ Telegram 的服务器分布在世界各地的数据中心（[Data Center](https:
 | [@he_weather_bot](https://t.me/he_weather_bot)         | 和风天气小棉袄。另外还有 WIEN 产品的 [广州](https://t.me/cantonWeather)、[深圳](https://t.me/shamchunWeather)、[东莞](https://t.me/TungkwunWeather) 的天气速报频道。 |
 | [@IFTTT](https://t.me/IFTTT)                           | [With this bot you can use IFTTT to link your Telegram groups or channels to more than 360 other services like Twitter and Instagram, or connected devices like Hue lights and Nest.](https://ifttt.com/telegram) |
 | [@jobs_bot](https://t.me/jobs_bot)                     | This bot lists career opportunities at Telegram and accepts candidates' applications. Available at https://telegram.org/job |
-| [@LivegramBot](https://t.me/LivegramBot)               | 👍 [不加好友也能私聊](https://telegra.ph/What-is-Livegram-Bot-03-17)，可用于收集反馈及绕开 `+86` 手机号码的限制。<br />因为经过一层转发，消息一旦发送，便无法删除，但有个短暂的修改期。对安全有要求，建议通过 [SCP-079-PM](https://scp-079.org/pm-zh/) 自行搭建。 |
+| [@LivegramBot](https://t.me/LivegramBot)               | 👍 [不加好友也能私聊](https://telegra.ph/What-is-Livegram-Bot-03-17)，可用于收集反馈及绕开 `+86` 手机号码的限制。<br />因为经过一层转发，消息一旦发送，便无法删除，但有个短暂的修改期。 |
 | [@MakeQrBot](https://t.me/MakeQrBot)                   | 发送文字，生成对应的二维码。                                 |
 | [@sssoou_bot](https://t.me/sssoou_bot)                 | Telegram 搜索，支持中文。                                    |
 | [@Stickers](https://t.me/Stickers)                     | 👍 创建属于自己的表情包。                                     |
@@ -1645,7 +1636,6 @@ https://telegra.ph/%E9%80%89%E6%8B%A9-Telegraph-%E7%9A%84-10-%E4%B8%AA%E7%90%86%
 - [我为什么选择 Telegram 来运营粉丝社群 | 规则、经验和思考 - 罗磊](https://luolei.org/why-i-choose-telegram/)
 - [Telegram 教程全指南](https://www.notion.so/Telegram-95a6c23f0bb1466892b55f9ec8c755fd) by [TG极客](https://t.me/TGgeek)
 - [Telegram 群组、频道、机器人 - 汇总分享 - 聪聪 Blog](https://congcong0806.github.io/2018/04/24/Telegram/)
-- [Telegram使用指南 | EdNovas的小站](https://ednovas.xyz/2021/02/22/telegram/#%E7%A7%98%E5%AF%86%E8%81%8A%E5%A4%A9)
 - [Telegram 频道：Newlearnerの自留地 导航页](https://www.newlearner.site/2019/12/15/newlearnerchannel.html/#Telegram)
 - [什么是数字移民及其基础教程 - TSBBLOG](https://tsb2blog.com/what-means-digital-immigrants-in-china.html)
 
@@ -1656,3 +1646,6 @@ Stay home. Wash your hands. Be safe. And stay tuned for our next updates! It is 
 ## 📞 与我联系
 
 欢迎读者在 Telegram 搜索 [@tingbot](https://t.me/tingbot) 与我取得联系：指出此文疏漏，推荐优质频道和机器人，一起跨越数字鸿沟，共享信息自由。
+
+
+
