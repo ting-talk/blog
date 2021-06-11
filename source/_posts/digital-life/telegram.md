@@ -1,7 +1,7 @@
 ---
 title: Telegram：新手指南、使用教程及频道推荐（持续更新中）
 date: 2019-11-09
-updated: 2021-05-28 
+updated: 2021-06-10 
 categories: 数字生活  
 tags: [网上冲浪指南, 突破网络审查, Telegram]
 ---
@@ -1020,6 +1020,7 @@ https://rsshub.app/telegram/channel/tingtalk
 | ----------------------------------------------------- | ------------------------------------------------------------ |
 | [看鉴中国 OutsightChina](https://t.me/OutsightChina)  | 👍 一个健康的社会，不该只有一种声音。看鉴中国，每天聚焦一则关于中国的新闻事件，带你对比来自中外不同媒体多元的、不一样的观点。 |
 | [乌鸦观察](https://t.me/bigcrowdev)                   | 👍 不定期推送新闻和杂谈。                                     |
+| [有据](https://t.me/chinafactcheck)                   | [China Fact Check](https://chinafactcheck.com/) 是一个专注于对中文国际资讯进行事实核查的计划，是基于志愿和网络协作原则的事实核查计划，努力连接大学、媒体和平台三方力量。 |
 | [新闻实验室](https://t.me/newslab2020)                | 推荐订阅方可成老师的 [Newsletter](https://sibforms.com/serve/MUIEABj_H1nZN9Jj5HLcOE61NoO8So-r5phaSIn4ZUqqLv_WdJP-bpiAazMxwp2uOWb-aeF-hiOScIzPxwovvRjNYF6METjZVOafOAQANa9tnIeocTm6fv6RurLCTUVGzKrjBrhtIj9q2wVOmIYoltrV310MEOEi-vg3E0uPES0voX-FjBRHd4mPx0woiIsLiZ6-YXnI80PyhpUH)。[微信公众号文章备份](https://github.com/Newslab2020/Contents/blob/master/wechataccount.md)。 |
 | [南方周末](https://t.me/infzm)                        | 在这里，读懂中国。非官方。                                   |
 | [iDaily](https://t.me/idaily_rss)                     | [每日环球视野](http://idai.ly/)。                            |
@@ -1510,7 +1511,7 @@ Telegram 的服务器分布在世界各地的数据中心（[Data Center](https:
 - 开源验证机器人，详情参见 [官网](https://mini.telestd.me/)。同类的 Bot 还有 [SCP-079](https://scp-079.org/readme/)。
 - 赋予 `Delete messages` 和 `Ban users` 权限。
 
-[@DeleteEventsBot](https://t.me/DeleteEventsBot)
+[@DeleteEventsBot](https://t.me/DeleteEventsBot) 或 [@AntiServiceMessage_Bot](https://t.me/AntiServiceMessage_Bot)
 
 - 删除冗余的事件通知，例如谁加入了群组。强烈建议群组管理员装备上这个 Bot，减少信息噪音。
 - 赋予 `Delete messages` 权限。
