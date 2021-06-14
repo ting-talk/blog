@@ -266,9 +266,43 @@ when / where / why … + 完整句
 
 也叫副词从句。
 
-状语从句通常会出现在主句的前面或后面，有时插入主句中间也会被两个逗号隔开，因此相对来说比较好拆分。其形式也很简单：
+状语从句通常会出现在主句的前面或后面，有时插入主句中间也会被两个逗号隔开，因此相对来说比较好拆分。其形式也很简单：连词 + 完整句。
 
-- 连词 + 完整句
+##### 时间状语从句
+
+| 连词          | 用法                                     |
+| ------------- | ---------------------------------------- |
+| before        | 之前                                     |
+| when          | 某个时间点，突然                         |
+| while         | 一个时间段                               |
+| as            | 同时                                     |
+| after         | 之后                                     |
+| since         | 从之前某一个时间点开始算，一般用完成时态 |
+| until         | 直到某一时间点                           |
+| as soon as    | 一……就……                                 |
+| the next time | 下次                                     |
+
+##### 地点状语从句
+
+The rabbit ate the carrot where he found it.
+
+- 地点状语从句 `where he found it` = 地点
+
+The rabbit ate the carrot at the place where he found it
+
+- 定语从句 `where he found it` 修饰先行词 `place`
+
+引导词 whee  的强调形式有 wherever、everywhere、anywhere
+
+
+
+
+
+ 
+
+
+
+
 
 
 
