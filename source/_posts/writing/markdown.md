@@ -607,7 +607,14 @@ Markdown 的用途很广。Write once, export everywhere：写博客、写邮件
 
 ### 邮件排版
 
-[Markdown Here](https://markdown-here.com/) 是一个浏览器扩展插件，可以将浏览器中编辑器（例如 email 正文）里的 Markdown 文本转换成渲染过后的 HTML，并且支持自定义 CSS。详情移步 [在富文本在线编辑器中使用 Markdown](https://sspai.com/post/47189)。
+[Markdown Here](https://markdown-here.com/) 是一个浏览器扩展插件，可以将浏览器中编辑器（例如 email 正文）里的 Markdown 文本转换成渲染过后的 HTML，并且支持自定义 CSS。
+
+
+
+修改 CSS 样式教程：
+
+- [在富文本在线编辑器中使用 Markdown - Hover](https://sspai.com/post/47189)
+- [再谈 Markdown here CSS 渲染及全套分享 - 纵笔浮生](https://post.smzdm.com/p/awx48pxp/)
 
 
 

@@ -35,9 +35,125 @@ tags: 英语
 | **否定型** |                            –                            |                              ✓                               |                              ✓                               |                              –                               |
 |  **例句**  | I have just handed in my homework. (我刚刚递交了功课。) | I have not yet handed in my homework. (我还未递交功课。) (暗藏意味：尚未完成某些事，也不知道什么时候会完成，时间点比较模糊) | I still have not handed in my homework. (我仍然未递交功课。) (暗藏意味：期限已经过了，但是我还是没有交功课。) | I have already handed in my homework. (我已经递交了功课。) (暗藏意味：我在限期前交了功课。) |
 
+什么是一般：简单的，默认的，普通的。
+
+一般现在时：用来表述习惯或者客观事实。（和现在没啥关系）
+
+什么是将来：非常确定会发生的事。
 
 
 
+## 虚拟语气
+
+> [英语虚拟语气就是这么简单 by 英语兔 - 哔哩哔哩 bilibili](https://www.bilibili.com/video/BV1bt4y1S779)
+
+英语分 3 种语气：
+
+- **陈述语气**：陈述事实（现实）、提出看法或问题等。所说的是真的。
+  I like this book the best.  
+  If you get up earlier, you will be able to catch the first bus.
+
+- **祈使语气**：表示请求、命令或警告等。希望所说的成真。
+  Don’t be so careless. 
+
+- **虚拟语气**：表示假想或主观愿望。所说的与事实不符。
+  I suggest that we should go tomorrow.   
+  If you dropped the glass, it would break.   
+
+
+
+How to 虚拟语气：
+
+- 以动词的过去式作为表达「非事实」的手段。
+- 过去式并不是过去时。虚拟语气中的过去式只是一个表示虚拟语气的形式，而不是表示过去的时态的形式。
+
+
+
+### 表示相反
+
+#### 虚拟现在
+
+- 条件从句的谓语：用过去式（be 用 were）
+- 主句谓语：should / would / could / might + 动词原形
+
+e.g. (example given)
+
+- If I were you, I would not tell him the truth.
+- If we left now, we should arrive in good time.
+
+
+
+#### 虚拟过去
+
+因为时间本来就是过去，若还要用过去形态来表达非事实语气，就必须用过去完成的形态。
+
+- 条件从句的谓语：had+ 过去分词
+- 主句谓语：should / would / could / might + have+ 过去分词
+
+
+e.g.
+
+- If you had got up earlier, you would have caught the first bus.
+- If he had been in that train then, he might have been killed in that accident. 
+
+
+
+#### 虚拟将来
+
+- 条件从句的谓语：用过去式（be 用 were）
+- 主句谓语：should / would / could / might + 动词原形
+
+e.g. 
+
+- If he went, would you go too.
+- If I asked him, I'm sure he'd help us. 
+- 可能性特别低：should
+  If I should win the lottery, I would buy you a car.
+- 不可能发生：were to
+  If I were to lie to her, I would lose her.
+
+### 表示愿望
+
+hope 中性
+
+wish 可能小
+
+- 与现在相反 wish + 过去式： I wish (that) I were a rabbit
+- 与过去相反 wish + 过去完成式：I wish (that) I had eaten the carrot.
+- 与将来相反 wish + woud / should / could / might + 动词原形：I wish (that) I could eat the carrot.
+
+would rather 与 wish 有类似的用法：
+
+- I would rather that you didn't eat the carrot.
+
+
+
+### 表示请求
+
+demand / suggest / insist / would rather + (should) + 动词原形
+
+- I suggest that you (should) eat a carrot. (宾语从句)
+- It is suggested that you (should) eat a carrot. (主语从句)
+- The suggestion is that you (should) eat a carrot. (表语从句)
+- It is (high) time that you ate a carrot. (定语从句)
+
+
+
+
+
+
+
+倒装结构
+If I were a boy, I might be very handsome. = Were I a boy, I might be very handsome.  
+
+be 动词因虚拟语气变为过去式时只会变为 were，而永远不会变成 was。
+
+混合时态会有一个明显的时间标识，例如 now：
+If I had finished my work earlier, I could have dinner now.  
+If you'd listened to me, you wouldn't be in such trouble now. 
+
+混合语气
+I could have caught that bus, only that I forgot to get any money out.
 
 
 
@@ -294,11 +410,90 @@ The rabbit ate the carrot at the place where he found it
 
 引导词 whee  的强调形式有 wherever、everywhere、anywhere
 
+##### 比较状语从句
+
+口语中可以省略句末的 be 动词。
+
+**更**
+
+- He is smarter than me /  l (am) .
+- This carrot is bigger than that one (is) .
+- She is more beautiful than Snow White (is).
+
+**同样**
+
+- He is as smart as I am / me.
+- This carrot is as big as that one (is).
+- She is as beautiful as Snow White (is).
+
+**越……越……**
+
+- The more you practice English, the more fluent you become.
 
 
 
+##### 条件状语从句
 
- 
+条件句总是比主句在时态上落后一个时间段。
+
+真实条件句：If I saw a carrot. I would eat it.
+虚拟条件句：If I had seen a carrot, I would have eaten it. (虚拟语气表示与事实相反)
+
+其它引导词：
+
+- Unless you like (= If you don't like) this video, you will not give it a thumbs-up.
+- Provided that my video is excellent, you will give it a thumbs-up.
+- As long as I make excellent videos you will remain my follower.
+- In case you don't understand, please comment below.
+
+
+
+##### 让步状语从句
+
+**具体情况**
+
+- 假设：Even if I see a carrot, i will not eat it.
+
+- 事实：Although I see a carrot, i will not eat it.
+  - 引导词 Although = Though = Even though，后面主句不能加 but
+
+**未知情况**
+
+- No matter what happens, I will not eat the carrot.
+- 引导词 No matter = Regardless of
+
+
+
+##### 方式状语从句
+
+**假设发生**
+
+- 方式状语从句：You spend (so much) money as if you were a millionaire.
+  - 主句 You spend (so much) money 已发生
+
+- 虚拟语气：If you were a millionaire, you would spend a lot of money.
+  - 从句 If you were a millionaire 未发生
+
+**正在发生**
+
+- Eat the carrot as i do.
+
+
+
+---
+
+
+
+方式（the way）状语从句换成定语从句：
+
+- You spend money the way (in which) millionaires do.
+- Eat the carrot the way (in which) I eat it.
+
+由此可见，方式状语从句的表达更简洁。
+
+
+
+##### 原因状语从句
 
 
 
@@ -329,92 +524,6 @@ Here comes the rain again = The rain comes here again.
 #### 特殊结构的句子
 
 - She was the only person to survive the air crash.
-
-
-
-## 虚拟语气
-
-> [英语虚拟语气就是这么简单 by 英语兔 - 哔哩哔哩 bilibili](https://www.bilibili.com/video/BV1bt4y1S779)
-
-英语分 3 种语气：
-
-- **陈述语气**：陈述事实、提出看法或问题等。所说的是真的。
-  I like this book the best.  
-  If you get up earlier, you will be able to catch the first bus.
-  
-- **祈使语气**：表示请求、命令或警告等。希望所说的成真。
-  Don’t be so careless. 
-
-- **虚拟语气**：表示假想或主观愿望。所说的与事实不符。
-  I suggest that we should go tomorrow.   
-  If you dropped the glass, it would break.   
-
-
-
-How to 虚拟语气：
-
-- 以动词的过去式作为表达「非事实」的手段。
-- 过去式并不是过去时。虚拟语气中的过去式只是一个表示虚拟语气的形式，而不是表示过去的时态的形式。
-
-
-
-### 虚拟现在
-
-- 条件从句的谓语：用过去式（be 用 were）
-- 主句谓语：should / would / could / might + 动词原形
-
-e.g. (example given)
-
-- If I were you, I would not tell him the truth.
-- If we left now, we should arrive in good time.
-
-
-
-### 虚拟过去
-
-因为时间本来就是过去，若还要用过去形态来表达非事实语气，就必须用过去完成的形态。
-
-- 条件从句的谓语：had+ 过去分词
-- 主句谓语：should / would / could / might + have+ 过去分词
-
-
-e.g.
-- If you had got up earlier, you would have caught the first bus.
-- If he had been in that train then, he might have been killed in that accident. 
-
-
-
-### 虚拟将来
-
-- 条件从句的谓语：用过去式（be 用 were）
-- 主句谓语：should / would / could / might + 动词原形
-
-e.g.
-
-- If he went, would you go too.
-- If I asked him, I'm sure he'd help us. 
-- 可能性特别低：should
-  If I should win the lottery, I would buy you a car.
-- 不可能发生：were to
-  If I were to lie to her, I would lose her.
-
-
-
-倒装结构
-If I were a boy, I might be very handsome. = Were I a boy, I might be very handsome.  
-
-be 动词因虚拟语气变为过去式时只会变为 were，而永远不会变成 was。
-
-混合时态会有一个明显的时间标识，例如 now：
-If I had finished my work earlier, I could have dinner now.  
-If you'd listened to me, you wouldn't be in such trouble now. 
-
-混合语气
-I could have caught that bus, only that I forgot to get any money out.
-
-
-
----
 
 
 

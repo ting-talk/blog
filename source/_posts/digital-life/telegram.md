@@ -707,6 +707,7 @@ Windows 的 `Ctrl` 等于 macOS 中 `Command` ⌘。
   - [@hao6bot](http://t.me/hao6bot)
 
 - 网页版
+  - [Lyzem Search](https://lyzem.com/)
   - [名刀电报搜索](https://xtea.io/ts.html#gsc.tab=0)
   - [sssoou.com](http://www.sssoou.com/)
   - [Telegram 公眾索引系統](https://tgtw.cc/)
@@ -1302,20 +1303,20 @@ https://rsshub.app/telegram/channel/tingtalk
 
 ### 😺 其它
 
-| 频道                                                        | 详情                                                         |
-| ----------------------------------------------------------- | ------------------------------------------------------------ |
-| [iYouPort](https://t.me/iyouport)                           | IYP 不是过眼云烟的新闻网站，我们提供实战能力，这里是值得您反复回看的档案室。 |
-| [安全上网注意事项](https://t.me/anquanshangwang)            | 转载一些关于安全上网的文章，这些文章都比较浅显。             |
-| [博海拾贝](https://t.me/bohaishibei)                        | [博海拾贝](https://bh.sb/) 的网站：bh.sb                     |
-| [回形针PaperClip & 灵光灯泡](https://t.me/papercliphub)     | 回形针内容推送。                                             |
-| [合租](https://t.me/hezu2)                                  | Netflix、YouTube、Spotify、Office 365、HBO、Apple、Surge……   |
-| [History](https://t.me/History)                             | Digging Past. Photos from Past who shaped today.             |
-| [每日无数猫](https://t.me/miaowu)                           | 让我们打造一个全是猫的世界！ฅ^•ﻌ•^ฅ                          |
-| [NS 新闻转报](https://t.me/SwitchNewCN)                     | 任天堂（Nintendo）相关的新闻。                               |
-| [基督讲道](https://t.me/TelBaptist)                         | 基督讲道资源频道。                                           |
-| [就要造反](https://t.me/ZaoFaner)                           | 此频道立足生活，以非常古怪的文字风格进行生存经验书写，绘制景观与消费社会中极具现实性的个案，以此为个体提供可操的、创造性的抵制策略与造反计谋。为一切造反者辩护，为所有无用与丰饶辩护。 |
-| [One Piece Deluxe](https://t.me/onepiecedeluxe)             | Receive the latest updates from One Piece (海贼王), including chapters, episodes, spoilers and much more. |
-| [海贼王 One Piece 更新提醒](https://t.me/tingtalk_onepiece) | 由初中开始追《海贼王》 [@TingTalk](https://t.me/tingtalk) 创建。 |
+| 频道                                                    | 详情                                                         |
+| ------------------------------------------------------- | ------------------------------------------------------------ |
+| [iYouPort](https://t.me/iyouport)                       | IYP 不是过眼云烟的新闻网站，我们提供实战能力，这里是值得您反复回看的档案室。 |
+| [安全上网注意事项](https://t.me/anquanshangwang)        | 转载一些关于安全上网的文章，这些文章都比较浅显。             |
+| [博海拾贝](https://t.me/bohaishibei)                    | [博海拾贝](https://bh.sb/) 的网站：bh.sb                     |
+| [回形针PaperClip & 灵光灯泡](https://t.me/papercliphub) | 回形针内容推送。                                             |
+| [合租](https://t.me/hezu2)                              | Netflix、YouTube、Spotify、Office 365、HBO、Apple、Surge……   |
+| [History](https://t.me/History)                         | Digging Past. Photos from Past who shaped today.             |
+| [每日无数猫](https://t.me/miaowu)                       | 让我们打造一个全是猫的世界！ฅ^•ﻌ•^ฅ                          |
+| [NS 新闻转报](https://t.me/SwitchNewCN)                 | 任天堂（Nintendo）相关的新闻。                               |
+| [基督讲道](https://t.me/TelBaptist)                     | 基督讲道资源频道。                                           |
+| [就要造反](https://t.me/ZaoFaner)                       | 此频道立足生活，以非常古怪的文字风格进行生存经验书写，绘制景观与消费社会中极具现实性的个案，以此为个体提供可操的、创造性的抵制策略与造反计谋。为一切造反者辩护，为所有无用与丰饶辩护。 |
+| [One Piece Deluxe](https://t.me/onepiecedeluxe)         | Receive the latest updates from One Piece (海贼王), including chapters, episodes, spoilers and much more. |
+| [海贼王 One Piece 更新提醒](https://t.me/tingtalk_op)   | 由初中开始追《海贼王》 [@TingTalk](https://t.me/tingtalk) 创建。 |
 
 此外，Telegram 上也有 [国家或地区的领导人官方频道](https://t.me/durov/148)。
 
