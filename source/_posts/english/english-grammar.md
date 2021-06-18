@@ -259,7 +259,7 @@ I could have caught that bus, only that I forgot to get any money out.
 
 
 
-### 主从复合句
+### 主从复杂句
 
 主从复合句指若干个简单句用从属连词、关系代词、关系副词连接所形成的句子。例如：
 
@@ -309,8 +309,6 @@ I could have caught that bus, only that I forgot to get any money out.
 ##### 关系副词引导
 
 when / where / why … + 完整句
-
-
 
 
 
@@ -495,21 +493,52 @@ The rabbit ate the carrot at the place where he found it
 
 ##### 原因状语从句
 
+Because（引导从句，用在复杂句）和 so（连词，用在复合句）不能同时使用：Because the rabbit was hungry, ~~so~~ he ate the carrot. 
+
+语气程度：Because > Since > As
+
+- BecauseL：实实在在的因果关系
+- Since：众所周知的原因（只能放在主句之前）
+- As：显而易见的事实（只能放在主句之前）
 
 
 
+Because（主从句）vs for（并且句，放在后面）
+
+- Because：直接的因果关系
+- for：先果后因，一般前面是猜测，后面 for 提供依据
+
+##### 目的状语从句
+
+In order that I could finish the video in time, I pulled an all-nighter. 
+
+等于
+
+I pulled an all-nighter so that I could finish the video in time. (so that 不能放在开头)
 
 
 
-### 其它句式
+##### 结果状语从句
 
-#### 倒装句
+I ate a lot of carrots for lunch so that I wasn't hungry at all in the afternoon.
+
+I ate so many carrots for lunch that I felt sick afterwards.
+
+It was such a tasty carrot that I ate it all at once. (such + 名词)
+
+It was so tasty a carrot that I ate it all at once. (so + 形容词)
+
+
+
+## 其它语法
+
+### 倒装句
 
 Here comes the rain again = The rain comes here again.
 
 
 
-#### 不定式表结果
+### 不定式表结果
 
 ****
 
@@ -521,7 +550,7 @@ Here comes the rain again = The rain comes here again.
 
 
 
-#### 特殊结构的句子
+### 特殊结构的句子
 
 - She was the only person to survive the air crash.
 

@@ -878,7 +878,7 @@ Creat New Folder（新建分组）时有以下筛选条件可选：
 
 ### 🔞 解锁敏感内容
 
-如何在 iOS 原生客户端查看敏感内容（例如 NSFW），即使频道或群组被封禁：
+如何在 iOS 原生客户端查看敏感内容，例如 NSFW：
 
 1. 登录 [Telegram Web](https://web.telegram.org/)（网页版）或者下载并登录 [Telegram Desktop](https://desktop.telegram.org/)（客户端）。
 2. `Settings`（设置）> `Privacy and Security`（隐私和安全）。
@@ -904,7 +904,10 @@ Creat New Folder（新建分组）时有以下筛选条件可选：
 - 频道分析（[Channel Stats](https://telegram.org/blog/folders#channel-stats)）📈：订阅人数超过 50 人（之前是 1,000  人）的频道会有详细的统计数据分析报告（[Statistics](https://telegram.org/tour/channels#detailed-statistics)）。
 - 频道可以有无数个订阅者，但是创建者只能邀请前 200 个成员到你的频道。
 - 重新编辑（Edit）消息，多久之前发的 Post 都可以。
-- 可以删除系统消息，减少对订阅者干扰，例如更换置顶的消息通知 `*** pinned ***`、更换频道头像的消息通知 `Channel photo updated`。群组同理。
+- 支持删除消息通知，减少无关紧要的动态对订阅者的干扰。出现以下通知后，可立即长按删除：
+  - 更换频道置顶的消息通知 `*** pinned ***`
+  - 更换频道头像的消息通知 `Channel photo updated`
+  - 更改频道名字的消息通知 `Channel name was changed to ***`
 
 
 

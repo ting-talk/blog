@@ -2,7 +2,7 @@
 
 title: 番茄食用指南（科学上网教程）  
 date: 2016-03-03  
-updated: 2020-08-20   
+updated: 2021-05-20   
 categories: 翻墙方法   
 tags: 突破网络审查 
 
@@ -43,7 +43,7 @@ Ting 我 Talk 一句：只要肉身在中国大陆，我们的一切行动听党
 
 ## 💰 买番茄
 
-[点击这里](https://tingtalk.me/fq-ever/) 查看曾经推荐过的番茄商 [Just My Socks](https://justmysocks3.net/members/aff.php?aff=1010)，因为价格有些高，经济宽裕的用户可以试试。
+[点击这里](https://tingtalk.me/fq-ever/) 查看曾经推荐过的番茄商 [Just My Socks](https://justmysocks3.net/members/aff.php?aff=1010)，老牌 VPS 供应商搬瓦工出品，隐私和安全上比较有保障。但因为价格有些高，经济宽裕的用户可以试试。
 
 [点击这里](https://tingtalk.me/fq-free/) 查看免费的番茄商（推荐使用迷雾通，已上传至 [蓝奏云](https://lanzous.com/b00t9wiva) 网盘） ，如果本文中提供的番茄购买链接被封了，可以作为临时的备用访问途径，不推荐长期使用。因为时间宝贵，请对自己好一点。
 
@@ -228,7 +228,9 @@ Android 用户推荐使用 ShadowsocksR 客户端，但是也可以把 Clash for
 - 下载 [.NET Framework Runtime 5.0](https://dotnet.microsoft.com/download/dotnet/5.0/runtime) 及以上版本（[如何辨别我的计算机运行的是 32 位还是 64 位版本的 Windows？](https://support.microsoft.com/zh-cn/windows/32-%E4%BD%8D%E5%92%8C-64-%E4%BD%8D-windows-%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98%E8%A7%A3%E7%AD%94-c6ca9541-8dce-4d48-0415-94a3faa2e13d)）
   - [64 位](https://dotnet.microsoft.com/download/dotnet/thank-you/runtime-desktop-5.0.5-windows-x64-installer)
   - [32 位](https://dotnet.microsoft.com/download/dotnet/thank-you/runtime-desktop-5.0.5-windows-x86-installer)（x86）
-- 下载 Clash .NET：[GitHub](https://github.com/ClashDotNetFramework/ClashDotNetFramework)
+- 下载 Clash .NET：[GitHub](https://github.com/ClashDotNetFramework/ClashDotNetFramework/releases)
+
+如果从官网下载的 .NET 5.0 不可用，Clash .NET 的作者也在 [GitHub](https://github.com/ClashDotNetFramework/ClashDotNetFramework/releases) 的 Releases 提供了安装包。
 
 
 

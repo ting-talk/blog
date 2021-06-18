@@ -1,7 +1,7 @@
 ---
 title: Windows 10 电脑：使用技巧、佳软推荐以及系统重装教程  
 date: 2017-12-18  
-updated: 2020-08-20    
+updated: 2021-04-20    
 categories: 数字生活   
 tags: [Windows, 网上冲浪指南]
 ---
@@ -731,7 +731,7 @@ Windows 的默认图片浏览器非常难用。而 qimgv 是一款开源的图�
 
 - **免费提供**：可在任意设备（iPhone、Android、Windows 10 和 Web）上使用和同步。
 - **每日计划**：使用「我的一天」，用智能个性化建议更新每日待办事项列表，每天都完成有意义的工作。
-- **支持附件**：向任意任务附加高达 25 MB 的文件。
+- **支持附件**：向任意任务附加高达 25 MB 的文件。复制文件，在任务详情页 Ctrl + V 添加附件。
 - **轻松共享**：从查阅简单购物清单到规划重要的日子，共享列表都可帮助你与家人、朋友和同事保持联系。
 - **支持标签**：加上 `#` 打上 Tags 后，就能对代办事项进行分组了。
 - **一个技巧**：清单（List）/ 组（Group）命名时以 Emoji 开头，清单（List）/ 组（Group）的图标也会变成对应的 Emoji。
@@ -777,6 +777,12 @@ Windows 的默认图片浏览器非常难用。而 qimgv 是一款开源的图�
 
 自带的输入法已经足够好用，而国产的输入法有关不完的广告弹窗。
 
+关联阅读：
+
+- [一些小技巧，让你的 Windows 10 内置拼音输入法更好用 - 好奇狗熊](https://sspai.com/post/52101)
+- [深蓝词库转换：一款开源免费的输入法词库转换程序 - studyzys](https://github.com/studyzy/imewlconverter)
+- [SuperRime 拓展词库 for Windows 10 拼音版（600 万词）](https://www.gotototo.com/2020/12/24/windows-10-lexicon/) | [小羿的报道](https://www.xiaoyi.vc/win10-pinyin-diy.html)
+
 
 
 **关联阅读**
@@ -784,6 +790,8 @@ Windows 的默认图片浏览器非常难用。而 qimgv 是一款开源的图�
 [Awesome Windows](https://github.com/Awesome-Windows/Awesome/blob/master/README-cn.md)：Windows上优质 & 精选的最佳应用程序及工具列表，其/中包含这篇文章没讲的 [数据恢复软件](https://github.com/Awesome-Windows/Awesome/blob/master/README-cn.md#%E6%95%B0%E6%8D%AE%E6%81%A2%E5%A4%8D)（因为我有良好的备份习惯）。
 
 [FXXKMAKEDING](https://node4.mkdmirror.workers.dev/0:/)：Fuck 思杰马克丁，来这里下载「绿色」软件吧。
+
+
 
 ## 系统重装
 
