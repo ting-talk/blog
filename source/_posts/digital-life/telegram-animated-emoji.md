@@ -10,21 +10,22 @@ tags: [Telegram, 网上冲浪指南]
 
 ![see-no-evil-monkey](telegram-animated-emoji/see-no-evil-monkey.png)
 
-静态的 Emoji，在被 Telegram 注入灵魂之后，一个个变得鲜活（Animated）起来了。
+静态的 Emoji，被 Telegram 注入灵魂之后，一个个变得鲜活（Animated）起来了。
 
 <!-- more -->
 
-发送**单个** ❤️ 并碰它一下，手机会震动，那是 Telegram Team  赋予 Emoji 的心跳（If your emoji has a heart, we'll give it a beat or unleash their spirit in motion）。
-
-还有一个好玩的 Animated Emoji 是 See-No-Evil Monkey 🙈，纵使见到了你也当作没看到（非礼勿视）。
-
-[Animated stickers 的特点](https://telegram.org/blog/voice-chats#sticker-outlines)：
+[Animated stickers 的特点](https://telegram.org/blog/voice-chats#sticker-outlines)
 
 - 矢量格式（infinite resolution）
 - 小于 50 KB
 - 180 帧动画
 
+**特别的 Animated Emoji** 
 
+- 发送**单个** ❤️ 并碰它一下，手机会震动，那是 Telegram Team  赋予 Emoji 的心跳（If your emoji has a heart, we'll give it a beat or unleash their spirit in motion）。
+- 发送单个僵尸（女僵尸 🧟‍♀️、僵尸 🧟、男僵尸 🧟‍♂️）后，再碰 Ta 们试试，会发出声音。
+- 两个 NSFW 相关的 Emoji：🍆 和 🍑。
+- See-No-Evil Monkey 🙈，纵使见到了你也会当作没看到（非礼勿视）。
 
 **电报 Emoji 小游戏**
 
@@ -36,6 +37,8 @@ tags: [Telegram, 网上冲浪指南]
 | ⚽        | 射门 [football](https://macos.telegram.org/#v6-3-1-2020-07-31) |
 | 🎳        | 保龄球 bowling                                               |
 | 🎰        | 老虎机 [jackpot](https://telegram.org/blog/pinned-messages-locations-playlists#jackpot) / slot machine |
+
+截止 2021 年 6 月 19 日，一共 236 个 Animated Emoji。已经有人做成了表情包（Sticker），你可以 [点此](https://t.me/addstickers/AnimatedEmojies) 添加到 Telegram。现在，你可以开始快速翻阅这篇无聊的文章了。
 
 ## 😀
 
