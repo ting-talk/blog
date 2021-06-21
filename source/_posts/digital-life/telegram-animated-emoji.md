@@ -23,7 +23,7 @@ tags: [Telegram, 网上冲浪指南]
 **特别的 Animated Emoji** 
 
 - 发送**单个** ❤️ 并碰它一下，手机会震动，那是 Telegram Team  赋予 Emoji 的心跳（If your emoji has a heart, we'll give it a beat or unleash their spirit in motion）。
-- 发送单个僵尸（女僵尸 🧟‍♀️、僵尸 🧟、男僵尸 🧟‍♂️）后，再碰 Ta 们试试，会发出声音。
+- 女僵尸 🧟‍♀️、僵尸 🧟、男僵尸 🧟‍♂️、棺材 ⚰ 也会发出声音。
 - 两个 NSFW 相关的 Emoji：🍆 和 🍑。
 - See-No-Evil Monkey 🙈，纵使见到了你也会当作没看到（非礼勿视）。
 
@@ -38,7 +38,7 @@ tags: [Telegram, 网上冲浪指南]
 | 🎳        | 保龄球 bowling                                               |
 | 🎰        | 老虎机 [jackpot](https://telegram.org/blog/pinned-messages-locations-playlists#jackpot) / slot machine |
 
-截止 2021 年 6 月 19 日，一共 236 个 Animated Emoji。已经有人做成了表情包（Sticker），你可以 [点此](https://t.me/addstickers/AnimatedEmojies) 添加到 Telegram。现在，你可以开始快速翻阅这篇无聊的文章了。
+截止 2021 年 6 月 19 日，一共 236 个 Animated Emoji。已经有人做成了表情包（Sticker），你可以 [点此](https://t.me/addstickers/AnimatedEmojies) 添加到 Telegram。
 
 ## 😀
 

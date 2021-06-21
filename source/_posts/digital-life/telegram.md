@@ -14,7 +14,7 @@ tags: [网上冲浪指南, 突破网络审查, Telegram]
 
 🧱 TG 在中国大陆必须 [翻墙](https://tingtalk.me/fq/) 后才能使用。不过，学会科学上网，难道不是当代数字公民的必备技能吗？
 
-📁 tingtalk.me 在 2020-04-04 被墙了，如需在墙内传阅，请下载本文的 [PDF](https://wwa.lanzous.com/b00twozof) 或 [GitHub](https://raw.githubusercontent.com/ting-talk/blog/master/source/_posts/digital-life/telegram.md)（可编辑的 Markdown 源文档）。
+📁 tingtalk.me 在 2020-04-04 被墙了，如需在墙内传阅，请下载本文的 [PDF](https://wwa.lanzoux.com/b00twozof) 或前往 [GitHub](https://raw.githubusercontent.com/ting-talk/blog/master/source/_posts/digital-life/telegram.md) 阅读（也是可编辑的 Markdown 源文档）。
 
 💡 全文有两万三千多字，善用右侧的目录栏和查找功能（`Ctrl` + `F`），助你快速定位想要看到的内容。你也可以移步到 [电报内阅读此文的精简版](https://t.me/tingtalk/4)。
 
@@ -610,9 +610,20 @@ Telegram 有一个非常人性化的特性：**记忆浏览进度**，打开对�
 
 **Stickers（表情包）**
 
-截至 2021 年 1 月 13 日，Telegram 上已有 20,000+ 免费的高清表情包。
+- 截至 2021 年 1 月 13 日，Telegram 上已有 20,000+ 免费的高清表情包。
 
-在聊天窗口输入 [@sticker](https://t.me/sticker) + Emoji，可以检索**所有**与 Emoji 相关表情包，例如 `@sticker 👍`。
+- 在聊天窗口输入 [@sticker](https://t.me/sticker) + Emoji，可以检索**所有**与 Emoji 相关表情包，例如 `@sticker 👍`。
+
+**在哪里找表情包**
+
+- 网站：
+  - [Stickers Cloud](https://stickers.cloud/)
+  - [tlgrm](https://tlgrm.eu/stickers)：只支持用英文关键词搜索
+- 群组：[Stickers Cloud](https://t.me/StickerGroup)
+- 频道：[Trending Stickers](https://t.me/TrendingStickers)
+- 官方：
+  1. 打开 Telegram 的一个对话界面，输入框选择 Sticker（旁边是选择 Emoji 和 GIF）
+  2. 往下拉，即可在顶部看到 `Search sticker sets`（只支持用英文关键词搜索）
 
 
 
@@ -715,6 +726,7 @@ Windows 的 `Ctrl` 等于 macOS 中 `Command` ⌘。
   - [名刀电报搜索](https://xtea.io/ts.html#gsc.tab=0)
   - [sssoou.com](http://www.sssoou.com/)
   - [Telegram 公眾索引系統](https://tgtw.cc/)
+  - [tlgrm](https://tlgrm.eu/stickers)：只支持用英文关键词搜索
 
 ### 🔍 全局搜索
 
@@ -1161,6 +1173,7 @@ https://rsshub.app/telegram/channel/tingtalk
 | [迷影果醬](https://t.me/cinephiliajam)           | 无规律放映影片。                                             |
 | [4K 影视屋](https://t.me/dianying4K)             | 4K 电影种子发布频道。                                        |
 | [四库全书视频精选](https://t.me/video4lib)       | 一个不断收集互联网有价值内容的企划。                         |
+| [电影爱好者](https://t.me/MovieAnywhere)         | 附带豆瓣电影评分。                                           |
 
 
 
