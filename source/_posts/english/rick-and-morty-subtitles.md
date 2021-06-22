@@ -8,9 +8,13 @@ tags: [英语, 口语]
 
 ![snowball](rick-and-morty-subtitles/snowball.png)
 
-兴趣是最好的老师，所以我把 *Rick and Morty* 作为英语精读素材，不走捷径，弄懂每一句台词，模仿并重复剧中的地道口语，反复听上几百遍，终有一日，我相信量变将引发质变。
+兴趣是最好的老师，所以我把 [Rick and Morty](https://www.adultswim.com/videos/rick-and-morty/) 作为英语精读素材，不走捷径，弄懂每一句台词，模仿并重复剧中的地道口语，反复听上几百遍，终有一日，我相信量变将引发质变。
 
 <!-- more -->
+
+**下载字幕**
+
+- [A4k 字幕网](https://www.a4k.net/search?term=%E7%91%9E%E5%85%8B%E5%92%8C%E8%8E%AB%E8%92%82)
 
 **导出字幕**
 
@@ -10789,3 +10793,1650 @@ You did the best you could.
 
 我只希望他吃得好
 I hope he's eating enough.
+
+## S5
+
+### E1 Mort Dinner Rick Andre
+
+> Big man comin for dinner, broh. Better check the booze.
+
+撑着点  瑞克  已经快到了
+C'mon, Rick. We're -- We're almost there.
+
+别管我  莫蒂  这是唯一的方法
+Ugh, leave me, Morty. It's the only way.
+
+什么
+Wha-- Were -- Wha-- Were we --
+
+我们是刀锋战士吗
+Were we Blades in that one?
+
+真他妈的酷
+That's fucking tight.
+
+撑着点
+Just stay with me.
+
+我好怕  莫蒂
+I'm -- I'm scared, Morty.
+
+我能看到终点了
+I can see the end.
+
+我太傻了
+I'm a silly man.
+
+很抱歉把你扯进来
+I'm -- I'm sorry I got you into this.
+
+让我来解决这个问题吧
+Then how about I get us outta this?
+
+-喂  -杰西卡
+-Hello?  -Hey, Jessica.
+
+我是跟你同校的莫蒂
+I-It's Morty. From school.
+
+莫蒂  你好吗
+Oh, hey, Morty. What's up?
+
+我只是想说  你很棒
+Um, I just want to say that you're really great.
+
+我知道我们每次都抓不好时机
+I know the timing never really worked out with us,
+
+但你真的很棒  我好想更了解你
+but you're really great and I wish I got to know you better.
+
+还真是突然
+Oh, I mean -- That's a lot.
+
+对  抱歉  我只是
+Oh, uh, yeah, sorry, I guess I just --
+
+-不  你该早点说的  -什么
+No, I just wish you said it sooner.  -Wh-What?
+
+对  紧张有时候其实很自私
+Yeah, I mean, being nervous is sort of selfish sometimes, y'know?
+
+-维生系统故障  -对  有道理
+-Life support systems failing.  -Yeah, that's a great point.
+
+你今晚有事吗
+Well, what are you doing tonight?
+
+-今晚  -对  想不想一起看电影之类的
+-Tonight?  -Yeah. Do you, like, want to watch a movie or something?
+
+好  今晚  没问题
+Um, yeah. Tonight. Sounds great.
+
+糟了
+Holy shit. Holy shit.
+
+拜托  拜托
+Come on, come on!
+
+-这是哪里  -到家了  瑞克
+-Where are we?  -We're home, Rick.
+
+我降落在了海上
+I-I landed us in the ocean.
+
+海  地球上的海
+The ocean?! The ocean on Earth?!
+
+-对  应该是  -该死
+-Uh, yeah, I-I guess so.  -Oh, shit.
+
+完蛋了  我们得离开
+Holy shit. We have to go.
+
+他妈的马上离开
+We have to go right fucking now.
+
+-什么  -你碰到海了
+-What?  -You touched the ocean, Morty.
+
+-为什么不能  -该死
+-What's the big   ---Oh, fuck. Shit.
+
+-怎么了  -该死
+-What?  -Shit.
+
+理查德 你亵渎了
+Richard! You have desecrated the sacred treaty
+
+海陆神圣条约
+betwixt land and sea.
+
+现在准备承受劲敌宁波先生
+Now face the wrath of your once and eternal foe --
+
+的怒火吧
+Mr. Nimbus!
+
+抱歉  他是谁
+Sorry. Who is that?
+
+我的劲敌
+My nemesis.
+
+-什么  -我的劲敌  好吗
+-What?  -My fucking nemesis, okay?
+
+好  但他叫什么
+Okay, but what was his name again?
+
+-我是宁波先生  -他会一直讲
+I am Mr. Nimbus!  -He's gonna say that a lot.
+
+瑞克和莫蒂
+
+第五季  第一集
+
+等等  到底是谁要来
+W-Wait, so who is coming over again?
+
+-他说是他的劲敌  -瑞克有劲敌吗
+He said his nemesis?  -Rick has a nemesis?
+
+-好像是  -他提过那个人吗
+I guess. Has hementioned him before?
+
+我才要问你吧  我都没听说过
+I-I was gonna ask you. First I'm hearing it.
+
+他是谁  魔术师吗
+Who is he? Like a magic guy?
+
+瑞克是科学家  他是魔术师
+Rick's science and he's magic?
+
+他应该算鱼
+He's like a-a fish?
+
+-一条鱼  -他不是鱼
+-A fish.  -He's not a fish.
+
+他是宁波先生  他是海王兼混蛋
+He's Mr. Nimbus. He's king of the ocean and he's a piece of shit.
+
+你满意了吗  莫蒂
+Are you happy, Morty?
+
+碰到海开心吗
+Are you happy you touched the ocean?
+
+他随时都会到
+He's gonna be here any minute.
+
+来帮我做准备
+Just help me smooth this over
+
+否则他一定会造成更多麻烦
+or this guy's gonna become more trouble than he's worth.
+
+我今晚无法帮你太多  瑞克
+Um, hey, I don't know how much I can help out tonight, Rick.
+
+杰西卡要来跟我
+Jessica's coming over j-just to, like,
+
+一起看电影
+watch a movie or something,
+
+但这是很棒的一步
+but y'know, t-t-that's a good step.
+
+或许会有好的发展也说不定
+That's a solid step to something, y'know?
+
+真的没人在乎你下面  莫蒂
+Truly nobody cares about your dick, Morty.
+
+你越快面对现实越好
+The sooner you learn that, the better.
+
+你不想我得到幸福
+I think you just don't want me happy
+
+想要继续使唤我
+'cause then I'll stop doing your crazy chores.
+
+相信我  你搞出那场海洋闹剧
+Trust me, after that ocean fuck-up,
+
+你别想多做任何事
+you don't get to do anything crazy.
+
+我一边假装
+While I bullshit my way
+
+和宁波谈和平条约时
+through this peace summit treaty with Nimbus,
+
+夏茉会潜入马里亚纳海沟
+Summer is gonna dive into the Marianas Trench
+
+地球上环境最恶劣的区域之一
+
+寻找赋予他力量的
+to recover the forbidden shell
+
+神奇贝壳
+that gives him his power
+
+因为夏茉值得信任
+because Summer can be trusted.
+
+我们来甜蜜蜜
+Let's lick tits.
+
+这是个谐音
+
+-好  什么  -我不喜欢
+-Okay, what?  -I don't love that.
+
+那是自然
+Of course you don't,
+
+因为你们没有性生活
+'cause you guys aren't getting any.
+
+其实我们最近
+Actually, your father and I
+
+非常性积极
+have been very sex-positive lately.
+
+王医师建议我们多多尝试
+Dr. Wong suggested we experiment.
+
+我们最近会一起看小电影
+We've been watching pornography. Together.
+
+-恶熏  -我不想从海里回来了
+Gross! I might never come back from the ocean.
+
+你得低调点  我的宝
+Oh, you'll have to tone it down, babe.
+
+这些凡人承受不了
+The squares can't handle it.
+
+你们的牙齿里都有自杀胶囊
+There are suicide capsules in all of your teeth.
+
+可以用一下
+Do what you want with that.
+
+莫蒂  你负责处理酒
+C'mon, Morty. You're on booze duty.
+
+好了  宁波只喝高级货
+Okay, Nimbus only drinks the good shit.
+
+所以把这酒丢进去
+So just toss this whale-ass ocean-wine in here
+
+放个几世纪
+and age it up a few centuries.
+
+在里面时间比较快吗
+So time moves faster in there?
+
+像纳尼亚一样吗
+I-I-Is it like a Narnia thing?
+
+《纳尼亚传奇》中的地名
+
+我不是信上帝的海狸  莫蒂
+I'm not a beaver who believes in Jesus Christ, Morty.
+
+《纳尼亚传奇》
+
+但确实就像纳尼亚那样
+But yeah, it's pretty much a Narnia thing.
+
+-好吧  但杰西卡  -你只负责端酒
+-Okay, but Jessica  -All you have to do is bring wine, Morty.
+
+-我拜托过你什么吗  -你
+-When do I ask you for anything?  -When do you --
+
+我好几年没完整上过一周课了
+I haven't been to a full week of school in years!
+
+我什么都不会  这是为了什么
+I don't know shit! And for what?
+
+你到底有多少敌人
+How many enemies do you have to have?
+
+为什么老喜欢起冲突
+Why is everything a fight with you?
+
+你要早点看清
+You might want to learn this early, Morty.
+
+-人生充满了冲突  -跟宁波先生吗
+-Life is a fight.  -With Mr. Nimbus?
+
+你在笑我吗
+Are you makin' fun of me?
+
+宁波先生是冷血下体杀手  莫蒂
+Mr. Nimbus is an ice-cold dick killer, Morty.
+
+我们走  那是他的魔法海洋号角
+Okay, let's go. That's his magic ocean horn.
+
+他是宁波先生吗
+Is that Mr. Nimbus?
+
+-宁波  -理查德
+-Nimbus.  -Richard.
+
+你脸色真差
+You look like ass.
+
+速战速决吧
+Let's get this over with.
+
+抱歉  就是他吗
+I'm sorry. This is the guy?
+
+-杰瑞  -等等  不
+-Jerry.  -Hold on. No.
+
+你是上过星球的人
+I've seen you fuck a planet,
+
+竟然怕他
+and this is the guy you're afraid of?
+
+我喜欢这个  瑞克
+I like this one, Rick.
+
+他很健全且狂野
+He is unbroken. Untamed.
+
+或许我们应该把牵绳拉紧一点
+Perhaps he could use a firmer grip upon his leash.
+
+好  够了  我要报警了
+Okay, that's enough. I'm calling the police.
+
+-没问题  -杰瑞
+-Go ahead.  -Jerry.
+
+-我真的会  -我能控制警察
+-I will! Good.  -I control them.
+
+-什么  -能控制警察  杰瑞
+-Excuse me?  -He controls police, Jerry.
+
+对  我如果会相信就太蠢了
+Right, that tracks. In Dumb World.
+
+警察
+Police?
+
+有个淫荡海男在我家门口
+A strange horny ocean man is on my lawn.
+
+这应该不重要
+Well, I don't see how that's relevant,
+
+但我们是白人
+but we're white.
+
+不许动  不许动
+Freeze! Freeze! Freeze! Freeze!
+
+打架
+Fight.
+
+做爱
+Fuck.
+
+离开  我们走
+Flee. Let's get outta here.
+
+-来吧  理查德  -他怎么
+-Shall we, Richard?  -Okay, but how did he --
+
+天啊  杰瑞  他是宁波先生  他能控制警察
+Jesus Christ, Jerry. He's Mr. Nimbus. He controls the police!
+
+你们好  我有走错地方吗
+Um, hello? Am I in the right place?
+
+我刚刚看到一群警察在做爱
+I just saw a bunch of cops having sex with each other?
+
+杰西卡  你好
+Hi! Jessica! Hi!
+
+对  你没走错地方
+Yeah, yup, y-you're in the right spot.
+
+各位  这位是杰西卡
+Uh, everyone, th-this is Jessica.
+
+他们是我家人  这位是
+This is everybody. Uh, this is --
+
+我是宁波先生
+I am Mr. Nimbus.
+
+宁波  进来
+Jesus, Nimbus, just get inside.
+
+莫蒂  去拿酒
+Morty, grab the wine.
+
+好  等一下  进来吧  杰西卡
+Yeah, in a minute. C-C'mon, Jessica.
+
+让开
+Stand aside.
+
+除非你们配得上宁波
+Unless you are worthy of Nimbus.
+
+如果你指的是那个意思
+If that means what I think it means,
+
+我可以告诉你  我们会一起看片
+I'll have you know, we watch porn together.
+
+天啊  宁波先生对你们点头了
+Wow, okay! Looks like you guys just got the nod.
+
+点头
+The nod?
+
+宁波先生直觉很准
+Mr. Nimbus has a sense for these things.
+
+你们应该是性积极的夫妇吧
+I take it you're a sex-positive couple?
+
+对  非常积极
+Oh, yeah. Very much so.
+
+我们会一起看片
+We watch porn together. Great!
+
+很好  那我就帮你们登记三人行
+I'll mark you down as eligible for a threeway.
+
+这是相关资料
+Here's all the information you'll need.
+
+海王想跟我们三人行
+The king of the ocean wants to have a threesome with us?
+
+你们可以选择
+Totally optional.
+
+不过机会难得  我保证  我很嫉妒你们
+But a remarkable option to have, I assure you. Very jealous.
+
+最后一页有表单
+There's a form on the last page
+
+请填写收礼物篮的地址
+so we know where to send the gift basket.
+
+竟然有这种事
+So that just happened.
+
+你好像不排斥
+You don't sound upset about it.
+
+你也是
+Neither do you.
+
+天啊  我们真的遇到这种事
+Oh, my God. Is this happening? To us?
+
+我以为这种事只会在纽约或HBO上发生
+I thought this only happened in New York or on HBO.
+
+王医师一向都是对的
+Dr. Wong hasn't been wrong yet.
+
+没错
+You're right.
+
+这就是她想要我们做的事
+This is exactly what she was talking about.
+
+你可以当自己家
+So, uh, yeah. J-Just make yourself comfortable.
+
+选一部电影或是一起看
+Y'know, ch-choose a movie or -- or we can watch
+
+跨维度有线电视
+some interdimensional cable if you want.
+
+请继续收看任天堂69
+We now return to "Nintendo 69."
+
+任天堂  你在干嘛
+Nintendo, oh, what are you doing to me?
+
+任天堂
+Oh, Nintendo, oh, Nin--
+
+我们也可以看
+Or we can watch whatever, y'know.
+
+你想看的东西
+Wh-Whatever you're into.
+
+莫蒂  你是不是要负责拿酒
+Morty, did I hear you're getting wine?
+
+对  我得端酒给宁波先生
+Yeah, I gotta get some wine for Mr. Nimbus.
+
+有多的吗
+Got any extra?
+
+当然
+Oh. Uh, yeah.
+
+我可以拿来给你喝
+Yeah, yeah, I'll go get some, just for you.
+
+太好了  快点回来
+Cool. Hurry back.
+
+看来你好像需要帮忙
+Looks like you could use a hand.
+
+对  太好了
+Oh, hey! Yeah, th-th-that'd be great.
+
+-没问题  -小蹄  吃晚餐了
+-No problem. Hoovy?  -Dinner's ready!
+
+我马上回来  宝贝
+Be right there, sugar hoof!
+
+我先帮年轻人把这些
+Just helping this young man through a portal
+
+放了好几十年的酒
+with that crate full of alcohol
+
+给搬过去
+that's been here for decades.
+
+谢了  小蹄  谢谢你的帮忙
+Hey, thanks, Hoovy. I-I really appreciate that.
+
+有个女生来我家  我很喜欢她
+I-I got a girl over, and I really, really like her.
+
+-我只是很紧张  -我懂
+-I-I'm just nervous.  -Oh, I know that feeling.
+
+我刚开始跟波娃交往时
+When I first started seeing Bova,
+
+我满脑子都担心自己会搞砸
+I could only think about all the ways I was gonna mess it up.
+
+-后来怎么办的  -我搞砸了
+-So what'd you do?  -Oh, I messed it up.
+
+但我找到了能接纳我这点的人
+But I found the one who loves me for that.
+
+谢谢  我需要你的鼓励
+Thanks. I-I really needed to hear that.
+
+-来  拿一瓶走吧  -不用了
+-Here, -t-take one of these.  -Oh, you don't have to.
+
+不  我坚持  祝你有美好的一天  小蹄
+No, I-I want to. You have a good day, Hoovy.
+
+祝你跟那个女生玩得开心
+You have a great time with that lady up there.
+
+-放轻松  -没问题
+-Just relax.  -Will do!
+
+波娃
+Bova?
+
+你为什么离开我们  爸爸
+Why did you leave us, Father?
+
+贾费  你什么时候出生的
+Japheth? When were you born?
+
+我向妈妈发过誓  只要遇到你
+I swore to Mother if I ever met you,
+
+就会为她复仇
+I'd avenge her.
+
+不是我的错
+It wasn't my fault.
+
+那是谁的错  是谁
+Whose, then? Whose?!
+
+从魔法门来的那个小男孩
+The boy from the magic door.
+
+我们来讨论条约内容  好吗
+Shall we discuss terms?
+
+好  没问题  内容如下
+Yeah, fine. Whatever. Terms.
+
+第一条  我是海王
+Term number one -- I am King of the Ocean.
+
+我拉屎的地方  继续
+The place I shit? Go ahead.
+
+第二条  别在海里拉屎
+Term number two -- Stop shitting in the ocean.
+
+我听不懂
+No idea what you're talking about.
+
+真好喝  再来一瓶
+Delicious. Another.
+
+我其实想拿这瓶
+Oh, uh, well, I-I was thinking of using this one for --
+
+莫蒂  快给他  天啊
+Morty, just give him the bottle. God damn.
+
+再来
+Another!
+
+莫蒂  拿到酒了吗
+Morty, you get the wine?
+
+杰西卡  抱歉
+Hey, Jessica. Um, yeah, sorry.
+
+我正要回去拿
+I just -- just going back to get it.
+
+你不是刚去了
+Oh. I thought you already went.
+
+对  但我有点事
+I did! I just -- just got a little busy.
+
+我现在再去一次
+Going right now, again!
+
+你先准备电影
+You go ahead and fire up that movie!
+
+没关系  我等你回来
+That's okay. I'll wait for you.
+
+天啊...
+Holy shit, holy shit, holy shit, holy shit!
+
+我等你好久了
+I've been waiting for you.
+
+天啊  你是小蹄  对吧
+Oh, wow. Hoovy, right?
+
+别说他的名字
+Never say his name!
+
+天啊
+Jesus Christ!
+
+为什么每个老人都这么壮
+Why -- Why is every old guy super jacked?
+
+抱歉
+Sorry! I'm sorry!
+
+我只是要拿酒  抱歉  住手
+I-I just need the wine! I'm sorry! Stop it!
+
+我要杀了你
+Fucking kill you!
+
+好吧  算了
+Ow! Okay, screw this!
+
+知道吗
+You know what?
+
+-是你  -对  去死吧小蹄
+-You!  -Yeah, fuck you, Hoovy!
+
+爸爸
+Father?
+
+就是他  我就说他会再来  天啊
+It's him! I told you he'd come back! Holy shit.
+
+好  但他十秒钟前还没这么老
+Okay, look, he wasn't old like 10 seconds ago.
+
+你这个混蛋
+Ow! Mother fucker!
+
+对不起  爸爸  我们应该相信你的
+I'm sorry, Father. I'm sorry we never believed.
+
+他会回来的
+He'll come back.
+
+阻止他
+Stop him.
+
+爸爸  我们干嘛守门
+Papa, why do we guard the gate?
+
+因为黑暗之子总有一天会再来
+Because one day, the dark child shall return.
+
+而我们会做好准备
+And we will be ready.
+
+好吃
+Delicious.
+
+负责端酒的人呢  我好渴
+Where is your wine boy, Richard? I thirst.
+
+他去拿了  别这样吃贝奈特饼
+He's getting it. Stop eating beignets like that.
+
+一种法式无孔甜甜圈
+
+"参与者若因高潮而死"
+Participant voids all liability
+
+"不得求偿"
+in the event of death by orgasm?
+
+我们真的要这样做吗
+Are we really ready to open things this wide?
+
+如果变得尴尬呢
+What if it gets weird?
+
+如果我爱上他呢
+I fall in love with him?
+
+不  该死
+No, no, no, no, no. Damn it!
+
+怎么回事
+What was that?
+
+你又在搞鬼吗  理查德
+Another scheme of yours, Richard?
+
+我知道你有阴谋
+I know you're planning something.
+
+没什么  失陪一下  好吗
+It's nothing. Will you excuse me, please?
+
+搞什么鬼  酒在哪里
+What the fuck is going on? Where's the wine?
+
+爸爸刚刚在发春  害我摔破了
+Dad was horny and I dropped it.
+
+真不敢相信你竟然搞砸了
+God, I can't -- I can't believe you're fucking this up.
+
+我没搞砸  刚刚有个人
+I'm not fucking it up! There was a guy in the thing and --
+
+你每次都一堆借口
+There's always a guy in a thing!
+
+让宁波等太久可是会没命的
+Land dwellers do not keep Nimbus waiting and live.
+
+我马上过去  该死
+Be right out! Goddammit.
+
+你把我搞得像在演《欢乐一家亲》
+Do you see this whisper kitchen "Frasier" bullshit
+
+美国喜剧
+
+懂吗  莫蒂  快去拿酒
+you're making me do? Morty, just get the wine.
+
+贝丝和杰瑞  别想跟宁波做爱
+Beth and Jerry, stop trying to fuck Nimbus.
+
+-是他提议的  -不会是在这里
+-Well, we wouldn't do it here.  -I'll have you know he propositioned us.
+
+他对任何人都这样提议
+He propositions everybody!
+
+杰西卡
+Hey, hey, hey, Jessica.
+
+-怎么了  -你好像很忙
+-W-What's up? Seems like you're busy.
+
+不  我只是有状况
+No, no, no! I ran into a little trouble.
+
+但我马上就要去拿酒来了
+But -- But -- But I'll go get that wine right now.
+
+但你已经这样说过两次了吧
+But you said were going to get it like twice already.
+
+没错  我现在真的要去拿了
+I-I-I was and I-I'm getting it right now.
+
+天啊  是他
+Holy shit, it's him!
+
+真是的  你们要我怎样
+God damn it! What do you want me to say?!
+
+对不起
+I-I'm sorry!
+
+我们总算打败他了
+We finally beat him.
+
+但我们要保持警觉
+But let's always remain vigilant
+
+世事难料
+because you never know.
+
+他或许还会再来
+He might be back one day.
+
+好  纳尼亚  来吧
+Okay, Narnia! Let's go.
+
+放马过来
+Let's fucking go!
+
+结束了  那男孩不会再来了
+It is over. The boy is not coming back.
+
+他一定会的
+He always comes back.
+
+你害我们赔上了人生
+You have wasted our lives,
+
+还有未来  只为了一个虚构故事
+our very futures, on a fantasy!
+
+-一个谎言  -我确实看到了
+-A lie!  -I know what I saw.
+
+你什么都没看到
+You saw nothing!
+
+蠢孩子
+You are a foolish boy!
+
+勇于看见
+Those called fools
+
+真相的人才会被骂蠢
+are the only ones brave enough to see the truth.
+
+告诉我  父亲
+Tell me, Father.
+
+我还很蠢吗
+Am I a fool now?
+
+我出生于这些石块的制造地
+I was born in the pits that made these stones.
+
+我花很久时间建造这座谎言圣殿
+I lost my years building a temple to a lie.
+
+所以我就把说谎当成我的能力
+So I made lies my power.
+
+能力其实就是我们...
+And what is power but a lie we --
+
+天啊  是真的...
+Oh, shit, he's real!
+
+他是真的  我错了
+He's real! I was wrong!
+
+我搞错了  大错特错  神是...
+I was so wrong! God is real!
+
+服务真棒  我会给
+Wow. Impeccable service.
+
+-很多小费  -我比较喜欢另一个
+-Big tip.  -I liked your other one more.
+
+他叫什么  凯尔吗
+What was his name? Kyle?
+
+-什么  -没事
+-What?  -Nothing.
+
+我们可以快点签约吗
+Can we just sign this thing and go?
+
+-杰西卡  真抱歉  -没关系
+-Jessica, -I-I'm so sorry.  -I mean, it's fine.
+
+你才离开几分钟而已
+You were only gone like a couple minutes.
+
+莫蒂  你还好吗
+Morty, are you okay?
+
+抱歉  杰西卡
+I'm -- I'm sorry, Jessica.
+
+我们每次都搞砸  对吧
+We just never seem to get it right, do we?
+
+是啊  的确如此
+No, I guess we don't.
+
+但我很高兴你打电话给我
+But I'm glad you called me.
+
+我们可以重来  这次别再搞砸了
+Maybe we can start over, get it right this time.
+
+好  我也想这样
+Yeah. I'd -- I'd like that.
+
+谢谢你拿酒来
+Thanks for bringing the wine.
+
+非常值得
+Totally worth it.
+
+需要开瓶器吗
+Do we need an opener?
+
+我去拿
+Oh. I'll -- I'll -- I'll go get it.
+
+我很喜欢签约  要签了吗
+I do so love to sign upon the dotted line.
+
+-没错  -天啊
+-Shall we?  -Jesus Christ, yes.
+
+你的证人是谁
+And who is your witness?
+
+我的证人是这只鱿鱼
+My witness is the squid.
+
+你很喜欢海洋世界主题  对吧
+Really proud of this SeaWorld theme, aren't you?
+
+快去找证人  别怪到我头上
+Hey, just get a witness, man. Don't make this about me.
+
+或许他没有值得
+Or perhaps Richard has no one
+
+托付生命的人
+with whom he can trust his life.
+
+除了我以外
+Who truly knows him.
+
+没有人真正了解他
+Save me. Fine!
+
+好吧  我去找人  天啊
+I'll get someone. Oh, my God.
+
+莫蒂  过来  我需要你做件事
+Morty! C'mere. I need you for some bullshit.
+
+瑞克  我达成你的每一项要求了
+Look, Rick, I've done everything you've asked.
+
+我能好好陪我女朋友吗
+Now can I just have some time with my girlfriend?
+
+女朋友
+Your girlfriend?
+
+她不是...我们接吻了
+I mean, she's not -- we kissed,
+
+但我想慢慢来
+but I'm just trying to take it slow.
+
+不可以太操之过急  懂吗
+You gotta give these things time to breathe, y'know?
+
+你知道你的特别之处吗  亚当
+Do you know why you're special, Adam?
+
+-因为我是旅行者  -对
+-Because I am The Traveler?  -Yes.
+
+你会穿越那扇门
+You will be the one to pass through the door.
+
+你会终结我们的痛苦
+to end our pain.
+
+那我的痛苦呢  妈妈
+But, Mother, what about my pain?
+
+你的痛苦会解放我们
+Your pain shall set us free.
+
+该开始了
+It is time to begin.
+
+再来
+Again.
+
+再来
+Again!
+
+-你还没准备好  -拜托  妈妈
+-You are not ready.  -Please, Mother --
+
+你以为他会放过你吗
+Do you think he will show you mercy?
+
+看他对我们做了什么
+Like he did to us?
+
+再来
+Again!
+
+有人需要什么吗
+Does anyone need anything?
+
+-天啊  -别评断我们
+-Holy shit!  -Don't judge.
+
+我们夫妻要一起成长
+We're growing as a couple! Aah!
+
+怎么会这样
+Why is this happening to me?!
+
+为了未来
+For the future!
+
+你竟然想暗杀宁波
+You dare assassinate Nimbus?
+
+抱歉  等等  他是谁
+Sorry. Wait. Who -- Who is that?
+
+还没轮到你  老兄
+Get in line, pal!
+
+真是浪费
+Such a waste.
+
+妈妈
+M-Mother?
+
+杰西卡
+Jessica!
+
+你就是非碰海不可
+You just had to touch the ocean.
+
+闭嘴
+Aaah! Shut up!
+
+我没时间...
+There isn't time to --
+
+全都搞砸了  被你搞砸了
+It's all fucked! And you fucked it!
+
+你来的太早了
+You're early.
+
+这是哪里
+W-What is this place?
+
+是终点也是起点
+The end. But also a beginning.
+
+-每个终点都是起点  对吧  -后退
+-Isn't every end a beginning?  -Stay back!
+
+别跟我说些日舞科幻鬼话
+I don't want your stripped down Sundance sci-fi bullshit.
+
+-杰西卡在哪  -杰西卡
+-Where's Jessica?  -Jessica.
+
+那是她的名字  对吧  谢了  莫蒂
+That was her name, wasn't it? Thank you, Morty.
+
+我都忘记了  对了
+I had forgotten. Oh, right.
+
+你可以用这个
+You'll be needing this.
+
+酿酒
+For the wine.
+
+天啊  我们骗到他了
+Oh, shit, we got him!
+
+你敢相信他被这些鬼话骗了吗
+Can you believe he bought that fucking tree bullshit?
+
+我们骗到他了
+We fucking got him!
+
+非常好
+Very well.
+
+想跟亚特兰蒂斯开战  就顺你意
+If you seek war with Atlantis, you shall have it.
+
+我之前上美人鱼时
+Oh, I've already been to war with Atlantis
+
+就已经开战了
+when I D-Day'd that Mermaid Puss!
+
+我就知道是你
+I knew that was you!
+
+准备离场车队
+Prepare my exit parade!
+
+跟你爱的干燥陆地道别吧
+Say goodbye to your precious dry land!
+
+这里很快就会变湿  超级湿
+For soon it will be wet! Wet!
+
+全球变暖已经弄湿陆地了  混蛋
+Yeah, global warming is already doing that, asshole.
+
+尽管来吧  让我们变得更湿一点
+But sure, yeah, go for it. Make us slightly more wet!
+
+你把我当笑话
+Am I a joke to you?
+
+对  没错
+Yes, you are a fucking joke!
+
+你烂透了  你一直都很烂
+You fucking suck! You've always sucked!
+
+知道我们为什么好几年没打仗吗
+Y-Y-Y know why we haven't fought in years?
+
+因为你很可笑
+'Cause you're an embarrassment to me
+
+我不需要你了
+and I don't need you anymore.
+
+我不靠别人
+I don't need anybody.
+
+都在跟任天堂做爱
+All I do is eat ass and 69 Nintendos, bro.
+
+-每一天  -或许你会讨厌我
+-Every day.  -Or maybe you hate me
+
+是因为只有我知道你变得多惨
+because I am the only man to see how far you have fallen.
+
+我曾经害怕你  尊敬你
+I used to fear you. Respect you.
+
+但我现在只会可怜
+Now all that's left is pity --
+
+你这可悲酒鬼
+for a sad, drunk shell of a man
+
+你不敢承认自己有多寂寞
+too afraid to see how alone he truly is.
+
+如果戴安还活着  她会怎么...
+If Diane were alive today, what would she think --
+
+瑞克已故妻子
+
+少跟我讲
+Don't fucking establish
+
+另一个时空的
+canonical backstory with
+
+背景故事
+me, you Red Lob--
+
+很好  你醒了
+Oh, good. You're awake.
+
+我只是拿了些酒
+I just took some wine!
+
+我都道歉了
+I said I was sorry.
+
+你们是有什么毛病
+What the fuck is wrong with you people?!
+
+我已经思考这件事好几世纪了
+I have been asking that for centuries.
+
+他们创造我是为了研究你  莫蒂
+I was created to study you, Morty, to know you.
+
+但我越仔细看
+But the closer I looked,
+
+就越不认识自己
+the more I do not recognize myself.
+
+好吧  我其实没时间...
+Uh, yeah, man, I really don't have time for --
+
+如果没有你  我们会是什么人
+I have often wondered who would we be without you, Morty?
+
+我们除了恨意还有什么
+Are we anything beyond our hatred?
+
+她来的时候
+And when she came,
+
+我以为她会是答案
+I thought she would be the answer.
+
+被冻结在时间内  永远沉睡着
+Frozen in time. Forever asleep.
+
+我们不懂她的意义
+We could not understand her purpose,
+
+就把她隐藏起来
+so we hid her away.
+
+我们为什么都要隐藏...
+Why do we always hide the truths we fear?
+
+我才不在乎
+I don't give a shit, nerd!
+
+-放了她  -我干嘛复制生殖器
+-Let her go!  -Why -- Why did I clone myself genitals?
+
+我不在乎  混蛋  快点
+Ow! I don't care, bitch! Do it!
+
+我就是混蛋
+Ooh! Asshole! Yeah, guess I am an asshole!
+
+有时候就得当混蛋
+Y'know, sometimes you gotta be an asshole!
+
+这是我外公教我的
+My grandpa taught me that!
+
+好吧...
+Okay, okay, okay, fine!
+
+-莫蒂  -杰西卡
+-Morty?  -Hey, Jessica.
+
+你一定睡得很熟  对吧
+Wow. Must've been some nap, huh?
+
+我不知道该怎么称呼这些东西
+I-Is that ooze or -- I'm not sure what to call it.
+
+看起来像分泌物
+It l-l-looks like ooze.
+
+好了  我们之后再聊
+Okay. W-We can catch up later.
+
+什么...
+What the --
+
+瑞克
+Rick! Rick!
+
+-死龙虾  -瑞克
+-...obster motherfucker. Rick!
+
+-管他的  我在干嘛  -救命
+Screw this. What am I even doing?  -Help!
+
+你要去哪
+Where are you?
+
+快回来  我会把陆地变湿
+Come back here. I'm going to make the land wet!
+
+我倒想亲眼看看
+Y'know what, I'd love to see it.
+
+放马过来  随便你做什么
+Do it! God, do anything!
+
+但别再拿我当借口了
+Just don't use me as an excuse anymore!
+
+瑞克
+Rick! Wow.
+
+天啊  真火爆
+That was intense.
+
+你压力很大吗
+You look stressed.
+
+我们签了文件  我得走了
+We signed the paperwork. I must go.
+
+你们有我们的电话
+Well, your people have our number!
+
+那只海星不是说有礼物篮吗
+Your starfish mentioned some kind of basket?
+
+-莫蒂  能不能别...  -停止...
+-Jesus, Morty. Stop!  -No, no! Not today!
+
+你不能就...
+Can't you go one day without --You don't get to --
+
+-什么...  -我搞砸了  好吗
+-What the  -I fucked it up, okay?
+
+没关系  莫蒂  你就是这样
+It's okay, Morty. That's what you do.
+
+现在让我来拯救一切  带你们回家
+Now lemme Deus Ex Machina this shit and let's go home.
+
+天啊  为什么大家都变成机械鸟了
+God, why does everyone go Cyber-Punk Bird?
+
+真无趣
+So fuckin' hack.
+
+该死
+Oh, shit.
+
+还真酷
+Well, that's cool.
+
+好吧  我们好像要完蛋了
+Okay, we might be a little fucked.
+
+你以为我会让你死吗  理查德
+Did you think I would let you die alone, Richard?
+
+我是宁波先生
+I am Mr. Nimbus!
+
+你还有时间看电影吗
+You -- You still got time for that movie?
+
+对  时间
+Yes. Time.
+
+我有很多时间
+I had nothing but time.
+
+无尽的时间
+Endless time.
+
+一开始只有疯狂
+At first, it was madness.
+
+然后是启示
+Then enlightenment.
+
+然后又是疯狂
+Then madness again.
+
+但这或许是好事
+But perhaps it was a gift.
+
+我看到了时间的生命
+I could see the life of time.
+
+正当我见证着时间
+And as I watched the life of time
+
+悲惨的那一面
+in all its fleeting, terrible light,
+
+我陷入了沉思  我有活过吗
+I wondered, had I lived?
+
+我只是其他人故事中的物件吗
+Was I just the object in another's story?
+
+我就仅此而已  这点能改变吗
+Was that all I ever was? Could I be more?
+
+我有非常多的时间  却没有答案
+I had nothing but time and still no answer.
+
+没有意义的时间就像牢笼
+Time without purpose is a prison.
+
+我看到了永恒的思想
+I have glimpsed into the mind of eternity.
+
+或是神的思想
+Perhaps the mind of God.
+
+但我只找到寂静
+And found nothing but silence.
+
+我们还是当朋友就好
+I think we should just be friends.
+
+好吧
+Oh, yeah.
+
+我能理解
+I-I-I get that.
+
+我们错过了时机
+Guess we missed our moment.
+
+对  但我们都会有
+Yes. But there will be more.
+
+其他时机
+For both of us.
+
+再见了  莫蒂
+Goodbye, Morty.
+
+你好吗
+Hey, how's it going?
+
+滚  我是时间之神
+Fuck off! I'm a Time-god!
+
+我又跟你一同作战了  理查德
+Fighting by your side again, Richard.
+
+-感觉很...  -没错
+It was, uh --Yeah.
+
+那就不用签条约了
+Then there is no treaty.
+
+我们停战
+Because there is no war.
+
+宁波
+Aw, Nimbus.
+
+你人真好
+That's -- That's really chill of you, man.
+
+理查德
+Richard.
+
+你在成为我的宿敌之前
+Before you were my greatest enemy,
+
+是我唯一的朋友
+you were my only friend.
+
+外公  我弄到贝壳了
+Grandpa, I got the shell! Shit.
+
+-听着  宁波  -王八蛋  叛徒
+Okay, Nimbus, look. You son of a bitch!
+
+拿武器来  莫蒂
+Betrayal! My weapons, Morty!
+
+被我用光了
+I-I-I used them all! Grandpa!
+
+外公  我该怎么办
+Wait, Grandpa, what do I do?
+
+贝壳在我这里  我要吹吗
+I have the shell. Should I blow it?
+
+我直接吹好了
+Is that -- I'm -- I'm just gonna blow it!
+
+不要吹  砸烂它
+Don't blow it! Destroy the horn!
+
+夏茉  你搞什么
+What the hell, Summer?!
+
+要把贝壳砸烂
+You were supposed to destroy the horn!
+
+我怎么会知道
+How was I supposed to know that?
+
+警察
+Police!
+
+把这人渣关进牢里
+Take this piece of shit to jail.
+
+我说过了
+I told, ugh, I told you.
+
+他是冷血下体杀手
+He's an ice-cold dick killer!
+
+宁波
+Nimbus!
+
+等等  他怎么...
+Wait. So how can he --
+
+天啊  夏茉  他是宁波
+Jesus, Summer. He's Mr. Nimbus.
+
+他能控制警察
+He controls the police!
+
+杰瑞  太多安全语
+Jer, I think more than one safe word
+
+就失去意义了
+sort of defeats the point.
+
+我只是希望
+I know, I just wanna make sure
+
+我们能有机会喊停
+we have every opportunity to stop.
+
+但我很期待
+Super excited about it though.
+
+我也很期待
+Me too, so excited.
+
+杰瑞  我们是真的想这么做吗
+Jerry, are we doing this because we both want this?
+
+还是我们以为对方想这么做
+Or because it's what we think the other one wants?
+
+我只是想证明我很爱你  愿意为你
+I just wanted to prove that I love you so much
+
+做这种事  我也是
+I would do this for you! Same!
+
+我们拿完奖品就走吧
+Let's take that prize and get out
+
+不要犯下大错
+before we make a huge mistake.
+
+后悔了
+Getting cold feet?
+
+不
+No.
+
+-别告诉瑞克  -他不会懂的
+-Please don't tell Rick.  -He wouldn't understand.
+
+会  他会懂的
+Yes, he would.

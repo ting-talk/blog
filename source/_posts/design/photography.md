@@ -66,6 +66,7 @@ tags: 设计
 - [手机拍大片：春日篇（上）](https://www.bilibili.com/video/av22509509)
 - [手机拍大片：春日篇（下）](https://www.bilibili.com/video/av22915264)
 - [女生拍照姿势指南](https://www.leesharing.com/photography-girls-pose/)
+- [人像摄影摆 Pose 技巧](https://www.bilibili.com/video/BV1rq4y1L7pF)
 
 
 
