@@ -20,12 +20,23 @@ tags: [Telegram, 网上冲浪指南]
 - 小于 50 KB
 - 180 帧动画
 
-**特别的 Animated Emoji** 
+**会发声的 Animated Emoji** 
+
+- 恐怖的：🧟‍♀️（女僵尸）、🧟（僵尸）、🧟‍♂️（男僵尸）、⚰️（棺材 ）、🎃（南瓜头）
+- 开心的：🎉（拉炮）、🎄（圣诞树）
+- 自信的：🦾（机械手臂）
+- 挑逗的：🍑（啪啪啪）
+
+**会发声会震动 Animated Emoji** 
 
 - 发送**单个** ❤️ 并碰它一下，手机会震动，那是 Telegram Team  赋予 Emoji 的心跳（If your emoji has a heart, we'll give it a beat or unleash their spirit in motion）。
-- 女僵尸 🧟‍♀️、僵尸 🧟、男僵尸 🧟‍♂️、棺材 ⚰ 也会发出声音。
-- 两个 NSFW 相关的 Emoji：🍆 和 🍑。
+
+**其它特别的 Animated Emoji** 
+
+- 会「长大」的茄子：🍆
 - See-No-Evil Monkey 🙈，纵使见到了你也会当作没看到（非礼勿视）。
+
+
 
 **电报 Emoji 小游戏**
 

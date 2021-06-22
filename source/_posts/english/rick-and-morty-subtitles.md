@@ -10831,10 +10831,13 @@ I'm a silly man.
 I'm -- I'm sorry I got you into this.
 
 让我来解决这个问题吧
-Then how about I get us outta this?
+and how about I get us outta this?
 
--喂  -杰西卡
--Hello?  -Hey, Jessica.
+喂
+Hello?  
+
+杰西卡
+Hey, Jessica.
 
 我是跟你同校的莫蒂
 I-It's Morty. From school.
@@ -10855,22 +10858,34 @@ but you're really great and I wish I got to know you better.
 Oh, I mean -- That's a lot.
 
 对  抱歉  我只是
-Oh, uh, yeah, sorry, I guess I just --
+Oh, uh, yeah, sorry, I guess I just
 
--不  你该早点说的  -什么
-No, I just wish you said it sooner.  -Wh-What?
+不  你该早点说的 
+No, I just wish you said it sooner. 
+
+什么
+Wh-What?
 
 对  紧张有时候其实很自私
 Yeah, I mean, being nervous is sort of selfish sometimes, y'know?
 
--维生系统故障  -对  有道理
--Life support systems failing.  -Yeah, that's a great point.
+维生系统故障
+Life support systems failing.
+
+对  有道理
+Yeah, that's a great point.
 
 你今晚有事吗
 Well, what are you doing tonight?
 
--今晚  -对  想不想一起看电影之类的
--Tonight?  -Yeah. Do you, like, want to watch a movie or something?
+今晚 
+Tonight? 
+
+对 
+Yeah
+
+想不想一起看电影之类的
+Do you, like, want to watch a movie or something?
 
 好  今晚  没问题
 Um, yeah. Tonight. Sounds great.
@@ -10881,8 +10896,11 @@ Holy shit. Holy shit.
 拜托  拜托
 Come on, come on!
 
--这是哪里  -到家了  瑞克
--Where are we?  -We're home, Rick.
+这是哪里
+Where are we? 
+
+到家了  瑞克
+We're home, Rick.
 
 我降落在了海上
 I-I landed us in the ocean.
@@ -10890,8 +10908,11 @@ I-I landed us in the ocean.
 海  地球上的海
 The ocean?! The ocean on Earth?!
 
--对  应该是  -该死
--Uh, yeah, I-I guess so.  -Oh, shit.
+对  应该是 
+Uh, yeah, I-I guess so. 
+
+该死
+Oh, shit.
 
 完蛋了  我们得离开
 Holy shit. We have to go.
@@ -10899,54 +10920,76 @@ Holy shit. We have to go.
 他妈的马上离开
 We have to go right fucking now.
 
--什么  -你碰到海了
--What?  -You touched the ocean, Morty.
+什么
+What?  
 
--为什么不能  -该死
--What's the big   ---Oh, fuck. Shit.
+你碰到海了
+You touched the ocean, Morty.
 
--怎么了  -该死
--What?  -Shit.
+为什么不能 
+What's the big 
+
+该死
+Oh, fuck. Shit.
+
+怎么了
+What? 
+
+该死
+Shit.
 
 理查德 你亵渎了
 Richard! You have desecrated the sacred treaty
 
+- sacred [ˈseɪkrɪd] 神圣的；宗教的；庄严的
+
 海陆神圣条约
 betwixt land and sea.
 
-现在准备承受劲敌宁波先生
-Now face the wrath of your once and eternal foe --
+现在准备承受劲敌宁波先生的怒火吧
+Now face the wrath of your once and eternal foe -- Mr. Nimbus!
 
-的怒火吧
-Mr. Nimbus!
+- wrath [ræθ] 愤怒；激怒
+- eternal [ɪˈtɜːrnl] 永恒的；不朽的
+- foe [foʊ] 敌人；反对者；危害物
 
-抱歉  他是谁
+抱歉  他是谁 
 Sorry. Who is that?
 
 我的劲敌
 My nemesis.
 
--什么  -我的劲敌  好吗
--What?  -My fucking nemesis, okay?
+- nemesis [ˈneməsɪs] 天敌
+
+什么
+What? 
+
+我的劲敌  好吗
+My fucking nemesis, okay?
 
 好  但他叫什么
 Okay, but what was his name again?
 
--我是宁波先生  -他会一直讲
-I am Mr. Nimbus!  -He's gonna say that a lot.
+我是宁波先生
+I am Mr. Nimbus! 
 
-瑞克和莫蒂
-
-第五季  第一集
+他会一直讲
+He's gonna say that a lot.
 
 等等  到底是谁要来
 W-Wait, so who is coming over again?
 
--他说是他的劲敌  -瑞克有劲敌吗
-He said his nemesis?  -Rick has a nemesis?
+他说是他的劲敌 
+He said his nemesis? 
 
--好像是  -他提过那个人吗
-I guess. Has hementioned him before?
+瑞克有劲敌吗
+Rick has a nemesis?
+
+好像是
+I guess.
+
+他提过那个人吗
+Has hementioned him before?
 
 我才要问你吧  我都没听说过
 I-I was gonna ask you. First I'm hearing it.
@@ -10960,8 +11003,11 @@ Rick's science and he's magic?
 他应该算鱼
 He's like a-a fish?
 
--一条鱼  -他不是鱼
--A fish.  -He's not a fish.
+一条鱼
+A fish. 
+
+他不是鱼
+He's not a fish.
 
 他是宁波先生  他是海王兼混蛋
 He's Mr. Nimbus. He's king of the ocean and he's a piece of shit.
