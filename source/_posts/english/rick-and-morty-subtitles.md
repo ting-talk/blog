@@ -11054,6 +11054,8 @@ I think you just don't want me happy
 想要继续使唤我
 'cause then I'll stop doing your crazy chores.
 
+- chore [tʃɔːr]  家庭杂务；日常的零星事务；讨厌的或累人的工作
+
 相信我  你搞出那场海洋闹剧
 Trust me, after that ocean fuck-up,
 
@@ -11081,12 +11083,12 @@ that gives him his power
 because Summer can be trusted.
 
 我们来甜蜜蜜
-Let's lick tits.
+Let's lick ass.
 
 这是个谐音
 
--好  什么  -我不喜欢
--Okay, what?  -I don't love that.
+好  什么  -我不喜欢
+Okay, what?  -I don't love that.
 
 那是自然
 Of course you don't,
@@ -11106,7 +11108,9 @@ Dr. Wong suggested we experiment.
 我们最近会一起看小电影
 We've been watching pornography. Together.
 
--恶熏  -我不想从海里回来了
+- pornography [pɔːrˈnɑːɡrəfi] 色情作品
+
+恶熏  -我不想从海里回来了
 Gross! I might never come back from the ocean.
 
 你得低调点  我的宝
@@ -11114,6 +11118,8 @@ Oh, you'll have to tone it down, babe.
 
 这些凡人承受不了
 The squares can't handle it.
+
+- He's a bit of a square. 他有点儿古板。
 
 你们的牙齿里都有自杀胶囊
 There are suicide capsules in all of your teeth.

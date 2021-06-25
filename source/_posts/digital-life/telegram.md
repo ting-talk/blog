@@ -1145,7 +1145,7 @@ https://rsshub.app/telegram/channel/tingtalk
 | [𝑾𝒊𝒌𝒊𝑫𝑩](https://t.me/wikidb)                             | The right way, or the easy way.                              |
 | [人海拾贝FlipRadio](https://t.me/flipradio)               | 翻转电台的 Channel，一些零零散散的要分享的东西。             |
 | [Find Blog](https://t.me/FindBlog)                        | 发现优秀的博客与创作者。                                     |
-| [TomBen’s Web Excursions](https://t.me/tombenor)          | 🎓 A PhD Student、😄 A Productivity Enhancer、A Writing Enthusiast <br />[博客](https://blog.retompi.com/) \| [少数派](https://sspai.com/u/tomben/updates) |
+| [TomBen’s Web Excursions](https://t.me/tombenor)          | PhD Student、Productivity Enhancer、Writing Enthusiast <br />[博客](https://blog.retompi.com/) \| [少数派](https://sspai.com/u/tomben/updates) |
 | [熊言熊语](https://t.me/kaopubear)                        | 「熊言熊语」是一档关注学习分享和知识科普的 [播客](https://podcast.kaopubear.top/) 栏目，我们希望用声音记录改变与成长。思考问题的熊和他的朋友们一起聊学习工作、聊科研科普。<br />[博客](https://kaopubear.top/blog/) \| [Newsletter](https://top.us10.list-manage.com/subscribe?u=82fe193c38ed8c2752100685b&id=9dc03f5017) |
 
 [中文独立博客列表](https://github.com/timqian/chinese-independent-blogs) by timqian
