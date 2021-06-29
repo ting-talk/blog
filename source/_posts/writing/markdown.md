@@ -648,7 +648,7 @@ Markdown 的用途很广。Write once, export everywhere：写博客、写邮件
 
 
 
-**参考**
+**参考资料**
 
 - [Markdown 完全入门（上）](https://sspai.com/post/36610)
 - [Markdown 完全入门（下）](https://sspai.com/post/36682)

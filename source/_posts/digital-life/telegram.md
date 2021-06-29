@@ -1,7 +1,7 @@
 ---
 title: Telegram：新手指南、使用教程及频道推荐（持续更新中）
 date: 2019-11-09
-updated: 2021-06-13 
+updated: 2021-06-28 
 categories: 数字生活  
 tags: [网上冲浪指南, 突破网络审查, Telegram]
 ---
@@ -12,11 +12,16 @@ tags: [网上冲浪指南, 突破网络审查, Telegram]
 
 <!-- more -->
 
+💡 全文有两万三千多字，善用右侧的目录栏和查找功能（`Ctrl` + `F`），助你快速定位想要看到的内容。你也可以移步到 Telegram 内阅读此文的 [精简版](https://t.me/tingtalk/4)。
+
 🧱 TG 在中国大陆必须 [翻墙](https://tingtalk.me/fq/) 后才能使用。不过，学会科学上网，难道不是当代数字公民的必备技能吗？
 
-📁 tingtalk.me 在 2020-04-04 被墙了，如需在墙内传阅，请下载本文的 [PDF](https://wwa.lanzoux.com/b00twozof) 或前往 [GitHub](https://raw.githubusercontent.com/ting-talk/blog/master/source/_posts/digital-life/telegram.md) 阅读（也是可编辑的 Markdown 源文档）。
+📁 tingtalk.me 在 2020-04-04 被墙了，如需在墙内传阅：
 
-💡 全文有两万三千多字，善用右侧的目录栏和查找功能（`Ctrl` + `F`），助你快速定位想要看到的内容。你也可以移步到 [电报内阅读此文的精简版](https://t.me/tingtalk/4)。
+- 前往 [GitHub](https://github.com/ting-talk/blog/blob/master/source/_posts/digital-life/telegram.md) 阅读
+- 下载本文的 [PDF](https://wwa.lanzoui.com/b00twozof) 或 [可编辑的 Markdown 源文档](https://raw.githubusercontent.com/ting-talk/blog/master/source/_posts/digital-life/telegram.md)
+
+
 
 ## ✈️ 电报介绍
 
@@ -535,9 +540,9 @@ Telegram 有一个非常人性化的特性：**记忆浏览进度**，打开对�
 #### 👇 长按消息
 
 
-- 消息可以无限期撤回（[Delete Messages](https://telegram.org/faq#q-can-i-delete-my-messages)）：删除信息时，勾选 `Also delete for ***`，聊天记录就可以双向删除。通话记录也支持这个特性（[Call history can also be deleted for all sides at any time.](https://telegram.org/blog/move-history#control-your-digital-footprint)）。电报服务器更不会存储被删除的聊天记录和通话记录，因此数据将彻底永远消失。
+- 消息可以无限期撤回（[Delete Messages](https://telegram.org/faq#q-can-i-delete-my-messages)）：删除信息时，勾选 `Also delete for ***`，聊天记录就可以双向删除，通话记录也支持这个特性（[Call history can also be deleted for all sides at any time](https://telegram.org/blog/move-history#control-your-digital-footprint)）。电报服务器更不会存储被删除的聊天记录和通话记录，因此数据将彻底永远消失。
 - 选择部分消息（[Select Parts of Messages](https://telegram.org/blog/verifiable-apps-and-more#select-parts-of-messages)）：长按 2 次消息，可选择部分文字，而不是复制全文（Copy Selected Text）。
-- 长按网址可以选择打开（Open）或者复制（Copy）。
+- 长按网址或长串数字可以选择打开（Open）或者复制（Copy）。
 - [转发消息时，长按联系人 / 群组 / 频道可多选。](https://telegram.org/blog#multi-sharing-from-other-apps)
 
 
@@ -984,6 +989,7 @@ https://rsshub.app/telegram/channel/tingtalk
 | [电报小助手](https://t.me/dbxzs)                      | 用简体中文同步翻译来自 @TelegramTips 的小技巧。              |
 | [Telegram APKs for Android](https://t.me/TAndroidAPK) | Official channel for Telegram Android APKs. You can also download them [here](https://telegram.org/dl/android/apk). |
 | [Telegram Designers](https://t.me/designers)          | 向电报提你想要的功能 [@design_bot](https://t.me/design_bot)  |
+| [Telegram Contests](https://t.me/contest)             | Here we announce Telegram coding contests in Android Java, iOS Swift, JS, C/C++. |
 | [Desktop Themes Channel](https://t.me/themes)         | [电脑客户端主题创建指引](https://telegra.ph/Create-Theme-Desktop-FAQ) \| [Custom Themes 的简单介绍](https://telegram.org/blog/android-themes) |
 | [Android Themes Channel](https://t.me/AndroidThemes)  | [安卓客户端主题创建指引](https://telegra.ph/Create-Theme-Android-FAQ) \| 更多技术细节参阅 [Custom Cloud Themes](https://core.telegram.org/themes) |
 | [Telegram Auditions](https://t.me/TelegramAuditions)  | 加入 Telegram Support Force，帮扶 Telegram 做大做强，详情参阅这份 [Initiative](https://tsf.telegram.org/)。 |
@@ -991,7 +997,7 @@ https://rsshub.app/telegram/channel/tingtalk
 | [ISIS Watch](https://t.me/ISISwatch)                  | 电报官方反恐频道：[每日汇报有多少恐怖组织相关的频道被封了](https://t.me/isiswatch/2)。 |
 | [Trending Stickers](https://t.me/TrendingStickers)    | Telegram 又新增了哪些表情包。                                |
 | [紙飛機](https://t.me/tgflight)                       | 欢迎搭乘纸飞机，Porsche 和你聊聊 Telegram 的大小事。[播客 RSS 订阅链接](https://feeds.buzzsprout.com/837646.rss)。 |
-| [Anti Revoke Plugin](https://t.me/AntiRevoke)         | Telegram 本地消息防撤回插件，安全性未知。[GitHub 项目地址](https://github.com/SpriteOvO/Telegram-Anti-Revoke/blob/master/README-CN.md)。 |
+| [Anti Revoke Plugin](https://t.me/AntiRevoke)         | Telegram 本地消息防撤回插件，安全性未知，只支持 Windows 32 位系统。[GitHub 项目地址](https://github.com/SpriteOvO/Telegram-Anti-Revoke/blob/master/README-CN.md)。 |
 | [SCP-079-INFO](https://t.me/SCP_079_INFO)             | 免费并开源的群组管理机器人，需 [申请](https://scp-079.org/ApplyForUse/) 通过后才能使用。[查看项目介绍](https://scp-079.org/readme/)。 |
 | [SE-索引公告板](https://t.me/zh_secretary)            | Telegram 中文圈资源索引服务（包含 NSFW）。                   |
 | [电报指南 & 精品排行榜](https://t.me/TgTrillion)      | 👍 电报中文群组和频道收录。                                   |
@@ -1111,6 +1117,7 @@ https://rsshub.app/telegram/channel/tingtalk
 | 频道                                                      | 详情                                                         |
 | --------------------------------------------------------- | ------------------------------------------------------------ |
 | [庭说](https://t.me/tingtalk)                             | 👍 第一时间获取博客的更新通知以及碎片化思考。                 |
+| [庭说 - 唠叨频道](https://t.me/tingtalk_all)              | @tingtalk_all 发布一些主频道 @tingtalk 之外的增量更新以及碎片化思考。 |
 | [小破不入渠](https://t.me/forwardlikehell)                | 👍 科技评论人 Jesse Chan，博客是 [大破进击](https://jesor.me/)。 |
 | [一天世界](https://t.me/yitianshijie)                     | 👍 [一天世界](https://yitianshijie.net/)，昆乱不挡。不鸟万如一主理。IPN 出品。 |
 | [caoz 的梦呓](https://t.me/caozsay)                       | 👍 认识曹政之后，感觉互联网终于入门了。by Fenng               |
@@ -1166,6 +1173,7 @@ https://rsshub.app/telegram/channel/tingtalk
 
 | 频道                                             | 详情                                                         |
 | ------------------------------------------------ | ------------------------------------------------------------ |
+| [电影爱好者](https://t.me/MovieAnywhere)         | 👍 附带豆瓣电影评分。                                         |
 | [4K 影视屋](https://t.me/dianying4K)             | 蓝光无损电影。                                               |
 | [电影频道](https://t.me/Cctv365)                 | 想看什么电影请在评论区留言。                                 |
 | [远鉴字幕组发布频道](https://t.me/VisionarySub)  | 本字幕组致力于非院线海外电影及海外剧集的译制与分享。         |
@@ -1175,7 +1183,6 @@ https://rsshub.app/telegram/channel/tingtalk
 | [迷影果醬](https://t.me/cinephiliajam)           | 无规律放映影片。                                             |
 | [4K 影视屋](https://t.me/dianying4K)             | 4K 电影种子发布频道。                                        |
 | [四库全书视频精选](https://t.me/video4lib)       | 一个不断收集互联网有价值内容的企划。                         |
-| [电影爱好者](https://t.me/MovieAnywhere)         | 附带豆瓣电影评分。                                           |
 
 
 
@@ -1311,6 +1318,7 @@ https://rsshub.app/telegram/channel/tingtalk
 | 频道                                                | 详情                                                         |
 | --------------------------------------------------- | ------------------------------------------------------------ |
 | [Google Play 限免信息](https://t.me/playsales)      | 不定时推介 Play Store 上的限免游戏和 App。                   |
+| [Price Tag](https://t.me/appfans)                   | 推荐 App 限免降价，推送好物好券。                            |
 | [纯粹的 App Store 应用推荐](https://t.me/app_store) | iOS 实用免费、精选限免、优质冰点应用推荐。                   |
 | [反斗限免](https://t.me/apprcn)                     | 这里有反斗软件和反斗限免的文章更新。更新频繁高。             |
 | [如有乐享](https://t.me/ruyoblog)                   | 更新 [如有乐享博客](https://51.ruyo.net/) 的内容：云服务器、优惠活动、羊毛信息以及各种 Bug。 |
@@ -1338,7 +1346,9 @@ https://rsshub.app/telegram/channel/tingtalk
 | [基督讲道](https://t.me/TelBaptist)                     | 基督讲道资源频道。                                           |
 | [就要造反](https://t.me/ZaoFaner)                       | 此频道立足生活，以非常古怪的文字风格进行生存经验书写，绘制景观与消费社会中极具现实性的个案，以此为个体提供可操的、创造性的抵制策略与造反计谋。为一切造反者辩护，为所有无用与丰饶辩护。 |
 | [One Piece Deluxe](https://t.me/onepiecedeluxe)         | Receive the latest updates from One Piece (海贼王), including chapters, episodes, spoilers and much more. |
-| [海贼王 One Piece 更新提醒](https://t.me/tingtalk_op)   | 由初中开始追《海贼王》 [@TingTalk](https://t.me/tingtalk) 创建。 |
+| [One Piece](https://t.me/tingtalk_op)                   | 由初中开始追《海贼王》 [@TingTalk](https://t.me/tingtalk) 创建。 |
+| [Rick and Morty](https://t.me/tingtalk_rm)              | [@TingTalk](https://t.me/tingtalk) 创建；[把《瑞克和莫蒂》作为练口语的素材](https://tingtalk.me/rick-and-morty-subtitles/)。 |
+| [NBA](https://t.me/tingtalk_nba)                        | 由只会跳投的 [@TingTalk](https://t.me/tingtalk) 创建。       |
 
 此外，Telegram 上也有 [国家或地区的领导人官方频道](https://t.me/durov/148)。
 

@@ -532,6 +532,24 @@ It was so tasty a carrot that I ate it all at once. (so + 形容词)
 
 ## 其它语法
 
+### 非谓语动词
+
+谓语动词是被主语限定的供动词（finite verbs），作为句子的核心，表示主语怎么样。它有三大本领：
+
+- 表示动作的时间
+- 表示动作的状态
+- 表示动作的语气（假设、情感等）
+
+非谓语动词不会被主语限定（non-finite verbs），不用学（没有）以上三个本领。
+
+#### 动词不定式
+
+infinitive
+
+
+
+
+
 ### 倒装句
 
 Here comes the rain again = The rain comes here again.
