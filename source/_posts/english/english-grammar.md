@@ -544,9 +544,40 @@ It was so tasty a carrot that I ate it all at once. (so + 形容词)
 
 #### 动词不定式
 
-infinitive
+infinitive 是无限的意思，不受时间和人称的限制。
 
+**形式**：to（可省略）+ 动词原形
 
+**full infinitive（保留 to）**
+
+To be or not to be, that is the question.
+生存还是毀灭，这是一个问题。
+
+**bare infinitive（省略 to）**
+
+You helped me (to) cook the carrot.
+你帮我烧（做菜）了胡萝卜。
+
+**动词不定式作主语**
+
+`To eat a carrot every day` is good for the rabbit.
+一天吃一根胡萝卜对兔子有好处
+
+头重脚轻，改为：it（形式主语） is + 形容词 + for sb. + to do sth.
+
+ It is good for the rabbit to eat a carrot every day.
+
+等于主语从句：It is good that the rabbit eats a carrot every day.
+
+**动词不定式作宾语**
+
+The rabbit likes to eat carrots.
+兔子喜欢吃胡萝卜。
+
+I consider it（形式宾语） important `to eat a carrot every day`.
+我发现每天吃一个胡萝卜很重要。
+
+**动词不定式作宾语补足语**
 
 
 
