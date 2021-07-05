@@ -795,14 +795,16 @@ Windows 的 `Ctrl` 等于 macOS 中 `Command` ⌘。
 
 **消息 Messages**
 
-| 动作 Action                                  | 快捷键 Shortcut                                              |
-| -------------------------------------------- | ------------------------------------------------------------ |
-| 引用消息<br />Reply to a Message             | `Ctrl` + `↑`<br/>`Ctrl` + `↓`<br />可按住 `Ctrl` 不放，通过 `↑` / `↓` 选择需要引用的消息 |
-| 取消引用<br />Cancel Reply                   | `Ctrl` + `↓`<br/>`Esc`                                       |
-| 修改最后一条发言<br />Edit Last Message Sent | `↑`                                                          |
-| 编辑媒体<br />Edit Media                     | `Ctrl` + `E`                                                 |
+| 动作 Action                                      | 快捷键 Shortcut                                              |
+| ------------------------------------------------ | ------------------------------------------------------------ |
+| 引用消息<br />Reply to a Message                 | `Ctrl` + `↑`<br/>`Ctrl` + `↓`<br />可按住 `Ctrl` 不放，通过 `↑` / `↓` 选择需要引用的消息 |
+| 取消引用<br />Cancel Reply                       | `Ctrl` + `↓`<br/>`Esc`                                       |
+| 修改最后一条发言<br />Edit Last Message Sent     | `↑`                                                          |
+| 编辑媒体（例如替换图片）<br />Edit Media         | `Ctrl` + `E`                                                 |
+| 放大或缩小图片/视频<br />Zoom Image/Video In/Out | `Ctrl` + `+` / ` -`（在数字小键盘）<br />`Ctrl` + `鼠标滚轮` |
+| Open Bot Profile via Inline Message              | `Ctrl` + `点击内联机器人的名字`                              |
 
-其它快捷键，尽快更新。
+
 
 
 
