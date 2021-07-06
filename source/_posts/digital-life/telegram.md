@@ -773,7 +773,7 @@ Telegram 有一个非常人性化的特性：**记忆浏览进度**，打开对�
 
 Windows 的 `Ctrl` 等于 macOS 中 `Command` ⌘。
 
-- **快速多选**：在对话界面的空白位置，按着鼠标左键不放，即可多选信息，然后选择转发或者删除。
+- **快速多选**：在对话界面的空白位置，按住鼠标左键不放，然后推拽多选信息，接着即可转发或者删除。
 - **链接直达**：按住 `Ctrl` 再点击 URL，直接打开链接，不必弹窗确认（Open this link? CANCEL / OPEN）。
 - **缩放图片**：按住 `Ctrl` 再旋转鼠标的滚轮，即可放大或缩小图片。
 - **快捷回复**：直接在桌面右下角的消息弹窗里回复消息。
@@ -795,16 +795,15 @@ Windows 的 `Ctrl` 等于 macOS 中 `Command` ⌘。
 
 **消息 Messages**
 
-| 动作 Action                                      | 快捷键 Shortcut                                              |
-| ------------------------------------------------ | ------------------------------------------------------------ |
-| 引用消息<br />Reply to a Message                 | `Ctrl` + `↑`<br/>`Ctrl` + `↓`<br />可按住 `Ctrl` 不放，通过 `↑` / `↓` 选择需要引用的消息 |
-| 取消引用<br />Cancel Reply                       | `Ctrl` + `↓`<br/>`Esc`                                       |
-| 修改最后一条发言<br />Edit Last Message Sent     | `↑`                                                          |
-| 编辑媒体（例如替换图片）<br />Edit Media         | `Ctrl` + `E`                                                 |
-| 放大或缩小图片/视频<br />Zoom Image/Video In/Out | `Ctrl` + `+` / ` -`（在数字小键盘）<br />`Ctrl` + `鼠标滚轮` |
-| Open Bot Profile via Inline Message              | `Ctrl` + `点击内联机器人的名字`                              |
-
-
+| 动作 Action                                                  | 快捷键 Shortcut                                              |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| 引用消息<br />Reply to a Message                             | `Ctrl` + `↑`<br/>`Ctrl` + `↓`<br />可按住 `Ctrl` 不放，通过 `↑` / `↓` 选择需要引用的消息 |
+| 取消引用<br />Cancel Reply                                   | `Ctrl` + `↓`<br/>`Esc`                                       |
+| 修改最后一条发言<br />Edit Last Message Sent                 | `↑`                                                          |
+| 编辑媒体（例如替换图片）<br />Edit Media                     | `Ctrl` + `E`                                                 |
+| 放大或缩小图片/视频<br />Zoom Image/Video In/Out             | `Ctrl` + `+` / ` -`（在数字小键盘）<br />`Ctrl` + `鼠标滚轮` |
+| 通过内联消息打开 Bot 配置文件Open Bot Profile via Inline Message | `Ctrl` + `点击内联机器人的名字`                              |
+| 搜索选定的会话的聊天记录<br />Search Selected Chat           | `Ctrl` + `F`                                                 |
 
 
 
@@ -817,17 +816,39 @@ Windows 的 `Ctrl` 等于 macOS 中 `Command` ⌘。
 | 切换到最后的分组<br />Jump to the last folder         | `Ctrl` + `8`                                                 |
 | 切换到归档对话（Archived Chats）                      | `Ctrl` + `9`                                                 |
 
+**窗口相关 Window Related**
 
+| 动作 Action                                   | 快捷键 Shortcut  |
+| --------------------------------------------- | ---------------- |
+| 最小化到系统托盘<br />Minimize to System Tray | `Ctrl` + `W`     |
+| 退出电报<br />Quit Telegram                   | **`Ctrl` + `Q`** |
+| 锁定电报<br />Lock Telegram                   | `Ctrl` + `L`     |
+| 最小化到任务栏<br />Minimize Telegram         | `Ctrl` + `M`     |
 
+**选取文字 Selected Text**
 
+| 动作 Action                                   | 快捷键 Shortcut |
+| --------------------------------------------- | --------------- |
+| 加粗<br />**Bold**  | `Ctrl` + `B`     |
+| 斜体<br />~~Italic~~ | `Ctrl` + `I`     |
+| 插入文本链接<br />[Create Link](https://tingtalk.me/) | `Ctrl` + `K`     |
+| 下划线<br /><u>Underline</u> | `Ctrl` + `U`     |
+| 等宽字体<br />`Monospace` | `Ctrl` + `Shift` + `M` |
+| 纯文本（清除所有格式）<br />Null / Plain Text | `Ctrl` + `Shift` + `N` |
+| 删除线<br />~~Strikethrough~~ | `Ctrl` + `Shift` + `X` |
 
+#### 鼠标快捷键
 
+| 动作 Action                                   | 鼠标快捷键 Shortcut |
+| ------------------------------------------- | -------------------------------------- |
+| 引用<br />Reply                               | 左键双击<br />Double click the message   |
+| 多选消息<br />Select Messages                 | 在消息外拖拽多选<br />Drag outside the messages |
+| 显示消息详细的发送时间和最后更正时间<br />Info about Messages | 鼠标悬停在时间戳上<br />Hover the timestamp |
+| 投票总数<br />Amount of Votes in Poll           | 鼠标悬停在百分比上<br />Hover percentage    |
+| 转发消息<br />Forward a message to a chat | 拖拽消息到会话列表<br />Drag the message to a chat in the list |
+| 静音发送<br />Send Message Silently Send<br />定时发送<br />Schedule Message | 右击发送键<br />Right Click on Send Button  |
 
-
-
-
-
-查看所有 Keyboard shortcuts for Telegram Desktop，请访问 [UseTheKeyboard](https://usethekeyboard.com/telegram/) 或 [telegramdesktop/tdesktop Wiki](https://github.com/telegramdesktop/tdesktop/wiki/Keyboard-Shortcuts)。
+查看后续更新的 Keyboard/Mouse shortcuts for Telegram Desktop，请访问 [UseTheKeyboard](https://usethekeyboard.com/telegram/) 或 [telegramdesktop/tdesktop Wiki](https://github.com/telegramdesktop/tdesktop/wiki/Keyboard-Shortcuts)。
 
 
 
