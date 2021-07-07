@@ -854,10 +854,35 @@ Windows 的 `Ctrl` 等于 macOS 中 `Command` ⌘。
 
 #### Unigram
 
-[Unigram](https://www.microsoft.com/en-us/p/unigram-telegram-for-windows-10/9n97zckpd60q) 是专为 Windows 10 的 UWP 应用。相比官方的 Desktop 版：
+[Unigram](https://www.microsoft.com/en-us/p/unigram-telegram-for-windows-10/9n97zckpd60q) 是专为 Windows 10 的非官方 UWP 应用，相比官方的 Desktop 版：
+- 端到端加密的私密聊天（ Secret Chats）。
+- 显示格式化文本菜单（Show formatting）。
+- 在输入框粘贴 Markdown 源码，发送后即可渲染，包括超链接（Ctrl + K）。
 
-- 支持端到端加密的私密聊天（ Secret Chats）
-- 等待更新，最近要早点休息
+缺点就是不能最小化到系统托盘，必须常驻在任务栏。
+
+##### 安装
+
+1. `Windows` + `S` 调出搜索框，输入 `区域`
+2. 把国际或地区换到其它地方，例如 `香港特别行政区`
+3. `Windows` + `S` 调出搜索框，输入 `Store`，打开 Microsoft Store，搜索 [Unigram](https://www.microsoft.com/store/apps/9n97zckpd60q) 并安装
+4. 把国际或地区改回 `中国`
+
+
+
+##### 使用
+
+如果通过 [Clash .NET](https://github.com/ClashDotNetFramework/ClashDotNetFramework/releases) 设置网络代理，让 Unigram 连上国际互联网：
+
+1. 右击桌面任务栏托盘上的 Clash .NET，选择 `UWP回环` > `启动助手`
+2. 在弹出的窗口确定两次（如果有）
+3. 勾选 Unigram，保存（Save Changes）
+
+
+
+官方频道：[Unigram News](https://t.me/unigram)
+
+关联阅读：[Unigram 的安装及使用 · 404](https://www.vare.top/2020/02/08/Unigram%20%E7%9A%84%E5%AE%89%E8%A3%85%E5%8F%8A%E4%BD%BF%E7%94%A8/)
 
 
 
