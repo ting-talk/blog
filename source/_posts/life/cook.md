@@ -31,7 +31,13 @@ tags: [生活, 技能]
 
 - [食材简单 A+B，属于工作日的一锅流 - 好大一个包](https://sspai.com/post/64109)
 
-  
+曼食慢语 Amanda Tastes
+
+- [3 分钟吃上早餐，绝不浪费懒觉时间 breakfast mealprep, 5 recipes for a month丨曼食慢语 - YouTube](https://www.youtube.com/watch?v=qkvsNuWqSrA)
+- [一周午餐一次搞定——真的能做到吗？prepare lunch boxes for all workdays at once（meal prepQ&A）丨曼食慢语 - YouTube](https://www.youtube.com/watch?v=8dWiB5Na_-I)
+- [快乐减脂餐！一次搞定一周便当 meal prep for 1 week low-fat lunch-box in 2 hours丨曼食慢语 - YouTube](https://www.youtube.com/watch?v=LZpInMIf75c)
+
+
 
 
 

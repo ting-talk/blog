@@ -789,7 +789,7 @@ Windows 的 `Ctrl` 等于 macOS 中 `Command` ⌘。
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | 加速浏览聊天记录<br />Speed up in-Chat Navigation            | `Shift` + `Scroll`                                           |
 | 切换到下一个会话<br />Move to the Chat Below                 | `Ctrl` + `Tab`<br/>`Ctrl` + `PageDown`<br/>`Alt` + `↓`       |
-| 切换到下一个会话<br />Move to the Chat Above                 | `Ctrl` + `Shift` + `Tab`<br/>`Ctrl` + `PageUp`<br/>`Alt` + `↑` |
+| 切换到上一个会话<br />Move to the Chat Above                 | `Ctrl` + `Shift` + `Tab`<br/>`Ctrl` + `PageUp`<br/>`Alt` + `↑` |
 | 发送文件<br />Send File                                      | `Ctrl` + `O`                                                 |
 | 退出 Exit<br/>返回 Go Back<br/>取消当前操作 Cancel Current Action | `Esc`                                                        |
 
@@ -797,12 +797,12 @@ Windows 的 `Ctrl` 等于 macOS 中 `Command` ⌘。
 
 | 动作 Action                                                  | 快捷键 Shortcut                                              |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| 引用消息<br />Reply to a Message                             | `Ctrl` + `↑`<br/>`Ctrl` + `↓`<br />可按住 `Ctrl` 不放，通过 `↑` / `↓` 选择需要引用的消息 |
+| 引用消息<br />Reply to a Message                             | `Ctrl` + `↑`<br/>`Ctrl` + `↓`<br />按住 `Ctrl` 不放，通过 `↑` / `↓` 选择需要引用的消息 |
 | 取消引用<br />Cancel Reply                                   | `Ctrl` + `↓`<br/>`Esc`                                       |
-| 修改最后一条发言<br />Edit Last Message Sent                 | `↑`                                                          |
+| 编辑最后发送的消息<br />Edit Last Message Sent               | `↑`                                                          |
 | 编辑媒体（例如替换图片）<br />Edit Media                     | `Ctrl` + `E`                                                 |
 | 放大或缩小图片/视频<br />Zoom Image/Video In/Out             | `Ctrl` + `+` / ` -`（在数字小键盘）<br />`Ctrl` + `鼠标滚轮` |
-| 通过内联消息打开 Bot 配置文件Open Bot Profile via Inline Message | `Ctrl` + `点击内联机器人的名字`                              |
+| 通过内联消息打开 Bot 配置文件<br />Open Bot Profile via Inline Message | `Ctrl` + `点击内联机器人的名字`                              |
 | 搜索选定的会话的聊天记录<br />Search Selected Chat           | `Ctrl` + `F`                                                 |
 
 
@@ -818,12 +818,12 @@ Windows 的 `Ctrl` 等于 macOS 中 `Command` ⌘。
 
 **窗口相关 Window Related**
 
-| 动作 Action                                   | 快捷键 Shortcut  |
-| --------------------------------------------- | ---------------- |
-| 最小化到系统托盘<br />Minimize to System Tray | `Ctrl` + `W`     |
-| 退出电报<br />Quit Telegram                   | **`Ctrl` + `Q`** |
-| 锁定电报<br />Lock Telegram                   | `Ctrl` + `L`     |
-| 最小化到任务栏<br />Minimize Telegram         | `Ctrl` + `M`     |
+| 动作 Action                                   | 快捷键 Shortcut |
+| --------------------------------------------- | --------------- |
+| 最小化到系统托盘<br />Minimize to System Tray | `Ctrl` + `W`    |
+| 退出电报<br />Quit Telegram                   | `Ctrl` + `Q`    |
+| 锁定电报<br />Lock Telegram                   | `Ctrl` + `L`    |
+| 最小化到任务栏<br />Minimize Telegram         | `Ctrl` + `M`    |
 
 **选取文字 Selected Text**
 
@@ -843,7 +843,7 @@ Windows 的 `Ctrl` 等于 macOS 中 `Command` ⌘。
 | ------------------------------------------- | -------------------------------------- |
 | 引用<br />Reply                               | 左键双击<br />Double click the message   |
 | 多选消息<br />Select Messages                 | 在消息外拖拽多选<br />Drag outside the messages |
-| 显示消息详细的发送时间和最后更正时间<br />Info about Messages | 鼠标悬停在时间戳上<br />Hover the timestamp |
+| 显示消息具体发送时间和最后更正时间<br />Info about Messages | 鼠标悬停在时间戳上<br />Hover the timestamp |
 | 投票总数<br />Amount of Votes in Poll           | 鼠标悬停在百分比上<br />Hover percentage    |
 | 转发消息<br />Forward a message to a chat | 拖拽消息到会话列表<br />Drag the message to a chat in the list |
 | 静音发送<br />Send Message Silently Send<br />定时发送<br />Schedule Message | 右击发送键<br />Right Click on Send Button  |
@@ -854,8 +854,10 @@ Windows 的 `Ctrl` 等于 macOS 中 `Command` ⌘。
 
 #### Unigram
 
-[Unigram](https://www.microsoft.com/en-us/p/unigram-telegram-for-windows-10/9n97zckpd60q) 是专为 Windows 10 的非官方 UWP 应用，相比官方的 Desktop 版：
-- 端到端加密的私密聊天（ Secret Chats）。
+[Unigram](https://github.com/UnigramDev/Unigram) 是专为 Windows 10 的非官方 UWP 应用，相比官方的 Desktop 版：
+
+- 支持端到端加密的私密聊天（ Secret Chats）。
+- 支持查看阅后即焚的照片和视频（Self-destruct）。
 - 显示格式化文本菜单（Show formatting）。
 - 在输入框粘贴 Markdown 源码，发送后即可渲染，包括超链接（Ctrl + K）。
 

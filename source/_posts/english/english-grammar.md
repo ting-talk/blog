@@ -579,6 +579,35 @@ I consider it（形式宾语） important `to eat a carrot every day`.
 
 **动词不定式作宾语补足语**
 
+The rabbit expected the wolf to eat a carrot.
+兔子指望狼吃一根胡萝卜。
+
+使役动词 see、find、watch、have、make、let……可省略 to
+Carrots make the rabbit feel happy.
+胡萝卜使兔子感到快乐。
+
+The wolf helped the rabbit (to) grow carrots 
+狼帮兔子种胡萝卜。
+
+**动词不定式作定语**
+
+The rabbit has a lot of carrots to eat.
+兔子有很多胡萝卜要吃。
+
+**动词不定式作状语**
+
+表原因
+I was surprised to get a thumbs-up. = I was surprised because I got a thumbs-up.
+我很开心（因为）得到一个赞。
+
+表目的
+I will do anything to get a thumbs-up. = I will do anything in order that I get a thumbs-up.
+我为了得到一个赞会做任何事。
+
+表结果
+I got enough thumbs-up to make another video. = I got enough thumbs-up so that I made another video.
+我得到足够的赞，可以去做另一个视频啦！
+
 
 
 ### 倒装句
