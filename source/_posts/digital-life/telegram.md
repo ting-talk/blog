@@ -841,7 +841,7 @@ Windows 的 `Ctrl` 等于 macOS 中 `Command` ⌘。
 
 | 动作 Action                                   | 鼠标快捷键 Shortcut |
 | ------------------------------------------- | -------------------------------------- |
-| 引用<br />Reply                               | 左键双击<br />Double click the message   |
+| 引用<br />Reply                               | 左键双击消息<br />Double click the message |
 | 多选消息<br />Select Messages                 | 在消息外拖拽多选<br />Drag outside the messages |
 | 显示消息具体发送时间和最后更正时间<br />Info about Messages | 鼠标悬停在时间戳上<br />Hover the timestamp |
 | 投票总数<br />Amount of Votes in Poll           | 鼠标悬停在百分比上<br />Hover percentage    |
