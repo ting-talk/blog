@@ -44,7 +44,7 @@ tags: [网上冲浪指南, 突破网络审查, Telegram]
 - **没有广告**：一个纯碎极致的大众化即时通讯软件（Instant Messaging App）。
 - **[不占内存](https://telegram.org/blog/cache-and-stickers)**：聊天记录保存在云端（Cloud-Based），任何设备，无缝同步，随取随用。
 - **超大群聊**：封顶 20 万人，配合各种管理工具（例如限制发言间隔），让大型社群的交流也能井井有条。  
-- **[表情贴纸](https://telegram.org/blog/animated-stickers)**：采用 [矢量](https://tingtalk.me/raster-to-vector/) 格式，高清而富有趣味；并且支持自制表情包（[Custom Sticker Sets](https://telegram.org/blog/stickers-revolution)）。
+- **[表情贴纸](https://telegram.org/blog/animated-stickers)**：采用高清的 [矢量](https://tingtalk.me/raster-to-vector/) 格式，并且支持自制表情包（[Custom Sticker Sets](https://telegram.org/blog/stickers-revolution)）。
 
 ### 👎 瑕不掩瑜
 
@@ -582,7 +582,7 @@ Telegram 有一个非常人性化的特性：**记忆浏览进度**，打开对�
 
 ### 🙈 生动表情
 
-**Emoji（绘文字）**
+#### Emoji（绘文字）
 
 按关键字搜索表情（[Search emoji by keyword](https://telegram.org/blog/unsend-privacy-emoji#emoji-search-and-gifs)）：在消息框输入关键词，就会弹出相关的 Emoji。
 - [能触发 Emoji 的英文关键词合集](https://translations.telegram.org/en/emoji)
@@ -613,11 +613,11 @@ Telegram 有一个非常人性化的特性：**记忆浏览进度**，打开对�
 
 
 
-**Stickers（表情包）**
+#### Stickers（表情包）
 
 - 截至 2021 年 1 月 13 日，Telegram 上已有 20,000+ 免费的高清表情包。
 
-- 在聊天窗口输入 [@sticker](https://t.me/sticker) + Emoji，可以检索**所有**与 Emoji 相关表情包，例如 `@sticker 👍`。
+- 在聊天窗口输入 [@sticker](https://t.me/sticker) + Emoji，可以检索**所有**与 Emoji 相关表情包，例如 `@sticker 👍`。我非常喜欢这个表情包建议功能（Suggest stickers by emoji），经常能找到一些很有创意高清表情包，给聊天体验增色不少。
 
 **在哪里找表情包**
 
@@ -854,14 +854,19 @@ Windows 的 `Ctrl` 等于 macOS 中 `Command` ⌘。
 
 #### Unigram
 
-[Unigram](https://github.com/UnigramDev/Unigram) 是专为 Windows 10 的非官方 UWP 应用，相比官方的 Desktop 版：
+[Unigram](https://github.com/UnigramDev/Unigram) 是专为 Windows 10+ 的 [非官方 UWP 应用](https://telegram.org/apps#unigram-unofficial)，基本上 Mobile app 上有的功能，Unigram 都不落下。
+
+相比官方的 Desktop 版：
 
 - 支持端到端加密的私密聊天（ Secret Chats）。
 - 支持查看阅后即焚的照片和视频（Self-destruct）。
-- 显示格式化文本菜单（Show formatting）。
+- 聊天输入框下可显示格式化文本菜单（Show formatting）。
 - 在输入框粘贴 Markdown 源码，发送后即可渲染，包括超链接（Ctrl + K）。
+- 频道主右击发送的动态，可查看统计信息（Statiatics）：此条信息的分享次数以及被分享到哪些公开频道。
 
-缺点就是不能最小化到系统托盘，必须常驻在任务栏。
+缺点：
+
+- 就是不能最小化到系统托盘，必须常驻在任务栏。
 
 ##### 安装
 
