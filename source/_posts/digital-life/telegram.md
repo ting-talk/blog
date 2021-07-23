@@ -369,7 +369,7 @@ Telegram 有一个非常人性化的特性：**记忆浏览进度**，打开对�
 
 学会插入超文本链接，避免冗长的 URL 霸屏（简短的网址例外），是一种网络美德。
 
-##### Markdown 
+##### Markdown 语法 
 
 官方客户端只支持以下[Markdown](https://tingtalk.me/markdown) 语法：
 
@@ -378,15 +378,25 @@ Telegram 有一个非常人性化的特性：**记忆浏览进度**，打开对�
 - `等宽字体`（前后加入一个重音符）：`` ` ``monospace`` ` ``
 - *斜体*（前后加入两个下划线）：`__`italic`__`（原生 Markdown 语法是前后一个星号）
 
-不支持使用 Markdown 语法 Create link，虽然可以通过快捷键 Ctrl + K 插入超链接，但略显麻烦。如果你是 Windows 10 用户，这里提供一个优雅的写作方法。
+不支持使用 Markdown 语法 Create link，虽然可以通过快捷键 Ctrl + K 插入超链接，但略显麻烦。如果你是 Windows 10 用户和 Markdown 爱好者，我想到了一个优雅的写作方法。
 
 **准备工作**
 
-- 下载 [Unigram](https://www.microsoft.com/en-us/p/unigram-telegram-for-windows-10/9n97zckpd60q)（[下文](https://tingtalk.me/telegram/#Unigram) 有安教程）
-- 安装 [Typora](https://typora.io/)（或其它 Markdown 编辑器）
-- 添加浏览器插件 [油猴](https://tingtalk.me/userscripts/)，并安装这个 脚本 复制 MarkDown 格式的超链接到剪贴板
+- 下载 [Unigram](https://www.microsoft.com/en-us/p/unigram-telegram-for-windows-10/9n97zckpd60q)（[下文](https://tingtalk.me/telegram/#Unigram) 有安装教程）
+- 下载 [Typora](https://typora.io/) 或其它 Markdown 编辑器
+- 添加浏览器插件 [油猴](https://tingtalk.me/userscripts/)，并安装这个 [脚本](https://greasyfork.org/zh-CN/scripts/28056)：快速复制 Markdown 格式（`[标题](网址)`）的超链接到剪贴板
 
+**写作流程**
 
+1. 打开 Typora，开始写作
+2. 通过脚本快速插入超链接
+3. 写好后复制 Markdown 源代码，打开 Unigram 并粘贴
+4. 打上一些 `#标签`（[Hashtags](https://telegram.org/tour/channels#hashtags)）给消息分类，方便读者检索
+5. 点击发送，Markdown 语法即可被渲染，包括超链接
+
+这样写长文，一气呵成，Awesome！
+
+关联阅读：[文案风格指南 by 庭说](https://tingtalk.me/style-guide/)
 
 ##### Desktop（桌面电脑端）
 
