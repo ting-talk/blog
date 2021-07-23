@@ -369,14 +369,22 @@ Telegram 有一个非常人性化的特性：**记忆浏览进度**，打开对�
 
 学会插入超文本链接，避免冗长的 URL 霸屏（简短的网址例外），是一种网络美德。
 
-##### 全平台适用
+##### Markdown 
 
-采用有限的几种 [Markdown](https://tingtalk.me/markdown) 语法，例如：
+官方客户端只支持以下[Markdown](https://tingtalk.me/markdown) 语法：
 
 - **加粗**（前后加入两个星号）：`**`bold`**`
 - ~~删除线~~（前后加入两个波浪号）：`~~`strikethrough`~~`
 - `等宽字体`（前后加入一个重音符）：`` ` ``monospace`` ` ``
 - *斜体*（前后加入两个下划线）：`__`italic`__`（原生 Markdown 语法是前后一个星号）
+
+不支持使用 Markdown 语法 Create link，虽然可以通过快捷键 Ctrl + K 插入超链接，但略显麻烦。如果你是 Windows 10 用户，这里提供一个优雅的写作方法。
+
+**准备工作**
+
+- 下载 [Unigram](https://www.microsoft.com/en-us/p/unigram-telegram-for-windows-10/9n97zckpd60q)（[下文](https://tingtalk.me/telegram/#Unigram) 有安教程）
+- 安装 [Typora](https://typora.io/)（或其它 Markdown 编辑器）
+- 添加浏览器插件 [油猴](https://tingtalk.me/userscripts/)，并安装这个 脚本 复制 MarkDown 格式的超链接到剪贴板
 
 
 
@@ -621,16 +629,15 @@ Telegram 有一个非常人性化的特性：**记忆浏览进度**，打开对�
 
 **在哪里找表情包**
 
+- 官方：
+  1. 打开 Telegram 的一个对话界面，输入框选择 Sticker（旁边是选择 Emoji 和 GIF）
+  2. 往下拉，即可在顶部看到 `Search sticker sets`（只支持用英文关键词搜索）
+
 - 网站：
   - [Stickers Cloud](https://stickers.cloud/)
   - [tlgrm](https://tlgrm.eu/stickers)：只支持用英文关键词搜索
 - 群组：[Stickers Cloud](https://t.me/StickerGroup)
 - 频道：[Trending Stickers](https://t.me/TrendingStickers)
-- 官方：
-  1. 打开 Telegram 的一个对话界面，输入框选择 Sticker（旁边是选择 Emoji 和 GIF）
-  2. 往下拉，即可在顶部看到 `Search sticker sets`（只支持用英文关键词搜索）
-
-
 
 📤 **如何导出电报上的表情包**
 
@@ -851,35 +858,33 @@ Windows 的 `Ctrl` 等于 macOS 中 `Command` ⌘。
 查看后续更新的 Keyboard/Mouse shortcuts for Telegram Desktop，请访问 [UseTheKeyboard](https://usethekeyboard.com/telegram/) 或 [telegramdesktop/tdesktop Wiki](https://github.com/telegramdesktop/tdesktop/wiki/Keyboard-Shortcuts)。
 
 
-
 #### Unigram
 
-[Unigram](https://github.com/UnigramDev/Unigram) 是专为 Windows 10+ 的 [非官方 UWP 应用](https://telegram.org/apps#unigram-unofficial)，基本上 Mobile app 上有的功能，Unigram 都不落下。
+[Unigram](https://github.com/UnigramDev/Unigram) 是专为 Windows 10 开发的 Telegram 第三方开源客户端（基于 [TDLib](https://github.com/tdlib/td)），并且被 [官方认可](https://telegram.org/apps#unigram-unofficial)。作为 UWP 应用，基本上 Mobile app 上有的功能，Unigram 都不落下。
 
 相比官方的 Desktop 版：
-
-- 支持端到端加密的私密聊天（ Secret Chats）。
-- 支持查看阅后即焚的照片和视频（Self-destruct）。
-- 聊天输入框下可显示格式化文本菜单（Show formatting）。
-- 在输入框粘贴 Markdown 源码，发送后即可渲染，包括超链接（Ctrl + K）。
-- 频道主右击发送的动态，可查看统计信息（Statiatics）：此条信息的分享次数以及被分享到哪些公开频道。
+- 支持 [Instant View](https://instantview.telegram.org/)
+- 支持端到端加密的私密聊天（ Secret Chats）
+- 支持查看阅后即焚的照片和视频（Self-destruct）
+- 在单独的窗口中打开聊天记录（Shift + 单击）
+- 聊天输入框下可显示格式化文本菜单（Show formatting）
+- 在输入框粘贴 Markdown 源码，发送后即可渲染，包括超链接（Ctrl + K）
+- 频道主右击发送的动态，可查看统计信息（Statiatics）：此条信息的分享次数以及被分享到哪些公开频道
 
 缺点：
-
-- 就是不能最小化到系统托盘，必须常驻在任务栏。
+- 不能最小化到系统托盘，必须常驻在任务栏
 
 ##### 安装
 
 1. `Windows` + `S` 调出搜索框，输入 `区域`
-2. 把国际或地区换到其它地方，例如 `香港特别行政区`
+2. 把 `国际或地区` 换到其它地方，例如 `香港特别行政区`
 3. `Windows` + `S` 调出搜索框，输入 `Store`，打开 Microsoft Store，搜索 [Unigram](https://www.microsoft.com/store/apps/9n97zckpd60q) 并安装
-4. 把国际或地区改回 `中国`
-
+4. 把 `国际或地区` 改回 `中国`
 
 
 ##### 使用
 
-如果通过 [Clash .NET](https://github.com/ClashDotNetFramework/ClashDotNetFramework/releases) 设置网络代理，让 Unigram 连上国际互联网：
+以 [Clash .NET](https://github.com/ClashDotNetFramework/ClashDotNetFramework/releases) 为例，如何设置网络代理，让 Unigram 连上国际互联网：
 
 1. 右击桌面任务栏托盘上的 Clash .NET，选择 `UWP回环` > `启动助手`
 2. 在弹出的窗口确定两次（如果有）
@@ -889,7 +894,15 @@ Windows 的 `Ctrl` 等于 macOS 中 `Command` ⌘。
 
 官方频道：[Unigram News](https://t.me/unigram)
 
-关联阅读：[Unigram 的安装及使用 · 404](https://www.vare.top/2020/02/08/Unigram%20%E7%9A%84%E5%AE%89%E8%A3%85%E5%8F%8A%E4%BD%BF%E7%94%A8/)
+内测频道：[Unigram Mirror](https://t.me/unigramappx)（无需通过 Microsoft Sotre 安装）
+
+官方群组：[Unigram Insiders](https://t.me/unigraminsiders)
+
+相关新闻：[Unigram 现版本（v7.8.6586.0）会未加密保存媒体文件 - by TGgeek](https://t.me/TGgeek/870)
+
+关联阅读：
+- [Unigram 的安装及使用 - 404](https://www.vare.top/2020/02/08/Unigram%20%E7%9A%84%E5%AE%89%E8%A3%85%E5%8F%8A%E4%BD%BF%E7%94%A8/)
+- [Unigram 安装及使用教程 – Telegraph by TGgeek ](https://telegra.ph/Unigram-02-02)
 
 
 

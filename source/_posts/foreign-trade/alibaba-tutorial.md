@@ -83,7 +83,7 @@ tags: 外贸
   - 油猴脚本：[阿里巴巴国际站批量下载访客详情数据 - Tuff Plus](https://greasyfork.org/zh-CN/scripts/408397-%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4%E5%9B%BD%E9%99%85%E7%AB%99%E6%89%B9%E9%87%8F%E4%B8%8B%E8%BD%BD%E8%AE%BF%E5%AE%A2%E8%AF%A6%E6%83%85%E6%95%B0%E6%8D%AE)
 - `营销中心` - `外贸直通车` - `关键词工具` 重点关注同行推词和行业词表
 - Alibaba 搜索框联想词和搜索页底部的相关推荐
-- 从 URL 收集：[阿里巴巴关键词挖掘秘籍！精准关键词其实不难找 - Park](https://park.mobayke.com/tools/alibaba-keywords.html)
+- 从 URL 收集：[阿里巴巴关键词挖掘秘籍！精准关键词其实不难找 - Park](https://wmovc.com/alibaba-keywords/)
 
 
 
@@ -761,4 +761,4 @@ XXX
   - （大概）每隔 1 个钟就要重新登录（包括阿里邮箱），提示 `Your session has timed out. Click OK to login again. (您的登录已经超时，请点击确定重新登录。)`
   - 已读的 RFQ 的显示未读。
 
-  
+    

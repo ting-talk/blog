@@ -777,7 +777,15 @@ Windows 的默认图片浏览器非常难用。而 qimgv 是一款开源的图�
 
 自带的输入法已经足够好用，而国产的输入法有关不完的广告弹窗。
 
-关联阅读：
+**通过自定义短语实时输入日期和时间**
+
+日期：`%yyyy%-%MM%-%dd%`
+
+时间：`%HH%:%mm%`
+
+来源：[用微软拼音快速输入自定义格式的时间和日期 - walterlv](https://blog.walterlv.com/ime/2017/09/18/date-time-format-using-microsoft-pinyin.html)
+
+**关联阅读**
 
 - [一些小技巧，让你的 Windows 10 内置拼音输入法更好用 - 好奇狗熊](https://sspai.com/post/52101)
 - [深蓝词库转换：一款开源免费的输入法词库转换程序 - studyzys](https://github.com/studyzy/imewlconverter)
