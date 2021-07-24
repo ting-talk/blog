@@ -380,6 +380,11 @@ Telegram 有一个非常人性化的特性：**记忆浏览进度**，打开对�
 
 不支持使用 Markdown 语法 Create link，虽然可以通过快捷键 Ctrl + K 插入超链接，但略显麻烦。如果你是 Windows 10 用户和 Markdown 爱好者，我想到了一个优雅的写作方法。
 
+[@sudo_radio](https://t.me/sudo_radio) 提供信息：Telegam X for Android 也支持超链接语法。
+
+- 公开版：最后一次更新是 2020 年 5 月 15 日
+- [测试版](https://play.google.com/store/apps/details?id=org.thunderdog.challegram&hl=zh-CN)：[申请入口](https://play.google.com/apps/testing/org.thunderdog.challegram) | [APKMirror](https://www.apkmirror.com/apk/telegram-llc/)
+
 **准备工作**
 
 - 下载 [Unigram](https://www.microsoft.com/en-us/p/unigram-telegram-for-windows-10/9n97zckpd60q)（[下文](https://tingtalk.me/telegram/#Unigram) 有安装教程）
@@ -395,6 +400,8 @@ Telegram 有一个非常人性化的特性：**记忆浏览进度**，打开对�
 5. 点击发送，Markdown 语法即可被渲染，包括超链接
 
 这样写长文，一气呵成，Awesome！
+
+得益于 Telegram 账号可以登录很多个设备，用完 Unigram 和 Telegam X for Android 后，可切换回官方客户端。
 
 关联阅读：[文案风格指南 by 庭说](https://tingtalk.me/style-guide/)
 
