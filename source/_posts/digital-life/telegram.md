@@ -1387,9 +1387,10 @@ https://rsshub.app/telegram/channel/tingtalk
 
 | 频道                                                         | 详情                                                         |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [Clash .NET 公告](https://t.me/ClashDotNetFrameworkAnncmnt)  | 👍/ A Clash GUI Proxy For Windows Based On .NET 5             |
 | [Fndroid 的日常](https://t.me/fndroid_news)                  | 👍 Clash for Windows                                          |
-| [Clash .NET 公告](https://t.me/ClashDotNetFrameworkAnncmnt)  | A Clash GUI Proxy For Windows Based On .NET 5                |
 | [Clash for Android Channel](https://t.me/joinchat/uCUxZwHNjZxlYThl) | A Graphical user interface of Clash for Android              |
+| [Surfboard News](https://t.me/surfboardnews)                 | 安卓专享的翻墙客户端，但不支持 SSR。<br />[用户手册](https://manual.getsurfboard.com/) |
 | [SagerNet Apks](https://t.me/SagerNetApks)                   | 支持 SOCKS、HTTP(S)、Shadowsocks、ShadowsocksR、VMess、VLESS、Trojan……等协议 |
 | [Shadowrocket News](https://t.me/ShadowrocketNews)           | iOS 上小火箭                                                 |
 | [Quantumult News](https://t.me/quantumultappnews)            | Quantumult 的非官方频道。                                    |
