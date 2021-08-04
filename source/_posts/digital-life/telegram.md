@@ -1,7 +1,7 @@
 ---
 title: Telegram：新手指南、使用教程及频道推荐（持续更新中）
 date: 2019-11-09
-updated: 2021-07-01 
+updated: 2021-07-28 
 categories: 数字生活  
 tags: [网上冲浪指南, 突破网络审查, Telegram]
 ---
@@ -1391,7 +1391,8 @@ https://rsshub.app/telegram/channel/tingtalk
 | [Fndroid 的日常](https://t.me/fndroid_news)                  | 👍 Clash for Windows                                          |
 | [Clash for Android Channel](https://t.me/joinchat/uCUxZwHNjZxlYThl) | A Graphical user interface of Clash for Android              |
 | [Surfboard News](https://t.me/surfboardnews)                 | 安卓专享的翻墙客户端，但不支持 SSR。<br />[用户手册](https://manual.getsurfboard.com/) |
-| [SagerNet Apks](https://t.me/SagerNetApks)                   | 支持 SOCKS、HTTP(S)、Shadowsocks、ShadowsocksR、VMess、VLESS、Trojan……等协议 |
+| [SagerNet Apks](https://t.me/SagerNetApks)                   | 支持 SOCKS、HTTP(S)、Shadowsocks、ShadowsocksR、VMess、VLESS、Trojan……等协议<br />[SagerNet 官网](https://sagernet.org/) |
+| [AnXray](https://t.me/AnXray)                                | Another Xray for Android <br />[GitHub](https://github.com/XTLS/AnXray) |
 | [Shadowrocket News](https://t.me/ShadowrocketNews)           | iOS 上小火箭                                                 |
 | [Quantumult News](https://t.me/quantumultappnews)            | Quantumult 的非官方频道。                                    |
 | [Quantumult X News](https://t.me/QuanXNews)                  | 此频道用于发布 Quantumult 与 Quantumult X 的相关资讯。       |

@@ -532,7 +532,7 @@ It was so tasty a carrot that I ate it all at once. (so + 形容词)
 
 ## 其它语法
 
-### 非谓语动词
+### [非谓语动词](https://www.bilibili.com/video/BV1YZ4y1g7mE)
 
 谓语动词是被主语限定的供动词（finite verbs），作为句子的核心，表示主语怎么样。它有三大本领：
 
@@ -607,6 +607,138 @@ I will do anything to get a thumbs-up. = I will do anything in order that I get 
 表结果
 I got enough thumbs-up to make another video. = I got enough thumbs-up so that I made another video.
 我得到足够的赞，可以去做另一个视频啦！
+
+#### 动名词
+
+相当于名词。
+
+**动词不定式作主语**
+
+Eating carrots is healthy for the rabbit.
+吃胡萝卜（这个行为）对兔子来说很健康.
+
+**动名词作主语补语（表语）**
+
+The rabbit's hobby is growing carrots.
+兔子的爱好是种胡萝卜。
+
+Seeing is believing.
+眼见为实。
+
+**动名词作定语**
+
+说明被修饰词的性质，功能或用途。
+
+a sleeping pill = a pill for sleeping
+
+**动名词作宾语**
+
+The rabbit likes eating carrots.
+兔子喜欢吃胡萝卜。
+
+The rabbit enjoys eating carrots.
+兔子喜欢吃胡萝卜。
+动词后面只能接动名词的单词或者短语：
+
+- enjoy
+- avoid
+- advise
+- consider
+- escape
+- mind
+- practice
+- insist on
+- give up
+- feel like
+- put off
+- ……
+
+介词 + 宾语（动名词）
+
+The rabbit is fond of eating carrots.
+兔子喜欢吃胡萝卜。
+
+The rabbit is looking forward to（介词） seeing the wolf again.
+兔子期望再次见到狼。
+
+#### 现在分词
+
+相当于形容词。
+
+**现在分词作定语**
+
+表明被修饰词的状态，但并不一定表明发生在现在。
+a sleeping rabbit ≠ a rabbit for sleeping
+
+**现在分词作表语**
+
+The game is exciting.
+游戏是刺激的。
+
+**现在分词作宾语补足语**
+
+The wolf saw the rabbit eating a carrot.
+狼之前看到兔子正在吃一根胡萝卜。
+
+**现在分词作状语**
+
+表时间
+Hearing the news, the rabbit became excited.
+听到这个消息，兔子很激动。
+When he heard the news, the rabbit became excited.
+听到这个消息时，兔子很激动。
+
+表原因
+Not knowing what to eat, the rabbit skipped lunch.
+不知道吃什么，兔子没吃中饭。
+Because he didn't know what to eat, the rabbit skipped lunch.
+听到这个消息时，兔子很激动。
+
+#### 过去分词
+
+不一定表示过去；暗含被动的意思。
+
+**过去分词作定语**
+
+a minced carrot
+一根绞碎的胡萝卜
+
+过去分词短语作定语，要后置
+
+The carrot cake eaten by the rabbit is delicious.
+被兔子吃了的胡萝卜很美味。
+
+**过去分词作表语**
+
+The rabbit is interested.
+`被动` 兔子很有兴趣。
+The story is interesting.
+`主动` 故事很有趣。
+The rabbit was frightened.
+`被动` 兔子感到害怕。
+The rabbit was frightening.
+`主动` 兔子令人感到害怕。
+
+**过去分词作宾语补足语**
+
+The rabbit found his carrot stolen.
+兔子发现他的胡萝卜被偷了。
+
+**过去分词作状语**
+
+表地点
+Seen from the hill, the carrot field looks beautiful.
+从山上看，胡萝卜田看上去很美。
+Seeing the carrot field, the rabbit ran towards it.
+看到胡萝卜田，兔子朝着它跑去。
+
+表原因
+Born in a rabbit family, the rabbit's only work is growing carrots.
+由于出生在一个兔子家庭里，兔子的唯一工作就是种胡萝卜。
+
+表条件
+Given another chance, the rabbit would go to the wolf's party.
+如果再给兔子一次机会，他会去参加狼的聚会。
 
 
 

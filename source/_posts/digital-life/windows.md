@@ -789,7 +789,14 @@ Windows 的默认图片浏览器非常难用。而 qimgv 是一款开源的图�
 
 - [一些小技巧，让你的 Windows 10 内置拼音输入法更好用 - 好奇狗熊](https://sspai.com/post/52101)
 - [深蓝词库转换：一款开源免费的输入法词库转换程序 - studyzys](https://github.com/studyzy/imewlconverter)
-- [SuperRime 拓展词库 for Windows 10 拼音版（600 万词）](https://www.gotototo.com/2020/12/24/windows-10-lexicon/) | [小羿的报道](https://www.xiaoyi.vc/win10-pinyin-diy.html)
+
+
+
+#### [Fliqlo](https://fliqlo.com/screensaver/)
+
+[Fliqlo - 时隔 10 年，翻页时钟屏保更新，不再需要 Flash - 小众软件](https://www.appinn.com/fliqlo-1-4/)
+
+
 
 
 
@@ -798,6 +805,10 @@ Windows 的默认图片浏览器非常难用。而 qimgv 是一款开源的图�
 [Awesome Windows](https://github.com/Awesome-Windows/Awesome/blob/master/README-cn.md)：Windows上优质 & 精选的最佳应用程序及工具列表，其/中包含这篇文章没讲的 [数据恢复软件](https://github.com/Awesome-Windows/Awesome/blob/master/README-cn.md#%E6%95%B0%E6%8D%AE%E6%81%A2%E5%A4%8D)（因为我有良好的备份习惯）。
 
 [FXXKMAKEDING](https://node4.mkdmirror.workers.dev/0:/)：Fuck 思杰马克丁，来这里下载「绿色」软件吧。
+
+
+
+
 
 
 

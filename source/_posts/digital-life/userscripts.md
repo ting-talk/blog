@@ -2,7 +2,7 @@
 
 title: 装上油猴脚本，你的浏览器才有了灵魂
 date: 2020-02-19 
-updated: 2020-04-01  
+updated: 2021-07-01  
 categories: 数字生活   
 tags: [Chrome, 网上冲浪指南]
 
@@ -66,8 +66,6 @@ tags: [Chrome, 网上冲浪指南]
 ### [简悦( SimpRead ) · 轻阅版](https://greasyfork.org/zh-CN/scripts/39998-%E7%AE%80%E6%82%A6-simpread-%E8%BD%BB%E9%98%85%E7%89%88)
 
 简悦 · 轻阅版是 [简悦](https://github.com/kenshin/simpread) 的轻量级版本，拥有 [简悦的大部分特性](http://ksria.com/simpread/#feature)，更具有加载速度快 · 只关注阅读模式呈现等特点。
-
-
 
 
 
@@ -203,8 +201,6 @@ by [哩呵](http://pan.newday.me/)
 ####  [本地 YouTube 下载器](https://greasyfork.org/zh-CN/scripts/369400-local-youtube-downloader)
 
 不需要透过第三方的服务就能下载 YouTube 影片。
-
-
 
 
 
