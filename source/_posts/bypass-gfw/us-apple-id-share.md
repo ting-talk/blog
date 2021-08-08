@@ -49,6 +49,8 @@ tags: [突破网络审查, Apple ID]
 
 - [苹果帝](https://appledi.com/)：2020-12-18 亲测可用。
 - [小火箭账号 の 分享站](https://wohaobang.cn/)：未测试。
+- [Get Shadowrocket](https://free.shadowrocket.online/)：未测试。
+- [小火箭账号 の 分享站](https://wohaobang.cn/)：未测试。
 
 
 

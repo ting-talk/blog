@@ -347,6 +347,8 @@ RSSHub Radar 是 [RSSHub](https://github.com/DIYgod/RSSHub) 的衍生项目，�
 
 用于导出备份 QQ 空间的说说、日志、私密日记、相册、视频、留言板、QQ 好友、收藏夹为文件，便于迁移与保存。
 
+[GitHub 主页以及使用教程](https://github.com/ShunCai/QZoneExport)
+
 
 
 #### [西方媒体查一查](https://chrome.google.com/webstore/detail/%E8%A5%BF%E6%96%B9%E5%AA%92%E4%BD%93%E6%9F%A5%E4%B8%80%E6%9F%A5/bpejcaojjipcgcnjkfmnkhokdpimcmij)
