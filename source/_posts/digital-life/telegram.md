@@ -172,8 +172,21 @@ Telegram 的中文搜索是以「词组」为单位的，以标点符号或空�
 
 先从 [常见登录问题](https://telegra.ph/Common-Login-Problems-03-12) 中寻找方法，无果，联系 Telegram：
 
-- 途径一：请使用此 [表格](https://telegram.org/support) 与 Telegram 联系。
-- 途径二：在 Twitter 上联系 [Telegram Login Help](https://twitter.com/smstelegram)（@smstelegram）
+- 途径一：请使用此 [表格](https://telegram.org/support) 与 Telegram 联系
+- 途径二：在 Twitter 上联系 [Telegram Login Help](https://twitter.com/smstelegram)
+
+
+
+**不知何种原因遭到封禁，请写邮件给 recover@telegram.org**
+
+- 用英文写 Email
+- 用 [国际电话号码格式](https://faq.whatsapp.com/general/about-international-phone-number-format/?lang=zh_cn) 书写被封的手机号码（中国的国家代码为 +86，美国的 +1）
+
+真人值班，大概 24 小内就会被解封。但违反 Telegram 服务条款（[Terms of Service](https://telegram.org/tos)），例如乱发广告，是不会被解封的。
+
+参考资料：
+- [记一次成功的 Telegram 账号解封](https://www.askahh.com/index.php/archives/231/) by @[askahh](https://t.me/askahh)
+- [Telegram 官方封禁的账号会受到什么处罚](https://t.me/TGgeek/641) by @TGgeek
 
 
 
@@ -1157,6 +1170,7 @@ https://rsshub.app/telegram/channel/tingtalk
 | ----------------------------------------------------- | ------------------------------------------------------------ |
 | [看鉴中国 OutsightChina](https://t.me/OutsightChina)  | 👍 一个健康的社会，不该只有一种声音。看鉴中国，每天聚焦一则关于中国的新闻事件，带你对比来自中外不同媒体多元的、不一样的观点。 |
 | [乌鸦观察](https://t.me/bigcrowdev)                   | 👍 不定期推送新闻和杂谈。                                     |
+| [竹新社](https://t.me/tnews365)                       | 7×24 不定时编译国内外媒体的即时新闻报道。                    |
 | [有据](https://t.me/chinafactcheck)                   | [China Fact Check](https://chinafactcheck.com/) 是一个专注于对中文国际资讯进行事实核查的计划，是基于志愿和网络协作原则的事实核查计划，努力连接大学、媒体和平台三方力量。 |
 | [新闻实验室](https://t.me/newslab2020)                | 推荐订阅方可成老师的 [Newsletter](https://sibforms.com/serve/MUIEABj_H1nZN9Jj5HLcOE61NoO8So-r5phaSIn4ZUqqLv_WdJP-bpiAazMxwp2uOWb-aeF-hiOScIzPxwovvRjNYF6METjZVOafOAQANa9tnIeocTm6fv6RurLCTUVGzKrjBrhtIj9q2wVOmIYoltrV310MEOEi-vg3E0uPES0voX-FjBRHd4mPx0woiIsLiZ6-YXnI80PyhpUH)。[微信公众号文章备份](https://github.com/Newslab2020/Contents/blob/master/wechataccount.md)。 |
 | [南方周末](https://t.me/infzm)                        | 在这里，读懂中国。非官方。                                   |
@@ -1172,7 +1186,6 @@ https://rsshub.app/telegram/channel/tingtalk
 | [电报时报](https://t.me/times001)                     | 提供全天候热点中国及国际新闻，涵盖突发新闻、时事、财经、娱乐、体育，评论、杂志和博客等。 |
 | [蘋果日報](https://t.me/appledailyhk)                 | [Apple Daily](https://hk.appledaily.com/) 为香港上市公司壹传媒旗下繁体中文报纸，由大股东黎智英所创立，被民主派支持者普遍认为是香港目前唯一未被「染红」的媒体。by [维基百科](https://zh.wikipedia.org/zh-cn/%E8%98%8B%E6%9E%9C%E6%97%A5%E5%A0%B1_(%E9%A6%99%E6%B8%AF)) |
 | [台湾 中央社 香港 苹果日报](https://t.me/ttww_rss)    | 如题。                                                       |
-| [竹新社](https://t.me/tnews365)                       | 7×24 不定时编译国内外媒体的即时新闻报道。                    |
 | [NGOCN](https://t.me/ngocn01)                         | [NGOCN](https://ngocn2.org/) 是一家中国独立媒体，非营利性质，致力向公众提供进步、负责任且多元的纪实性内容，目前由认同其理念志愿者运营。 |
 | [端傳媒 Initium Media](https://t.me/the_InitiumMedia) | 由程式自動獲取並推送端傳媒 RSS 所有文章，链接至官网。        |
 | [端传媒 RSS](https://t.me/theinitium_rss)             | 链接至 Telegraph 和官网。RSS 地址：https://rsshub.app/initium/latest/zh-hans |
