@@ -1293,7 +1293,6 @@ https://rsshub.app/telegram/channel/tingtalk
 | [Jerry Zhang 的频道](https://t.me/JerryZhang)             | 在渥太华的长春人。<br />博客：[Overflow](https://jerryzhang.blog/)，向信息过载的世界大喊。<br />播客：[《科技聚变》](https://techfusionfm.com/)（TechFusion），我们谈论有关互联网的一切。 |
 | [老人和糟](https://t.me/dizzyninja)                       | 没有频道简介，科技相关。                                     |
 | [Karen 医生の日常](https://t.me/KarenMoe)                 | 一个小医生的通讯站。不想出名，只传播一些信息和科普。         |
-| [𝑾𝒊𝒌𝒊𝑫𝑩](https://t.me/wikidb)                             | The right way, or the easy way.                              |
 | [人海拾贝FlipRadio](https://t.me/flipradio)               | 翻转电台的 Channel，一些零零散散的要分享的东西。             |
 | [Find Blog](https://t.me/FindBlog)                        | 发现优秀的博客与创作者。                                     |
 | [TomBen’s Web Excursions](https://t.me/tombenor)          | PhD Student、Productivity Enhancer、Writing Enthusiast <br />[博客](https://blog.retompi.com/) \| [少数派](https://sspai.com/u/tomben/updates) |
