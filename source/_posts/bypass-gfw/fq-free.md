@@ -57,7 +57,7 @@ tags: 突破网络审查
 
 ## 赛风
 
-[Psiphon](https://s3.amazonaws.com/psiphon/web/mmqu-p8qj-sgdq/zh/index.html) 是一个 [开源](https://github.com/Psiphon-Inc/psiphon) 的免费翻墙软件。
+[Psiphon](https://s3.amazonaws.com/psiphon/web/mmqu-p8qj-sgdq/zh/index.html) 是一个 [开源](https://github.com/Psiphon-Inc/psiphon) 的免费翻墙软件，是我 2016 年刚开始自学翻墙时的垫脚石，没想到现在还能用。
 
 ### Android
 
