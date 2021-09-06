@@ -922,6 +922,10 @@ Windows 的默认图片浏览器非常难用。而 qimgv 是一款开源的图�
 
 
 
+**购买新机**
+
+收到电脑后，先不要联网激活，用 U 盘拷贝 [图吧工具箱](http://www.tbtool.cn/) 到新电脑，检测电脑的各项硬件。by [大终极笔记本电脑选购指南，帮你买到心仪的电脑｜大狸子切切里 - YouTube](https://www.youtube.com/watch?v=2TguunSEhRI)
+
 
 
 **参考资料**

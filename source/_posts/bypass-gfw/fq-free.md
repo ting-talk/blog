@@ -2,7 +2,7 @@
 
 title: 拨开迷雾看世界
 date: 2020-02-22  
-updated: 2020-05-15    
+updated: 2021-05-15    
 categories: 翻墙方法   
 tags: 突破网络审查    
 
@@ -54,6 +54,27 @@ tags: 突破网络审查
 [Geph announcements | 迷雾通电报通知频道](https://t.me/gephannounce)
 
 
+
+## 赛风
+
+[Psiphon](https://s3.amazonaws.com/psiphon/web/mmqu-p8qj-sgdq/zh/index.html) 是一个 [开源](https://github.com/Psiphon-Inc/psiphon) 的免费翻墙软件。
+
+### Android
+
+方法一：[点此](https://s3.amazonaws.com/psiphon/web/mmqu-p8qj-sgdq/PsiphonAndroid.apk) 直接下载 apk
+方法二：在谷歌应用商店搜索 `赛风` 或者 [点此](https://play.google.com/store/apps/details?id=com.psiphon3) 跳转到 Google Play
+方法三：发送空白邮件到 `get@psiphon3.com`
+
+但是开启 VPN 后会有一个广告：浏览器会跳转到 [美国之音](https://projects.voanews.com/landing/mandarin/)
+
+### Windows
+
+方法一：[点此](https://s3.amazonaws.com/psiphon/web/mmqu-p8qj-sgdq/psiphon3.exe) 直接下载 exe
+方法二：发送空白邮件到 `get@psiphon3.com`
+
+### iOS & macOS
+
+在苹果应用商店搜索 `赛风` 或者 [点此](https://apps.apple.com/app/psiphon/id1276263909) 跳转到 App Store
 
 
 

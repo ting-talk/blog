@@ -20,15 +20,10 @@ tags: [生活, 技能]
 收集的教程，有空就看看，没看就自己琢磨，不必一步到位。
 
 - [自我隔离前去了趟盒马超市，这些都是值得「囤」的 - Mio是8不是7](https://sspai.com/post/58737)
-
 - [盒马有什么值得买？](https://dengbiao.me/?p=1898)
-
 - [好好吃饭，天天学习——两小时完成一周的备餐 - VictoriaY](https://sspai.com/post/59197)
-
 - [番茄汁肉末烧豆角](https://www.youtube.com/watch?v=caPNJZwyeOo)
-
-- [拒绝难吃的减脂餐！超好吃一周减脂便当一次搞定 - 曼食慢语](https://www.youtube.com/watch?v=JiUyIdTBP6M)
-
+- [15 分钟吃上晚餐 - 曼食慢语](https://www.bilibili.com/video/BV1Uv411N7Kh)
 - [食材简单 A+B，属于工作日的一锅流 - 好大一个包](https://sspai.com/post/64109)
 
 曼食慢语 Amanda Tastes
@@ -36,6 +31,7 @@ tags: [生活, 技能]
 - [3 分钟吃上早餐，绝不浪费懒觉时间 breakfast mealprep, 5 recipes for a month丨曼食慢语 - YouTube](https://www.youtube.com/watch?v=qkvsNuWqSrA)
 - [一周午餐一次搞定——真的能做到吗？prepare lunch boxes for all workdays at once（meal prepQ&A）丨曼食慢语 - YouTube](https://www.youtube.com/watch?v=8dWiB5Na_-I)
 - [快乐减脂餐！一次搞定一周便当 meal prep for 1 week low-fat lunch-box in 2 hours丨曼食慢语 - YouTube](https://www.youtube.com/watch?v=LZpInMIf75c)
+- [拒绝难吃的减脂餐！超好吃一周减脂便当一次搞定 - 曼食慢语](https://www.youtube.com/watch?v=JiUyIdTBP6M)
 
 
 
@@ -899,6 +895,14 @@ by [马小坏](https://www.bilibili.com/video/av28995180)
 茄子：切成成长条，加盐腌制，挤出水分。
 
 豆角（豇豆）：水煮，或小火慢慢炒至皱皮。
+
+
+
+### 🎃 软烧南瓜
+
+[软烧南瓜 by 王刚 - YouTube](https://www.youtube.com/watch?v=a3sW7EvK32g)
+
+[无水烧南瓜 by 小高姐 - YouTube](https://www.youtube.com/watch?v=pQvLgXIjrww)
 
 
 

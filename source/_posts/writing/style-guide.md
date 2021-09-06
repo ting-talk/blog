@@ -1001,6 +1001,7 @@ IOC（International Olympic Committee，国际奥林匹克委员会）。这样�
 
 ## 参考资料
 
+- 视频：[几件小事，快速拯救你的排版 - oooooohmygosh](https://www.bilibili.com/video/BV13M4y157Xc)
 - [中文技术文档写作风格指南 - yikeke](https://zh-style-guide.readthedocs.io/zh_CN/latest/)：比本篇写得更详细，推荐阅读。
 - [文风指南 - 泛化智能（gi）](https://github.com/generalized-intelligence/gi-Chinese-Style-Guide/blob/master/%E6%B3%9B%E5%8C%96%E6%99%BA%E8%83%BD%EF%BC%88gi%EF%BC%89%E6%96%87%E9%A3%8E%E6%8C%87%E5%8D%97.md)
 - [写作风格手册 - 好奇心日报](https://www.qdaily.com/articles/1397.html)
