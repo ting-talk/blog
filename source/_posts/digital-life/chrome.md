@@ -2,7 +2,7 @@
 
 title: Google Chrome（谷歌浏览器）：扩展程序（插件）推荐及使用技巧
 date: 2019-10-13  
-updated: 2020-06-23
+updated: 2021-06-23
 categories: 数字生活   
 tags: [Chrome, 网上冲浪指南] 
 
@@ -147,12 +147,30 @@ https://git.io/ublacklist
 
 
 
+#### [Language Reactor](https://www.languagereactor.com/)
+
+边看视频，边学英文。目前只支持Chrome 浏览器。
+
+- 观看 Netflix、YouTube 时自动开启双字幕或三字幕（机器翻译、人工翻译）
+- 鼠标移至生词，释义自动显示，视频自动暂停
+- 鼠标单击生词，显示详细释义，自动发音
+
+更多功能，请参阅 [官方入门指南](https://www.languagereactor.com/help/basic) 以及 [电脑玩物的介绍](https://www.playpcesor.com/2021/09/language-reactor-netflixyoutube.html)。
+
+
+
 #### [Grammarly](https://www.grammarly.com/)
 
 Enhance your written communication everywhere you type.
 
 - 免费版提供语法纠正（Grammar）、拼写纠正（Spelling）和标点纠正（Punctuation）等基础功能。
 - 支持 [网页版](https://app.grammarly.com/)、 [Mac 版](https://www.grammarly.com/native/mac)、[Windows 版](https://www.grammarly.com/native/windows)、[Word 插件](https://www.grammarly.com/office-addin) 和输入法。但和 Grammarly 最般配的是，[把它装进浏览器里](https://chrome.google.com/webstore/detail/grammarly-for-chrome/kbfnbcaeplbcioakkpcpgfkobkghlhen)，不管是写邮件、还是在社交媒体上发 Post，它就是你身边的写作小助手。
+
+
+
+
+
+
 
 
 
@@ -271,9 +289,17 @@ RSSHub Radar 是 [RSSHub](https://github.com/DIYgod/RSSHub) 的衍生项目，�
 
 
 
-### YouTube 双字幕
 
 
+### 需要时才启用的插件
+
+在性能不足的电脑上，启动过多的扩展程序会拖慢系统的运行速度。因此，临时关闭一些不常用的扩展程序，需要时再启用，是一个折衷的方法。
+
+
+
+#### YouTube 双字幕
+
+已被 Language Reactor 取代。
 
 ☝️ [YouTube™双字幕](https://chrome.google.com/webstore/detail/youtube-dual-subtitles/hkbdddpiemdeibjoknnofflfgbgnebcm) ☝️
 
@@ -281,6 +307,7 @@ RSSHub Radar 是 [RSSHub](https://github.com/DIYgod/RSSHub) 的衍生项目，�
 - 仅支持 YouTube
 
 最佳实践
+
 1. 浏览器语言设置为你的母语
 2. YouTube 的默认字幕设置为「自动」
 
@@ -289,12 +316,6 @@ RSSHub Radar 是 [RSSHub](https://github.com/DIYgod/RSSHub) 的衍生项目，�
 - 支持中文注音、日语注音和词性标注
 - 功能强大，[官网网站](https://dualsub.netlify.app/zh-cn/quickstart) 提供了详细的新手指南和设置帮助
 - 支持 YouTube、Netflix、Hulu、HBO Max、爱奇艺国际版、哔哩哔哩、网易云音乐、QQ 音乐等 16 个视频/音频网站
-
-
-
-### 需要时才启用的插件
-
-在性能不足的电脑上，启动过多的扩展程序会拖慢系统的运行速度。因此，临时关闭一些不常用的扩展程序，需要时再启用，是一个折衷的方法。
 
 
 
@@ -366,6 +387,10 @@ RSSHub Radar 是 [RSSHub](https://github.com/DIYgod/RSSHub) 的衍生项目，�
 #### [几枝](https://chrome.google.com/webstore/detail/%E5%87%A0%E6%9E%9D/hfohpokminpknagcgncibpacohagppjn)
 
 搭配经典诗词，在新标签页上展示中国传统色的层叠波浪动画效果。
+
+
+
+
 
 
 
