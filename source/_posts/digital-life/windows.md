@@ -209,6 +209,12 @@ powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61
 
 
 
+### 复制文件路径
+
+`Shift` + 鼠标右键单击文件，在弹出菜单中选择 `复制文件地址`。
+
+
+
 ### 其它技巧
 
 - 视频教程：[如何在局域网中共享电脑文件夹？- Topbook](https://topbook.cc/search/article?keywords=%E5%B1%80%E5%9F%9F%E7%BD%91&selectedArticle=1367)
@@ -776,6 +782,8 @@ Windows 的默认图片浏览器非常难用。而 qimgv 是一款开源的图�
 #### 微软拼音
 
 自带的输入法已经足够好用，而国产的输入法有关不完的广告弹窗。
+
+ `Win` + `;` / `.`：可在任何应用程序中使用表情符号（Emoji）。
 
 **通过自定义短语实时输入日期和时间**
 
