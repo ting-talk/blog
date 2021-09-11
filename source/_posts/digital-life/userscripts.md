@@ -14,6 +14,18 @@ tags: [Chrome, 网上冲浪指南]
 
 <!-- more -->
 
+## 油猴来由
+
+油猴脚本，正式的叫法是用户脚本（user script）。
+
+你可以将用户脚本理解为一种可以根据我们的实际需求，为网页「加料」的手段。
+
+如果要用严谨一点的定义来说，用户脚本其实是一种注入式的 JavaScript 程序，在网页本身的程序之外，通过一些手段，将用户需要的数据和逻辑注入到当前的网页中，达到修改界面、增加功能等等的目的。
+
+之所以叫做「油猴」，是因为第一个制作这个浏览器扩展的作者 Aaron Boodman 起名叫做 Greasymonkey，中文直译就是「油腻的猴子」；后面其他脚本开发的时候，基本都在沿用 Greasymonkey 的一些基本规范，这些脚本也就统称为「油猴脚本」了。by [油猴使用指南 01：传说中的「油猴」与用户脚本 - kokdemo](https://sspai.com/post/68574)
+
+
+
 ## 安装油猴
 
 - 有 [番茄](https://tingtalk.me/fq/)，通过 [官网](https://www.tampermonkey.net/) 在线安装
@@ -27,7 +39,7 @@ tags: [Chrome, 网上冲浪指南]
 
 > 用户脚本是一段代码，它们能够优化您的网页浏览体验。安装之后，有些脚本能为网站添加新的功能，有些能使网站的界面更加易用，有些则能隐藏网站上烦人的部分内容。 
 
-1. 打开 [Greasy Fork](https://greasyfork.org/zh-CN)
+1. 打开一个著名的脚本源网站：[Greasy Fork](https://greasyfork.org/zh-CN)
 2. 搜索脚本，或 [根据脚本生效的网站过滤](https://greasyfork.org/zh-CN/scripts/by-site)
 3. 安装脚本（[油猴脚本图文安装教程](https://chrome.zzzmh.cn/help?token=dhdgffkkebhmkfjojejmpbldmpobfkfo)）
 
