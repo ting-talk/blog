@@ -1097,10 +1097,11 @@ Creat New Folder（新建分组）时有以下筛选条件可选：
 👌 Telegram 搜索引擎（非官方），可能包含不少 NSFW 内容。
 
 - 索引机器人
-  - [@zh_secretary_bot](http://t.me/zh_secretary_bot) 
+  - [@zh_secretary_bot](http://t.me/zh_secretary_bot) 👍
+  - [@PolarisseekBot](http://t.me/PolarisseekBot)
   - [@hao1234bot](http://t.me/hao1234bot)
   - [@hao6bot](http://t.me/hao6bot)
-
+  
 - 网页版
   - [Lyzem Search](https://lyzem.com/)
   - [名刀电报搜索](https://xtea.io/ts.html#gsc.tab=0)
@@ -1182,30 +1183,31 @@ https://rsshub.app/telegram/channel/tingtalk
 - 对于事实，要有多个独立信源交叉验证。
 - 对于观点，要注意论述逻辑和因果关系。
 
-| 频道                                                  | 详情                                                         |
-| ----------------------------------------------------- | ------------------------------------------------------------ |
-| [看鉴中国 OutsightChina](https://t.me/OutsightChina)  | 👍 一个健康的社会，不该只有一种声音。看鉴中国，每天聚焦一则关于中国的新闻事件，带你对比来自中外不同媒体多元的、不一样的观点。 |
-| [乌鸦观察](https://t.me/bigcrowdev)                   | 👍 不定期推送新闻和杂谈。                                     |
-| [竹新社](https://t.me/tnews365)                       | 7×24 不定时编译国内外媒体的即时新闻报道。                    |
-| [有据](https://t.me/chinafactcheck)                   | [China Fact Check](https://chinafactcheck.com/) 是一个专注于对中文国际资讯进行事实核查的计划，是基于志愿和网络协作原则的事实核查计划，努力连接大学、媒体和平台三方力量。 |
-| [新闻实验室](https://t.me/newslab2020)                | 推荐订阅方可成老师的 [Newsletter](https://sibforms.com/serve/MUIEABj_H1nZN9Jj5HLcOE61NoO8So-r5phaSIn4ZUqqLv_WdJP-bpiAazMxwp2uOWb-aeF-hiOScIzPxwovvRjNYF6METjZVOafOAQANa9tnIeocTm6fv6RurLCTUVGzKrjBrhtIj9q2wVOmIYoltrV310MEOEi-vg3E0uPES0voX-FjBRHd4mPx0woiIsLiZ6-YXnI80PyhpUH)。[微信公众号文章备份](https://github.com/Newslab2020/Contents/blob/master/wechataccount.md)。 |
-| [南方周末](https://t.me/infzm)                        | 在这里，读懂中国。非官方。                                   |
-| [iDaily](https://t.me/idaily_rss)                     | [每日环球视野](http://idai.ly/)。                            |
-| [新周刊](https://t.me/neweekly)                       | 一本杂志和一个时代的体温。                                   |
-| [南都观察](https://t.me/nanduguancha_rss)             | RSS 地址：https://www.nanduguancha.cn/rss                    |
-| [新闻联播（文字版）](https://t.me/cctv_news_official) | 《新闻联播》是中国中央电视台每日在北京时间晚间 19:00 播出的一個重点时政新闻节目，于 1978 年 1 月 1 日启播。 |
-| [中国数字时代消息推送](https://t.me/cdtchinesefeed)   | 致力于聚合「中国的社会与政治新闻，和它在世界上的新兴的角色」有关的报道和评论。 |
-| [多数派Masses](https://t.me/masses2020)               | 我们是一群反对资本主义、反对帝国主义、反对父权制、反对一切压迫和宰制的青年。[Matters 的创作空间站](https://matters.news/@masses2020) \| [Newsletter](https://www.masseshere.com/%e8%ae%a2%e9%98%85%e7%94%b5%e5%ad%90%e6%8a%a5/) |
-| [60 秒读懂世界](https://t.me/SharedResources)         | 来自 60 秒读懂世界公众号。                                   |
-| [突发新闻](https://t.me/breakingnews_t)               | 突发新闻推送服务（简体中文）。                               |
-| [NFW](https://t.me/NewsFW)                            | News for Work, Not for Work.                                 |
-| [电报时报](https://t.me/times001)                     | 提供全天候热点中国及国际新闻，涵盖突发新闻、时事、财经、娱乐、体育，评论、杂志和博客等。 |
-| [蘋果日報](https://t.me/appledailyhk)                 | [Apple Daily](https://hk.appledaily.com/) 为香港上市公司壹传媒旗下繁体中文报纸，由大股东黎智英所创立，被民主派支持者普遍认为是香港目前唯一未被「染红」的媒体。by [维基百科](https://zh.wikipedia.org/zh-cn/%E8%98%8B%E6%9E%9C%E6%97%A5%E5%A0%B1_(%E9%A6%99%E6%B8%AF)) |
-| [台湾 中央社 香港 苹果日报](https://t.me/ttww_rss)    | 如题。                                                       |
-| [NGOCN](https://t.me/ngocn01)                         | [NGOCN](https://ngocn2.org/) 是一家中国独立媒体，非营利性质，致力向公众提供进步、负责任且多元的纪实性内容，目前由认同其理念志愿者运营。 |
-| [端傳媒 Initium Media](https://t.me/the_InitiumMedia) | 由程式自動獲取並推送端傳媒 RSS 所有文章，链接至官网。        |
-| [端传媒 RSS](https://t.me/theinitium_rss)             | 链接至 Telegraph 和官网。RSS 地址：https://rsshub.app/initium/latest/zh-hans |
-| [端传媒](https://t.me/lnitiumMedia)                   | 每日推送端传媒（付费）文章.pdf。手头宽裕，还是 [付费购买端会员](https://theinitium.com/subscription/offers/) 或购买 [新闻通讯 Newsletter](https://i.init.shop/collections/newsletter/products/daily-newsletter-original)。 |
+| 频道                                                      | 详情                                                         |
+| --------------------------------------------------------- | ------------------------------------------------------------ |
+| [看鉴中国 OutsightChina](https://t.me/OutsightChina)      | 👍 一个健康的社会，不该只有一种声音。看鉴中国，每天聚焦一则关于中国的新闻事件，带你对比来自中外不同媒体多元的、不一样的观点。 |
+| [乌鸦观察](https://t.me/bigcrowdev)                       | 👍 不定期推送新闻和杂谈。                                     |
+| [竹新社](https://t.me/tnews365)                           | 7×24 不定时编译国内外媒体的即时新闻报道。                    |
+| [有据](https://t.me/chinafactcheck)                       | [China Fact Check](https://chinafactcheck.com/) 是一个专注于对中文国际资讯进行事实核查的计划，是基于志愿和网络协作原则的事实核查计划，努力连接大学、媒体和平台三方力量。 |
+| [新闻实验室](https://t.me/newslab2020)                    | 推荐订阅方可成老师的 [Newsletter](https://sibforms.com/serve/MUIEABj_H1nZN9Jj5HLcOE61NoO8So-r5phaSIn4ZUqqLv_WdJP-bpiAazMxwp2uOWb-aeF-hiOScIzPxwovvRjNYF6METjZVOafOAQANa9tnIeocTm6fv6RurLCTUVGzKrjBrhtIj9q2wVOmIYoltrV310MEOEi-vg3E0uPES0voX-FjBRHd4mPx0woiIsLiZ6-YXnI80PyhpUH)。[微信公众号文章备份](https://github.com/Newslab2020/Contents/blob/master/wechataccount.md)。 |
+| [南方周末](https://t.me/infzm)                            | 在这里，读懂中国。非官方。                                   |
+| [iDaily](https://t.me/idaily_rss)                         | [每日环球视野](http://idai.ly/)。                            |
+| [新周刊](https://t.me/neweekly)                           | 一本杂志和一个时代的体温。                                   |
+| [南都观察](https://t.me/nanduguancha_rss)                 | RSS 地址：https://www.nanduguancha.cn/rss                    |
+| [新闻联播（文字版）](https://t.me/cctv_news_official)     | 《新闻联播》是中国中央电视台每日在北京时间晚间 19:00 播出的一個重点时政新闻节目，于 1978 年 1 月 1 日启播。 |
+| [中国数字时代消息推送](https://t.me/cdtchinesefeed)       | 致力于聚合「中国的社会与政治新闻，和它在世界上的新兴的角色」有关的报道和评论。 |
+| [多数派Masses](https://t.me/masses2020)                   | 我们是一群反对资本主义、反对帝国主义、反对父权制、反对一切压迫和宰制的青年。[Matters 的创作空间站](https://matters.news/@masses2020) \| [Newsletter](https://www.masseshere.com/%e8%ae%a2%e9%98%85%e7%94%b5%e5%ad%90%e6%8a%a5/) |
+| [60 秒读懂世界](https://t.me/SharedResources)             | 来自 60 秒读懂世界公众号。                                   |
+| [突发新闻](https://t.me/breakingnews_t)                   | 突发新闻推送服务（简体中文）。                               |
+| [NFW](https://t.me/NewsFW)                                | News for Work, Not for Work.                                 |
+| [电报时报](https://t.me/times001)                         | 提供全天候热点中国及国际新闻，涵盖突发新闻、时事、财经、娱乐、体育，评论、杂志和博客等。 |
+| [蘋果日報](https://t.me/appledailyhk)                     | [Apple Daily](https://hk.appledaily.com/) 为香港上市公司壹传媒旗下繁体中文报纸，由大股东黎智英所创立，被民主派支持者普遍认为是香港目前唯一未被「染红」的媒体。by [维基百科](https://zh.wikipedia.org/zh-cn/%E8%98%8B%E6%9E%9C%E6%97%A5%E5%A0%B1_(%E9%A6%99%E6%B8%AF)) |
+| [台湾 中央社 香港 苹果日报](https://t.me/ttww_rss)        | 如题。                                                       |
+| [NGOCN](https://t.me/ngocn01)                             | [NGOCN](https://ngocn2.org/) 是一家中国独立媒体，非营利性质，致力向公众提供进步、负责任且多元的纪实性内容，目前由认同其理念志愿者运营。 |
+| [中华人民共和国外交部发言人表态](https://t.me/ChinaMOFAS) | 外交部负责处理中华人民共和国政府与世界其他国家政府及政府间国际组织的外交事务。 |
+| [端傳媒 Initium Media](https://t.me/the_InitiumMedia)     | 由程式自動獲取並推送端傳媒 RSS 所有文章，链接至官网。        |
+| [端传媒 RSS](https://t.me/theinitium_rss)                 | 链接至 Telegraph 和官网。RSS 地址：https://rsshub.app/initium/latest/zh-hans |
+| [端传媒](https://t.me/lnitiumMedia)                       | 每日推送端传媒（付费）文章.pdf。手头宽裕，还是 [付费购买端会员](https://theinitium.com/subscription/offers/) 或购买 [新闻通讯 Newsletter](https://i.init.shop/collections/newsletter/products/daily-newsletter-original)。 |
 
 
 
@@ -1248,13 +1250,15 @@ https://rsshub.app/telegram/channel/tingtalk
 
 | 频道                                                 | 详情                                                         |
 | ---------------------------------------------------- | ------------------------------------------------------------ |
-| [少数派](https://t.me/sspai)                         | 👍 少数派致力于更好地运用数字产品或科学方法，帮助用户提升工作效率和生活品质。 |
 | [Solidot](https://t.me/solidot)                      | 👍 奇客的资讯，重要的东西。                                   |
+| [Readhub](https://t.me/readhub_cn)                   | 👍 [readhub.cn](https://readhub.cn/) 非官方 RSS 推送频道。    |
 | [Newlearnerの自留地](https://t.me/NewlearnerChannel) | 👍 不定期推送 IT 相关资讯。                                   |
 | [Appinn Feed](https://t.me/appinnfeed)               | 👍 分享免费、小巧、实用、有趣、绿色的软件。                   |
+| [少数派](https://t.me/sspai)                         | 👍 少数派致力于更好地运用数字产品或科学方法，帮助用户提升工作效率和生活品质。 |
 | [科技爱好者周刊](https://t.me/scitech_fans)          | 👍 记录每周值得分享的科技内容，周五发布；非官方频道。[科技爱好者周刊合集](https://www.yuque.com/ruanyf/weekly)。 |
-| [TestFlight 科技花](https://t.me/TestFlightCN)       | 👍 发布科技新闻、App 测试版链接、软件使用相关话题。           |
+| [TestFlight 科技花](https://t.me/TestFlightCN)       | 发布科技新闻、App 测试版链接、软件使用相关话题。             |
 | [Hacker News](https://t.me/hacker_news_feed)         | Top stories from news.ycombinator.com (with 100+ score).     |
+| [V2EX - 最新/最热主题](https://t.me/V2EX_topic)      | V2EX 是创意工作者们的社区，可以分享生活和事业。              |
 | [科技圈的日常](https://t.me/misakatech)              | 科技圈内的大事小事。                                         |
 | [Telegram 中文 NEWS](https://t.me/YinxiangBiji_News) | [聪聪](hhttps://congcong0806.github.io/2018/04/24/Telegram/) 的频道：提供印象笔记、Telegram、科学上网等新闻。[Telegram 知识汇总](https://t.me/YinxiangBiji_News/954)。 |
 | [每日消费电子观察](https://t.me/CE_Observe)          | 不公正，不客观，不理性。                                     |
@@ -1308,11 +1312,12 @@ https://rsshub.app/telegram/channel/tingtalk
 | [为也行](https://t.me/weiyexing)                          | 「书籍 \| 电影 \| 资源 \| 技巧 \| 摸鱼图」大多原创，少部分转发。 |
 | [Jerry Zhang 的频道](https://t.me/JerryZhang)             | 在渥太华的长春人。<br />博客：[Overflow](https://jerryzhang.blog/)，向信息过载的世界大喊。<br />播客：[《科技聚变》](https://techfusionfm.com/)（TechFusion），我们谈论有关互联网的一切。 |
 | [老人和糟](https://t.me/dizzyninja)                       | 没有频道简介，科技相关。                                     |
-| [Karen 医生の日常](https://t.me/KarenMoe)                 | 一个小医生的通讯站。不想出名，只传播一些信息和科普。         |
+| [Karen 医生の日常](https://t.me/KarenMoe)                 | 一个小医生的通讯站。不想出名，只传播一些信息和科普。谨慎关注，会发一些血淋淋的图片。 |
 | [人海拾贝FlipRadio](https://t.me/flipradio)               | 翻转电台的 Channel，一些零零散散的要分享的东西。             |
 | [Find Blog](https://t.me/FindBlog)                        | 发现优秀的博客与创作者。                                     |
 | [TomBen’s Web Excursions](https://t.me/tombenor)          | PhD Student、Productivity Enhancer、Writing Enthusiast <br />[博客](https://blog.retompi.com/) \| [少数派](https://sspai.com/u/tomben/updates) |
 | [熊言熊语](https://t.me/kaopubear)                        | 「熊言熊语」是一档关注学习分享和知识科普的 [播客](https://podcast.kaopubear.top/) 栏目，我们希望用声音记录改变与成长。思考问题的熊和他的朋友们一起聊学习工作、聊科研科普。<br />[博客](https://kaopubear.top/blog/) \| [Newsletter](https://top.us10.list-manage.com/subscribe?u=82fe193c38ed8c2752100685b&id=9dc03f5017) |
+| [Hell Cell 功能教学](https://t.me/HellCellZC123)          | 通过 [YouTube](https://www.youtube.com/channel/UCgjdfJbXYaFfC3Wxump37Mg) 视频讲解一些实用软件那些有用有趣的功能。 |
 
 [中文独立博客列表](https://github.com/timqian/chinese-independent-blogs) by timqian
 
@@ -1326,22 +1331,6 @@ https://rsshub.app/telegram/channel/tingtalk
 | [All About RSS](https://t.me/aboutrss)      | 关于 RSS 技术的应用、周边、介绍、方法、教程、指南、讨论、观点。 |
 | [RSS 频道收集](https://t.me/rss_channels)   | 收集推送 RSS 的频道，把 TG 变成 RSS 阅读器。                 |
 
-
-
-#### 🎞️ 影视
-
-| 频道                                             | 详情                                                         |
-| ------------------------------------------------ | ------------------------------------------------------------ |
-| [电影爱好者](https://t.me/MovieAnywhere)         | 👍 附带豆瓣电影评分。                                         |
-| [4K 影视屋](https://t.me/dianying4K)             | 蓝光无损电影。                                               |
-| [电影频道](https://t.me/Cctv365)                 | 想看什么电影请在评论区留言。                                 |
-| [远鉴字幕组发布频道](https://t.me/VisionarySub)  | 本字幕组致力于非院线海外电影及海外剧集的译制与分享。         |
-| [人人影视字幕文件](https://t.me/yyets_subtitles) | 这个频道与人人影视及其字幕组无任何关联。                     |
-| [霸王龙发布频道](https://t.me/T_rex2333)         | 做一个有温度，有思想，懂粉丝的压制组。<br/>每天定时更新，选取优质影片源。<br/>专注于韩美剧，经典的电影榜单。 |
-| [苍炎影院](https://t.me/cangyanmovie)            | 分享最新最热门的优质电影。                                   |
-| [迷影果醬](https://t.me/cinephiliajam)           | 无规律放映影片。                                             |
-| [4K 影视屋](https://t.me/dianying4K)             | 4K 电影种子发布频道。                                        |
-| [四库全书视频精选](https://t.me/video4lib)       | 一个不断收集互联网有价值内容的企划。                         |
 
 
 
@@ -1364,21 +1353,22 @@ https://rsshub.app/telegram/channel/tingtalk
 
 #### 🎵 音乐
 
-| 频道                                             | 详情                                         |
-| ------------------------------------------------ | -------------------------------------------- |
-| [知音](https://t.me/Musiccnchannel)              | 👍 发一些关于音乐的东西。                     |
-| [Imusic](https://t.me/Imusic_zz)                 | 音乐，就是理想的挽歌，年代久远，依然飘扬。   |
-| [杂鱼Music Channel](https://t.me/ZAYU_music)     | 我相信，爱音乐的人都有着一颗柔软的心。       |
-| [音乐世界](https://t.me/lumingguandj)            | 温柔被我唱成了歌，伴你人山人海不停留。       |
-| [心声：音乐分享频道](https://t.me/yyfx_p)        | 分享一些能引起共鸣的音乐。                   |
-| [每日一歌](https://t.me/dailymusich)             | 愿你也能在这里找到属于你自己的共鸣。         |
-| [Classical Music](https://t.me/exploreclassical) | 一起来听古典音乐吧。                         |
-| [蛙音通讯](https://t.me/wahyin)                  | Feels wonderful again man.                   |
-| [无损音乐频道](https://t.me/undamaged_music)     | 分享无损音乐、高品质音乐、原碟整轨分轨音频。 |
-| [浦镇青年](https://t.me/Asdzxcyuihjkqwe)         | 李志。                                       |
-| [崔健无损](https://t.me/CuiJianDiscography)      | 中国大陆摇滚先驱者。                         |
-| [音乐分享频道](https://t.me/yyfx_pd)             | 一般为无损音乐。                             |
-| [音乐屋](https://t.me/Music_home0)               | 发现音乐新世界：live、黑胶、磁带             |
+| 频道                                             | 详情                                                         |
+| ------------------------------------------------ | ------------------------------------------------------------ |
+| [知音](https://t.me/Musiccnchannel)              | 👍 发一些关于音乐的东西。                                     |
+| [Imusic](https://t.me/Imusic_zz)                 | 音乐，就是理想的挽歌，年代久远，依然飘扬。                   |
+| [杂鱼Music Channel](https://t.me/ZAYU_music)     | 我相信，爱音乐的人都有着一颗柔软的心。                       |
+| [音乐世界](https://t.me/lumingguandj)            | 温柔被我唱成了歌，伴你人山人海不停留。                       |
+| [心声：音乐分享频道](https://t.me/yyfx_p)        | 分享一些能引起共鸣的音乐。                                   |
+| [每日一歌](https://t.me/dailymusich)             | 愿你也能在这里找到属于你自己的共鸣。                         |
+| [Classical Music](https://t.me/exploreclassical) | 一起来听古典音乐吧。                                         |
+| [蛙音通讯](https://t.me/wahyin)                  | Feels wonderful again man.                                   |
+| [无损音乐频道](https://t.me/undamaged_music)     | 分享无损音乐、高品质音乐、原碟整轨分轨音频。                 |
+| [浦镇青年](https://t.me/Asdzxcyuihjkqwe)         | 李志。                                                       |
+| [崔健无损](https://t.me/CuiJianDiscography)      | 中国大陆摇滚先驱者。                                         |
+| [音乐分享频道](https://t.me/yyfx_pd)             | 一般为无损音乐。                                             |
+| [音乐屋](https://t.me/Music_home0)               | 发现音乐新世界：live、黑胶、磁带                             |
+| [CXPLAY MUSIC](https://t.me/cxplaymusic)         | 单曲音乐试听，专辑存放在 [这](https://t.me/musicsharetime)。 |
 
 下载音乐，还可以查阅下文中提到的音乐机器人。
 
@@ -1471,6 +1461,7 @@ https://rsshub.app/telegram/channel/tingtalk
 | [即刻精选](https://t.me/jike_collection)      | 精选即刻 app 热门话题更新。我的即刻 ID 是 [Dr_Ting](https://m.okjike.com/users/Zhong_Waiting)。 |
 | [你不知道的内幕消息](https://t.me/inside1024) | 同时抓取来自即刻 app 的 #大公司的负面新闻。                  |
 | [Matters 閲讀精選](https://t.me/MattersHub)   | matters.news 一個自主、永續、有價的創作與公共討論空間。      |
+| [Leanote](https://t.me/leanote)               | 今天的定位（今天的是什么日子呢）：单向历、mono日签等         |
 
 
 
@@ -1489,6 +1480,21 @@ https://rsshub.app/telegram/channel/tingtalk
 | [Google Drive 资源](https://t.me/gdurl)             | 各种 Google Drive 资源，包括电影、电子书、无损音乐等，10 万+ 关注。 |
 | [Google Voice 靓号](https://t.me/voice_google)      | 一个 GV 卖家。                                               |
 | [Windows 10 激活码分享](https://t.me/win10keymaxs)  | 🤫                                                            |
+
+
+
+##### 🎞️ 影视
+
+| 频道                                       | ID               | 详情                                                         |
+| ------------------------------------------ | ---------------- | ------------------------------------------------------------ |
+| [四库全书视频精选](https://t.me/video4lib) | `@video4lib`     | 一个不断收集互联网有价值内容的企划。                         |
+| [电影爱好者](https://t.me/MovieAnywhere)   | `@MovieAnywhere` | 附带豆瓣电影评分。                                           |
+| [电影频道](https://t.me/TGDY188)           | `@TGDY188`       | 每天一部好电影。                                             |
+| [4K 影视屋](https://t.me/dianying4K)       | `@dianying4K`    | 蓝光无损电影。                                               |
+| [华联社](https://t.me/Cctv365)             | `@Cctv365`       | 想看什么电影请在评论区留言。                                 |
+| [霸王龙发布频道](https://t.me/T_rex2333)   | `@T_rex2333`     | 做一个有温度，有思想，懂粉丝的压制组。<br/>每天定时更新，选取优质影片源。<br/>专注于韩美剧，经典的电影榜单。 |
+| [苍炎影院](https://t.me/cangyanmovie)      | `@cangyanmovie`  | 分享最新最热门的优质电影。                                   |
+| [迷影果醬](https://t.me/cinephiliajam)     | `@cinephiliajam` | 无规律地分享一些我遇到或想起的有、意思的片子，可能是电影或者剧集。 |
 
 
 
