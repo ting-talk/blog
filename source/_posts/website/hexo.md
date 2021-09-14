@@ -271,6 +271,18 @@ quicklink: enable
 
 
 
+## 🗞 Google AdSense
+
+AdSense 代码：
+```html
+<script data-ad-client="ca-pub-5917720111786469" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+```
+
+
+
+
+
+
 ## 📡 连接 GitHub
 
 `Win` + `S` 打开搜索，输入 `Git Bash`，或者在电脑任意位置右键打开 `Git Bash`，然后根据 GitHub 账号，修改下面的命令并复制到 `Git Bash`，Enter：

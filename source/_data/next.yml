@@ -1,0 +1,4 @@
+# 配置的原文可以在 themes/next/_config.yml 的 24 行找到(针对 v7.5.0)
+custom_file_path:
+  # 因为我们只需要自定义 head 部分，所以就只配置 head 这一个属性，其他都保持默认
+  head: source/_data/head.swig
