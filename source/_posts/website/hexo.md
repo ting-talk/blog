@@ -278,7 +278,7 @@ AdSense 代码：
 <script data-ad-client="ca-pub-5917720111786469" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 ```
 
-
+参考资料：[在 NexT 主题中接入 Google AdSense | Code Life](https://www.boris1993.com/others/hexo-next-enable-google-adsense.html)
 
 
 
