@@ -1141,28 +1141,42 @@ https://rsshub.app/telegram/channel/tingtalk
 
 #### ✈️ 电报
 
+##### 官方频道
+
 | 频道                                                  | 详情                                                         |
 | ----------------------------------------------------- | ------------------------------------------------------------ |
 | [Telegram News](https://t.me/telegram)                | 👍 电报官方新闻频道。                                         |
 | [Durov's Channel](https://t.me/durov)                 | 👍 杜罗夫（Telegram 创始人和 CEO）的频道。                    |
-| [TGgeek](https://t.me/TGgeek)                         | 👍 TG 极客：分享 Telegram 使用技巧、重要资讯、常见问答、中文汉化、版本更新等信息。 |
-| [Telegram Tips](https://t.me/TelegramTips)            | 👍电报小贴士（Tips）官方频道。                                |
-| [电报小助手](https://t.me/dbxzs)                      | 用简体中文同步翻译来自 @TelegramTips 的小技巧。              |
+| [Telegram Tips](https://t.me/TelegramTips)            | 👍 电报小贴士（Tips）官方频道。                               |
 | [Telegram APKs for Android](https://t.me/TAndroidAPK) | Official channel for Telegram Android APKs. You can also download them [here](https://telegram.org/dl/android/apk). |
 | [Telegram Designers](https://t.me/designers)          | 向电报提你想要的功能 [@design_bot](https://t.me/design_bot)  |
+| [BotNews](https://t.me/BotNews)                       | The official source for news about the Telegram Bot API.     |
 | [Telegram Contests](https://t.me/contest)             | Here we announce Telegram coding contests in Android Java, iOS Swift, JS, C/C++. |
 | [Desktop Themes Channel](https://t.me/themes)         | [电脑客户端主题创建指引](https://telegra.ph/Create-Theme-Desktop-FAQ) \| [Custom Themes 的简单介绍](https://telegram.org/blog/android-themes) |
 | [Android Themes Channel](https://t.me/AndroidThemes)  | [安卓客户端主题创建指引](https://telegra.ph/Create-Theme-Android-FAQ) \| 更多技术细节参阅 [Custom Cloud Themes](https://core.telegram.org/themes) |
 | [Telegram Auditions](https://t.me/TelegramAuditions)  | 加入 Telegram Support Force，帮扶 Telegram 做大做强，详情参阅这份 [Initiative](https://tsf.telegram.org/)。 |
-| [Telegram Contests](https://t.me/contest)             | Here we announce Telegram coding contests in Android Java, iOS Swift, JS, C/C++. |
 | [ISIS Watch](https://t.me/ISISwatch)                  | 电报官方反恐频道：[每日汇报有多少恐怖组织相关的频道被封了](https://t.me/isiswatch/2)。 |
-| [Trending Stickers](https://t.me/TrendingStickers)    | Telegram 又新增了哪些表情包。                                |
-| [紙飛機](https://t.me/tgflight)                       | 欢迎搭乘纸飞机，Porsche 和你聊聊 Telegram 的大小事。[播客 RSS 订阅链接](https://feeds.buzzsprout.com/837646.rss)。 |
-| [Anti Revoke Plugin](https://t.me/AntiRevoke)         | Telegram 本地消息防撤回插件，安全性未知，只支持 Windows 32 位系统。[GitHub 项目地址](https://github.com/SpriteOvO/Telegram-Anti-Revoke/blob/master/README-CN.md)。 |
-| [SCP-079-INFO](https://t.me/SCP_079_INFO)             | 免费并开源的群组管理机器人，需 [申请](https://scp-079.org/ApplyForUse/) 通过后才能使用。[查看项目介绍](https://scp-079.org/readme/)。 |
-| [SE-索引公告板](https://t.me/zh_secretary)            | Telegram 中文圈资源索引服务（包含 NSFW）。                   |
-| [电报指南 & 精品排行榜](https://t.me/TgTrillion)      | 👍 电报中文群组和频道收录。                                   |
-| [CN 导航](https://t.me/CN_DH)                         | 中文导航频道。                                               |
+
+##### 用户创建
+
+| 频道                                               | 详情                                                         |
+| -------------------------------------------------- | ------------------------------------------------------------ |
+| [TGgeek](https://t.me/TGgeek)                      | 👍 TG 极客：分享 Telegram 使用技巧、重要资讯、常见问答、中文汉化、版本更新等信息。 |
+| [电报小助手](https://t.me/dbxzs)                   | 用简体中文同步翻译官方 [@TelegramTips](https://t.me/TelegramTips) 中的小技巧。 |
+| [Trending Stickers](https://t.me/TrendingStickers) | Telegram 又新增了哪些表情包。                                |
+| [紙飛機](https://t.me/tgflight)                    | 欢迎搭乘纸飞机，Porsche 和你聊聊 Telegram 的大小事。[播客 RSS 订阅链接](https://feeds.buzzsprout.com/837646.rss)。 |
+| [Anti Revoke Plugin](https://t.me/AntiRevoke)      | Telegram 本地消息防撤回插件，安全性未知，只支持 Windows 32 位系统。[GitHub 项目地址](https://github.com/SpriteOvO/Telegram-Anti-Revoke/blob/master/README-CN.md)。 |
+
+
+##### TG 导航
+
+| 频道                                             | 详情                                         |
+| ------------------------------------------------ | -------------------------------------------- |
+| [SE-索引公告板](https://t.me/zh_secretary)       | 👍 Telegram 中文圈资源索引服务（包含 NSFW）。 |
+| [电报指南 & 精品排行榜](https://t.me/TgTrillion) | 👍 电报中文群组和频道收录。                   |
+| [CN 导航](https://t.me/CN_DH)                    | 中文导航频道。                               |
+| [Tg Tips](https://t.me/Tg1230)                   | TG 的操作、频道、广播、群组的信息库。        |
+
 
 
 
@@ -1318,6 +1332,7 @@ https://rsshub.app/telegram/channel/tingtalk
 | [TomBen’s Web Excursions](https://t.me/tombenor)          | PhD Student、Productivity Enhancer、Writing Enthusiast <br />[博客](https://blog.retompi.com/) \| [少数派](https://sspai.com/u/tomben/updates) |
 | [熊言熊语](https://t.me/kaopubear)                        | 「熊言熊语」是一档关注学习分享和知识科普的 [播客](https://podcast.kaopubear.top/) 栏目，我们希望用声音记录改变与成长。思考问题的熊和他的朋友们一起聊学习工作、聊科研科普。<br />[博客](https://kaopubear.top/blog/) \| [Newsletter](https://top.us10.list-manage.com/subscribe?u=82fe193c38ed8c2752100685b&id=9dc03f5017) |
 | [Hell Cell 功能教学](https://t.me/HellCellZC123)          | 通过 [YouTube](https://www.youtube.com/channel/UCgjdfJbXYaFfC3Wxump37Mg) 视频讲解一些实用软件那些有用有趣的功能。 |
+| [The Sociologist](https://t.me/thesoc)                    | 我们只谈论记忆，因为不再有记忆。                             |
 
 [中文独立博客列表](https://github.com/timqian/chinese-independent-blogs) by timqian
 
@@ -1429,11 +1444,10 @@ https://rsshub.app/telegram/channel/tingtalk
 
 **评测**
 
-| 频道                                              | 详情                                                         |
-| ------------------------------------------------- | ------------------------------------------------------------ |
-| [毒药机场评测](https://t.me/DuyaoSS)              | 由于大陆地区网络环境十分复杂，测速不代表推荐。另外，有些机场会泄露个人信息，选购时多加搜索或者进入机场用户群打探打探。 |
-| [科学上网与机场观察](https://t.me/jichangtj)      | 科学上网与机场相关观察、点评、随想和新闻资讯。               |
-| [人人翻墙，则墙自倒](https://t.me/cnhumanright99) | 免费提供 Trojan、Vmess 节点。                                |
+| 频道                                         | 详情                                                         |
+| -------------------------------------------- | ------------------------------------------------------------ |
+| [毒药机场评测](https://t.me/DuyaoSS)         | 由于大陆地区网络环境十分复杂，测速不代表推荐。另外，有些机场会泄露个人信息，选购时多加搜索或者进入机场用户群打探打探。 |
+| [科学上网与机场观察](https://t.me/jichangtj) | 科学上网与机场相关观察、点评、随想和新闻资讯。               |
 
 **关联阅读**
 
@@ -1523,7 +1537,7 @@ https://rsshub.app/telegram/channel/tingtalk
 
 Bots（机器人）就像运行在 Telegram 内部的小程序。借助 [Telegram 开放的 APIs](https://core.telegram.org/api)，可以实现很多让你意想不到的功能。
 
-
+[BotNews](https://t.me/BotNews)：The official source for news about the Telegram Bot API. 
 
 ### 💠 内联机器人
 
@@ -1694,24 +1708,25 @@ Telegram 的服务器分布在世界各地的数据中心（[Data Center](https:
 
 [@policr_mini_bot](https://t.me/policr_mini_bot)
 
-- 开源验证机器人，详情参见 [官网](https://mini.telestd.me/)。同类的 Bot 还有 [SCP-079](https://scp-079.org/readme/)。
-- 赋予 `Delete messages` 和 `Ban users` 权限。
+- 开源验证机器人，详情参见 [官网](https://mini.telestd.me/)
+- 赋予 `Delete messages` 和 `Ban users` 权限
 
 [@DeleteEventsBot](https://t.me/DeleteEventsBot) 或 [@AntiServiceMessage_Bot](https://t.me/AntiServiceMessage_Bot)
 
-- 删除冗余的事件通知，例如谁加入了群组。强烈建议群组管理员装备上这个 Bot，减少信息噪音。
-- 赋予 `Delete messages` 权限。
+- 删除冗余的事件通知，例如谁加入了群组。强烈建议群组管理员装备上这个 Bot，减少信息噪音
+- 赋予 `Delete messages` 权限
 
 [@areply_bot](https://t.me/areply_bot)
 
-- 自动解除关联频道（Linked hannel）转发到群组的自动置顶消息，并恢复之前的置顶消息。
-- 赋予 `Pin messages` 和 `Delete messages` 权限。
+- 自动解除关联频道（Linked hannel）转发到群组的自动置顶消息，并恢复之前的置顶消息
+- 赋予 `Pin messages` 和 `Delete messages` 权限
 
 
 
 其它管理机器人：
 
 * [@keyworddel_bot](https://t.me/keyworddel_bot)：自动删除群组推广、广告、博采等消息。
+* [SCP-079-INFO](https://t.me/SCP_079_INFO)：免费并开源的群组管理机器人，需 [申请](https://scp-079.org/ApplyForUse/) 通过后才能使用。[查看项目介绍](https://scp-079.org/readme/)。 |
 
 ## 🤐 [私密聊天](https://telegram.org/faq#secret-chats)
 
