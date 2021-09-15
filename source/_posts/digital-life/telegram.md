@@ -1053,6 +1053,8 @@ Creat New Folder（新建分组）时有以下筛选条件可选：
 3. 编辑简介和标签后，即可提交收录到 [@zh_secretary](https://t.me/zh_secretary)
 4. 人工审核通过后，就会在开源非盈利的 [SE-索引公告板](https://t.me/zh_secretary) 被更多同好看到啦
 
+相似的索引机器人还有 [@PolarisseekBot](http://t.me/PolarisseekBot)。
+
 
 
 **2020 年 9 月 30 开始，电报频道原生支持评论功能（[Channel Comments](https://telegram.org/blog/filters-anonymous-admins-comments#channel-comments)）**
@@ -1097,8 +1099,8 @@ Creat New Folder（新建分组）时有以下筛选条件可选：
 👌 Telegram 搜索引擎（非官方），可能包含不少 NSFW 内容。
 
 - 索引机器人
-  - [@zh_secretary_bot](http://t.me/zh_secretary_bot) 👍
-  - [@PolarisseekBot](http://t.me/PolarisseekBot)
+  - [@zh_secretary_bot](http://t.me/zh_secretary_bot) 👍（支持中文搜索）
+  - [@PolarisseekBot](http://t.me/PolarisseekBot) 👍（支持中文搜索）
   - [@hao1234bot](http://t.me/hao1234bot)
   - [@hao6bot](http://t.me/hao6bot)
   
@@ -1143,19 +1145,20 @@ https://rsshub.app/telegram/channel/tingtalk
 
 ##### 官方频道
 
-| 频道                                                  | 详情                                                         |
-| ----------------------------------------------------- | ------------------------------------------------------------ |
-| [Telegram News](https://t.me/telegram)                | 👍 电报官方新闻频道。                                         |
-| [Durov's Channel](https://t.me/durov)                 | 👍 杜罗夫（Telegram 创始人和 CEO）的频道。                    |
-| [Telegram Tips](https://t.me/TelegramTips)            | 👍 电报小贴士（Tips）官方频道。                               |
-| [Telegram APKs for Android](https://t.me/TAndroidAPK) | Official channel for Telegram Android APKs. You can also download them [here](https://telegram.org/dl/android/apk). |
-| [Telegram Designers](https://t.me/designers)          | 向电报提你想要的功能 [@design_bot](https://t.me/design_bot)  |
-| [BotNews](https://t.me/BotNews)                       | The official source for news about the Telegram Bot API.     |
-| [Telegram Contests](https://t.me/contest)             | Here we announce Telegram coding contests in Android Java, iOS Swift, JS, C/C++. |
-| [Desktop Themes Channel](https://t.me/themes)         | [电脑客户端主题创建指引](https://telegra.ph/Create-Theme-Desktop-FAQ) \| [Custom Themes 的简单介绍](https://telegram.org/blog/android-themes) |
-| [Android Themes Channel](https://t.me/AndroidThemes)  | [安卓客户端主题创建指引](https://telegra.ph/Create-Theme-Android-FAQ) \| 更多技术细节参阅 [Custom Cloud Themes](https://core.telegram.org/themes) |
-| [Telegram Auditions](https://t.me/TelegramAuditions)  | 加入 Telegram Support Force，帮扶 Telegram 做大做强，详情参阅这份 [Initiative](https://tsf.telegram.org/)。 |
-| [ISIS Watch](https://t.me/ISISwatch)                  | 电报官方反恐频道：[每日汇报有多少恐怖组织相关的频道被封了](https://t.me/isiswatch/2)。 |
+| 频道                                                         | 详情                                                         |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [Telegram News](https://t.me/telegram)                       | 👍 电报官方新闻频道。                                         |
+| [Durov's Channel](https://t.me/durov)                        | 👍 杜罗夫（Telegram 创始人和 CEO）的频道。                    |
+| [Telegram Tips](https://t.me/TelegramTips)                   | 👍 电报小贴士（Tips）官方频道。                               |
+| [Telegram APKs for Android](https://t.me/TAndroidAPK)        | Official channel for Telegram Android APKs. You can also download them [here](https://telegram.org/dl/android/apk). |
+| [Telegram for macOS Updates](https://t.me/macos_stable_updates_files) | This channel publishes release builds for [Telegram macOS](https://macos.telegram.org). |
+| [Telegram Designers](https://t.me/designers)                 | 向电报提你想要的功能 [@design_bot](https://t.me/design_bot)  |
+| [BotNews](https://t.me/BotNews)                              | The official source for news about the Telegram Bot API.     |
+| [Telegram Contests](https://t.me/contest)                    | Here we announce Telegram coding contests in Android Java, iOS Swift, JS, C/C++. |
+| [Desktop Themes Channel](https://t.me/themes)                | [电脑客户端主题创建指引](https://telegra.ph/Create-Theme-Desktop-FAQ) \| [Custom Themes 的简单介绍](https://telegram.org/blog/android-themes) |
+| [Android Themes Channel](https://t.me/AndroidThemes)         | [安卓客户端主题创建指引](https://telegra.ph/Create-Theme-Android-FAQ) \| 更多技术细节参阅 [Custom Cloud Themes](https://core.telegram.org/themes) |
+| [Telegram Auditions](https://t.me/TelegramAuditions)         | 加入 Telegram Support Force，帮扶 Telegram 做大做强，详情参阅这份 [Initiative](https://tsf.telegram.org/)。 |
+| [ISIS Watch](https://t.me/ISISwatch)                         | 电报官方反恐频道：[每日汇报有多少恐怖组织相关的频道被封了](https://t.me/isiswatch/2)。 |
 
 ##### 用户创建
 
@@ -1246,8 +1249,15 @@ https://rsshub.app/telegram/channel/tingtalk
 | [新闻播报 PDF](https://t.me/news_pdf)                      | 每天为大家送来 NYT 和 BBC 的新闻 PDF。                       |
 | [What's News](https://t.me/whatsnws)                       | 推送各种英文外刊和杂志的 PDF。                               |
 
+
 以上部分介绍来自西方媒体查一查。查询可信度和倾向性，请安装 [浏览器插件](https://chrome.google.com/webstore/detail/%E8%A5%BF%E6%96%B9%E5%AA%92%E4%BD%93%E6%9F%A5%E4%B8%80%E6%9F%A5/bpejcaojjipcgcnjkfmnkhokdpimcmij)，或者访问 [微信小程序](https://minapp.com/miniapp/4395/)。
 
+**国家 & 发言人（已认证）**
+
+| 频道                                    | 详情     |
+| --------------------------------------- | -------- |
+| [Gov.sg](https://t.me/Govsg)            | 新加坡。 |
+| [Donald Trump Jr](https://t.me/TrumpJr) | 特朗普。 |
 
 
 
@@ -1287,6 +1297,10 @@ https://rsshub.app/telegram/channel/tingtalk
 | [Daily Tech News](https://t.me/DailyTechNewsCN)      | 每日科技新闻。                                               |
 | [每日 AWESOME 观察](https://t.me/awesomeopensource)  | 每日更新分享最炫酷的开源项目。                               |
 | [LetITFly News](https://t.me/LetITFlyW)              | 主题包括但不限于 Android、Windows、Web、消费电子相关，吹水为主。 |
+| [Science](https://t.me/science)                      | Science News channel, videos and articles - international project, 35+ countries. |
+| [iOS Releases](https://t.me/iOSUpdates)              | iOS, TvOS and watchOS signing status updates. This channel will notify you when apple starts or stops signing a firmware version. |
+| [OnePlus](https://t.me/OnePlus)                      | Everything OnePlus.                                          |
+| [老毛子 Padavan 固件发布](https://t.me/pdcn1)        | 一个路由器固件。                                             |
 
 
 
@@ -1333,6 +1347,8 @@ https://rsshub.app/telegram/channel/tingtalk
 | [熊言熊语](https://t.me/kaopubear)                        | 「熊言熊语」是一档关注学习分享和知识科普的 [播客](https://podcast.kaopubear.top/) 栏目，我们希望用声音记录改变与成长。思考问题的熊和他的朋友们一起聊学习工作、聊科研科普。<br />[博客](https://kaopubear.top/blog/) \| [Newsletter](https://top.us10.list-manage.com/subscribe?u=82fe193c38ed8c2752100685b&id=9dc03f5017) |
 | [Hell Cell 功能教学](https://t.me/HellCellZC123)          | 通过 [YouTube](https://www.youtube.com/channel/UCgjdfJbXYaFfC3Wxump37Mg) 视频讲解一些实用软件那些有用有趣的功能。 |
 | [The Sociologist](https://t.me/thesoc)                    | 我们只谈论记忆，因为不再有记忆。                             |
+| [每日摄影观察](https://t.me/cnphotog_collect)             | 一个不严肃的摄影频道。                                       |
+| [中國家地理雜誌中文版](https://t.me/natgeomedia)          | Hi 探險家，和國家地理一起探索世界吧！                        |
 
 [中文独立博客列表](https://github.com/timqian/chinese-independent-blogs) by timqian
 
@@ -1384,6 +1400,7 @@ https://rsshub.app/telegram/channel/tingtalk
 | [音乐分享频道](https://t.me/yyfx_pd)             | 一般为无损音乐。                                             |
 | [音乐屋](https://t.me/Music_home0)               | 发现音乐新世界：live、黑胶、磁带                             |
 | [CXPLAY MUSIC](https://t.me/cxplaymusic)         | 单曲音乐试听，专辑存放在 [这](https://t.me/musicsharetime)。 |
+| [Imusic](https://t.me/Imusic_zz)                 | 音乐，就是理想的挽歌，年代久远，依然飘扬。                   |
 
 下载音乐，还可以查阅下文中提到的音乐机器人。
 
@@ -1434,19 +1451,21 @@ https://rsshub.app/telegram/channel/tingtalk
 
 **协议 & 脚本 & 规则**
 
-| 频道                                                         | 详情                                                         |
-| ------------------------------------------------------------ | ------------------------------------------------------------ |
-| [V2Fly](https://t.me/V2Fly)                                  | Shadowsocks 是一个纯粹的代理工具，而 V2Ray 定位为一个平台，任何开发者都可以利用 V2Ray 提供的模块开发出新的代理软件。by [新 V2Ray 白话文指南](https://guide.v2fly.org/) |
-| [ACL4SSR](https://t.me/ACL4SSR)                              | https://github.com/ACL4SSR/ACL4SSR 官方频道。                |
-| [QuanX & Surge & Loon 脚本收集](https://t.me/NobyDa)         | 各种脚本。                                                   |
-| [Cool Scripts](https://t.me/cool_scripts)                    | QuanX, Loon, Surge, JsBox, Pythonista, Scriptable, Shortcuts 等脚本分享。 |
-| [DivineEngine](https://t.me/DivineEngine)                    | 神机规则 | [秋水逸冰](https://t.me/qiushuiyibing)                       | [Teddysun](https://teddysun.com/about) 会不定期在此发布一些本人的作品。 |                                                    |
+| 频道                                                  | 详情                                                         |
+| ----------------------------------------------------- | ------------------------------------------------------------ |
+| [V2Fly](https://t.me/V2Fly)                           | Shadowsocks 是一个纯粹的代理工具，而 V2Ray 定位为一个平台，任何开发者都可以利用 V2Ray 提供的模块开发出新的代理软件。by [新 V2Ray 白话文指南](https://guide.v2fly.org/) |
+| [ACL4SSR](https://t.me/ACL4SSR)                       | https://github.com/ACL4SSR/ACL4SSR 官方频道。                |
+| [QuanX & Surge & Loon 脚本收集](https://t.me/NobyDa)  | 各种脚本。                                                   |
+| [QuantumultX 教程&API&解析器](https://t.me/QuanX_API) | 如题。                                                       |
+| [Cool Scripts](https://t.me/cool_scripts)             | QuanX, Loon, Surge, JsBox, Pythonista, Scriptable, Shortcuts 等脚本分享。 |
+| [DivineEngine](https://t.me/DivineEngine)             | 神机规则                                                     |
 
 **评测**
 
 | 频道                                         | 详情                                                         |
 | -------------------------------------------- | ------------------------------------------------------------ |
 | [毒药机场评测](https://t.me/DuyaoSS)         | 由于大陆地区网络环境十分复杂，测速不代表推荐。另外，有些机场会泄露个人信息，选购时多加搜索或者进入机场用户群打探打探。 |
+| [品云☁️测速](https://t.me/PinYunPs)           | 细品各种云☁️。[PinYun](https://52.mk/) is a non-profit organization dedicated to making the internet a better place for everyone. |
 | [科学上网与机场观察](https://t.me/jichangtj) | 科学上网与机场相关观察、点评、随想和新闻资讯。               |
 
 **关联阅读**
@@ -1494,21 +1513,28 @@ https://rsshub.app/telegram/channel/tingtalk
 | [Google Drive 资源](https://t.me/gdurl)             | 各种 Google Drive 资源，包括电影、电子书、无损音乐等，10 万+ 关注。 |
 | [Google Voice 靓号](https://t.me/voice_google)      | 一个 GV 卖家。                                               |
 | [Windows 10 激活码分享](https://t.me/win10keymaxs)  | 🤫                                                            |
+| [Office Tool Plus](https://t.me/otp_channel)        | [Office Tool Plus](https://otp.landian.vip/zh-cn/) 是一个用于部署、激活Office、Visio、Project 的小工具。借助本工具，你可以快速地完成各项Office 部署工作。 |
+| [你有一个打折需要了解](https://t.me/SteamNy)        | 分享 Steam 的周榜、折扣、资讯、喜加一等。                    |
+| [52 破解信息](https://t.me/wuaipojie)               | 吾爱破解。                                                   |
 
 
 
 ##### 🎞️ 影视
 
-| 频道                                       | ID               | 详情                                                         |
-| ------------------------------------------ | ---------------- | ------------------------------------------------------------ |
-| [四库全书视频精选](https://t.me/video4lib) | `@video4lib`     | 一个不断收集互联网有价值内容的企划。                         |
-| [电影爱好者](https://t.me/MovieAnywhere)   | `@MovieAnywhere` | 附带豆瓣电影评分。                                           |
-| [电影频道](https://t.me/TGDY188)           | `@TGDY188`       | 每天一部好电影。                                             |
-| [4K 影视屋](https://t.me/dianying4K)       | `@dianying4K`    | 蓝光无损电影。                                               |
-| [华联社](https://t.me/Cctv365)             | `@Cctv365`       | 想看什么电影请在评论区留言。                                 |
-| [霸王龙发布频道](https://t.me/T_rex2333)   | `@T_rex2333`     | 做一个有温度，有思想，懂粉丝的压制组。<br/>每天定时更新，选取优质影片源。<br/>专注于韩美剧，经典的电影榜单。 |
-| [苍炎影院](https://t.me/cangyanmovie)      | `@cangyanmovie`  | 分享最新最热门的优质电影。                                   |
-| [迷影果醬](https://t.me/cinephiliajam)     | `@cinephiliajam` | 无规律地分享一些我遇到或想起的有、意思的片子，可能是电影或者剧集。 |
+| 频道                                               | ID                    | 详情                                                         |
+| -------------------------------------------------- | --------------------- | ------------------------------------------------------------ |
+| [四库全书视频精选](https://t.me/video4lib)         | `@video4lib`          | 一个不断收集互联网有价值内容的企划。                         |
+| [电影爱好者](https://t.me/MovieAnywhere)           | `@MovieAnywhere`      | 附带豆瓣电影评分。                                           |
+| [电影频道](https://t.me/TGDY188)                   | `@TGDY188`            | 每天一部好电影。                                             |
+| [4K 影视屋](https://t.me/dianying4K)               | `@dianying4K`         | 蓝光无损电影。                                               |
+| [华联社](https://t.me/Cctv365)                     | `@Cctv365`            | 想看什么电影请在评论区留言。                                 |
+| [霸王龙发布频道](https://t.me/T_rex2333)           | `@T_rex2333`          | 做一个有温度，有思想，懂粉丝的压制组。<br/>每天定时更新，选取优质影片源。<br/>专注于韩美剧，经典的电影榜单。 |
+| [苍炎影院](https://t.me/cangyanmovie)              | `@cangyanmovie`       | 分享最新最热门的优质电影。                                   |
+| [迷影果醬](https://t.me/cinephiliajam)             | `@cinephiliajam`      | 无规律地分享一些我遇到或想起的有、意思的片子，可能是电影或者剧集。 |
+| [Odyssey+](https://t.me/odysseyplus)               | `@odysseyplus`        | 公益服。                                                     |
+| [PT 资讯频道](https://t.me/PrivateTrackerNews)     | `@PrivateTrackerNews` | PT 资讯以及开放注册信息推送 。                               |
+| [Sync 资源更新](https://t.me/shenkey)              | `@shenkey`            | 只发 key。                                                   |
+| [电视机顶盒 & 手机影视 App](https://t.me/tvbox001) | `@tvbox001`           | 电视机顶盒 & 智能电视 & 手机影视 app，可看港台电视直播、美剧等。 |
 
 
 
@@ -1676,8 +1702,6 @@ Telegram 的服务器分布在世界各地的数据中心（[Data Center](https:
 
 ## 👥 [群组管理](https://telegram.org/tour/groups)
 
-庭说的群组是 [@tingtalk_group](https://t.me/tingtalk_group)
-
 - 群组人数最高 20 万。转换为广播组（[Broadcast Group](https://telegram.org/blog/autodelete-inv2#groups-with-unlimited-members)）之后，人数将不受限制，但只有管理员可以说话，但是成员仍然可以加入语音聊天。注意，切换之后，将不能回退到普通群组。
 - 静音群组只有在 `@` 提到你、 `Reply` 回复你和 `Pin` 管理员发布群通知时才会收到通知。
 - 新加入的成员可以看到全部的群聊历史记录（[New members can see the entire message history when they join](https://telegram.org/blog/supergroups#supergroups)）。
@@ -1687,6 +1711,8 @@ Telegram 的服务器分布在世界各地的数据中心（[Data Center](https:
   - 需要在翻墙服务/软件上开启 UDP 转发。
   - 截至 2021 年 1 月 13 日，语音聊天支持 5000 人同时参与。[Voice Chats for up to 5,000 participants.](https://t.me/TelegramTips/233)
   - 主持人可以控制发言者的音量（[Adjust the Volume]()），这个设置是全局的，对所有听众有效。
+
+庭说读者群组是 [@tingtalk_group](https://t.me/tingtalk_group)。
 
 
 
@@ -1726,7 +1752,9 @@ Telegram 的服务器分布在世界各地的数据中心（[Data Center](https:
 其它管理机器人：
 
 * [@keyworddel_bot](https://t.me/keyworddel_bot)：自动删除群组推广、广告、博采等消息。
-* [SCP-079-INFO](https://t.me/SCP_079_INFO)：免费并开源的群组管理机器人，需 [申请](https://scp-079.org/ApplyForUse/) 通过后才能使用。[查看项目介绍](https://scp-079.org/readme/)。 |
+* [SCP-079-INFO](https://t.me/SCP_079_INFO)：免费并开源的群组管理机器人，需 [申请](https://scp-079.org/ApplyForUse/) 通过后才能使用。[查看项目介绍](https://scp-079.org/readme/)
+
+
 
 ## 🤐 [私密聊天](https://telegram.org/faq#secret-chats)
 
