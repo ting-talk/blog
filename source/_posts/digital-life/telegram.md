@@ -1426,6 +1426,7 @@ https://rsshub.app/telegram/channel/tingtalk
 | [臭（xiù）文字](https://t.me/SniffAtWord)                  | 诗歌频道；我是一个嗅觉特别发达的人，你说，然而，没有一种艺术可供我的鼻子用武，只有生命可以。 |
 | [已有丹青約［書畫］](https://t.me/CultureTG)               | 高清油画档案（超过两万张）。                                 |
 | [阿银书屋](https://t.me/maofanjd)                          | 偶尔更新，没事来看看。                                       |
+| [红楼梦](https://t.me/DreamOfRedMansions)                  | 每日一章 💞DreamOfRedMansions。                               |
 
 插播一个免费的广告：学英语，推荐购买郝海龙老师的[《英语自学手册》](https://sspai.com/series/77)（￥119）。
 
