@@ -1536,6 +1536,7 @@ https://rsshub.app/telegram/channel/tingtalk
 | [PT 资讯频道](https://t.me/PrivateTrackerNews)     | `@PrivateTrackerNews` | PT 资讯以及开放注册信息推送 。                               |
 | [Sync 资源更新](https://t.me/shenkey)              | `@shenkey`            | 只发 key。                                                   |
 | [电视机顶盒 & 手机影视 App](https://t.me/tvbox001) | `@tvbox001`           | 电视机顶盒 & 智能电视 & 手机影视 app，可看港台电视直播、美剧等。 |
+| [Aria2 Channel](https://t.me/Aria2_Channel)        | `@Aria2_Channel`      | Aria2 完美配置、Pro Docker、Pro Core、一键安装管理脚本增强版 (GNU/Linux)。 |
 
 
 
@@ -1553,6 +1554,7 @@ https://rsshub.app/telegram/channel/tingtalk
 | [NS 新闻转报](https://t.me/SwitchNewCN)                 | 任天堂（Nintendo）相关的新闻。                               |
 | [基督讲道](https://t.me/TelBaptist)                     | 基督讲道资源频道。                                           |
 | [就要造反](https://t.me/ZaoFaner)                       | 此频道立足生活，以非常古怪的文字风格进行生存经验书写，绘制景观与消费社会中极具现实性的个案，以此为个体提供可操的、创造性的抵制策略与造反计谋。为一切造反者辩护，为所有无用与丰饶辩护。 |
+| [残障之声](https://t.me/life_with_disabilities)         | 在态度和环境障碍相互作用存在的情况下，提供合理便利是全社会需要一同去解决的问题，残障人士应当理直气壮地要求这种权利和便利，去定义一个无障碍的社会。 |
 | [One Piece Deluxe](https://t.me/onepiecedeluxe)         | Receive the latest updates from One Piece (海贼王), including chapters, episodes, spoilers and much more. |
 | [One Piece](https://t.me/tingtalk_op)                   | 由初中开始追《海贼王》 [@TingTalk](https://t.me/tingtalk) 创建。 |
 | [Rick and Morty](https://t.me/tingtalk_rm)              | [@TingTalk](https://t.me/tingtalk) 创建；[把《瑞克和莫蒂》作为练口语的素材](https://tingtalk.me/rick-and-morty-subtitles/)。 |
