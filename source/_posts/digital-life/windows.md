@@ -876,7 +876,6 @@ Windows 的默认图片浏览器非常难用。而 qimgv 是一款开源的图�
 
 避免某些程序不兼容。
 
-
 **更多玩法**
 
 - 参阅 [微 PE 优盘使用说明书](http://www.wepe.com.cn/ubook/)。
