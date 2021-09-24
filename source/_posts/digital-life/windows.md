@@ -806,17 +806,11 @@ Windows 的默认图片浏览器非常难用。而 qimgv 是一款开源的图�
 
 
 
-
-
 **关联阅读**
 
 [Awesome Windows](https://github.com/Awesome-Windows/Awesome/blob/master/README-cn.md)：Windows上优质 & 精选的最佳应用程序及工具列表，其/中包含这篇文章没讲的 [数据恢复软件](https://github.com/Awesome-Windows/Awesome/blob/master/README-cn.md#%E6%95%B0%E6%8D%AE%E6%81%A2%E5%A4%8D)（因为我有良好的备份习惯）。
 
 [FXXKMAKEDING](https://node4.mkdmirror.workers.dev/0:/)：Fuck 思杰马克丁，来这里下载「绿色」软件吧。
-
-
-
-
 
 
 

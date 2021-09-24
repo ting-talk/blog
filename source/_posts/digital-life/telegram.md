@@ -1417,6 +1417,7 @@ https://rsshub.app/telegram/channel/tingtalk
 | [ENGLISH PODCASTS](https://t.me/Podcast_English_listening) | INFINITY PODCASTS CHANNEL WITHOUT ANY LIMITS.                |
 | [中文社科讲座资讯](https://t.me/chwebinars)                | 一个讲座信息聚合和 PPT 共享平台。                            |
 | [ReadFine 电子书屋](https://t.me/Readfine)                 | 致力于电子书分享的读书频道。EPUB 电子书一站式阅读体验（包括豆瓣评分、书籍简介、封面截图），一键下载，享受读趣。 |
+| [The Economist Sharing Channel](https://t.me/sharingte)    | Sharing the Economist and E-books every week.                |
 | [什么书值得读](https://t.me/zreadpush)                     | 仅推送某亚原版资源，可同时下载 `.azw3` `.epub` `.mobi` 的电子书。 |
 | [好书分享频道](https://t.me/haoshufenxiang)                | 学习，是一辈子的大事。                                       |
 | [小声读书](https://t.me/weekly_books)                      | 一个探索数字阅读可能性和未来的开放项目，致力于打破信息茧房，挖掘价值信息。 |
