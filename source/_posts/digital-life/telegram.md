@@ -1,7 +1,7 @@
 ---
 title: Telegram：新手指南、使用教程及频道推荐（持续更新中）
 date: 2019-11-09
-updated: 2021-09-15 
+updated: 2021-09-26 
 categories: 数字生活  
 tags: [网上冲浪指南, 突破网络审查, Telegram]
 ---
@@ -1076,6 +1076,7 @@ Creat New Folder（新建分组）时有以下筛选条件可选：
 ### 🔔 订阅者
 
 - [Subscriber Privacy](https://telegram.org/tour/channels#subscriber-privacy)：关注者无法得知频道创建者（creator）是谁，也无法得知谁关注了这个频道，但是频道主知道谁关注了频道。
+- 若用户在 24 小时内访问超过 200 个群组或频道的链接（点击打开就算访问，不需要加入），就会被打入冷宫 24 小时。禁闭期间，无法通过链接访问新的群组或频道（点击链接一直转圈而无法访问）。
 - 频道/超级群组的关注上限是 500 个（具体数字未得到官方的求证），但是限制是一定存在的，因为限制提示语出现在官方翻译页面：抱歉，您已加入太多频道/超级群组。请先退出一些频道/超级群组后再加入。（[Sorry, you have joined too many channels and supergroups. Please leave some before joining this one.](https://translations.telegram.org/zh-hans/tdesktop/groups_and_channels/lng_join_channel_error)）
 
 
