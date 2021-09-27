@@ -8535,8 +8535,6 @@ I'm going to have to learn to hold my tongue. 我以后得学会管住自己的�
 
 在 bilibili.com 看了 Poly Bridge（桥梁建造师）的 [视频](https://b23.tv/av85261316)，立刻去 Play 商店花了 0.99 美金（税额 0.05 美金，实付 1.04 美金）拿下来了。发现无法同步存档，于是卸载。冲动（消费）是魔鬼。
 
-Blue Fish：「很想八卦一下散打的近况」。`23:55`
-
 ### 2020-02-07
 
 利用 纯纯写作 App 的格式化选项（去除段首缩进），对深圳新冠肺炎治愈病例稍作排版，并更新在 [石墨文档](https://shimo.im/docs/3cwYPKPCxc3wdgHW) 里。`00:56`
