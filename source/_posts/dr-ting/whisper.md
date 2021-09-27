@@ -6961,8 +6961,6 @@ One Piece is the best anime that I've ever seen. Not only is it funny, but it is
 
 ### 2019-08-20
 
-梦到 Blue Fish，但她属于另一个平行时空。跟她谈恋爱的不是我，而是比我优秀，比我好看的同班同学，我只是一旁爱慕者。失落透顶，自己做的梦都不能如愿。`07:40`
-
 《爱宠大机密 2》（The Secret Life of Pets 2，2019）笑点很密集，剧情太着急。`23:32`
 
 
@@ -6984,7 +6982,7 @@ One Piece is the best anime that I've ever seen. Not only is it funny, but it is
 
 ### 2019-08-23
 
-Blue Fish 最近有点 Blue，刚好今天是 Blue Fish 的闺蜜（TSQ）生日，借祝寿的机会向 Blue Fish 传达深藏 Blue 的安慰之情。最近情愫初重开，生物的交配本能驱使我向异性交换染色体，优化人类的基因库。从某个层面看，我们都是基因的奴隶。`09:50`
+最近情愫初重开，生物的交配本能驱使我向异性交换染色体，优化人类的基因库。从某个层面看，我们都是基因的奴隶。`09:50`
 
 
 ### 2019-08-24
