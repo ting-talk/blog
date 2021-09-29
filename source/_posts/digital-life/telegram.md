@@ -908,18 +908,21 @@ Windows 的 `Ctrl` 等于 macOS 中 `Command` ⌘。
 
 ### 📁 对话列表
 
-在对话列表长按某个对话的左侧（头像）即可预览消息（Preview media）。
+长按某个对话的左侧（头像）即可预览消息（Preview media）。
 
-在对话列表长按某个对话的右侧：
+长按某个对话的右侧：
 
 - **删除对话（Delete chat）**：勾选 `Also delete for ***`，即可同时删除双方所有的聊天记录。
   - 不用经过对方同意。如果你的朋友遭遇不测，你可以及时清除消息来保护自己和对方。
-  - 反之，需要保留证据时，请及时截图或（在桌面端）导出聊天记录。
+  - 反之，需要保留证据时，请及时截图或在桌面端导出聊天记录。
 - **归档对话（[Archive chat](https://telegram.org/blog/folders#archived-chats)）**：把不常用的群组和频道放到归档文件夹中，精简对话列表，[Everything in its place](https://telegram.org/blog/archive-and-new-design#everything-in-its-place)。
   - 在移动端的对话列表里，从顶部往下拉，即可看到「已归档对话」，[长按可标记全部归档对话为已读状态](https://telegram.org/blog#mark-archive-as-read)。
   - 当未设置静音的存档对话收到通知时，它将从归档列表中返回到聊天列表中。
 
+**更改置顶对话的顺序**
 
+- 手机：长按某个对话的右侧，即可出现顺序操纵杆。
+- 电脑：左键长按对话并拖动。
 
 ### 📂[对话分组](https://telegram.org/blog/folders)
 
@@ -1126,8 +1129,6 @@ https://rsshub.app/telegram/channel/tingtalk
 
 
 
-
-
 ### ✅ 频道推荐
 
 须知参差多态，乃是电报之福。术业有专攻，**欢迎向我推荐其它领域的优质频道**：
@@ -1140,7 +1141,9 @@ https://rsshub.app/telegram/channel/tingtalk
 
 2021 年，你需要多运动，多吃蔬果，偶尔听 [播客](https://podcasts.cosmosrepair.com/)，放下手机早点睡觉，少看鸡零狗碎的消息。
 
-
+**如何加入频道**
+方法一：直接点击频道的名字，例如 [庭说](https://t.me/tingtalk)，浏览器会跳转到 Telegram 客户端并进入该频道
+方法二：复制频道的 ID，例如 `tingtalk`，粘贴在 Telegram 客户端首页的 🔍 搜索框，在搜索结果中找到该频道
 
 #### ✈️ 电报
 
@@ -1171,15 +1174,19 @@ https://rsshub.app/telegram/channel/tingtalk
 | [紙飛機](https://t.me/tgflight)                    | 欢迎搭乘纸飞机，Porsche 和你聊聊 Telegram 的大小事。[播客 RSS 订阅链接](https://feeds.buzzsprout.com/837646.rss)。 |
 | [Anti Revoke Plugin](https://t.me/AntiRevoke)      | Telegram 本地消息防撤回插件，安全性未知，只支持 Windows 32 位系统。[GitHub 项目地址](https://github.com/SpriteOvO/Telegram-Anti-Revoke/blob/master/README-CN.md)。 |
 
+##### 电报导航
 
-##### TG 导航
+- [SE-索引公告板](https://t.me/zh_secretary) `zh_secretary`
+  👍 Telegram 中文圈资源索引服务（包含 NSFW）。
+- [北极星搜索登记板](https://t.me/PolarisseekIndex) `PolarisseekIndex`
+- [电报指南 & 精品排行榜](https://t.me/TgTrillion) `TgTrillion`
+- [CN 导航](https://t.me/CN_DH) `CN_DH`
+  简单好记的中文多功能公益导航频道。
+- [Tg Tips](https://t.me/Tg1230) `Tg1230`
+  瞭望台旗下 TG 电报引航：电报操作、频道、广播、群组的信息库。
 
-| 频道                                             | 详情                                         |
-| ------------------------------------------------ | -------------------------------------------- |
-| [SE-索引公告板](https://t.me/zh_secretary)       | 👍 Telegram 中文圈资源索引服务（包含 NSFW）。 |
-| [电报指南 & 精品排行榜](https://t.me/TgTrillion) | 👍 电报中文群组和频道收录。                   |
-| [CN 导航](https://t.me/CN_DH)                    | 中文导航频道。                               |
-| [Tg Tips](https://t.me/Tg1230)                   | TG 的操作、频道、广播、群组的信息库。        |
+- [電報新群推送 Telegram Group Links](https://t.me/linkpush) `linkpush`
+  本頻道是新群推送頻道一般只收錄剛剛建立的群組或者人數少於 150 的群組。
 
 
 
@@ -1564,7 +1571,7 @@ https://rsshub.app/telegram/channel/tingtalk
 
 此外，Telegram 上也有 [国家或地区的领导人官方频道](https://t.me/durov/148)。
 
-## 🤖 [Bots 推荐](https://telegram.org/faq#bots)
+## 🤖 [Bot 推荐](https://telegram.org/faq#bots)
 
 Bots（机器人）就像运行在 Telegram 内部的小程序。借助 [Telegram 开放的 APIs](https://core.telegram.org/api)，可以实现很多让你意想不到的功能。
 
