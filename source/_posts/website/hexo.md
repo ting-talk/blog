@@ -395,6 +395,18 @@ git commit -m "first push"
 git push origin master
 ```
 
+嫌麻烦的话，就借助脚本推送更新吧。
+
+**脚本一**
+
+1. 在博客文件里，右键新建文本文档；
+2. 输入 `git add . && git commit -m '更新' && git push origin master`，保存，退出；
+3. 把后缀 `.txt` 改为 `.gh`，文件名自己定义，例如 `git-push.sh`。
+
+**脚本二**
+
+- [hexo.sh](https://xaoxuu.com/wiki/hexo.sh/)：此脚本可以很方便执行各种 hexo 命令，开启后会一直保持会话，随时输入简短的命令去执行一系列操作，提高效率。
+
 本地分支强制覆盖远程分支：
 
 ```shell
