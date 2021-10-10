@@ -928,14 +928,10 @@ by [马小坏](https://www.bilibili.com/video/av28995180)
 8. 小火蒸 5 至 6 分钟后，关火焖 5 分钟（low heat steam for 6 minutes, and turn off the heat, wait for 5 minutes to open the lid)。
 9. 加入酱油、水和香油调味（season with soy sauce, water and sesame oil）。
 
-
-
 **Tips**
 
 - 水和盐可以用肉汤代替。
 - 其它加热方法：微波炉热 2 分半钟（microwave oven 2.5 minutes）`未亲测`
-
-
 
 **Tutorials**
 - [用科学的方法蒸出完美的鸡蛋羹 by 小高姐](https://www.bilibili.com/video/av33885147)
