@@ -1028,7 +1028,7 @@ Creat New Folder（新建分组）时有以下筛选条件可选：
 
 
 
-## 📣 频道百科
+## 📣 频道推荐
 
 [Channels](https://telegram.org/tour/channels) 是向大众传播信息的完美工具（[The perfect tool for broadcasting messages to the masses](https://telegram.org/blog/channels)），类似微信公众号。
 
@@ -1129,8 +1129,6 @@ https://rsshub.app/telegram/channel/tingtalk
 
 
 
-### ✅ 频道推荐
-
 须知参差多态，乃是电报之福。术业有专攻，**欢迎向我推荐其它领域的优质频道**：
 
 1. 在 Telegram 搜索 [@tingbot](https://t.me/tingbot)
@@ -1184,11 +1182,8 @@ https://rsshub.app/telegram/channel/tingtalk
   简单好记的中文多功能公益导航频道。
 - [Tg Tips](https://t.me/Tg1230) `Tg1230`
   瞭望台旗下 TG 电报引航：电报操作、频道、广播、群组的信息库。
-
 - [電報新群推送 Telegram Group Links](https://t.me/linkpush) `linkpush`
   本頻道是新群推送頻道一般只收錄剛剛建立的群組或者人數少於 150 的群組。
-
-
 
 
 #### 🦠 疫情
@@ -1529,27 +1524,55 @@ https://rsshub.app/telegram/channel/tingtalk
 
 
 
-##### 🎞️ 影视
+#### 🎞️ 视频
 
-| 频道                                               | ID                    | 详情                                                         |
-| -------------------------------------------------- | --------------------- | ------------------------------------------------------------ |
-| [四库全书视频精选](https://t.me/video4lib)         | `@video4lib`          | 一个不断收集互联网有价值内容的企划。                         |
-| [电影爱好者](https://t.me/MovieAnywhere)           | `@MovieAnywhere`      | 附带豆瓣电影评分。                                           |
-| [电影频道](https://t.me/TGDY188)                   | `@TGDY188`            | 每天一部好电影。                                             |
-| [4K 影视屋](https://t.me/dianying4K)               | `@dianying4K`         | 蓝光无损电影。                                               |
-| [华联社](https://t.me/Cctv365)                     | `@Cctv365`            | 想看什么电影请在评论区留言。                                 |
-| [霸王龙发布频道](https://t.me/T_rex2333)           | `@T_rex2333`          | 做一个有温度，有思想，懂粉丝的压制组。<br/>每天定时更新，选取优质影片源。<br/>专注于韩美剧，经典的电影榜单。 |
-| [苍炎影院](https://t.me/cangyanmovie)              | `@cangyanmovie`       | 分享最新最热门的优质电影。                                   |
-| [迷影果醬](https://t.me/cinephiliajam)             | `@cinephiliajam`      | 无规律地分享一些我遇到或想起的有、意思的片子，可能是电影或者剧集。 |
-| [Odyssey+](https://t.me/odysseyplus)               | `@odysseyplus`        | 公益服。                                                     |
-| [PT 资讯频道](https://t.me/PrivateTrackerNews)     | `@PrivateTrackerNews` | PT 资讯以及开放注册信息推送 。                               |
-| [Sync 资源更新](https://t.me/shenkey)              | `@shenkey`            | 只发 key。                                                   |
-| [电视机顶盒 & 手机影视 App](https://t.me/tvbox001) | `@tvbox001`           | 电视机顶盒 & 智能电视 & 手机影视 app，可看港台电视直播、美剧等。 |
-| [Aria2 Channel](https://t.me/Aria2_Channel)        | `@Aria2_Channel`      | Aria2 完美配置、Pro Docker、Pro Core、一键安装管理脚本增强版 (GNU/Linux)。 |
+**电影 / 剧集**
 
+- 👍 [四库全书](https://t.me/video4lib) `video4lib`
+  一个不断收集互联网有价值内容的企划。
+- [电影频道](https://t.me/TGDY188) `TGDY188`
+  精选国内外高分电影。
+- [华联社电影频道](https://t.me/Cctv365) `Cctv365`
+- [霸王龙发布频道](https://t.me/T_rex2333) `T_rex2333`
+  专注于韩美剧，选取优质影片源。
+- [苍炎影院](https://t.me/cangyanmovie) `cangyanmovie`
+  分享最新最热门的优质电影。
+- [双语短视频合集](https://t.me/english_bilingual) `english_bilingual`
+  学习英语，了解世界。
 
+**动漫**
+
+- [海贼王更新提醒](https://t.me/tingtalk_op) `tingtalk_op`
+  [@TingTalk](https://t.me/tingtalk) 子频道，试运营。由初中开始追 One Piece 的 Dr_Ting 创建，
+- [Rick and Morty](https://t.me/tingtalk_rm)
+  [@TingTalk](https://t.me/tingtalk) 子频道，试运营。曾经把《瑞克和莫蒂》作为练口语的 [素材](https://tingtalk.me/rick-and-morty-subtitles/)，听了上百遍，但效果甚微，Wubba Lubba Dub-Dub。
+
+**下载站**
+
+- [Odyssey+](https://t.me/odysseyplus) `odysseyplus`
+  [公益服食用指南](https://odysseyplus.notion.site/odysseyplus/f54b8a881f7044619151c3e55bdfaeb8)。
+  
+- [PT 资讯频道](https://t.me/PrivateTrackerNews) `@PrivateTrackerNews`
+  Private Tracker 资讯以及开放注册信息推送；PT 可以简单理解为私有化的 BT。
+  
+- [Sync 资源更新](https://t.me/shenkey) `@shenkey`
+  只发 key。
+
+- [电视机顶盒 & 手机影视 App](https://t.me/tvbox001) `@tvbox001`
+
+  可看港台电视直播、美剧等。
 
 #### 😺 其它
+
+**软件**
+
+- [Aria2 Channel](https://t.me/Aria2_Channel) `@Aria2_Channel`  
+  Aria2 完美配置、Pro Docker、Pro Core、一键安装管理脚本增强版 (GNU/Linux)。
+
+**未分类**
+
+- [NBA](https://t.me/tingtalk_nba) `tingtalk_nba`
+  [@TingTalk](https://t.me/tingtalk) 子频道，试运营。从高中开始只练跳投，因此严重偏科，不会突破，不会抢篮板，不会防守，但崴脚少了，命中率高了。
 
 | 频道                                                    | 详情                                                         |
 | ------------------------------------------------------- | ------------------------------------------------------------ |
@@ -1564,10 +1587,6 @@ https://rsshub.app/telegram/channel/tingtalk
 | [基督讲道](https://t.me/TelBaptist)                     | 基督讲道资源频道。                                           |
 | [就要造反](https://t.me/ZaoFaner)                       | 此频道立足生活，以非常古怪的文字风格进行生存经验书写，绘制景观与消费社会中极具现实性的个案，以此为个体提供可操的、创造性的抵制策略与造反计谋。为一切造反者辩护，为所有无用与丰饶辩护。 |
 | [残障之声](https://t.me/life_with_disabilities)         | 在态度和环境障碍相互作用存在的情况下，提供合理便利是全社会需要一同去解决的问题，残障人士应当理直气壮地要求这种权利和便利，去定义一个无障碍的社会。 |
-| [One Piece Deluxe](https://t.me/onepiecedeluxe)         | Receive the latest updates from One Piece (海贼王), including chapters, episodes, spoilers and much more. |
-| [One Piece](https://t.me/tingtalk_op)                   | 由初中开始追《海贼王》 [@TingTalk](https://t.me/tingtalk) 创建。 |
-| [Rick and Morty](https://t.me/tingtalk_rm)              | [@TingTalk](https://t.me/tingtalk) 创建；[把《瑞克和莫蒂》作为练口语的素材](https://tingtalk.me/rick-and-morty-subtitles/)。 |
-| [NBA](https://t.me/tingtalk_nba)                        | 由只会跳投的 [@TingTalk](https://t.me/tingtalk) 创建。       |
 
 此外，Telegram 上也有 [国家或地区的领导人官方频道](https://t.me/durov/148)。
 
