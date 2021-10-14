@@ -1,7 +1,7 @@
 ---
 title: Telegram：新手指南、使用教程及频道推荐（持续更新中）
 date: 2019-11-09
-updated: 2021-09-26 
+updated: 2021-10-14 
 categories: 数字生活  
 tags: [网上冲浪指南, 突破网络审查, Telegram]
 ---
@@ -1659,30 +1659,34 @@ Bots（机器人）就像运行在 Telegram 内部的小程序。借助 [Telegra
 
 #### 🎵 音乐机器人
 
-通过 [@ChinoNyanBot](https://t.me/ChinoNyanBot) 可以在 Telegram 上在线点歌。
+在 Telegram 上实现点歌自由，或者像我一样建立频道，存放喜欢的歌单：[@tingtalk_fm](https://t.me/tingtalk_fm)
 
+1. 找一个音乐机器人，例如 [@haoyybot](https://t.me/haoyybot)
+2. 搜索歌名，选择歌曲，下载后转发到频道
+3. 修改（Edit）歌曲信息，加入标签（方便搜索）和链接（例如 YouTube 上的 MV）
 
+如遇到版权限制，无法下载，换用其它歌曲 Bots：
 
-**点歌教程**
-
-- 网易音乐：`/netease` + `歌名 / 歌手名`
-- 腾讯音乐：`/tencent` + `歌名 / 歌手名`
-- 虾米音乐：`/xiami` + `歌名 / 歌手名 `
-- 酷狗音乐：`/kugou` + `歌名 / 歌手名 `
-
-
-
-**其它点歌（下歌）机器人**
-
+- [@ChinoNyanBot](https://t.me/ChinoNyanBot) 
 - [@vkm_bot](https://t.me/vkm_bot)
 - [@vkmusic_bot](https://t.me/vkmusic_bot)
-- [@haoyybot](https://t.me/haoyybot)
 - [@u2bu_mp3_bot](https://t.me/u2bu_mp3_bot)
-- [@SongIDbot](https://t.me/SongIDbot)：听歌识曲。
-- [@getmediabot](https://t.me/getmediabot)：下载音乐、歌词、视频等媒体。
-- [@YTAudioBot](https://t.me/YTAudioBot)：下载 YouTube 音频。
 
-**小技巧**：在音频播放器中，长按住「下一首」 和「上一首」按钮可以快进和倒带。[Press and hold on the *Next* and *Previous* buttons to **fast-forward** and **rewind**.](https://telegram.org/blog/move-history#improved-audio-player)
+**听歌识曲**
+
+- [@SongIDbot](https://t.me/SongIDbot)
+
+**下载 YouTube 音频**
+
+- [@YTAudioBot](https://t.me/YTAudioBot)
+
+**下载音乐、歌词、视频等媒体**
+
+- [@getmediabot](https://t.me/getmediabot)
+
+**内置音频播放器**
+
+- 长按住「下一首」 和「上一首」按钮可以快进和倒带。[Press and hold on the Next and Previous buttons to fast-forward and rewind.](https://telegram.org/blog/move-history#improved-audio-player)
 
 
 

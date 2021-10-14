@@ -425,9 +425,22 @@ tags: 设计
 
 
 
-#### 填充（内容识别）
+#### 内容识别填充
 
-- `Shift + F5` 去除水印、污点和路人甲等
+Content-Aware Fill 通过从图像其他部分取样的内容来无缝填充图像中的选定部分，可以用来扩展背景，替换物体，以及去除水印、污点和路人甲等。
+
+**新方法**
+
+1. 使用 `选框工具` 选择需要扩展的区域
+2. `编辑` - `内容识别填充`
+
+**旧方法**
+
+1. 使用 `选框工具` 选择需要扩展的区域
+2. `编辑` - `填充` - `内容识别`（`Shift` + `F5` ）
+
+动图教程：[Photoshop 中的“内容识别填充”工作区](https://helpx.adobe.com/cn/photoshop/using/content-aware-fill.html)
+视频教程：[使用内容识别填充功能制作图片填充和前景蒙版](https://helpx.adobe.com/cn/photoshop/how-to/fills-masks-sensei.html)
 
 
 
