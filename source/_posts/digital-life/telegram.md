@@ -1030,9 +1030,9 @@ Creat New Folder（新建分组）时有以下筛选条件可选：
 
 ## 📣 频道推荐
 
-[Channels](https://telegram.org/tour/channels) 是向大众传播信息的完美工具（[The perfect tool for broadcasting messages to the masses](https://telegram.org/blog/channels)），类似微信公众号。
+[Channels](https://telegram.org/tour/channels) 相当于公告板，是向大众传播信息的完美工具（[The perfect tool for broadcasting messages to the masses](https://telegram.org/blog/channels)），类似微信公众号，但比公众号好用得多。
 
-通过 [Post Widget](https://core.telegram.org/widgets/posts)，你可以将频道或公共群组的任何消息嵌入到任何地方（You can embed messages from public groups and channels anywhere.）。
+通过 [Post Widget](https://core.telegram.org/widgets/posts)，你可以将频道或公共群组的任何消息嵌入到任何地方。You can embed messages from public groups and channels anywhere.
 
 
 
