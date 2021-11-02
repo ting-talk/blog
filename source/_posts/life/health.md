@@ -151,6 +151,14 @@ tags: [健康, 生活]
 
 
 
+## 中医存疑
+
+传统中医缺乏实证，千人千面。
+
+[中医逻辑扑克 2.0 版（GitHub 特别版）](https://github.com/benjaminsliu/logiccards)by 劉夙
+
+
+
 ## 人身保险
 
 趁年轻，在身体未出现健康问题前，及早配置好 [保险](https://tingtalk.me/personal-insurance/)。对于普通收入的人来说，一年的费用从三千元到一万元不等即可防止因病致贫。
