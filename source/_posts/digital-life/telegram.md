@@ -1,7 +1,7 @@
 ---
 title: Telegram：新手指南、使用教程及频道推荐（持续更新中）
 date: 2019-11-09
-updated: 2021-10-14 
+updated: 2021-11-22  
 categories: 数字生活  
 tags: [网上冲浪指南, 突破网络审查, Telegram]
 ---
@@ -1291,9 +1291,7 @@ https://rsshub.app/telegram/channel/tingtalk
 | [每日消费电子观察](https://t.me/CE_Observe)          | 不公正，不客观，不理性。                                     |
 | [cnBeta](https://t.me/cnbeta_com)                    | cnBeta.COM 中文业界资讯站是一个提供 IT 相关新闻资讯、技术文章和评论的观点的中文网站。 |
 | [IT 之家](https://t.me/ithome_rss)                   | RSS 地址：https://www.ithome.com/rss/                        |
-| [果核 Apple Nuts](https://t.me/AppleNuts)            | 一个果粉（[Hackl0us](https://hackl0us.com/)）的闲言碎语， 用来推送苹果（Apple） 相关的技术、新闻资讯、技巧、产品/软件心得体会等。 |
 | [APPDO 数字生活指南](https://t.me/appdodo)           | 优质数字生活指南，传递数码生活和设计理念。                   |
-| [AppPie](https://t.me/AppPie)                        | Apple 相关的数字生活指南。                                   |
 | [VPS 信号旗播报](https://t.me/vps_xhq)               | 关注 VPS 和通信自由。                                        |
 | [硬核小卒](https://t.me/yinghexiaozu)                | 分享优质的科技/商业资讯。                                    |
 | [知乎日报](https://t.me/zhihuribao_rss)              | 越来越难用的问答网站。                                       |
@@ -1301,9 +1299,21 @@ https://rsshub.app/telegram/channel/tingtalk
 | [每日 AWESOME 观察](https://t.me/awesomeopensource)  | 每日更新分享最炫酷的开源项目。                               |
 | [LetITFly News](https://t.me/LetITFlyW)              | 主题包括但不限于 Android、Windows、Web、消费电子相关，吹水为主。 |
 | [Science](https://t.me/science)                      | Science News channel, videos and articles - international project, 35+ countries. |
-| [iOS Releases](https://t.me/iOSUpdates)              | iOS, TvOS and watchOS signing status updates. This channel will notify you when apple starts or stops signing a firmware version. |
 | [OnePlus](https://t.me/OnePlus)                      | Everything OnePlus.                                          |
 | [老毛子 Padavan 固件发布](https://t.me/pdcn1)        | 一个路由器固件。                                             |
+
+
+
+**Apple**
+
+- `AppleBuyersGuide` [AppleGuide](https://t.me/AppleBuyersGuide)
+  [小胖](https://littlefat.cn/) 的苹果产品购买指南，更系统请查看 [AppleGuide.cn](https://appleguide.cn/%E5%85%B3%E4%BA%8E%E6%9C%AC%E7%AB%99)，不断完善中。
+- `AppleNuts` [果核 Apple Nuts](https://t.me/AppleNuts)
+  一个果粉（[Hackl0us](https://hackl0us.com/)）的闲言碎语， 用来推送苹果（Apple） 相关的技术、新闻资讯、技巧、产品/软件心得体会等。
+- `AppPie` [AppPie](https://t.me/AppPie)
+  Apple 相关的数字生活指南。
+- `iOSUpdates` [iOS Releases](https://t.me/iOSUpdates)
+  iOS, TvOS and watchOS signing status updates. This channel will notify you when apple starts or stops signing a firmware version.
 
 
 
@@ -1403,7 +1413,6 @@ https://rsshub.app/telegram/channel/tingtalk
 | [音乐分享频道](https://t.me/yyfx_pd)             | 一般为无损音乐。                                             |
 | [音乐屋](https://t.me/Music_home0)               | 发现音乐新世界：live、黑胶、磁带                             |
 | [CXPLAY MUSIC](https://t.me/cxplaymusic)         | 单曲音乐试听，专辑存放在 [这](https://t.me/musicsharetime)。 |
-| [Imusic](https://t.me/Imusic_zz)                 | 音乐，就是理想的挽歌，年代久远，依然飘扬。                   |
 
 下载音乐，还可以查阅下文中提到的音乐机器人。
 
@@ -1521,6 +1530,15 @@ https://rsshub.app/telegram/channel/tingtalk
 | [Office Tool Plus](https://t.me/otp_channel)        | [Office Tool Plus](https://otp.landian.vip/zh-cn/) 是一个用于部署、激活Office、Visio、Project 的小工具。借助本工具，你可以快速地完成各项Office 部署工作。 |
 | [你有一个打折需要了解](https://t.me/SteamNy)        | 分享 Steam 的周榜、折扣、资讯、喜加一等。                    |
 | [52 破解信息](https://t.me/wuaipojie)               | 吾爱破解。                                                   |
+
+
+
+- `ksc666` [Discover good software](https://t.me/ksc666)
+   分享 Magisk、Riru、LSPosed、虚拟框架、Xposed 模块、Magisk 模块、Android、Windows……等软件。
+
+
+
+
 
 
 
