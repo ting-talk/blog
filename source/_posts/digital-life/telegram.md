@@ -1162,6 +1162,10 @@ https://rsshub.app/telegram/channel/tingtalk
 | [Telegram Auditions](https://t.me/TelegramAuditions)         | 加入 Telegram Support Force，帮扶 Telegram 做大做强，详情参阅这份 [Initiative](https://tsf.telegram.org/)。 |
 | [ISIS Watch](https://t.me/ISISwatch)                         | 电报官方反恐频道：[每日汇报有多少恐怖组织相关的频道被封了](https://t.me/isiswatch/2)。 |
 
+此外，Telegram 上也有 [国家或地区的领导人官方频道](https://t.me/durov/148)。
+
+
+
 ##### 用户创建
 
 | 频道                                               | 详情                                                         |
@@ -1304,16 +1308,39 @@ https://rsshub.app/telegram/channel/tingtalk
 
 
 
+**科技互联网**
+
+- [即刻精选](https://t.me/jike_read) `jike_read`
+  即刻精选，以及相关讨论。这里是即友们的 TG 自留地。
+
 **Apple**
 
-- `AppleBuyersGuide` [AppleGuide](https://t.me/AppleBuyersGuide)
+- [AppleGuide](https://t.me/AppleBuyersGuide) `AppleBuyersGuide`
   [小胖](https://littlefat.cn/) 的苹果产品购买指南，更系统请查看 [AppleGuide.cn](https://appleguide.cn/%E5%85%B3%E4%BA%8E%E6%9C%AC%E7%AB%99)，不断完善中。
-- `AppleNuts` [果核 Apple Nuts](https://t.me/AppleNuts)
+- [果核 Apple Nuts](https://t.me/AppleNuts) `AppleNuts`
   一个果粉（[Hackl0us](https://hackl0us.com/)）的闲言碎语， 用来推送苹果（Apple） 相关的技术、新闻资讯、技巧、产品/软件心得体会等。
-- `AppPie` [AppPie](https://t.me/AppPie)
+- [AppPie](https://t.me/AppPie) `AppPie`
   Apple 相关的数字生活指南。
-- `iOSUpdates` [iOS Releases](https://t.me/iOSUpdates)
+- [iOS 限免与优质应用推荐](https://t.me/iosblackteckapp) `iosblackteckapp`
+  免费使用正版应用，以及分享 iOS 各种高效实用应用与实用黑技巧。
+- [iOS Releases](https://t.me/iOSUpdates) `iOSUpdates`
   iOS, TvOS and watchOS signing status updates. This channel will notify you when apple starts or stops signing a firmware version.
+
+
+
+**Android**
+
+- [问道](https://t.me/mdqwsf) `mdqwsf`
+  该频道 apk 为个人汉化而来。
+
+
+
+**软件**
+
+- [简悦 - SimpRead](https://t.me/simpread) `simpread` 
+  让你瞬间进入沉浸式阅读的 [Chrome 扩展](https://chrome.google.com/webstore/detail/simpread-reader-view/ijllcpnolfcooahcekpamkbidhejabll)，还原阅读的本质，提升你的阅读体验。
+  希望做一些让这个世界变得更美好的小事。by Kenshin
+  [网站](http://ksria.com/simpread) | [订阅中心](https://simpread.pro/subscribe)
 
 
 
@@ -1363,6 +1390,17 @@ https://rsshub.app/telegram/channel/tingtalk
 | [每日摄影观察](https://t.me/cnphotog_collect)             | 一个不严肃的摄影频道。                                       |
 | [中國家地理雜誌中文版](https://t.me/natgeomedia)          | Hi 探險家，和國家地理一起探索世界吧！                        |
 
+
+
+- [gledos 的微型博客](https://t.me/gledos_microblogging) `gledos_microblogging`
+  请记住我们，因我们也在这世上爱过和笑过。
+  庭说：对游戏话题颇有见解。
+
+- [Route 66 Blog](https://t.me/landofmaplex) `landofmaplex`
+  [网站](https://route66x.com)：留学、移民、程序员、死磕北美、加拿大、美国、跑路、移民生活
+
+
+
 [中文独立博客列表](https://github.com/timqian/chinese-independent-blogs) by timqian
 
 
@@ -1377,13 +1415,14 @@ https://rsshub.app/telegram/channel/tingtalk
 
 
 
-
 #### 🎙 播客
+
+采用 RSS 订阅的播客，永远都不会过时。
 
 | 频道                                                         | 详情                                                         |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | [「利器x播客」计划](https://t.me/liqixpodcast)               | [官网](https://liqixpodcast.typlog.io/)                      |
-| [独立播客](https://t.me/indiepod)                            | 分享关于播客的一切。by Zac                                   |
+| [播客先声](https://t.me/voicefirst)                          | 分享关于播客的一切。by Zac                                   |
 | [中文播客精选](https://t.me/greatpodcasts)                   | 分享精选优质中文播客，目前推荐单期节目为主。by [白昼电台](https://day.pcast.me/) 的主播 Stella |
 | [Your Daily Dose of Podcast](https://t.me/daily_dose_podcast) | 每天推荐一集让人心潮澎湃、若有所思、打开新世界大门的播客节目。by 穿堂风<br />推荐的播客会同步更新在 [Medium](https://medium.com/@chuantangfeng)<br />[我在豆瓣上分享了 400 集播客节目，有什么用？](https://www.douban.com/note/776029208/) |
 | [交差点](https://t.me/jiaochadian)                           | Technology alone is not enough.                              |
@@ -1508,7 +1547,6 @@ https://rsshub.app/telegram/channel/tingtalk
 | [即刻精选](https://t.me/jike_collection)      | 精选即刻 app 热门话题更新。我的即刻 ID 是 [Dr_Ting](https://m.okjike.com/users/Zhong_Waiting)。 |
 | [你不知道的内幕消息](https://t.me/inside1024) | 同时抓取来自即刻 app 的 #大公司的负面新闻。                  |
 | [Matters 閲讀精選](https://t.me/MattersHub)   | matters.news 一個自主、永續、有價的創作與公共討論空間。      |
-| [Leanote](https://t.me/leanote)               | 今天的定位（今天的是什么日子呢）：单向历、mono日签等         |
 
 
 
@@ -1533,12 +1571,17 @@ https://rsshub.app/telegram/channel/tingtalk
 
 
 
-- `ksc666` [Discover good software](https://t.me/ksc666)
+- [擅长搜索的高木同学](https://t.me/gaomutongxue) `gaomutongxue`
+
+- [黑科技软件资源分享](https://t.me/kkaifenxiang) `kkaifenxiang`
+   分享免费实用高效率网络资源、黑科技软件、实用黑技巧。
+
+- [Discover good software](https://t.me/ksc666) `ksc666`
    分享 Magisk、Riru、LSPosed、虚拟框架、Xposed 模块、Magisk 模块、Android、Windows……等软件。
+   
+- [破解安卓 VPN 软件](https://t.me/vpn_cracked) `vpn_cracked`
 
-
-
-
+   发布原创破解的 VPN 和各种软件，以及分享各类资源，多位安卓逆向大佬坐镇。
 
 
 
@@ -1606,7 +1649,14 @@ https://rsshub.app/telegram/channel/tingtalk
 | [就要造反](https://t.me/ZaoFaner)                       | 此频道立足生活，以非常古怪的文字风格进行生存经验书写，绘制景观与消费社会中极具现实性的个案，以此为个体提供可操的、创造性的抵制策略与造反计谋。为一切造反者辩护，为所有无用与丰饶辩护。 |
 | [残障之声](https://t.me/life_with_disabilities)         | 在态度和环境障碍相互作用存在的情况下，提供合理便利是全社会需要一同去解决的问题，残障人士应当理直气壮地要求这种权利和便利，去定义一个无障碍的社会。 |
 
-此外，Telegram 上也有 [国家或地区的领导人官方频道](https://t.me/durov/148)。
+- [每日一句](https://t.me/meiriyiju) `meiriyiju`
+  每天一句心灵鸡汤，配上必应每日壁纸。
+- [Leanote](https://t.me/leanote) `leanote`
+  今天的定位（今天的是什么日子）：单向历、mono日签等
+
+
+
+
 
 ## 🤖 [Bot 推荐](https://telegram.org/faq#bots)
 
@@ -1806,6 +1856,7 @@ Telegram 的服务器分布在世界各地的数据中心（[Data Center](https:
 
 * [@keyworddel_bot](https://t.me/keyworddel_bot)：自动删除群组推广、广告、博采等消息。
 * [SCP-079-INFO](https://t.me/SCP_079_INFO)：免费并开源的群组管理机器人，需 [申请](https://scp-079.org/ApplyForUse/) 通过后才能使用。[查看项目介绍](https://scp-079.org/readme/)
+* [鲁小迅](https://t.me/luxiaoxun_bot) `@luxiaoxun_bot` [频道](https://t.me/luxiaoxun)
 
 
 
@@ -1929,4 +1980,4 @@ Stay home. Wash your hands. Be safe. And stay tuned for our next updates! It is 
 
 ## 📞 与我联系
 
-欢迎读者在 Telegram 搜索 [@tingbot](https://t.me/tingbot) 与我取得联系：指出此文疏漏，推荐优质频道和机器人，一起跨越数字鸿沟，共享信息自由。
+欢迎读者在 Telegram 搜索 [@tingbot](https://t.me/tingbot) 与我取得联系：指出此文疏漏，推荐优质频道和机器人，一起跨越数字鸿沟，共享信息自由。![image-20211123124035497](C:\Users\dell\AppData\Roaming\Typora\typora-user-images\image-20211123124035497.png)
