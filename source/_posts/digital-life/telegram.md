@@ -1392,12 +1392,13 @@ https://rsshub.app/telegram/channel/tingtalk
 
 
 
+- [EdNovas 的小站](https://t.me/ednovas2) `@ednovas2`
+  网站：[ednovas.xyz](https://www.ednovas.xyz)
+  导航：[navigate.ednovas.xyz](https://navigate.ednovas.xyz)
 - [gledos 的微型博客](https://t.me/gledos_microblogging) `gledos_microblogging`
   请记住我们，因我们也在这世上爱过和笑过。
-  庭说：对游戏话题颇有见解。
-
 - [Route 66 Blog](https://t.me/landofmaplex) `landofmaplex`
-  [网站](https://route66x.com)：留学、移民、程序员、死磕北美、加拿大、美国、跑路、移民生活
+  [网站](https://route66x.com)：留学、移民、程序员、死磕北美、加拿大、美国、跑路、移民生活。
 
 
 
@@ -1585,11 +1586,16 @@ https://rsshub.app/telegram/channel/tingtalk
 
 
 
+- [万能福利吧](https://t.me/wnflb) `@wnflb`
+  分享有趣的信息，包含网站、活动、网购、下载综合症、好孩子看不见等福利。
+
+
+
 #### 🎞️ 视频
 
 **电影 / 剧集**
 
-- 👍 [四库全书](https://t.me/video4lib) `video4lib`
+- [四库全书](https://t.me/video4lib) `video4lib` 👍
   一个不断收集互联网有价值内容的企划。
 - [电影频道](https://t.me/TGDY188) `TGDY188`
   精选国内外高分电影。
