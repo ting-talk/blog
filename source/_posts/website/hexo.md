@@ -281,8 +281,6 @@ AdSense 代码：
 参考资料：[在 NexT 主题中接入 Google AdSense | Code Life](https://www.boris1993.com/others/hexo-next-enable-google-adsense.html)
 
 
-
-
 ## 📡 连接 GitHub
 
 `Win` + `S` 打开搜索，输入 `Git Bash`，或者在电脑任意位置右键打开 `Git Bash`，然后根据 GitHub 账号，修改下面的命令并复制到 `Git Bash`，Enter：
