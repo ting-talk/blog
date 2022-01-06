@@ -462,6 +462,16 @@ Mask-wearing is now mandatory in all indoor public places. 现在所有室内公
 
 
 
+### Commission
+
+佣金；业绩奖金；提成；支付给中间人的劳务报酬
+
+She gets 10 percent commission on every house she sells. 她可以在她卖出的每一间房子中抽取百分之十的佣金。
+
+[「加薪」、「獎金」英文怎麼說？10 種薪水一次學會｜天下雜誌](https://www.cw.com.tw/article/5099605)
+
+
+
 ### Communication
 
 We had a breakdown in communication.
@@ -2295,6 +2305,22 @@ with all due respect  给予一切应有的尊重；恕我直言；冒昧的说
 Okay. Let's not rehash that fight.  好吧，这个问题咱别再吵了。
 
 
+
+### Reimburse
+
+报帐；报销
+
+- burse 原意是金库
+- im 相当于 in，在里面
+- re 是 return 的意思
+
+再回到金库里，意思是，一笔钱用掉了，又回到你身上。想像在公司，你自己先垫出一笔钱，再向公司报帐，这个动作就叫 reimburse。
+
+例句：Tell me what you have spent and I will reimburse you.（告诉我你花了哪些费用，以便我还给你。）
+
+这个字也常常以名词型态出现：I would like to request my travel reimbursement.（我想报差旅费。）
+
+[报帐、预支...这些英文不会说，荷包就亏大了－戒掉烂英文｜商周](https://www.businessweekly.com.tw/careers/blog/7098)
 
 ### Revolve
 
