@@ -27,7 +27,7 @@ tags: [突破网络审查, Apple ID]
 核心思想是伪装成在美国上网的美国人：
 
 - 1 个美国 IP
-  - [买一个](https://tingtalk.me/fq/) 或白嫖 [迷雾通](https://geph.io/zhs/)（安装包已上传至 [蓝奏云](https://wwa.lanzous.com/b00t9wiva)）
+  - [买一个](https://tingtalk.me/fq/) 或白嫖 [迷雾通](https://geph.io/zhs/)（安装包已上传至 [蓝奏云](https://wwi.lanzoul.com/b00t9wiva)）
   - 选择一个美国的线路，并 [测试 IP](https://whoer.net/zh)  归属地是否为美国
 - 1 个美国地址
   - 借助 [地址生成器](https://www.fakeaddressgenerator.com/World/us_address_generator) 获得一个虚假的美国人信息
