@@ -280,10 +280,9 @@ AdSense 代码：
 
 参考资料：[在 NexT 主题中接入 Google AdSense | Code Life](https://www.boris1993.com/others/hexo-next-enable-google-adsense.html)
 
-
 ## 📡 连接 GitHub
 
-`Win` + `S` 打开搜索，输入 `Git Bash`，或者在电脑任意位置右键打开 `Git Bash`，然后根据 GitHub 账号，修改下面的命令并复制到 `Git Bash`，Enter：
+先下载并安装 [Git](https://git-scm.com/downloads)，然后 `Win` + `S` 打开搜索，输入 `Git Bash`，或者在电脑任意位置右键打开 `Git Bash`，然后根据 GitHub 账号，修改下面的命令并复制到 `Git Bash`，Enter：
 
 ```shell
 git config --global user.name "ting-talk"
@@ -298,20 +297,20 @@ Generating public/private rsa key pair.
 Enter file in which to save the key (/c/Users/***/.ssh/id_rsa):
 ```
 
-Enter：
+不用处理，直接 Enter：
 
 ```shell
 Created directory '/c/Users/***/.ssh'.
 Enter passphrase (empty for no passphrase):
 ```
 
-Enter：
+不用处理，直接 Enter：
 
 ```shell
 Enter same passphrase again:
 ```
 
-Enter:
+不用处理，直接 Enter：
 
 ```shell
 Your identification has been saved in /c/Users/***/.ssh/id_rsa
@@ -359,7 +358,6 @@ Are you sure you want to continue connecting (yes/no/[fingerprint])?
 输入 `yes`，Enter：
 
 ```shell
-Warning: Permanently added 'github.com,13.229.188.59' (RSA) to the list of known hosts.
 Hi ting-talk! You've successfully authenticated, but GitHub does not provide shell access.
 ```
 
