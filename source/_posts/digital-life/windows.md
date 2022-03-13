@@ -793,6 +793,38 @@ Windows 的默认图片浏览器非常难用。而 qimgv 是一款开源的图�
 
 来源：[用微软拼音快速输入自定义格式的时间和日期 - walterlv](https://blog.walterlv.com/ime/2017/09/18/date-time-format-using-microsoft-pinyin.html)
 
+**导入「小鹤双拼」方案**
+
+1. 在桌面（或其它位置）右击 `新建文本文档.txt`
+
+2. 复制并粘贴以下代码：
+   ```
+   Windows Registry Editor Version 5.00
+   
+   [HKEY_CURRENT_USER\Software\Microsoft\InputMethod\Settings\CHS]
+   "Enable Cloud Candidate"=dword:00000000
+   "Enable Dynamic Candidate Ranking"=dword:00000001
+   "EnableExtraDomainType"=dword:00000001
+   "Enable self-learning"=dword:00000001
+   "EnableSmartSelfLearning"=dword:00000001
+   "EnableLiveSticker"=dword:00000000
+   "Enable EUDP"=dword:00000001
+   "Enable Double Pinyin"=dword:00000001
+   "UserDefinedDoublePinyinScheme0"="小鹤双拼*2*^*iuvdjhcwfg^xmlnpbksqszxkrltvyovt"
+   "DoublePinyinScheme"=dword:0000000a
+   ```
+   
+3. `Ctrl`  + `S` 保存，关闭
+
+4. 把文件扩展名 `.txt` 修改 `.reg`：`新建文本文档.reg`，忽略警告
+
+5. 双击 `新建文本文档.reg`  即可导入「小鹤双拼」方案
+
+> 参考来源：[Windows 10/11 为微软拼音导入小鹤双拼方案 by 潘达仔](https://www.jianshu.com/p/181c6d08fb1a)
+
+
+
+
 **关联阅读**
 
 - [一些小技巧，让你的 Windows 10 内置拼音输入法更好用 - 好奇狗熊](https://sspai.com/post/52101)
