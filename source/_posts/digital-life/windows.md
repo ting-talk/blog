@@ -555,6 +555,12 @@ Markdown 是非常优秀的写作语言，但并不是人人都知道，所以�
 
 
 
+#### [PDF Arranger](https://github.com/pdfarranger/pdfarranger)
+
+[PDF Arranger - 简单直观的 PDF 页面操作工具 - 发现频道 - 小众软件官方论坛](https://meta.appinn.net/t/topic/27224/1)
+
+
+
 ### 图像处理
 
 

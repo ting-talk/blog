@@ -330,26 +330,30 @@ tags: 英语
 
 建议配合 [课文详解](http://www.tingroom.com/lesson/nce2/index.html) 辅助理解。
 
-
-
-**听力材料其他推荐**
+### 视频
 
 - [Daily English Dictation](https://www.bilibili.com/video/av24173069)：日常听力训练，找 Coach Shane。
-- [Pocket Casts](https://www.pocketcasts.com/) ：相关的英语电台节目，刷牙或洗澡的时候听。
 - [YouTube 有哪些值得看的外语频道 - 酱紫表](https://sspai.com/post/56339)
 
+### 播客
+
+**和 Emily 一起练口语**：每一个单词、发音和句子，都讲解得非常详细，并且在 Show Notes 中有中英双语文字稿，适合英语初学者收听。RSS 订阅链接如下：
+
+```
+https://www.ximalaya.com/album/2801092.xml
+```
+
+Pocket Casts 收听：https://pca.st/RRAq
+
+纵使我用这个播客磨了几年的耳朵，但英文还是那么差。学习语言，贵在多说，多用，多回顾。
 
 
-**练习听力的手机软件**
+
+### App
 
 1. [每日英语听力](https://dict.eudic.net/ting)（欧路词典出品）
 2. [轻听英语](https://langeasy.com.cn/)（朗易思听出品）
-
-
-
-
-
-
+3. [Pocket Casts](https://www.pocketcasts.com/) ：相关的英语电台节目，刷牙或洗澡的时候听
 
 
 

@@ -363,6 +363,12 @@ Hi ting-talk! You've successfully authenticated, but GitHub does not provide she
 
 如果有你的 GitHub 用户名（`Hi ting-talk!`），则代表与 GitHub 连接成功。
 
+
+
+**More Tips**：[不想使用全局用户？教你为Hexo博客单独配置指定的git用户 | Hui-Shao's Blog](https://hui-shao.cn/hexo-git-user/)
+
+
+
 ## 🚀 推送到 GitHub
 
 在博客文件夹，右键打开 `Git Bash`，复制以下命令（可能要删除主题的 `.git`）：
