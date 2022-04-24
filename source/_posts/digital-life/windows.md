@@ -1,7 +1,7 @@
 ---
 title: Windows 10 电脑：使用技巧、佳软推荐以及系统重装教程  
 date: 2017-12-18  
-updated: 2021-04-20    
+updated: 2022-04-20    
 categories: 数字生活   
 tags: [Windows, 网上冲浪指南]
 ---
@@ -421,12 +421,22 @@ CertUtil -hashfile D:\Downloads\Shadowsocks-4.1.9.3.zip SHA512
 
 Internet Download Manager 是一个多线程下载管理器。虽然长得丑，但是可以大大提升你的下载幸福感。可惜只支持超文本（安全）传输协议（HTTP / HTTPS）和文件传输协议（FTP），不支持 BitTorrent（BT）、磁力链接（Magnet URI scheme）、电驴链接（eD2k）和迅雷链接（Thunder）。这个时候就得迅雷和其他下载软件出场了。
 
-> 什么是多线程下载？打个比方，现在要接满 1 桶水，浏览器下载时只能开 1 个水龙头，接满 1 桶水时间为 1 小时。多线程下载器可以 32 个水龙头同时接水，接满 1 桶水时间缩短到 2 分钟，足足快了 32 倍。by [网盘直链下载助手](https://www.baiduyun.wiki/zh-cn/)
+> 什么是多线程下载？打个比方，现在要接满 1 桶水，浏览器下载时只能开 1 个水龙头，接满 1 桶水时间为 1 小时。多线程下载器可以 32 个水龙头同时接水，接满 1 桶水时间缩短到 2 分钟，足足快了 32 倍。by [网盘直链下载助手](https://www.baiduyun.wiki/zh-cn/)价格：￥109.00
+> 购买地址：https://store.lizhi.io/site/products/id/325?cid=th4z9un0
 
-**下载**
+**免费破解版**
 
+- 请见 [423Down 介绍](https://www.423down.com/575.html)
+- [下载地址](https://www.423down.com/575.html)
 
-- [Internet Download Manager 下载地址](https://www.lanzous.com/b0ug2rrc)（经济宽裕的读者还请付费支持）
+**付费正版**
+
+经济宽裕的读者还请多多支持，这是 [购买链接](https://store.lizhi.io/site/products/id/325?cid=th4z9un0)（价格可能有波动）：
+
+|                         一年授权                          |                      永久授权                       |
+| :-------------------------------------------------------: | :-------------------------------------------------: |
+|                           ￥35                            |                        ￥109                        |
+| 可激活 1 台设备，享有一年使用和更新权，到期后需再次购买。 | 可激活 1 台设备，享有永久使用权。三年内免费更新权。 |
 
 **用途**
 

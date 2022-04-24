@@ -365,7 +365,7 @@ Hi ting-talk! You've successfully authenticated, but GitHub does not provide she
 
 
 
-**More Tips**：[不想使用全局用户？教你为Hexo博客单独配置指定的git用户 | Hui-Shao's Blog](https://hui-shao.cn/hexo-git-user/)
+**More Tips**：[不想使用全局用户？教你为 Hexo 博客单独配置指定的 git 用户 | Hui-Shao's Blog](https://hui-shao.cn/hexo-git-user/)
 
 
 
