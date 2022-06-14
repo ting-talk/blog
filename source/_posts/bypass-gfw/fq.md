@@ -53,17 +53,11 @@ Ting 我 Talk 一句：只要肉身在中国大陆，我们的一切行动听党
 
 ### 📧 注册
 
-用手机或者电脑的本机浏览器打开 [ssrcloud](https://sgi.anycast.gay/auth/register?code=iQuU)，或者复制下面这个网址，粘贴到浏览器的地址栏：
+用手机或者电脑的本机浏览器打开 [ssrcloud](https://dpdk.anycast.gay/auth/register?code=iQuU)，或者复制下面这个网址，粘贴到浏览器的地址栏：
 
 ```http
-https://sgi.anycast.gay/auth/register?code=iQuU
+https://dpdk.anycast.gay/auth/register?code=iQuU
 ```
-或者：
-
-```http
-https://xn--wck3bl6f2a2hb.xn--p8jr2b2a2b5gvc4ed.com/auth/register?code=iQuU
-```
-
 - 邀请码是 `iQuU`
 - 通过我的邀请链接注册，你可能会获得 ￥1 的初始出海资金
 - 官网不是一成不变的
