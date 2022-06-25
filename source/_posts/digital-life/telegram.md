@@ -1,7 +1,7 @@
 ---
 title: Telegram：新手指南、使用教程及频道推荐（持续更新中）
 date: 2019-11-09
-updated: 2022-04-22 
+updated: 2022-06-25 
 categories: 数字生活  
 tags: [网上冲浪指南, 突破网络审查, Telegram]
 ---
@@ -35,7 +35,7 @@ tags: [网上冲浪指南, 突破网络审查, Telegram]
 
 > We believe that humans are inherently intelligent and benevolent beings that deserve to be trusted; trusted with freedom to share their thoughts, freedom to communicate privately, freedom to create tools. This philosophy defines everything we do. 我们相信人类天生就是聪明和仁慈的，值得信任的；坚信人类可以自由地分享想法，自由地私下交流，自由地创造工具。 这种哲学定义了我们所做的一切。by [Pavel Durov](https://telegram.org/blog/200-million)
 
-截止 2020 年 12 月 23 日，[Telegram 已有 5 亿月活跃用户](https://t.me/durov/142)。
+截止 2022 年 6 月 19 日，[Telegram 已有 7 亿月活跃用户](https://telegram.org/blog/700-million-and-premium)。
 
 ### 👍 近乎完美
 
