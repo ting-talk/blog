@@ -1,7 +1,7 @@
 ---
 title: Telegram：新手指南、使用教程及频道推荐（持续更新中）
 date: 2019-11-09
-updated: 2022-08-18
+updated: 2022-09-14
 categories: 数字生活  
 tags: [网上冲浪指南, 突破网络审查, Telegram]
 ---
@@ -1770,12 +1770,7 @@ Telegram 的服务器分布在世界各地的数据中心（[Data Center](https:
 
 第一步，在隐私和安全设置中，（临时）开启所有人都能查看你的头像（Profile Photos）。
 
-第二步，选择一个查询 Bot：
-
-| Bot                                          | Info         |
-| -------------------------------------------- | ------------ |
-| [@luxiaoxun_bot](https://t.me/luxiaoxun_bot) | 鲁小迅       |
-| [@WooMaiBot](https://t.me/WooMaiBot)         | 干物妹！小霾 |
+第二步，选择一个查询 Bot，例如 [@WooMaiBot](https://t.me/WooMaiBot)
 
 第三步，发送 `/dc`，即可获得你所在的数据中心。
 
@@ -1862,7 +1857,6 @@ Telegram 的服务器分布在世界各地的数据中心（[Data Center](https:
 
 * [@keyworddel_bot](https://t.me/keyworddel_bot)：自动删除群组推广、广告、博采等消息。
 * [SCP-079-INFO](https://t.me/SCP_079_INFO)：免费并开源的群组管理机器人，需 [申请](https://scp-079.org/ApplyForUse/) 通过后才能使用。[查看项目介绍](https://scp-079.org/readme/)
-* [鲁小迅](https://t.me/luxiaoxun_bot) `@luxiaoxun_bot` [频道](https://t.me/luxiaoxun)
 
 
 
