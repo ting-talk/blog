@@ -2,7 +2,7 @@
 
 title: 想要更高效地找到信息，你需要掌握这些搜索技巧
 date: 2019-03-11  
-updated: 2020-06-22   
+updated: 2022-06-22   
 categories: 数字生活  
 tags: 网上冲浪指南
 
@@ -243,6 +243,7 @@ tags: 网上冲浪指南
 
 **通用搜索引擎**
 
+- [Metaphor](https://metaphor.systems/)：Search the internet with prompts 链接源搜索引擎
 - [Bing 国际版](https://cn.bing.com/)
 - [Magi](https://www.peak-labs.com/docs/zh/magi/intro)：基于机器学习的信息抽取和检索系统，提供可解析、可检索、可溯源的知识体系。
 - [Wolfram Alpha](https://www.wolframalpha.com/)：直接向用户返回答案，而不是像传统搜寻引擎一样提供一系列可能含有用户所需答案的相关网页。
@@ -415,6 +416,7 @@ tags: 网上冲浪指南
 
 
 **其他领域**
+
 - [小鸡词典](https://jikipedia.com/)：查网络流行语。
 - [中国邮政名址网](http://cpdc.chinapost.com.cn/web/)：查邮编。
 - [鸠摩搜书](https://www.jiumodiary.com/)：查找免费的英文电子书。

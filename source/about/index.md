@@ -61,7 +61,7 @@ date: 2017-07-15 11:03:10
 
 #### 服务器
 
-备受好评的外贸站空间 [SiteGround](https://www.siteground.com/recommended?referrer_id=8435056)。
+备受好评的外贸站空间 [SiteGround](https://www.siteground.com/index.htm?afcode=f1a2ab78644588e68591fe8d53734936)。
 
 
 
