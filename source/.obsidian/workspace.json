@@ -1,0 +1,143 @@
+{
+  "main": {
+    "id": "f18f6e19aa00fdf2",
+    "type": "split",
+    "children": [
+      {
+        "id": "7003c110b014e8d9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e77add185bc4a3c8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/life/cook.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "832cf160bbd35542",
+    "type": "split",
+    "children": [
+      {
+        "id": "b64986ea2da09e81",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "61ca07f96ee7fac8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1483cae74a523f09",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1fba3070442fa921",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "59ee18ee03afef0b",
+    "type": "split",
+    "children": [
+      {
+        "id": "ea78a6af6af08699",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6bcb89f16926064a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "_posts/life/cook.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c189da3ef0dc673d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "_posts/life/cook.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "08dc17924ea7c703",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e277e98f92cd2081",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "_posts/life/cook.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "61ca07f96ee7fac8",
+  "lastOpenFiles": [
+    "_posts/life/cook.md"
+  ]
+}
