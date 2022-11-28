@@ -1981,4 +1981,4 @@ Stay home. Wash your hands. Be safe. And stay tuned for our next updates! It is 
 
 ## 📞 与我联系
 
-欢迎读者在 Telegram 搜索 [@tingbot](https://t.me/tingbot) 与我取得联系：指出此文疏漏，推荐优质频道和机器人，一起跨越数字鸿沟，共享信息自由。![image-20211123124035497](C:\Users\dell\AppData\Roaming\Typora\typora-user-images\image-20211123124035497.png)
+欢迎读者在 Telegram 搜索 [@tingbot](https://t.me/tingbot) 与我取得联系：指出此文疏漏，推荐优质频道和机器人，一起跨越数字鸿沟，共享信息自由。
