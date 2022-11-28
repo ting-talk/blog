@@ -36,8 +36,8 @@ custom_file_path:
 # ---------------------------------------------------------------
 
 # Schemes
-scheme: Muse
-#scheme: Mist
+#scheme: Muse
+scheme: Mist
 #scheme: Pisces
 #scheme: Gemini
 
@@ -684,7 +684,7 @@ comments:
 disqus:
   enable: ture
   shortname: tingtalk
-  count: true
+  count: false
 
 # DisqusJS
 # For more information: https://disqusjs.skk.moe
