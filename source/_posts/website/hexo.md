@@ -171,8 +171,6 @@ marked:
 
 注册前，请把 GitHub 的 `Primary email address`  改为非 QQ 邮箱，GitLab 或 Bitbucket 同理，否则 `Error:Sorry, we are unable to complete your signup.` 
 
-
-
 ### 👉 Netlify
 
 2020 年 10 月超限了，只好切换到 Vercel。
