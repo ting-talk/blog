@@ -1,22 +1,18 @@
 {
   "main": {
-    "id": "f18f6e19aa00fdf2",
+    "id": "a2be9cdb77402ef4",
     "type": "split",
     "children": [
       {
-        "id": "7003c110b014e8d9",
+        "id": "000f1d329b959338",
         "type": "tabs",
         "children": [
           {
-            "id": "e77add185bc4a3c8",
+            "id": "c1518bf5943384de",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/life/cook.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -25,15 +21,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "832cf160bbd35542",
+    "id": "4637adef59aef636",
     "type": "split",
     "children": [
       {
-        "id": "b64986ea2da09e81",
+        "id": "71fab5c31176bb8a",
         "type": "tabs",
         "children": [
           {
-            "id": "61ca07f96ee7fac8",
+            "id": "e8af537477673128",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +39,7 @@
             }
           },
           {
-            "id": "1483cae74a523f09",
+            "id": "6d7cc136d8d3e197",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +54,7 @@
             }
           },
           {
-            "id": "1fba3070442fa921",
+            "id": "85608d04abb4aacd",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -72,20 +68,19 @@
     "width": 300
   },
   "right": {
-    "id": "59ee18ee03afef0b",
+    "id": "8c22ba8a515ccbd7",
     "type": "split",
     "children": [
       {
-        "id": "ea78a6af6af08699",
+        "id": "cf86314d1d3f549d",
         "type": "tabs",
         "children": [
           {
-            "id": "6bcb89f16926064a",
+            "id": "19ef8df2412e3f97",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/life/cook.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,19 +92,18 @@
             }
           },
           {
-            "id": "c189da3ef0dc673d",
+            "id": "63ae895a035ec5a1",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/life/cook.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "08dc17924ea7c703",
+            "id": "54d25beabf6e7226",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,24 +114,20 @@
             }
           },
           {
-            "id": "e277e98f92cd2081",
+            "id": "0aefb7a4cde4bc79",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "_posts/life/cook.md"
-              }
+              "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
-  "active": "61ca07f96ee7fac8",
-  "lastOpenFiles": [
-    "_posts/life/cook.md"
-  ]
+  "active": "c1518bf5943384de",
+  "lastOpenFiles": []
 }

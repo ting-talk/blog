@@ -1038,7 +1038,7 @@ Creat New Folder（新建分组）时有以下筛选条件可选：
 
 ### 📢 频道主
 
-- [Hashtags](https://telegram.org/tour/channels#hashtags)：多用 `#` （标签）给消息分类，方便快速检索（点击高亮的关键词，或者在搜索框手动输入 `# + 关键词`），然后把标签放在置顶信息里或者频道介绍里。
+- [Hashtags](https://telegram.org/tour/channels#hashtags)：多用 `#` （标签）给消息分类，方便快速检索（点击高亮的关键词，或者在搜索框手动输入 `# + 关键词`），然后把标签放在置顶信息里，或频道介绍里。
 - 频道分析（[Channel Stats](https://telegram.org/blog/folders#channel-stats)）📈：订阅人数超过 50 人（之前是 1,000  人）的频道会有详细的统计数据分析报告（[Statistics](https://telegram.org/tour/channels#detailed-statistics)）。
 - 频道可以有无数个订阅者，但是创建者只能邀请前 200 个成员到你的频道。
 - 重新编辑（Edit）消息，多久之前发的 Post 都可以。
@@ -1305,6 +1305,7 @@ https://rsshub.app/telegram/channel/tingtalk
 | [Science](https://t.me/science)                      | Science News channel, videos and articles - international project, 35+ countries. |
 | [OnePlus](https://t.me/OnePlus)                      | Everything OnePlus.                                          |
 | [老毛子 Padavan 固件发布](https://t.me/pdcn1)        | 一个路由器固件。                                             |
+| [油油分享频道](https://t.me/youyousharechannel)      | 分享开源、优秀的软件，有趣、实用的网站资源。                 |
 
 
 
