@@ -8,7 +8,7 @@ tags: [网上冲浪指南, 突破网络审查, Telegram]
 
 ![telegram](telegram/telegram.png)
 
-电报是迄今为止最棒的即时聊天软件，在这个自由新世界，不必自我审查（Freedom of speech）。
+Telegram 是迄今为止最棒的即时聊天软件，在这个自由新世界，不必自我审查（Freedom of speech）。
 
 <!-- more -->
 
