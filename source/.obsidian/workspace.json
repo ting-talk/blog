@@ -1,22 +1,18 @@
 {
   "main": {
-    "id": "a2be9cdb77402ef4",
+    "id": "e2545f36ad92b62b",
     "type": "split",
     "children": [
       {
-        "id": "000f1d329b959338",
+        "id": "7df344b8a8c996e1",
         "type": "tabs",
         "children": [
           {
-            "id": "c1518bf5943384de",
+            "id": "803a210a1eee9171",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "digital-life/telegram.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -25,15 +21,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "4637adef59aef636",
+    "id": "6be96f0c0b788c6f",
     "type": "split",
     "children": [
       {
-        "id": "71fab5c31176bb8a",
+        "id": "1605565eb0b41a29",
         "type": "tabs",
         "children": [
           {
-            "id": "e8af537477673128",
+            "id": "0474a39b28e556f4",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +39,7 @@
             }
           },
           {
-            "id": "6d7cc136d8d3e197",
+            "id": "d5dcdd80f10cf5da",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +54,7 @@
             }
           },
           {
-            "id": "85608d04abb4aacd",
+            "id": "ce1e8d1a13a9b3bc",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -72,20 +68,19 @@
     "width": 300
   },
   "right": {
-    "id": "8c22ba8a515ccbd7",
+    "id": "ff14de36136f8777",
     "type": "split",
     "children": [
       {
-        "id": "cf86314d1d3f549d",
+        "id": "a4204568f9fb913d",
         "type": "tabs",
         "children": [
           {
-            "id": "19ef8df2412e3f97",
+            "id": "a04d8ca23a1208e9",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "digital-life/telegram.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,19 +92,18 @@
             }
           },
           {
-            "id": "63ae895a035ec5a1",
+            "id": "d5c09df2329c102b",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "digital-life/telegram.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "54d25beabf6e7226",
+            "id": "b462c5ce155289dd",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,13 +114,11 @@
             }
           },
           {
-            "id": "0aefb7a4cde4bc79",
+            "id": "dde4d866c54db571",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "digital-life/telegram.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -136,6 +128,6 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c1518bf5943384de",
+  "active": "803a210a1eee9171",
   "lastOpenFiles": []
 }

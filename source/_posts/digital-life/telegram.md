@@ -1,7 +1,7 @@
 ---
 title: Telegram：新手指南、使用教程及频道推荐（持续更新中）
 date: 2019-11-09
-updated: 2022-09-14
+updated: 2022-11-14
 categories: 数字生活  
 tags: [网上冲浪指南, 突破网络审查, Telegram]
 ---
