@@ -14,11 +14,14 @@ date: 2017-07-15 11:03:10
 ### 沟通
 
 - Email：tingtalk.me(at)gmail.com
+
 - Telegram：[@tingtalkme](https://t.me/tingtalkme)
+
 - Telegram 群组：[@tingtalk_group](https://t.me/tingtalk_group)
-- 微信号：`tingtalkme`
-  - 接头暗号：`博客` ，通过好友申请后，可以告诉我是从哪里得知庭说的（非必须）。
-  - 接头暗号：`博客 + 进群`，邀请你加入不活跃且充满审查的「庭说读者群」。
+
+- 微信号：`tingtalkme`，备注 `博客` 。通过好友申请后，请告诉我是从哪里得知庭说（非必须）。
+  
+  
 
 ### 订阅
 
@@ -27,7 +30,7 @@ date: 2017-07-15 11:03:10
 - Twitter：[@tingtalkme](https://twitter.com/tingtalkme)
 - 公众号：扫描下方的二维码，关注「庭说 TingTalk 」。
 
-![wechat-mp-qr-code-white.jpg](https://i.loli.net/2020/04/16/Y9bCMpH3lojRaTG.jpg)
+![wechat-mp-qr-code-white.jpg](wechat.jpg)
 
 ## 鼓励我
 
@@ -77,9 +80,9 @@ date: 2017-07-15 11:03:10
 
 若是文章对你有帮助，微信 / 支付宝扫描下方赞赏码，给予**小额**鼓励：
 
-![wechat-reward.jpg](https://i.loli.net/2020/04/30/ZIhscil38k4C1wq.jpg)
+![wechat-reward.jpg](wechatpay.jpg)
 
-![alipay-reward.jpg](https://i.loli.net/2020/04/30/FI8bTwv5tuhBarg.jpg)
+![alipay-reward.jpg](alipay.jpg)
 
 
 
