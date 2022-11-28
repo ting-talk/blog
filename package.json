@@ -9,7 +9,7 @@
     "server": "hexo server"
   },
   "hexo": {
-    "version": "5.1.1"
+    "version": "6.3.0"
   },
   "dependencies": {
     "hexo": "^6.3.0",
@@ -28,7 +28,6 @@
     "hexo-renderer-stylus": "^2.1.0",
     "hexo-server": "^3.0.0",
     "hexo-theme-next": "^8.13.2",
-    "hexo-theme-next-anchor": "^1.0.3",
     "markdown-it-named-headings": "^1.1.0",
     "pjax": "^0.2.8"
   }
