@@ -21,7 +21,7 @@ date: 2017-07-15 11:03:10
 
 - 微信号：`tingtalkme`，备注 `博客` 。通过好友申请后，请告诉我是从哪里得知庭说（非必须）。
   
-  
+  ![wechat.jpg](wechat.jpg)
 
 ### 订阅
 
@@ -30,7 +30,7 @@ date: 2017-07-15 11:03:10
 - Twitter：[@tingtalkme](https://twitter.com/tingtalkme)
 - 公众号：扫描下方的二维码，关注「庭说 TingTalk 」。
 
-![wechat-mp-qr-code-white.jpg](wechat.jpg)
+![wechat-mp.jpg](wechat_channel.jpg)
 
 ## 鼓励我
 
