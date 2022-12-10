@@ -204,6 +204,11 @@ Enhance your written communication everywhere you type.
 
 
 
+#### [Copy Title and Url as Markdown Style](https://chrome.google.com/webstore/detail/copy-title-and-url-as-mar/fpmbiocnfbjpajgeaicmnjnnokmkehil)
+
+一键复制当前标签页的标题和链接，不过是 Markdown 格式。
+
+
 #### [Wikiwand](https://www.wikiwand.com/)
 
 维基魔杖用于改善维基百科的阅读体验（Wikiwand gives good old Wikipedia a great new look）。
