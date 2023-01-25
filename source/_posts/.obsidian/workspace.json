@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "f56c7e842b4b6ac4",
+        "id": "c5a72e674d9e06a1",
         "type": "tabs",
         "children": [
           {
-            "id": "d7578fa1e32014dc",
+            "id": "5275480a393b8c14",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "writing/composition-seven-tips.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -136,7 +132,7 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "d7578fa1e32014dc",
+  "active": "80722f7f1ea0011c",
   "lastOpenFiles": [
     "digital-life/chrome.md",
     "digital-life/chrome/google-chrome.png"

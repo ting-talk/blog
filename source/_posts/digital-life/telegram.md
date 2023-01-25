@@ -556,7 +556,7 @@ Telegram 有一个非常人性化的特性：**记忆浏览进度**，打开对�
 
 #### ✏️ 消息更正
 
-在 Telegram，说出去的话不会像泼出去的水收不回来，在 48 小时内（频道和群组是无限期修改），你都可以重新编辑（[Edit your messages after posting](https://telegram.org/blog/edit)），包括文字、图片和视频（[Edit sent media to re-crop, re-decorate or completely replace photos and videos.](https://t.me/TelegramTips/81)），所以：
+在 Telegram，说出去的话不会像泼出去的水收不回来，在 48 小时内（频道是无限期修改），你都可以重新编辑（[Edit your messages after posting](https://telegram.org/blog/edit)），包括文字、图片和视频（[Edit sent media to re-crop, re-decorate or completely replace photos and videos.](https://t.me/TelegramTips/81)），所以：
 
 
 - 文字出现 typos，不用删除，多久之前发的消息都能随时更正（Edit）。
