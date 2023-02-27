@@ -135,6 +135,7 @@ Android 用户推荐使用 ShadowsocksR 客户端，但是也可以把 Clash for
 - [Dler Cloud 文档中心](https://docs.dler.io/black-hole/)
 - [全球互联交互 - 帮助中心](https://world.crisp.help/zh/)
 - [使用教程汇总 - 神奇海螺](https://wiki.kache.moe/2019/12/17/%E6%95%99%E7%A8%8B%E6%B1%87%E6%80%BB/)
+- [科学上网教程汇总 - Sabrina的万事屋](https://merlinblog.xyz/wikipageguide.html)
 
 
 
@@ -450,7 +451,7 @@ Android 用户推荐使用 ShadowsocksR 客户端，但是也可以把 Clash for
 - 下载 ShadowsocksR.apk
   - `原版` [ShadowsocksR.apk](https://github.com/shadowsocksrr/shadowsocksr-android/releases) by shadowsocksrr
   - `魔改` [SSRa](https://github.com/xxf098/shadowsocksr-v2ray-trojan-android)y by xxf098：集成了 V2Ray 和 Trojan 👍
-  - `魔改` [ShadowsocksR.apk](https://cdn.rixcloud.io/download/ShadowsocksR.apk) by rixCloud
+  - `魔改` [ShadowsocksR.apk](https://sabrinathings.lanzoui.com/iV69gel9d1i) by rixCloud
   - `魔改` [ShadowsocksR](https://github.com/HMBSbige/ShadowsocksR-Android/releases) by Bruce Wayne
   - `魔改` shadowsocksRb.apk 下载途径：[GitHub](https://github.com/shadowsocksRb/shadowsocksRb-android/releases) | [Telegram Channel](https://t.me/ShadowsocksRb)
   - `魔改` [Maying](https://apkpure.com/maying/co.tgbot.peekfun)：内置了 [ACL4SSR](https://github.com/ACL4SSR/ACL4SSR) 路由规则。我目前的选择。
