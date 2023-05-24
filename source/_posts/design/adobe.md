@@ -33,6 +33,7 @@ tags: 设计
 - `Ctrl + Shift + G` 取消编组
 - `Ctrl + D` 将变换重新应用于对象
 - `Ctrl + F` （原位）贴在前面
+- `Ctrl + J` 连接两个或更多路径
 - `Ctrl + +` 放大
 - `Ctrl + -` 缩小
 - `Ctrl` + `7` 创建剪切蒙版
@@ -40,7 +41,7 @@ tags: 设计
 - `Alt + 鼠标滚轮` 放大 / 缩小
 - `Alt` + `向上或向下箭头键（横排文本）或者向右或向左箭头键（直排文本）` 增加或减小行距
 
-
+[Illustrator 默认键盘快捷键](https://helpx.adobe.com/cn/illustrator/using/default-keyboard-shortcuts.html)
 
 ### 工具介绍
 

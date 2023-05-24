@@ -1306,6 +1306,7 @@ https://rsshub.app/telegram/channel/tingtalk
 | [OnePlus](https://t.me/OnePlus)                      | Everything OnePlus.                                          |
 | [老毛子 Padavan 固件发布](https://t.me/pdcn1)        | 一个路由器固件。                                             |
 | [油油分享频道](https://t.me/youyousharechannel)      | 分享开源、优秀的软件，有趣、实用的网站资源。                 |
+| [Widget](https://t.me/WidgetChannel)                 | 优质工具和软件，以及有用有趣的科技资讯。                     |
 
 
 
