@@ -2,7 +2,7 @@
 
 title: 装上油猴脚本，你的浏览器才有了灵魂
 date: 2020-02-19 
-updated: 2021-07-01  
+updated: 2023-10-18  
 categories: 数字生活   
 tags: [Chrome, 网上冲浪指南]
 
@@ -209,6 +209,14 @@ by [哩呵](http://pan.newday.me/)
 
 
 ### [youtube.com](https://greasyfork.org/zh-CN/scripts/by-site/youtube.com)
+
+
+
+####  [去除 YouTube 广告](https://greasyfork.org/zh-CN/scripts/459541)
+
+1. 打开 `youtube.com` 
+2. 点击 uBlock Origin 扩展程序的图标，即可关闭广告拦截功能。仅对 YouTube 有效，其它网站 uBlock Origin 依然可以拦截广告。这样看视频的时候就不会收到「YouTube 不允许使用广告拦截器」的警告。
+3. 安装这个 [去除 YouTube 广告的脚本](https://greasyfork.org/zh-CN/scripts/459541)，轻量且高效，也能丝滑的去除界面广告和视频广告，包括 6 秒广告。
 
 ####  [本地 YouTube 下载器](https://greasyfork.org/zh-CN/scripts/369400-local-youtube-downloader)
 
