@@ -10,7 +10,7 @@ tags: [Chrome, 网上冲浪指南]
 
 ![tampermonkey](userscripts/tampermonkey.png)
 
-油猴堪称浏览器扩展程序里的最强王者。如果插件给了浏览器第二春，那么油猴脚本给了第三春。本文以  Chrome 中的 [TemperMoneky](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=zh-CN) 为例，简单列出我的脚本清单。
+油猴是浏览器中不可或缺的扩展程序里。如果插件给了浏览器第二春，那么油猴脚本给了第三春。本文以  Chrome 中的 [TemperMoneky](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=zh-CN) 为例，简单列出我的脚本清单。
 
 <!-- more -->
 

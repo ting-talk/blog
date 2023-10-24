@@ -215,6 +215,25 @@ powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61
 
 
 
+
+
+### 获取 Windows 用户名（账号）和密码
+
+iPhone 进入 Windows 共享文件夹，需要输入 Windows 的用户名（账号）和密码。以 Windows 11 为例：
+
+1. 右键点击开始菜单（田字图标）
+2. 选择 `终端管理员`
+3. 输入 `whoami` 即可出现现在登录的账户，例如 `tim-laptop\lenovo` 或者 `lenovo`
+4. 密码就是锁屏密码（PIN），或者 Microsoft 账户密码（未验证）
+
+参考资料：
+
+- [【二麦】保姆级详解！iPhone 传数据到 Windows 电脑的五种方法 - YouTube](https://www.youtube.com/watch?v=bjuzdkr6cQQ)
+- [轻松实现 iPhone 和 Windows 传输文件 - YouTube](https://www.youtube.com/watch?v=NjKpO8K0GSo)
+- [将照片从iPhone传到pc端的最好解决方案有哪些？ - 知乎](https://www.zhihu.com/question/33879162)
+
+
+
 ### 其它技巧
 
 - 视频教程：[如何在局域网中共享电脑文件夹？- Topbook](https://topbook.cc/search/article?keywords=%E5%B1%80%E5%9F%9F%E7%BD%91&selectedArticle=1367)
