@@ -2,7 +2,7 @@
 
 title: 想要更高效地找到信息，你需要掌握这些搜索技巧
 date: 2019-03-11  
-updated: 2022-06-22   
+updated: 2023-10-29 
 categories: 数字生活  
 tags: 网上冲浪指南
 
@@ -277,6 +277,10 @@ tags: 网上冲浪指南
   - `工具（Tools）` - `颜色（Color）：透明（Transparent）`  
 - **以图搜图**  
   - 利用这个功能，寻找更高清的图片
+- **更多图片格式**
+  - 在关键词后加入 `filetype:PNG`。png 可以换成  JPG、GIF、BMP、SVG、WEBP、ICO、RAW 等。
+  - 来源：[超级搜索技术，普通人变强的唯一外挂 | 全套宝藏实操秘技 - 哔哩哔哩（bilibili）](https://www.bilibili.com/video/BV1yw411F7J1/?t=20m20s)
+
 
 访问 [Google 高级图片搜索](https://www.google.com/advanced_image_search)，自定义以下条件，可缩小搜索结果范围：
 
