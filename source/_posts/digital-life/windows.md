@@ -1,7 +1,7 @@
 ---
 title: Windows 10 电脑：使用技巧、佳软推荐以及系统重装教程  
 date: 2017-12-18  
-updated: 2022-04-20    
+updated: 2023-11-06    
 categories: 数字生活   
 tags: [Windows, 网上冲浪指南]
 ---
@@ -391,7 +391,6 @@ CertUtil -hashfile D:\Downloads\Shadowsocks-4.1.9.3.zip SHA512
 **下载**
 
 - 官网（下载速度慢）：geekuninstaller.com。
-- [蓝奏云](https://wwa.lanzous.com/b00t9wiva)（下载速度快）。
 
 **使用**
 
@@ -408,6 +407,10 @@ CertUtil -hashfile D:\Downloads\Shadowsocks-4.1.9.3.zip SHA512
 2. `导出为 HTML(E)… Ctrl +S`。
 
 重装电脑后，就可以照着这个清单武装你的电脑。
+
+
+
+或者试试 [Uninstalr](https://uninstalr.com/)。
 
 
 
