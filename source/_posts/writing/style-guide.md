@@ -1019,6 +1019,7 @@ IOC（International Olympic Committee，国际奥林匹克委员会）。这样�
 - [文案风格指南 - LeanCloud](https://open.leancloud.cn/copywriting-style-guide/)
 - [在线发布文章的排版规范 - 班班](https://blog.dlzhang.com/posts/8f12814/)
 - [学术写作指要 - M-x Chris-An-Emacser](https://chriszheng.science/essentials-of-academic-writing/)
+- [[护城河]人机交互的基石｜苹果字体设计排版深度解析_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1rZ421z71a/)
 
 
 
