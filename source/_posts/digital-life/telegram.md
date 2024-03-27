@@ -1,7 +1,7 @@
 ---
 title: Telegram（电报）：新手指南、使用教程及频道推荐
 date: 2019-11-09
-updated: 2024-02-23
+updated: 2024-03-27
 categories: 数字生活  
 tags: [网上冲浪指南, 突破网络审查, Telegram]
 ---
@@ -1285,13 +1285,6 @@ https://rsshub.app/telegram/channel/tingtalk
 
 以上部分介绍来自西方媒体查一查。查询可信度和倾向性，请安装 [浏览器插件](https://chrome.google.com/webstore/detail/%E8%A5%BF%E6%96%B9%E5%AA%92%E4%BD%93%E6%9F%A5%E4%B8%80%E6%9F%A5/bpejcaojjipcgcnjkfmnkhokdpimcmij)，或者访问 [微信小程序](https://minapp.com/miniapp/4395/)。
 
-**国家 & 发言人（已认证）**
-
-| 频道                                    | 详情     |
-| --------------------------------------- | -------- |
-| [Gov.sg](https://t.me/Govsg)            | 新加坡。 |
-| [Donald Trump Jr](https://t.me/TrumpJr) | 特朗普。 |
-
 
 
 💸 **财经新闻**
@@ -1305,34 +1298,33 @@ https://rsshub.app/telegram/channel/tingtalk
 
 #### 💾 科技
 
-| 频道                                                 | 详情                                                                                                                                                                   |
-| ---------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [Solidot](https://t.me/solidot)                      | 👍 奇客的资讯，重要的东西。                                                                                                                                            |
-| [Readhub](https://t.me/readhub_cn)                   | 👍 [readhub.cn](https://readhub.cn/) 非官方 RSS 推送频道。                                                                                                             |
-| [Newlearnerの自留地](https://t.me/NewlearnerChannel) | 👍 不定期推送 IT 相关资讯。                                                                                                                                            |
-| [Appinn Feed](https://t.me/appinnfeed)               | 👍 分享免费、小巧、实用、有趣、绿色的软件。                                                                                                                            |
-| [少数派](https://t.me/sspai)                         | 👍 少数派致力于更好地运用数字产品或科学方法，帮助用户提升工作效率和生活品质。                                                                                          |
-| [科技爱好者周刊](https://t.me/scitech_fans)          | 👍 记录每周值得分享的科技内容，周五发布；非官方频道。[科技爱好者周刊合集](https://www.yuque.com/ruanyf/weekly)。                                                       |
-| [TestFlight 科技花](https://t.me/TestFlightCN)       | 发布科技新闻、App 测试版链接、软件使用相关话题。                                                                                                                       |
-| [Hacker News](https://t.me/hacker_news_feed)         | Top stories from news.ycombinator.com (with 100+ score).                                                                                                               |
-| [V2EX - 最新/最热主题](https://t.me/V2EX_topic)      | V2EX 是创意工作者们的社区，可以分享生活和事业。                                                                                                                        |
-| [科技圈的日常](https://t.me/misakatech)              | 科技圈内的大事小事。                                                                                                                                                   |
+| 频道                                                 | 详情                                                         |
+| ---------------------------------------------------- | ------------------------------------------------------------ |
+| [Solidot](https://t.me/solidot)                      | 👍 奇客的资讯，重要的东西。                                   |
+| [Readhub](https://t.me/readhub_cn)                   | 👍 [readhub.cn](https://readhub.cn/) 非官方 RSS 推送频道。    |
+| [Newlearnerの自留地](https://t.me/NewlearnerChannel) | 👍 不定期推送 IT 相关资讯。                                   |
+| [Appinn Feed](https://t.me/appinnfeed)               | 👍 分享免费、小巧、实用、有趣、绿色的软件。                   |
+| [少数派](https://t.me/sspai)                         | 👍 少数派致力于更好地运用数字产品或科学方法，帮助用户提升工作效率和生活品质。 |
+| [科技爱好者周刊](https://t.me/scitech_fans)          | 👍 记录每周值得分享的科技内容，周五发布；非官方频道。[科技爱好者周刊合集](https://www.yuque.com/ruanyf/weekly)。 |
+| [TestFlight 科技花](https://t.me/TestFlightCN)       | 发布科技新闻、App 测试版链接、软件使用相关话题。             |
+| [Hacker News](https://t.me/hacker_news_feed)         | Top stories from news.ycombinator.com (with 100+ score).     |
+| [V2EX - 最新/最热主题](https://t.me/V2EX_topic)      | V2EX 是创意工作者们的社区，可以分享生活和事业。              |
+| [科技圈的日常](https://t.me/misakatech)              | 科技圈内的大事小事。                                         |
 | [Telegram 中文 NEWS](https://t.me/YinxiangBiji_News) | [聪聪](hhttps://congcong0806.github.io/2018/04/24/Telegram/) 的频道：提供印象笔记、Telegram、科学上网等新闻。[Telegram 知识汇总](https://t.me/YinxiangBiji_News/954)。 |
-| [每日消费电子观察](https://t.me/CE_Observe)          | 不公正，不客观，不理性。                                                                                                                                               |
-| [cnBeta](https://t.me/cnbeta_com)                    | cnBeta.COM 中文业界资讯站是一个提供 IT 相关新闻资讯、技术文章和评论的观点的中文网站。                                                                                  |
-| [IT 之家](https://t.me/ithome_rss)                   | RSS 地址：[https://www.ithome.com/rss/](https://www.ithome.com/rss/)                                                                                                   |
-| [APPDO 数字生活指南](https://t.me/appdodo)           | 优质数字生活指南，传递数码生活和设计理念。                                                                                                                             |
-| [VPS 信号旗播报](https://t.me/vps_xhq)               | 关注 VPS 和通信自由。                                                                                                                                                  |
-| [硬核小卒](https://t.me/yinghexiaozu)                | 分享优质的科技/商业资讯。                                                                                                                                              |
-| [知乎日报](https://t.me/zhihuribao_rss)              | 越来越难用的问答网站。                                                                                                                                                 |
-| [Daily Tech News](https://t.me/DailyTechNewsCN)      | 每日科技新闻。                                                                                                                                                         |
-| [每日 AWESOME 观察](https://t.me/awesomeopensource)  | 每日更新分享最炫酷的开源项目。                                                                                                                                         |
-| [LetITFly News](https://t.me/LetITFlyW)              | 主题包括但不限于 Android、Windows、Web、消费电子相关，吹水为主。                                                                                                       |
-| [Science](https://t.me/science)                      | Science News channel, videos and articles - international project, 35+ countries.                                                                                      |
-| [OnePlus](https://t.me/OnePlus)                      | Everything OnePlus.                                                                                                                                                    |
-| [老毛子 Padavan 固件发布](https://t.me/pdcn1)        | 一个路由器固件。                                                                                                                                                       |
-| [油油分享频道](https://t.me/youyousharechannel)      | 分享开源、优秀的软件，有趣、实用的网站资源。                                                                                                                           |
-| [Widget](https://t.me/WidgetChannel)                 | 优质工具和软件，以及有用有趣的科技资讯。                                                                                                                               |
+| [每日消费电子观察](https://t.me/CE_Observe)          | 不公正，不客观，不理性。                                     |
+| [cnBeta](https://t.me/cnbeta_com)                    | cnBeta.COM 中文业界资讯站是一个提供 IT 相关新闻资讯、技术文章和评论的观点的中文网站。 |
+| [IT 之家](https://t.me/ithome_rss)                   | RSS 地址：[https://www.ithome.com/rss/](https://www.ithome.com/rss/) |
+| [VPS 信号旗播报](https://t.me/vps_xhq)               | 关注 VPS 和通信自由。                                        |
+| [硬核小卒](https://t.me/yinghexiaozu)                | 分享优质的科技/商业资讯。                                    |
+| [知乎日报](https://t.me/zhihuribao_rss)              | 越来越难用的问答网站。                                       |
+| [Daily Tech News](https://t.me/DailyTechNewsCN)      | 每日科技新闻。                                               |
+| [每日 AWESOME 观察](https://t.me/awesomeopensource)  | 每日更新分享最炫酷的开源项目。                               |
+| [LetITFly News](https://t.me/LetITFlyW)              | 主题包括但不限于 Android、Windows、Web、消费电子相关，吹水为主。 |
+| [Science](https://t.me/science)                      | Science News channel, videos and articles - international project, 35+ countries. |
+| [OnePlus](https://t.me/OnePlus)                      | Everything OnePlus.                                          |
+| [老毛子 Padavan 固件发布](https://t.me/pdcn1)        | 一个路由器固件。                                             |
+| [油油分享频道](https://t.me/youyousharechannel)      | 分享开源、优秀的软件，有趣、实用的网站资源。                 |
+| [Widget](https://t.me/WidgetChannel)                 | 优质工具和软件，以及有用有趣的科技资讯。                     |
 
 
 
