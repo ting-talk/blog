@@ -1,7 +1,7 @@
 ---
 title: Windows 10 电脑：使用技巧、佳软推荐以及系统重装教程  
 date: 2017-12-18  
-updated: 2023-11-06    
+updated: 2024-03-30    
 categories: 数字生活   
 tags: [Windows, 网上冲浪指南]
 ---
@@ -344,11 +344,11 @@ CertUtil -hashfile D:\Downloads\Shadowsocks-4.1.9.3.zip SHA512
 
 
 
-#### 解压缩：[Bandizip](https://cn.bandisoft.com/bandizip/) 
+#### 解压缩：[Bandizip](https://cn.bandisoft.com/bandizip/)
 
 - 轻巧、快速、免费、好看的解压缩软件。
 - 最喜欢它的「自动解压」功能：不用再担心解压出一堆散乱文件或双层文件夹。
-- 7.x 版本之后，需要 30 美元去广告，可前往 [蓝奏云](https://wwa.lanzous.com/b00t9wiva) 高速下载 6.x 版本。
+- 7.x 版本之后，需要 30 美元去广告，可在 [官网](https://www.bandisoft.com/bandizip/old/6/) 下载 6.x 版本。
 - 关联阅读：[Bandizip | 也许是全球第二好用的压缩软件](https://www.xjcbt.com/bandizip.html)（为什么叫「第二好用」的压缩软件呢？因为每个人都有自己的的习惯，自己喜欢的才是最好用的。）
 
 
